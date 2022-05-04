@@ -1,0 +1,18 @@
+{
+	"display": {
+		"title": "The Advancenergy",
+		"description": "v1.0.0",
+		"icon": {
+			"item": "minecraft:redstone_block"
+		},
+		"show_toast": false,
+		"announce_to_chat": false,
+		"frame": "goal"
+    },
+    "parent": "global:lthcthemaster",
+	"criteria": {
+        "always": {
+			"trigger": "minecraft:tick"
+		}
+    }
+}

@@ -1,0 +1,16 @@
+[
+	{
+		"function": "minecraft:set_lore",
+		"entity": "this",
+		"lore": [
+			[
+				{"text":"[Charge: ","color":"gray","italic": false},
+				{"score":{"name":"#part_1","objective":"lthc.advancenergy.data"}},
+				{"text":"."},
+				{"score":{"name":"#part_2","objective":"lthc.advancenergy.data"}},
+				{"nbt":"scale","storage":"lthc.advancenergy:main"}
+			]
+		],
+		"replace": true
+	}
+]

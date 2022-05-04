@@ -1,0 +1,12 @@
+
+execute if score #reset lthc.advancenergy.data matches 0 store result score #reset lthc.advancenergy.data if data storage lthc.advancenergy:main furnace.Items[{Slot:0b,id:"minecraft:barrel"}]
+execute if score #reset lthc.advancenergy.data matches 0 store result score #reset lthc.advancenergy.data if data storage lthc.advancenergy:main furnace.Items[{Slot:0b,id:"minecraft:command_block"}]
+execute if score #reset lthc.advancenergy.data matches 0 store result score #reset lthc.advancenergy.data if data storage lthc.advancenergy:main furnace.Items[{Slot:0b,id:"minecraft:leather_helmet"}]
+execute if score #reset lthc.advancenergy.data matches 0 store result score #reset lthc.advancenergy.data if data storage lthc.advancenergy:main furnace.Items[{Slot:0b,id:"minecraft:leather_chestplate"}]
+execute if score #reset lthc.advancenergy.data matches 0 store result score #reset lthc.advancenergy.data if data storage lthc.advancenergy:main furnace.Items[{Slot:0b,id:"minecraft:leather_leggings"}]
+execute if score #reset lthc.advancenergy.data matches 0 store result score #reset lthc.advancenergy.data if data storage lthc.advancenergy:main furnace.Items[{Slot:0b,id:"minecraft:leather_boots"}]
+execute if score #reset lthc.advancenergy.data matches 0 store result score #reset lthc.advancenergy.data if data storage lthc.advancenergy:main furnace.Items[{Slot:0b,id:"minecraft:diamond_sword"}]
+execute if score #reset lthc.advancenergy.data matches 0 store result score #reset lthc.advancenergy.data if data storage lthc.advancenergy:main furnace.Items[{Slot:0b,id:"minecraft:diamond_pickaxe"}]
+execute if score #reset lthc.advancenergy.data matches 0 store result score #reset lthc.advancenergy.data if data storage lthc.advancenergy:main furnace.Items[{Slot:0b,id:"minecraft:diamond_axe"}]
+execute if score #reset lthc.advancenergy.data matches 0 store result score #reset lthc.advancenergy.data if data storage lthc.advancenergy:main furnace.Items[{Slot:0b,id:"minecraft:diamond_hoe"}]
+execute if score #reset lthc.advancenergy.data matches 0 store result score #reset lthc.advancenergy.data if data storage lthc.advancenergy:main furnace.Items[{Slot:0b,id:"minecraft:diamond_shovel"}]

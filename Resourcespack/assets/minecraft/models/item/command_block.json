@@ -1,0 +1,8 @@
+{
+    "parent": "block/command_block",
+    "overrides": [
+		{ "predicate": { "custom_model_data": 170200 }, "model": "lthc.advancenergy:ores/tin/raw_tin" },
+		{ "predicate": { "custom_model_data": 170201 }, "model": "lthc.advancenergy:ores/tin/tin_ingot" },
+		{ "predicate": { "custom_model_data": 170202 }, "model": "lthc.advancenergy:ores/tin/tin_nugget" }
+    ]
+}

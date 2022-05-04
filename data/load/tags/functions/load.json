@@ -1,0 +1,9 @@
+{
+	"values": [
+		"#durability_multiplier:load",
+		"#smithed.custom_block:load",
+		"#smithed.crafter:load",
+		"#energy:load",
+		"lthc.advancenergy:load"
+	]
+}

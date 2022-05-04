@@ -1,0 +1,14 @@
+{
+"parent":"minecraft:item/generated",
+
+"textures":{
+"layer0":"minecraft:item/glow_item_frame"
+},
+
+"overrides":[
+	{ "predicate": { "custom_model_data": 170200 }, "model": "lthc.advancenergy:ores/tin/tin_ore" },
+	{ "predicate": { "custom_model_data": 170201 }, "model": "lthc.advancenergy:ores/tin/deepslate_tin_ore" },
+	{ "predicate": { "custom_model_data": 170202 }, "model": "lthc.advancenergy:ores/tin/raw_tin_block" },
+	{ "predicate": { "custom_model_data": 170203 }, "model": "lthc.advancenergy:ores/tin/tin_block" }
+]
+}

@@ -1,0 +1,9 @@
+Etain
+Plomb:
+	Cuivre
+Argent:
+	Plomb
+	Cuivre
+	Calcite
+Aluminium :
+	Fer
