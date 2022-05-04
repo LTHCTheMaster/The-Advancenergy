@@ -1,1 +1,11 @@
+# Tin Helmet
+	execute store result score @s smithed.data if entity @s[scores={smithed.data=0}] if data storage smithed.crafter:main root.temp{crafting_input:{0:[{Slot:0b,tag:{ctc:{id:"tin_ingot"}}},{Slot:1b,tag:{ctc:{id:"tin_ingot"}}},{Slot:2b,tag:{ctc:{id:"tin_ingot"}}}],1:[{Slot:0b,tag:{ctc:{id:"tin_ingot"}}},{Slot:1b,id:"minecraft:air"},{Slot:2b,tag:{ctc:{id:"tin_ingot"}}}]}} if data storage smithed.crafter:main root.temp{crafting_input:{2:[]}} run loot replace block ~ ~ ~ container.16 loot lthc.advancenergy:i/equipments/tin_helmet
 
+# Tin Chestplate
+	execute store result score @s smithed.data if entity @s[scores={smithed.data=0}] if data storage smithed.crafter:main root.temp{crafting_input:{0:[{Slot:0b,tag:{ctc:{id:"tin_ingot"}}},{Slot:1b,id:"minecraft:air"},{Slot:2b,tag:{ctc:{id:"tin_ingot"}}}],1:[{Slot:0b,tag:{ctc:{id:"tin_ingot"}}},{Slot:1b,tag:{ctc:{id:"tin_ingot"}}},{Slot:2b,tag:{ctc:{id:"tin_ingot"}}}],2:[{Slot:0b,tag:{ctc:{id:"tin_ingot"}}},{Slot:1b,tag:{ctc:{id:"tin_ingot"}}},{Slot:2b,tag:{ctc:{id:"tin_ingot"}}}]}} run loot replace block ~ ~ ~ container.16 loot lthc.advancenergy:i/equipments/tin_chestplate
+
+# Tin Leggings
+	execute store result score @s smithed.data if entity @s[scores={smithed.data=0}] if data storage smithed.crafter:main root.temp{crafting_input:{0:[{Slot:0b,tag:{ctc:{id:"tin_ingot"}}},{Slot:1b,tag:{ctc:{id:"tin_ingot"}}},{Slot:2b,tag:{ctc:{id:"tin_ingot"}}}],1:[{Slot:0b,tag:{ctc:{id:"tin_ingot"}}},{Slot:1b,id:"minecraft:air"},{Slot:2b,tag:{ctc:{id:"tin_ingot"}}}],2:[{Slot:0b,tag:{ctc:{id:"tin_ingot"}}},{Slot:1b,id:"minecraft:air"},{Slot:2b,tag:{ctc:{id:"tin_ingot"}}}]}} run loot replace block ~ ~ ~ container.16 loot lthc.advancenergy:i/equipments/tin_leggings
+
+# Tin Boots
+	execute store result score @s smithed.data if entity @s[scores={smithed.data=0}] if data storage smithed.crafter:main root.temp{crafting_input:{0:[{Slot:0b,tag:{ctc:{id:"tin_ingot"}}},{Slot:1b,id:"minecraft:air"},{Slot:2b,tag:{ctc:{id:"tin_ingot"}}}],1:[{Slot:0b,tag:{ctc:{id:"tin_ingot"}}},{Slot:1b,id:"minecraft:air"},{Slot:2b,tag:{ctc:{id:"tin_ingot"}}}]}} if data storage smithed.crafter:main root.temp{crafting_input:{2:[]}} run loot replace block ~ ~ ~ container.16 loot lthc.advancenergy:i/equipments/tin_boots
