@@ -40,20 +40,4 @@ schedule function lthc.advancenergy:world_bottom_start 2s
 #define storage smithed.crafter:main
 #define storage smithed.custom_block:main
 
-
-
-#Resources
-# Tin Ore
-data modify storage lthc.advancenergy:main all.block.170200 set value {Slot:16b,id:"minecraft:barrel",Count:1b,tag:{ctc:{id:"tin_ore",from:"lthc.advancenergy",traits:{"metal/tin":1b,"block":1b,"ore":1b}}	,CustomModelData:170200,lthc_advancenergy:{tin_ore:1b},display:{Lore:['{"translate":"The Advancenergy","color":"blue","italic":true}'],Name:'[{"text":"Tin Ore","italic":false,"color":"white"}]'},BlockEntityTag:{Items:[{id:"minecraft:stone",Count:1b,Slot:0b,tag:{smithed:{block:{from:"lthc.advancenergy",id:"lthc.advancenergy:tin_ore"}}}}]}}}
-# Deepslate Tin Ore
-data modify storage lthc.advancenergy:main all.block.170201 set value {Slot:16b,id:"minecraft:barrel",Count:1b,tag:{ctc:{id:"deepslate_tin_ore",from:"lthc.advancenergy",traits:{"metal/tin":1b,"block":1b,"ore":1b}}	,CustomModelData:170201,lthc_advancenergy:{deepslate_tin_ore:1b},display:{Lore:['{"translate":"The Advancenergy","color":"blue","italic":true}'],Name:'[{"text":"Deepslate Tin Ore","italic":false,"color":"white"}]'}	,BlockEntityTag:{Items:[{id:"minecraft:stone",Count:1b,Slot:0b,tag:{smithed:{block:{from:"lthc.advancenergy",id:"lthc.advancenergy:deepslate_tin_ore"}}}}]}}}
-# Raw Tin Block
-data modify storage lthc.advancenergy:main all.block.170202 set value {Slot:16b,id:"minecraft:barrel",Count:1b,tag:{ctc:{id:"raw_tin_block",from:"lthc.advancenergy",traits:{"metal/tin":1b,"block":1b}},CustomModelData:170202,lthc_advancenergy:{raw_tin_block:1b}	,display:{Lore:['{"translate":"The Advancenergy","color":"blue","italic":true}'],Name:'[{"text":"Raw Tin Block","italic":false,"color":"white"}]'},BlockEntityTag:{Items:[{id:"minecraft:stone",Count:1b,Slot:0b,tag:{smithed:{block:{from:"lthc.advancenergy",id:"lthc.advancenergy:raw_tin_block"}}}}]}}}
-# Tin Block
-data modify storage lthc.advancenergy:main all.block.170203 set value {Slot:16b,id:"minecraft:barrel",Count:1b,tag:{ctc:{id:"tin_block",from:"lthc.advancenergy",traits:{"metal/tin":1b,"block":1b}}	,CustomModelData:170203,lthc_advancenergy:{tin_block:1b},display:{Lore:['{"translate":"The Advancenergy","color":"blue","italic":true}'],Name:'[{"text":"Tin Block","italic":false,"color":"white"}]'}	,BlockEntityTag:{Items:[{id:"minecraft:stone",Count:1b,Slot:0b,tag:{smithed:{block:{from:"lthc.advancenergy",id:"lthc.advancenergy:tin_block"}}}}]}}}
-# Raw Tin
-data modify storage lthc.advancenergy:main all.item.170200 set value {Slot:16b,id:"minecraft:command_block",Count:1b,tag:{ctc:{id:"raw_tin",from:"lthc.advancenergy",traits:{"metal/tin":1b,"ore":1b}},CustomModelData:170200,lthc_advancenergy:{raw_tin:1b},display:{Lore:['{"translate":"The Advancenergy","color":"blue","italic":true}'],Name:'[{"text":"Raw Tin","italic":false,"color":"white"}]'}}}
-# Tin Ingot
-data modify storage lthc.advancenergy:main all.item.170201 set value {Slot:16b,id:"minecraft:command_block",Count:1b,tag:{ctc:{id:"tin_ingot",from:"lthc.advancenergy",traits:{"metal/tin":1b,"ingot":1b}}	,CustomModelData:170201,lthc_advancenergy:{tin_ingot:1b},display:{Lore:['{"translate":"The Advancenergy","color":"blue","italic":true}'],Name:'[{"text":"Tin Ingot","italic":false,"color":"white"}]'}}}
-# Tin Nugget
-data modify storage lthc.advancenergy:main all.item.170202 set value {Slot:16b,id:"minecraft:command_block",Count:1b,tag:{ctc:{id:"tin_nugget",from:"lthc.advancenergy",traits:{"metal/tin":1b,"nugget":1b}},CustomModelData:170202,lthc_advancenergy:{tin_nugget:1b},display:{Lore:['{"translate":"The Advancenergy","color":"blue","italic":true}'],Name:'[{"text":"Tin Nugget","italic":false,"color":"white"}]'}}}
+function lthc.advancenergy:load_registry
