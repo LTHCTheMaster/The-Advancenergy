@@ -4,6 +4,6 @@
     	"layer0": "item/diamond_pickaxe"
   	},
     "overrides": [
-		{ "predicate": { "custom_model_data": 2012105 }, "model": "lthc.advancenergy:equipments/tin_pickaxe" }
+		{ "predicate": { "custom_model_data": 170200 }, "model": "lthc.advancenergy:equipments/tin_pickaxe" }
 	]
 }

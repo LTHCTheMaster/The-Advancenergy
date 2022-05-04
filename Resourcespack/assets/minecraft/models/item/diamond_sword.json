@@ -4,6 +4,6 @@
     	"layer0": "item/diamond_sword"
   	},
     "overrides": [
-		{ "predicate": { "custom_model_data": 2012104 }, "model": "lthc.advancenergy:equipments/tin_sword" }
+		{ "predicate": { "custom_model_data": 170200 }, "model": "lthc.advancenergy:equipments/tin_sword" }
 	]
 }
