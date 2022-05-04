@@ -1,0 +1,9 @@
+{
+    "parent": "item/handheld",
+  	"textures": {
+    	"layer0": "item/diamond_hoe"
+  	},
+    "overrides": [
+		{ "predicate": { "custom_model_data": 2012107 }, "model": "lthc.advancenergy:equipments/tin_hoe" }
+	]
+}
