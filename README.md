@@ -30,8 +30,8 @@
 
 ## 🤝 Contributors
 
-<a href = "https://github.com/LTHCTheMaster/Magical-Elementalization/graphs/contributors">
-  <img src = "https://contrib.rocks/image?repo=LTHCTheMaster/Magical-Elementalization"/>
+<a href = "https://github.com/LTHCTheMaster/The-Advancenergy/graphs/contributors">
+  <img src = "https://contrib.rocks/image?repo=LTHCTheMaster/The-Advancenergy"/>
 </a>
 
 ## Used librairies

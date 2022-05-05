@@ -1,0 +1,16 @@
+{
+	"criteria": {
+		"requirement": {
+			"trigger": "minecraft:placed_block",
+			"conditions": {
+				"item": {
+					"items": ["minecraft:player_head"],
+					"nbt": "{lthc_advancenergy:{primitive_cable:1b}}"
+				}
+			}
+		}
+	},
+	"rewards": {
+		"function": "lthc.advancenergy:place/primitive_cable/main"
+	}
+}
