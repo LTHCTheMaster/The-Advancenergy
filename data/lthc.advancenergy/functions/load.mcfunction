@@ -1,9 +1,11 @@
 
 scoreboard objectives add lthc.advancenergy.data dummy
 scoreboard objectives add lthc.advancenergy.data_2 dummy
+scoreboard objectives add lthc.advancenergy.water dummy
+scoreboard objectives add lthc.advancenergy.working dummy
 scoreboard objectives add lthc.advancenergy.right_click minecraft.used:minecraft.warped_fungus_on_a_stick
 
-scoreboard players set lthc.advancenergy load.status 1090
+scoreboard players set lthc.advancenergy load.status 1000
 scoreboard players set #second lthc.advancenergy.data 0
 
 scoreboard players set #1000000000 lthc.advancenergy.data 1000000000
