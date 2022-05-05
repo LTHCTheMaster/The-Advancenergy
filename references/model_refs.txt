@@ -1,0 +1,39 @@
+barrel and glow_item_frame:
+    170200 : tin ore
+    170201 : deepslate tin ore
+    170202 : raw tin block
+    170203 : tin block
+    170204 : carbon generator off
+    170205 : carbon generator on
+
+command_block:
+    170200 : raw tin
+    170201 : tin ingot
+    170202 : tin nugget
+
+leather_helmet:
+    170200 : tin helmet
+
+leather_chestplate:
+    170200 : tin chestplate
+
+leather_leggings:
+    170200 : tin leggings
+
+leather_boots:
+    170200 : tin boots
+
+diamond_axe:
+    170200 : tin axe
+
+diamond_pickaxe:
+    170200 : tin pickaxe
+
+diamond_shovel:
+    170200 : tin shovel
+
+diamond_hoe:
+    170200 : tin hoe
+
+diamond_sword:
+    170200 : tin sword
