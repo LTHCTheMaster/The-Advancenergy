@@ -2,6 +2,7 @@
 	"replace": false,
 	"values": [
 		"barrel",
-		"deepslate_tiles"
+		"deepslate_tiles",
+		"coal_block"
 	]
 }

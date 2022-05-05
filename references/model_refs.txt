@@ -5,11 +5,13 @@ barrel and glow_item_frame:
     170203 : tin block
     170204 : carbon generator off
     170205 : carbon generator on
+    170206 : ash block
 
 command_block:
     170200 : raw tin
     170201 : tin ingot
     170202 : tin nugget
+    170203 : ash
 
 leather_helmet:
     170200 : tin helmet
