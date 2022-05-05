@@ -1,0 +1,27 @@
+{
+	"parent": "block/cobblestone",
+	"overrides": [
+		{ "predicate": { "custom_model_data": 170200 }, "model": "lthc.advancenergy:gui/cooling_gui/cooling_gui_0" },
+		{ "predicate": { "custom_model_data": 170201 }, "model": "lthc.advancenergy:gui/cooling_gui/cooling_gui_1" },
+		{ "predicate": { "custom_model_data": 170202 }, "model": "lthc.advancenergy:gui/cooling_gui/cooling_gui_2" },
+		{ "predicate": { "custom_model_data": 170203 }, "model": "lthc.advancenergy:gui/cooling_gui/cooling_gui_3" },
+		{ "predicate": { "custom_model_data": 170204 }, "model": "lthc.advancenergy:gui/cooling_gui/cooling_gui_4" },
+		{ "predicate": { "custom_model_data": 170205 }, "model": "lthc.advancenergy:gui/cooling_gui/cooling_gui_5" },
+		{ "predicate": { "custom_model_data": 170206 }, "model": "lthc.advancenergy:gui/cooling_gui/cooling_gui_6" },
+		{ "predicate": { "custom_model_data": 170207 }, "model": "lthc.advancenergy:gui/cooling_gui/cooling_gui_7" },
+		{ "predicate": { "custom_model_data": 170208 }, "model": "lthc.advancenergy:gui/cooling_gui/cooling_gui_8" },
+		{ "predicate": { "custom_model_data": 170209 }, "model": "lthc.advancenergy:gui/cooling_gui/cooling_gui_9" },
+		{ "predicate": { "custom_model_data": 170210 }, "model": "lthc.advancenergy:gui/cooling_gui/cooling_gui_10" },
+		{ "predicate": { "custom_model_data": 170211 }, "model": "lthc.advancenergy:gui/carbon_generator_gui/carbon_generator_gui_0" },
+		{ "predicate": { "custom_model_data": 170212 }, "model": "lthc.advancenergy:gui/carbon_generator_gui/carbon_generator_gui_1" },
+		{ "predicate": { "custom_model_data": 170213 }, "model": "lthc.advancenergy:gui/carbon_generator_gui/carbon_generator_gui_2" },
+		{ "predicate": { "custom_model_data": 170214 }, "model": "lthc.advancenergy:gui/carbon_generator_gui/carbon_generator_gui_3" },
+		{ "predicate": { "custom_model_data": 170215 }, "model": "lthc.advancenergy:gui/carbon_generator_gui/carbon_generator_gui_4" },
+		{ "predicate": { "custom_model_data": 170216 }, "model": "lthc.advancenergy:gui/carbon_generator_gui/carbon_generator_gui_5" },
+		{ "predicate": { "custom_model_data": 170217 }, "model": "lthc.advancenergy:gui/carbon_generator_gui/carbon_generator_gui_6" },
+		{ "predicate": { "custom_model_data": 170218 }, "model": "lthc.advancenergy:gui/carbon_generator_gui/carbon_generator_gui_7" },
+		{ "predicate": { "custom_model_data": 170219 }, "model": "lthc.advancenergy:gui/carbon_generator_gui/carbon_generator_gui_8" },
+		{ "predicate": { "custom_model_data": 170220 }, "model": "lthc.advancenergy:gui/carbon_generator_gui/carbon_generator_gui_9" },
+		{ "predicate": { "custom_model_data": 170221 }, "model": "lthc.advancenergy:gui/carbon_generator_gui/carbon_generator_gui_10" }
+	]
+}
