@@ -34,6 +34,12 @@
   <img src = "https://contrib.rocks/image?repo=LTHCTheMaster/The-Advancenergy"/>
 </a>
 
+## 🫂 Credits
+
+Thanks to <a href="https://github.com/VGreluchon">VGreluchon</a> and <a href="https://github.com/Stoupy51">Stoupy51</a> for their help.
+
+Thanks to the <a href="https://discord.me/dataworld">Dataworld</a> discord for their feedback and help
+
 ## Used librairies
 
 <a href="https://github.com/Smithed-MC/Libraries">Smithed Crafter and Block API</a> by <a href="https://github.com/Smithed-MC">Smithed-MC</a>
