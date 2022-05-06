@@ -38,7 +38,7 @@
 
 Thanks to <a href="https://github.com/VGreluchon">VGreluchon</a> and <a href="https://github.com/Stoupy51">Stoupy51</a> for their help.
 
-Thanks to the <a href="https://discord.me/dataworld">Dataworld</a> discord for their feedback and help
+Thanks to the <a href="https://discord.me/dataworld">Dataworld</a> discord for their feedback and help.
 
 ## Used librairies
 
