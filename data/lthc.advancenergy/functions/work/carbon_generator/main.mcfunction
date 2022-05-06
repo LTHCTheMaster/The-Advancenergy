@@ -7,6 +7,7 @@ execute if data storage lthc.advancenergy:main Items[{Slot:11b,id:"minecraft:wat
 
 #Working process
 execute if score @s lthc.advancenergy.working matches 0 run function lthc.advancenergy:work/carbon_generator/pre_work
+execute if score @s lthc.advancenergy.working matches 1 run function lthc.advancenergy:work/carbon_generator/post_work
 execute unless score @s lthc.advancenergy.working matches 0 run scoreboard players add @s energy.storage 25
 execute unless score @s lthc.advancenergy.working matches 0 run scoreboard players remove @s lthc.advancenergy.working 1
 execute unless score @s lthc.advancenergy.working matches 0 run particle dust 0.537 0 0 1 ~ ~ ~ 1 1 1 0 20
