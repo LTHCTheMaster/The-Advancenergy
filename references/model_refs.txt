@@ -6,6 +6,7 @@ barrel and glow_item_frame:
     170204 : carbon generator off
     170205 : carbon generator on
     170206 : ash block
+    170207 : primitive capacitor
 
 command_block:
     170200 : raw tin
@@ -39,3 +40,8 @@ diamond_hoe:
 
 diamond_sword:
     170200 : tin sword
+
+cobblestone:
+    170000 - 170063 : primitive cable MODEL
+    170200 - 170210 : cooling GUI
+    170211 - 170221 : carbon generator GUI
