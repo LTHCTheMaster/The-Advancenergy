@@ -14,4 +14,4 @@ execute store result score @s smithed.data if entity @s[scores={smithed.data=0}]
 # Ash Block
 execute store result score @s smithed.data if entity @s[scores={smithed.data=0}] if score count smithed.data matches 1 if data storage smithed.crafter:main root.temp{shapeless_crafting_input:[{Count:9b,tag:{ctc:{id:"ash"}}}]} run loot replace block ~ ~ ~ container.16 loot lthc.advancenergy:i/materials/ash_block
 # Primitive Cable
-execute store result score @s smithed.data if entity @s[scores={smithed.data=0}] if score count smithed.data matches 1 if data storage smithed.crafter:main root.temp{shapeless_crafting_input:[{Count:2b,tag:{ctc:{id:"tin_ingot"}}}]} run loot replace block ~ ~ ~ container.16 loot lthc.advancenergy:i/cables/primitive_cable
+execute store result score @s smithed.data if entity @s[scores={smithed.data=0}] if score count smithed.data matches 1 if data storage smithed.crafter:main root.temp{shapeless_crafting_input:[{Count:2b,tag:{ctc:{id:"tin_ingot"}}}]} run loot replace block ~ ~ ~ container.16 loot lthc.advancenergy:i/cables/primitive_cable_x3
