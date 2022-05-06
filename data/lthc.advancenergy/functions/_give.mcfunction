@@ -20,3 +20,7 @@ loot spawn ~ ~ ~ loot lthc.advancenergy:i/equipments/tin_sword
 loot spawn ~ ~ ~ loot lthc.advancenergy:i/machine/carbon_generator
 loot spawn ~ ~ ~ loot lthc.advancenergy:i/materials/ash
 loot spawn ~ ~ ~ loot lthc.advancenergy:i/materials/ash_block
+
+loot spawn ~ ~ ~ loot lthc.advancenergy:i/cables/primitive_cable
+loot spawn ~ ~ ~ loot lthc.advancenergy:i/capacitors/primitive_capacitor
+loot spawn ~ ~ ~ loot lthc.advancenergy:i/machine/mineral_extracting_machine

@@ -42,6 +42,9 @@ data modify storage lthc.advancenergy:main all.cable.000000 set value {Slot:16b,
 # Primitive Capacitor
 data modify storage lthc.advancenergy:main all.block.170207 set value {Slot:16b,id:"minecraft:barrel",Count:1b,tag:{ctc:{id:"primitive_capacitor",from:"lthc.advancenergy",traits:{"block":1b,"energy":1b}},CustomModelData:170207,lthc_advancenergy:{primitive_capacitor:1b},energy:{storage:0,max_storage:120000},display:{Lore:['[{"text":"[Energy Storage: 120 MJ]","italic":false,"color":"gray"}]','{"translate":"The Advancenergy","color":"blue","italic":true}'],Name:'[{"text":"Primitive Capacitor","italic":false,"color":"white"}]'},BlockEntityTag:{Items:[{id:"minecraft:stone",Count:1b,Slot:0b,tag:{smithed:{block:{from:"lthc.advancenergy",id:"lthc.advancenergy:primitive_capacitor"}}}}]}}}
 
+## Machines
+data modify storage lthc.advancenergy:main all.block.170208 set value {Slot:16b,id:"minecraft:barrel",Count:1b,tag:{ctc:{id:"mineral_extracting_machine",from:"lthc.advancenergy",traits:{"block":1b,"energy":1b}},CustomModelData:170208,lthc_advancenergy:{mineral_extracting_machine:1b},display:{Lore:['[{"text":"[Power Usage: 5 kW]","italic":false,"color":"gray"}]','[{"text":"[Energy Buffer: 300 kJ]","italic":false,"color":"gray"}]','{"translate":"The Advancenergy","color":"blue","italic":true}'],Name:'[{"text":"Mineral Extracting Machine","italic":false,"color":"white"}]'},BlockEntityTag:{Items:[{id:"minecraft:stone",Count:1b,Slot:0b,tag:{smithed:{block:{from:"lthc.advancenergy",id:"lthc.advancenergy:mineral_extracting_machine"}}}}]}}}
+
 ## Materials
 # Ash
 data modify storage lthc.advancenergy:main all.item.170203 set value {Slot:16b,id:"minecraft:command_block",Count:1b,tag:{ctc:{id:"ash",from:"lthc.advancenergy",traits:{"dust":1b}},CustomModelData:170203,lthc_advancenergy:{ash:1b},display:{Lore:['{"translate":"The Advancenergy","color":"blue","italic":true}'],Name:'[{"text":"Ash","italic":false,"color":"white"}]'}}}

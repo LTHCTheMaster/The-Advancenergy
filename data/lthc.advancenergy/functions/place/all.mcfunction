@@ -8,5 +8,6 @@ execute if data storage smithed.custom_block:main blockApi{id:"lthc.advancenergy
 execute if data storage smithed.custom_block:main blockApi{id:"lthc.advancenergy:carbon_generator"} run function lthc.advancenergy:place/carbon_generator/main
 execute if data storage smithed.custom_block:main blockApi{id:"lthc.advancenergy:ash_block"} run function lthc.advancenergy:place/ash_block/main
 execute if data storage smithed.custom_block:main blockApi{id:"lthc.advancenergy:primitive_capacitor"} run function lthc.advancenergy:place/primitive_capacitor/main
+execute if data storage smithed.custom_block:main blockApi{id:"lthc.advancenergy:mineral_extracting_machine"} run function lthc.advancenergy:place/mineral_extracting_machine/main
 
 tag @s remove lthc.advancenergy.placer

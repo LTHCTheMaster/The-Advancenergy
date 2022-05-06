@@ -13,6 +13,7 @@
 	{ "predicate": { "custom_model_data": 170204 }, "model": "lthc.advancenergy:machine/carbon_generator" },
 	{ "predicate": { "custom_model_data": 170205 }, "model": "lthc.advancenergy:machine/carbon_generator_on" },
 	{ "predicate": { "custom_model_data": 170206 }, "model": "lthc.advancenergy:materials/ash_block" },
-	{ "predicate": { "custom_model_data": 170207 }, "model": "lthc.advancenergy:capacitors/primitive_capacitor" }
+	{ "predicate": { "custom_model_data": 170207 }, "model": "lthc.advancenergy:capacitors/primitive_capacitor" },
+	{ "predicate": { "custom_model_data": 170208 }, "model": "lthc.advancenergy:machine/mineral_extracting_machine" }
 ]
 }
