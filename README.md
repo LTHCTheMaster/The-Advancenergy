@@ -41,3 +41,5 @@
 <a href="https://github.com/Stoupy51/DurabilityMultiplier">Durability Multiplier</a> by <a href="https://github.com/Stoupy51">Stoupy51</a>
 
 <a href="https://github.com/Stoupy51/FurnaceNbtRecipes">Furnace Nbt Recipes</a> by <a href="https://github.com/Stoupy51">Stoupy51</a>
+
+<a href="https://github.com/ICY105/DatapackEnergy">Datapack Energy</a> by <a href="https://github.com/ICY105">ICY105</a>
