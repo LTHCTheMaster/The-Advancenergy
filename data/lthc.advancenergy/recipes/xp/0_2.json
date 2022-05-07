@@ -1,9 +1,9 @@
 {
 	"type": "minecraft:smelting",
 	"ingredient": {
-		"item": "minecraft:barrel"
+		"item": "minecraft:command_block"
 	},
 	"result": "minecraft:command_block",
-	"experience": 1.0,
+	"experience": 0.2,
 	"cookingtime": 200
 }
