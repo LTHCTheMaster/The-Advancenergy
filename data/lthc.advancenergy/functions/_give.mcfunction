@@ -24,3 +24,5 @@ loot spawn ~ ~ ~ loot lthc.advancenergy:i/materials/ash_block
 loot spawn ~ ~ ~ loot lthc.advancenergy:i/cables/primitive_cable
 loot spawn ~ ~ ~ loot lthc.advancenergy:i/capacitors/primitive_capacitor
 loot spawn ~ ~ ~ loot lthc.advancenergy:i/machine/mineral_extracting_machine
+
+loot spawn ~ ~ ~ loot lthc.advancenergy:i/machine/dust_generator
