@@ -87,6 +87,17 @@
 		{ "predicate": { "custom_model_data": 170218 }, "model": "lthc.advancenergy:gui/carbon_generator_gui/carbon_generator_gui_7" },
 		{ "predicate": { "custom_model_data": 170219 }, "model": "lthc.advancenergy:gui/carbon_generator_gui/carbon_generator_gui_8" },
 		{ "predicate": { "custom_model_data": 170220 }, "model": "lthc.advancenergy:gui/carbon_generator_gui/carbon_generator_gui_9" },
-		{ "predicate": { "custom_model_data": 170221 }, "model": "lthc.advancenergy:gui/carbon_generator_gui/carbon_generator_gui_10" }
+		{ "predicate": { "custom_model_data": 170221 }, "model": "lthc.advancenergy:gui/carbon_generator_gui/carbon_generator_gui_10" },
+		{ "predicate": { "custom_model_data": 170222 }, "model": "lthc.advancenergy:gui/dust_generator_gui/dust_generator_gui_0" },
+		{ "predicate": { "custom_model_data": 170223 }, "model": "lthc.advancenergy:gui/dust_generator_gui/dust_generator_gui_1" },
+		{ "predicate": { "custom_model_data": 170224 }, "model": "lthc.advancenergy:gui/dust_generator_gui/dust_generator_gui_2" },
+		{ "predicate": { "custom_model_data": 170225 }, "model": "lthc.advancenergy:gui/dust_generator_gui/dust_generator_gui_3" },
+		{ "predicate": { "custom_model_data": 170226 }, "model": "lthc.advancenergy:gui/dust_generator_gui/dust_generator_gui_4" },
+		{ "predicate": { "custom_model_data": 170227 }, "model": "lthc.advancenergy:gui/dust_generator_gui/dust_generator_gui_5" },
+		{ "predicate": { "custom_model_data": 170228 }, "model": "lthc.advancenergy:gui/dust_generator_gui/dust_generator_gui_6" },
+		{ "predicate": { "custom_model_data": 170229 }, "model": "lthc.advancenergy:gui/dust_generator_gui/dust_generator_gui_7" },
+		{ "predicate": { "custom_model_data": 170230 }, "model": "lthc.advancenergy:gui/dust_generator_gui/dust_generator_gui_8" },
+		{ "predicate": { "custom_model_data": 170231 }, "model": "lthc.advancenergy:gui/dust_generator_gui/dust_generator_gui_9" },
+		{ "predicate": { "custom_model_data": 170232 }, "model": "lthc.advancenergy:gui/dust_generator_gui/dust_generator_gui_10" }
 	]
 }

@@ -48,3 +48,4 @@ cobblestone:
     170000 - 170063 : primitive cable MODEL
     170200 - 170210 : cooling GUI
     170211 - 170221 : carbon generator GUI
+    170222 - 170232 : dust generator GUI
