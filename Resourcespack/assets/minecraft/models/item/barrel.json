@@ -9,6 +9,8 @@
 		{ "predicate": { "custom_model_data": 170205 }, "model": "lthc.advancenergy:machine/barrel/carbon_generator_on" },
 		{ "predicate": { "custom_model_data": 170206 }, "model": "lthc.advancenergy:materials/barrel/ash_block" },
 		{ "predicate": { "custom_model_data": 170207 }, "model": "lthc.advancenergy:capacitors/barrel/primitive_capacitor" },
-		{ "predicate": { "custom_model_data": 170208 }, "model": "lthc.advancenergy:machine/barrel/mineral_extracting_machine" }
+		{ "predicate": { "custom_model_data": 170208 }, "model": "lthc.advancenergy:machine/barrel/mineral_extracting_machine" },
+		{ "predicate": { "custom_model_data": 170209 }, "model": "lthc.advancenergy:machine/barrel/dust_generator" },
+		{ "predicate": { "custom_model_data": 170210 }, "model": "lthc.advancenergy:machine/barrel/dust_generator_on" }
     ]
 }

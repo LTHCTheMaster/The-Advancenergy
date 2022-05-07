@@ -8,6 +8,8 @@ barrel and glow_item_frame:
     170206 : ash block
     170207 : primitive capacitor
     170208 : mineral extracting machine
+    170209 : dust generator off
+    170210 : dust generator on
 
 command_block:
     170200 : raw tin
