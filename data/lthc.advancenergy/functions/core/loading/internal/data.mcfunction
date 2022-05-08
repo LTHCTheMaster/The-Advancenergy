@@ -2,6 +2,28 @@
 #define storage lthc.advancenergy:main
 #define storage smithed.crafter:main
 #define storage smithed.custom_block:main
+#define score_holder #already
+#define score_holder #count_of
+#define score_holder #success
+#define score_holder #day_time
+#define score_holder #enchtemp
+#define score_holder #pos_x
+#define score_holder #pos_z
+#define score_holder #x
+#define score_holder #x.random
+#define score_holder #z
+#define score_holder #z.random
+#define score_holder #y
+#define score_holder #y_max
+#define score_holder #pos_y
+#define score_holder #xz_variation
+#define score_holder #max_height
+#define score_holder #max_attempts
+#define score_holder #temp
+#define score_holder #random
+#define score_holder #pos
+#define score_holder #model
+#define score_holder #world_bottom
 
 function lthc.advancenergy:core/loading/internal/scores
 
