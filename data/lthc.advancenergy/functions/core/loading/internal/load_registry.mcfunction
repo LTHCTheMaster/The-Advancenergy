@@ -1,4 +1,5 @@
-## Resources
+### RESOURCES
+## Tin
 # Tin Ore
 data modify storage lthc.advancenergy:main all.block.170200 set value {Slot:16b,id:"minecraft:barrel",Count:1b,tag:{ctc:{id:"tin_ore",from:"lthc.advancenergy",traits:{"metal/tin":1b,"block":1b,"ore":1b}},CustomModelData:170200,lthc_advancenergy:{tin_ore:1b, tin_source:1b},display:{Lore:['{"translate":"The Advancenergy","color":"blue","italic":true}'],Name:'[{"text":"Tin Ore","italic":false,"color":"white"}]'},BlockEntityTag:{Items:[{id:"minecraft:stone",Count:1b,Slot:0b,tag:{smithed:{block:{from:"lthc.advancenergy",id:"lthc.advancenergy:tin_ore"}}}}]}}}
 # Deepslate Tin Ore
@@ -13,6 +14,21 @@ data modify storage lthc.advancenergy:main all.item.170200 set value {Slot:16b,i
 data modify storage lthc.advancenergy:main all.item.170201 set value {Slot:16b,id:"minecraft:command_block",Count:1b,tag:{ctc:{id:"tin_ingot",from:"lthc.advancenergy",traits:{"metal/tin":1b,"ingot":1b}},CustomModelData:170201,lthc_advancenergy:{tin_ingot:1b},display:{Lore:['{"translate":"The Advancenergy","color":"blue","italic":true}'],Name:'[{"text":"Tin Ingot","italic":false,"color":"white"}]'}}}
 # Tin Nugget
 data modify storage lthc.advancenergy:main all.item.170202 set value {Slot:16b,id:"minecraft:command_block",Count:1b,tag:{ctc:{id:"tin_nugget",from:"lthc.advancenergy",traits:{"metal/tin":1b,"nugget":1b}},CustomModelData:170202,lthc_advancenergy:{tin_nugget:1b},display:{Lore:['{"translate":"The Advancenergy","color":"blue","italic":true}'],Name:'[{"text":"Tin Nugget","italic":false,"color":"white"}]'}}}
+## Lead
+# Lead Ore
+data modify storage lthc.advancenergy:main all.block.170211 set value {Slot:16b,id:"minecraft:barrel",Count:1b,tag:{ctc:{id:"lead_ore",from:"lthc.advancenergy",traits:{"metal/lead":1b,"block":1b,"ore":1b}},CustomModelData:170200,lthc_advancenergy:{lead_ore:1b, tin_source:1b},display:{Lore:['{"translate":"The Advancenergy","color":"blue","italic":true}'],Name:'[{"text":"Lead Ore","italic":false,"color":"white"}]'},BlockEntityTag:{Items:[{id:"minecraft:stone",Count:1b,Slot:0b,tag:{smithed:{block:{from:"lthc.advancenergy",id:"lthc.advancenergy:lead_ore"}}}}]}}}
+# Deepslate Lead Ore
+data modify storage lthc.advancenergy:main all.block.170212 set value {Slot:16b,id:"minecraft:barrel",Count:1b,tag:{ctc:{id:"deepslate_lead_ore",from:"lthc.advancenergy",traits:{"metal/lead":1b,"block":1b,"ore":1b}},CustomModelData:170201,lthc_advancenergy:{deepslate_lead_ore:1b, lead_source:1b},display:{Lore:['{"translate":"The Advancenergy","color":"blue","italic":true}'],Name:'[{"text":"Deepslate Lead Ore","italic":false,"color":"white"}]'},BlockEntityTag:{Items:[{id:"minecraft:stone",Count:1b,Slot:0b,tag:{smithed:{block:{from:"lthc.advancenergy",id:"lthc.advancenergy:deepslate_lead_ore"}}}}]}}}
+# Raw Lead Block
+data modify storage lthc.advancenergy:main all.block.170213 set value {Slot:16b,id:"minecraft:barrel",Count:1b,tag:{ctc:{id:"raw_lead_block",from:"lthc.advancenergy",traits:{"metal/lead":1b,"block":1b}},CustomModelData:170202,lthc_advancenergy:{raw_lead_block:1b},display:{Lore:['{"translate":"The Advancenergy","color":"blue","italic":true}'],Name:'[{"text":"Raw Lead Block","italic":false,"color":"white"}]'},BlockEntityTag:{Items:[{id:"minecraft:stone",Count:1b,Slot:0b,tag:{smithed:{block:{from:"lthc.advancenergy",id:"lthc.advancenergy:raw_lead_block"}}}}]}}}
+# Lead Block
+data modify storage lthc.advancenergy:main all.block.170214 set value {Slot:16b,id:"minecraft:barrel",Count:1b,tag:{ctc:{id:"lead_block",from:"lthc.advancenergy",traits:{"metal/lead":1b,"block":1b, "packed":1b}},CustomModelData:170203,lthc_advancenergy:{lead_block:1b},display:{Lore:['{"translate":"The Advancenergy","color":"blue","italic":true}'],Name:'[{"text":"Lead Block","italic":false,"color":"white"}]'},BlockEntityTag:{Items:[{id:"minecraft:stone",Count:1b,Slot:0b,tag:{smithed:{block:{from:"lthc.advancenergy",id:"lthc.advancenergy:lead_block"}}}}]}}}
+# Raw Lead
+data modify storage lthc.advancenergy:main all.item.170204 set value {Slot:16b,id:"minecraft:command_block",Count:1b,tag:{ctc:{id:"raw_lead",from:"lthc.advancenergy",traits:{"metal/lead":1b,"ore":1b}},CustomModelData:170200,lthc_advancenergy:{raw_lead:1b, lead_source:1b},display:{Lore:['{"translate":"The Advancenergy","color":"blue","italic":true}'],Name:'[{"text":"Raw Lead","italic":false,"color":"white"}]'}}}
+# Lead Ingot
+data modify storage lthc.advancenergy:main all.item.170205 set value {Slot:16b,id:"minecraft:command_block",Count:1b,tag:{ctc:{id:"lead_ingot",from:"lthc.advancenergy",traits:{"metal/lead":1b,"ingot":1b}},CustomModelData:170201,lthc_advancenergy:{lead_ingot:1b},display:{Lore:['{"translate":"The Advancenergy","color":"blue","italic":true}'],Name:'[{"text":"Lead Ingot","italic":false,"color":"white"}]'}}}
+# Lead Nugget
+data modify storage lthc.advancenergy:main all.item.170206 set value {Slot:16b,id:"minecraft:command_block",Count:1b,tag:{ctc:{id:"lead_nugget",from:"lthc.advancenergy",traits:{"metal/lead":1b,"nugget":1b}},CustomModelData:170202,lthc_advancenergy:{lead_nugget:1b},display:{Lore:['{"translate":"The Advancenergy","color":"blue","italic":true}'],Name:'[{"text":"Lead Nugget","italic":false,"color":"white"}]'}}}
 
 ## Armors/Tools
 # Tin Helmet

@@ -10,12 +10,19 @@ barrel and glow_item_frame:
     170208 : mineral extracting machine
     170209 : dust generator off
     170210 : dust generator on
+    170211 : lead ore
+    170212 : deepslate lead ore
+    170213 : raw lead block
+    170214 : lead block
 
 command_block:
     170200 : raw tin
     170201 : tin ingot
     170202 : tin nugget
     170203 : ash
+    170204 : raw lead
+    170205 : lead ingot
+    170206 : lead nugget
 
 leather_helmet:
     170200 : tin helmet
