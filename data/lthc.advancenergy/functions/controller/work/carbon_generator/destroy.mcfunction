@@ -1,0 +1,2 @@
+setblock ~ ~ ~ air
+summon tnt ~ ~ ~

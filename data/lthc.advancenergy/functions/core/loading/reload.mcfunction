@@ -6,10 +6,10 @@ execute unless score #lthc.first_run lthc.advancenergy.data matches 1 run functi
 execute if score #lthc.first_run lthc.advancenergy.data matches 1 unless score #lthc.version lthc.advancenergy.data matches 010000 run function lthc.advancenergy:core/loading/first_run/update
 
 # Summon a marker at the worldspawn for something
-execute as @e[type=marker,tag=lthc] run function lthc.advancenergy:utils/try_unload
-kill @e[type=marker,tag=lthc]
+execute as @e[type=marker,tag=lthc.advancenergy] run function lthc.advancenergy:utils/try_unload
+kill @e[type=marker,tag=lthc.advancenergy]
 summon marker ~ ~1 ~ {Tags:["lthc.advancenergy","global.ignore","global.forceload","smithed.entity","smithed.strict"]}
-execute as @e[type=marker,tag=lthc] at @s run forceload add ~ ~ ~ ~
+execute as @e[type=marker,tag=lthc.advancenergy] at @s run forceload add ~ ~ ~ ~
 
 # Init the gamerules
 gamerule maxCommandChainLength 2147483647
