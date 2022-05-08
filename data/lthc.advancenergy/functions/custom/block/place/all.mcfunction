@@ -15,5 +15,6 @@ execute if data storage smithed.custom_block:main blockApi{id:"lthc.advancenergy
 execute if data storage smithed.custom_block:main blockApi{id:"lthc.advancenergy:raw_lead_block"} run function lthc.advancenergy:custom/block/place/raw_lead_block/main
 execute if data storage smithed.custom_block:main blockApi{id:"lthc.advancenergy:lead_block"} run function lthc.advancenergy:custom/block/place/lead_block/main
 execute if data storage smithed.custom_block:main blockApi{id:"lthc.advancenergy:advanced_carbon_generator"} run function lthc.advancenergy:custom/block/place/advanced_carbon_generator/main
+execute if data storage smithed.custom_block:main blockApi{id:"lthc.advancenergy:refinery"} run function lthc.advancenergy:custom/block/place/refinery/main
 
 tag @s remove lthc.advancenergy.placer
