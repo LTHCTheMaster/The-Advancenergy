@@ -26,30 +26,39 @@ command_block:
 
 leather_helmet:
     170200 : tin helmet
+    170201 : lead helmet
 
 leather_chestplate:
     170200 : tin chestplate
+    170201 : lead chestplate
 
 leather_leggings:
     170200 : tin leggings
+    170201 : lead leggings
 
 leather_boots:
     170200 : tin boots
+    170201 : lead boots
 
 diamond_axe:
     170200 : tin axe
+    170201 : lead axe
 
 diamond_pickaxe:
     170200 : tin pickaxe
+    170201 : lead pickaxe
 
 diamond_shovel:
     170200 : tin shovel
+    170201 : lead shovel
 
 diamond_hoe:
     170200 : tin hoe
+    170201 : lead hoe
 
 diamond_sword:
     170200 : tin sword
+    170201 : lead sword
 
 cobblestone:
     170000 - 170063 : primitive cable MODEL
