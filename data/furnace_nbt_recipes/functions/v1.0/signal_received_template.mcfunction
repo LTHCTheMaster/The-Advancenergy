@@ -7,7 +7,7 @@
 
 
 
-#Example taken from SimplEnergy data pack
+#Example taken from lthc.advancenergy data pack
 #Custom durability for Simplunium Armor & Tools (x7 leather armor & x1.2 diamond tools)
 #Offhand durability here is useless because no diamond tools can be used in offhand
 	scoreboard players set #multiplier furnace_nbt_recipes.data 7000
