@@ -3,6 +3,8 @@
 	"values": [
 		"barrel",
 		"deepslate_tiles",
-		"coal_block"
+		"coal_block",
+		"#lthc.advancenergy:player_heads",
+		"deepslate_bricks"
 	]
 }
