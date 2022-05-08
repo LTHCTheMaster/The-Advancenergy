@@ -1,6 +1,6 @@
 {
 	"values": [
 		"#smithed.crafter:recipes/shaped",
-		"lthc.advancenergy:craft/shaped_recipes"
+		"#lthc.advancenergy:libs/crafter/recipes_shaped"
 	]
 }

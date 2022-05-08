@@ -1,6 +1,5 @@
 {
 	"values": [
-		"lthc.advancenergy:furnace/common_smelting_blasting",
-		"lthc.advancenergy:furnace/blasting_recipes"
+		"#lthc.advancenergy:libs/furnaces/recipes_blasting"
 	]
 }

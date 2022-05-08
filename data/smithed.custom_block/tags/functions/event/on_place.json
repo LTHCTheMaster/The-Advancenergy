@@ -1,6 +1,6 @@
 {
 	"values": [
 		"#smithed.crafter:block/place",
-		"lthc.advancenergy:place/main"
+		"lthc.advancenergy:custom/block/place/main"
 	]
 }

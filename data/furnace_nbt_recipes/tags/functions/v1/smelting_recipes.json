@@ -1,5 +1,5 @@
 {
 	"values": [
-		"lthc.advancenergy:furnace/smelting_recipes"
+		"#lthc.advancenergy:libs/furnaces/recipes_smelting"
 	]
 }

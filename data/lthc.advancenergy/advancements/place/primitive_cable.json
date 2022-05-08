@@ -11,6 +11,6 @@
 		}
 	},
 	"rewards": {
-		"function": "lthc.advancenergy:place/primitive_cable/main"
+		"function": "lthc.advancenergy:custom/block/place/primitive_cable/main"
 	}
 }

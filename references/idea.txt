@@ -1,9 +1,14 @@
-Etain
-Plomb:
-	Cuivre
-Argent:
-	Plomb
-	Cuivre
+Tin:
+	Copper
+	Gold
+	Calcite
+	Coal
+	Iron
+Lead:
+	Copper
+Silver:
+	Lead
+	Copper
 	Calcite
 Aluminium :
-	Fer
+	Iron

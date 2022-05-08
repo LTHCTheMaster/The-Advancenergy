@@ -1,6 +1,6 @@
 {
 	"textures": {
-		"texture": "lthc.advancenergy:gui/cooling/cooling_gui_6"
+		"texture": "lthc.advancenergy:gui/cooling/gui_6"
 	},
 	"elements": [ 
 		{

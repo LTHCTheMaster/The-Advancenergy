@@ -1,5 +1,5 @@
 {
     "values": [
-		"lthc.advancenergy:post_load"
+		"lthc.advancenergy:core/loading/sub_functions/post_load"
 	]
 }

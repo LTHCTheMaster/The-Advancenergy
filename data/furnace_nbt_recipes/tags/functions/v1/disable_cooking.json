@@ -1,5 +1,5 @@
 {
 	"values": [
-		"lthc.advancenergy:furnace/disable_cooking"
+		"#lthc.advancenergy:libs/furnaces/disable_cooking"
 	]
 }
