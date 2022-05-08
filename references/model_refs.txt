@@ -14,6 +14,8 @@ barrel and glow_item_frame:
     170212 : deepslate lead ore
     170213 : raw lead block
     170214 : lead block
+    170215 : advanced carbon generator off
+    170216 : advanced carbon generator on
 
 command_block:
     170200 : raw tin
@@ -63,5 +65,5 @@ diamond_sword:
 cobblestone:
     170000 - 170063 : primitive cable MODEL
     170200 - 170210 : cooling GUI
-    170211 - 170221 : carbon generator GUI
+    170211 - 170221 : carbon generator and advanced carbon generator GUI
     170222 - 170232 : dust generator GUI

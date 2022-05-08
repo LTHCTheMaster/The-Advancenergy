@@ -1,0 +1,10 @@
+setblock ~ ~ ~ air
+summon tnt ~ ~ ~
+summon tnt ~4 ~ ~
+summon tnt ~-4 ~ ~
+summon tnt ~ ~ ~4
+summon tnt ~ ~ ~-4
+summon tnt ~4 ~ ~4
+summon tnt ~4 ~ ~-4
+summon tnt ~-4 ~ ~4
+summon tnt ~-4 ~ ~-4

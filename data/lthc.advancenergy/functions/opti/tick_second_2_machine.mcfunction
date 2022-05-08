@@ -1,1 +1,1 @@
-execute if entity @s[tag=lthc.advancenergy.carbon_generator] positioned ~ ~-1 ~ if block ~ ~ ~ barrel if entity @e[type=glow_item_frame,tag=lthc.advancenergy.dust_generator,distance=..1] at @s run function lthc.advancenergy:controller/between/carbon_to_dust
+execute if entity @s[tag=lthc.advancenergy.is_ash_as_waste_generator] positioned ~ ~-1 ~ if block ~ ~ ~ barrel if entity @e[type=glow_item_frame,tag=lthc.advancenergy.dust_generator,distance=..1] at @s run function lthc.advancenergy:controller/between/carbon_to_dust
