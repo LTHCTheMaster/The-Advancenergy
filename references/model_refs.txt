@@ -16,6 +16,8 @@ barrel and glow_item_frame:
     170214 : lead block
     170215 : advanced carbon generator off
     170216 : advanced carbon generator on
+    170217 : refinery
+    170218 : refinery on
 
 command_block:
     170200 : raw tin
