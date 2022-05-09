@@ -16,7 +16,7 @@
 							},
 							"ops": [
 								{
-									"source": "all.item.shovel.170200.tag",
+									"source": "registry.item.shovel.170200.tag",
 									"target": "{}",
 									"op": "merge"
 								}

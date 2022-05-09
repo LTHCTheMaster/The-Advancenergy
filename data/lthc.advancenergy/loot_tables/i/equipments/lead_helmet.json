@@ -16,7 +16,7 @@
 							},
 							"ops": [
 								{
-									"source": "all.item.helmet.170201.tag",
+									"source": "registry.item.helmet.170201.tag",
 									"target": "{}",
 									"op": "merge"
 								}

@@ -25,6 +25,9 @@
 #define score_holder #model
 #define score_holder #world_bottom
 #define score_holder #can_avoid
+#define score_holder #already2
+#define score_holder #already3
+#define score_holder #ydaerla
 
 function lthc.advancenergy:core/loading/internal/scores
 

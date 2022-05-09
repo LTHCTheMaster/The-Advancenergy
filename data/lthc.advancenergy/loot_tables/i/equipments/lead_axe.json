@@ -16,7 +16,7 @@
 							},
 							"ops": [
 								{
-									"source": "all.item.axe.170201.tag",
+									"source": "registry.item.axe.170201.tag",
 									"target": "{}",
 									"op": "merge"
 								}

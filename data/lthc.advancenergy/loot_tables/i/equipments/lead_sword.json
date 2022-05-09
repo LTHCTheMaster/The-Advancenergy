@@ -16,7 +16,7 @@
 							},
 							"ops": [
 								{
-									"source": "all.item.sword.170201.tag",
+									"source": "registry.item.sword.170201.tag",
 									"target": "{}",
 									"op": "merge"
 								}

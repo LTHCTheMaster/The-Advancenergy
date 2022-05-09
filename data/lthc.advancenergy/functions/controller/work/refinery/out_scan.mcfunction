@@ -18,5 +18,15 @@ execute if score #already lthc.advancenergy.data matches 0 store success score #
 execute if score #already lthc.advancenergy.data matches 0 store success score #already lthc.advancenergy.data if data storage lthc.advancenergy:main RefineryCurrent.netherite run function lthc.advancenergy:controller/work/refinery/output/netherite
 execute if score #already lthc.advancenergy.data matches 0 store success score #already lthc.advancenergy.data if data storage lthc.advancenergy:main RefineryCurrent.quartz run function lthc.advancenergy:controller/work/refinery/output/quartz
 
-# Reset the entity RefineryCurrent nbt data
+function #lthc.advancenergy:calls/refinery_output_scan
+
+# Reset the entity RefineryCurrent nbt data of the entity
 data modify entity @s RefineryCurrent set from storage lthc.advancenergy:main RefineryCurrent
+
+# Clear storage for memory
+data remove storage lthc.advancenergy:main RefineryCurrent
+
+# Modify the block
+data modify block ~ ~ ~ Items set from storage lthc.advancenergy:main Items
+
+give @s netherite_scrap

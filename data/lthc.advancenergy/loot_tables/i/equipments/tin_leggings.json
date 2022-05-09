@@ -16,7 +16,7 @@
 							},
 							"ops": [
 								{
-									"source": "all.item.leggings.170200.tag",
+									"source": "registry.item.leggings.170200.tag",
 									"target": "{}",
 									"op": "merge"
 								}
