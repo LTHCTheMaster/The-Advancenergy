@@ -24,6 +24,7 @@
 #define score_holder #pos
 #define score_holder #model
 #define score_holder #world_bottom
+#define score_holder #can_avoid
 
 function lthc.advancenergy:core/loading/internal/scores
 
