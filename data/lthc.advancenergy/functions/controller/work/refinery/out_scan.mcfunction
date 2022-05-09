@@ -1,5 +1,5 @@
 # Store the last saved refining recipes
-data modify storage lthc.advancenergy:main RefineryCurrent set from entity @s RefineryCurrent
+data modify storage lthc.advancenergy:main RefineryCurrent set from entity @s Item.tag.RefineryCurrent
 
 # Use to avoid nbt test repetition
 scoreboard players set #already lthc.advancenergy.data 0
@@ -21,12 +21,10 @@ execute if score #already lthc.advancenergy.data matches 0 store success score #
 function #lthc.advancenergy:calls/refinery_output_scan
 
 # Reset the entity RefineryCurrent nbt data of the entity
-data modify entity @s RefineryCurrent set from storage lthc.advancenergy:main RefineryCurrent
+data modify entity @s Item.tag.RefineryCurrent set from storage lthc.advancenergy:main RefineryCurrent
 
 # Clear storage for memory
 data remove storage lthc.advancenergy:main RefineryCurrent
 
 # Modify the block
 data modify block ~ ~ ~ Items set from storage lthc.advancenergy:main Items
-
-give @s netherite_scrap
