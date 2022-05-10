@@ -38,3 +38,6 @@ loot spawn ~ ~ ~ loot lthc.advancenergy:i/equipments/lead_pickaxe
 loot spawn ~ ~ ~ loot lthc.advancenergy:i/equipments/lead_hoe
 loot spawn ~ ~ ~ loot lthc.advancenergy:i/equipments/lead_shovel
 loot spawn ~ ~ ~ loot lthc.advancenergy:i/equipments/lead_sword
+loot spawn ~ ~ ~ loot lthc.advancenergy:i/machine/advanced_carbon_generator
+loot spawn ~ ~ ~ loot lthc.advancenergy:i/machine/refinery
+loot spawn ~ ~ ~ loot lthc.advancenergy:i/others/lead_bomb

@@ -4,5 +4,17 @@
         "sounds": [
             "lthc.advancenergy:carbon_generator"
         ]
+    },
+    "lead_bomb_alarm": {
+        "subtitle":"Lead Bomb Alarm",
+        "sounds": [
+            "lthc.advancenergy:lead_bomb_alarm"
+        ]
+    },
+    "lead_bomb_boom": {
+        "subtitle":"Lead Bomb Boom",
+        "sounds": [
+            "lthc.advancenergy:lead_bomb_boom"
+        ]
     }
 }

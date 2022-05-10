@@ -24,6 +24,7 @@
 	{ "predicate": { "custom_model_data": 170215 }, "model": "lthc.advancenergy:machine/advanced_carbon_generator" },
 	{ "predicate": { "custom_model_data": 170216 }, "model": "lthc.advancenergy:machine/advanced_carbon_generator_on" },
 	{ "predicate": { "custom_model_data": 170217 }, "model": "lthc.advancenergy:machine/refinery" },
-	{ "predicate": { "custom_model_data": 170218 }, "model": "lthc.advancenergy:machine/refinery_on" }
+	{ "predicate": { "custom_model_data": 170218 }, "model": "lthc.advancenergy:machine/refinery_on" },
+	{ "predicate": { "custom_model_data": 170219 }, "model": "lthc.advancenergy:others/lead_bomb" }
 ]
 }
