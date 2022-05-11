@@ -1,0 +1,15 @@
+{
+	"name": "lthc.advancenergy:creeper_cage",
+	"fallback": "minecraft:empty",
+	"elements": [
+		{
+			"weight": 1,
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"projection": "rigid",
+				"location": "lthc.advancenergy:creeper_cage",
+				"processors": "minecraft:empty"
+			}
+		}
+	]
+}

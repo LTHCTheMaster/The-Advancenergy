@@ -1,0 +1,10 @@
+{
+	"type": "minecraft:village",
+	"config": {
+		"start_pool": "lthc.advancenergy:creeper_cage",
+		"size": 1
+	},
+	"biomes": "#lthc.advancenergy:for_creeper_cage",
+	"adapt_noise": true,
+	"spawn_overrides": {}
+}

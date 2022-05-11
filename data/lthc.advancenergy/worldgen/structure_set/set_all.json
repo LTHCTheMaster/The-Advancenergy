@@ -2,6 +2,10 @@
 	"structures": [
 		{
 			"structure": "lthc.advancenergy:tin_shed",
+			"weight": 4
+		},
+		{
+			"structure": "lthc.advancenergy:creeper_cage",
 			"weight": 1
 		}
 	],
