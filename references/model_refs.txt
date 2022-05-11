@@ -20,6 +20,7 @@ barrel and glow_item_frame:
     170218 : refinery on
     170219 : lead bomb
     170220 : bronze block
+    170221 : bronze bomb
 
 command_block:
     170200 : raw tin

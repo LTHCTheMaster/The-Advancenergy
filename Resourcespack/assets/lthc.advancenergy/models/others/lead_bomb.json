@@ -1,8 +1,8 @@
 {
 	"parent": "minecraft:block/cube_all",
 	"textures": {
-		"down": "lthc.advancenergy:ores/lead/lead_block",
-		"up": "lthc.advancenergy:ores/lead/lead_block",
+		"down": "lthc.advancenergy:others/lead_bomb",
+		"up": "lthc.advancenergy:others/lead_bomb",
 		"north": "lthc.advancenergy:others/lead_bomb",
 		"south": "lthc.advancenergy:others/lead_bomb",
 		"west": "lthc.advancenergy:others/lead_bomb",

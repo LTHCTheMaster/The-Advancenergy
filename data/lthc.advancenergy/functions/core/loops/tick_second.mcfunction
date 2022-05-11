@@ -9,4 +9,4 @@
 	tag @e[type=glow_item_frame,tag=lthc.advancenergy.balanced] remove lthc.advancenergy.balanced
 
 # Special
-	execute as @e[type=glow_item_frame,tag=lthc.advancenergy.lead_bomb] at @s run function lthc.advancenergy:controller/work/lead_bomb/main
+	execute as @e[type=glow_item_frame,tag=lthc.advancenergy.is_bomb] at @s run function lthc.advancenergy:opti/tick_second_bomb

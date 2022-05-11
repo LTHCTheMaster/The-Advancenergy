@@ -54,7 +54,9 @@ execute store result score @s smithed.data if entity @s[scores={smithed.data=0}]
 
 ## Others
 # Lead Bomb
-execute store result score @s smithed.data if entity @s[scores={smithed.data=0}] if data storage smithed.crafter:main root.temp{crafting_input:{0:[{Slot:0b,tag:{ctc:{id:"lead_block"}}},{Slot:1b,tag:{ctc:{id:"lead_block"}}},{Slot:2b,tag:{ctc:{id:"lead_block"}}}],1:[{Slot:0b,tag:{ctc:{id:"lead_block"}}},{Slot:1b,id:"minecraft:tnt"},{Slot:2b,tag:{ctc:{id:"lead_block"}}}],2:[{Slot:0b,tag:{ctc:{id:"lead_block"}}},{Slot:1b,tag:{ctc:{id:"lead_block"}}},{Slot:2b,tag:{ctc:{id:"lead_block"}}}]}} run loot replace block ~ ~ ~ container.16 loot lthc.advancenergy:i/others/lead_bomb
+execute store result score @s smithed.data if entity @s[scores={smithed.data=0}] if score #bomb_config lthc.advancenergy.data matches 1 if data storage smithed.crafter:main root.temp{crafting_input:{0:[{Slot:0b,tag:{ctc:{id:"lead_block"}}},{Slot:1b,tag:{ctc:{id:"lead_block"}}},{Slot:2b,tag:{ctc:{id:"lead_block"}}}],1:[{Slot:0b,tag:{ctc:{id:"lead_block"}}},{Slot:1b,id:"minecraft:tnt"},{Slot:2b,tag:{ctc:{id:"lead_block"}}}],2:[{Slot:0b,tag:{ctc:{id:"lead_block"}}},{Slot:1b,tag:{ctc:{id:"lead_block"}}},{Slot:2b,tag:{ctc:{id:"lead_block"}}}]}} run loot replace block ~ ~ ~ container.16 loot lthc.advancenergy:i/others/lead_bomb
+# Bronze Bomb
+execute store result score @s smithed.data if entity @s[scores={smithed.data=0}] if score #bomb_config lthc.advancenergy.data_2 matches 1 if data storage smithed.crafter:main root.temp{crafting_input:{0:[{Slot:0b,tag:{ctc:{id:"bronze_block"}}},{Slot:1b,tag:{ctc:{id:"bronze_block"}}},{Slot:2b,tag:{ctc:{id:"bronze_block"}}}],1:[{Slot:0b,tag:{ctc:{id:"bronze_block"}}},{Slot:1b,tag:{ctc:{id:"lead_bomb"}}},{Slot:2b,tag:{ctc:{id:"bronze_block"}}}],2:[{Slot:0b,tag:{ctc:{id:"bronze_block"}}},{Slot:1b,tag:{ctc:{id:"bronze_block"}}},{Slot:2b,tag:{ctc:{id:"bronze_block"}}}]}} run loot replace block ~ ~ ~ container.16 loot lthc.advancenergy:i/others/bronze_bomb
 
 ## Materials
 # Bronze Machine Casing

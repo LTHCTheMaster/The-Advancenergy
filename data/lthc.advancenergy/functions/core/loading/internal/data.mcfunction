@@ -28,6 +28,7 @@
 #define score_holder #already2
 #define score_holder #already3
 #define score_holder #ydaerla
+#define score_holder #bomb_config
 
 function lthc.advancenergy:core/loading/internal/scores
 
