@@ -19,6 +19,7 @@ barrel and glow_item_frame:
     170217 : refinery
     170218 : refinery on
     170219 : lead bomb
+    170220 : bronze block
 
 command_block:
     170200 : raw tin
@@ -28,6 +29,9 @@ command_block:
     170204 : raw lead
     170205 : lead ingot
     170206 : lead nugget
+    170207 : bronze ingot
+    170208 : bronze nugget
+    170209 : bronze machine casing
 
 leather_helmet:
     170200 : tin helmet

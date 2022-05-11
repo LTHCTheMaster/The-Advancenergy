@@ -7,6 +7,9 @@
 		{ "predicate": { "custom_model_data": 170203 }, "model": "lthc.advancenergy:materials/ash" },
 		{ "predicate": { "custom_model_data": 170204 }, "model": "lthc.advancenergy:ores/lead/raw_lead" },
 		{ "predicate": { "custom_model_data": 170205 }, "model": "lthc.advancenergy:ores/lead/lead_ingot" },
-		{ "predicate": { "custom_model_data": 170206 }, "model": "lthc.advancenergy:ores/lead/lead_nugget" }
+		{ "predicate": { "custom_model_data": 170206 }, "model": "lthc.advancenergy:ores/lead/lead_nugget" },
+		{ "predicate": { "custom_model_data": 170207 }, "model": "lthc.advancenergy:materials/bronze_ingot" },
+		{ "predicate": { "custom_model_data": 170208 }, "model": "lthc.advancenergy:materials/bronze_nugget" },
+		{ "predicate": { "custom_model_data": 170209 }, "model": "lthc.advancenergy:materials/bronze_machine_casing" }
     ]
 }

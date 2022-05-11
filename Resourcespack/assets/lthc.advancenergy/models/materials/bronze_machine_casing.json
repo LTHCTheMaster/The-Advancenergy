@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:block/cube_all",
+	"textures": {
+		"all": "lthc.advancenergy:materials/bronze_machine_casing"
+	}
+}
