@@ -1,0 +1,98 @@
+{
+    "registry": {
+        "block": {
+            "170200": {
+                "Slot": 16,
+                "id": "minecraft:barrel",
+                "Count": 1,
+                "tag": {
+                    "ctc": {
+                        "id": "tin_ore",
+                        "from": "lthc.advancenergy",
+                        "traits": {
+                            "metal/tin": 1,
+                            "block": 1,
+                            "ore": 1
+                        }
+                    },
+                    "CustomModelData": 170200,
+                    "lthc_advancenergy": {
+                        "tin_ore": 1,
+                        "tin_source": 1
+                    },
+                    "display": {
+                        "Lore": [
+                            "'{\"translate\":\"The Advancenergy\",\"color\":\"blue\",\"italic\":true}'"
+                        ],
+                        "Name": [
+                            "'[{\"text\":\"Tin Ore\",\"italic\":false,\"color\":\"white\"}]'"
+                        ]
+                    },
+                    "BlockEntityTag": {
+                        "Items": [
+                            {
+                                "id": "minecraft:stone",
+                                "Count": 1,
+                                "Slot": 0,
+                                "tag": {
+                                    "smithed": {
+                                        "block": {
+                                            "from": "lthc.advancenergy",
+                                            "id": "lthc.advancenergy:tin_ore"
+                                        }
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                }
+            },
+            "170201": {
+                "Slot": 16,
+                "id": "minecraft:barrel",
+                "Count": 1,
+                "tag": {
+                    "ctc": {
+                        "id": "deepslate_tin_ore",
+                        "from": "lthc.advancenergy",
+                        "traits": {
+                            "metal/tin": 1,
+                            "block": 1,
+                            "ore": 1
+                        }
+                    },
+                    "CustomModelData": 170201,
+                    "lthc_advancenergy": {
+                        "deepslate_tin_ore": 1,
+                        "tin_source": 1
+                    },
+                    "display": {
+                        "Lore": [
+                            "'{\"translate\":\"The Advancenergy\",\"color\":\"blue\",\"italic\":true}'"
+                        ],
+                        "Name": [
+                            "'[{\"text\":\"Deepslate Tin Ore\",\"italic\":false,\"color\":\"white\"}]'"
+                        ]
+                    },
+                    "BlockEntityTag": {
+                        "Items": [
+                            {
+                                "id": "minecraft:stone",
+                                "Count": 1,
+                                "Slot": 0,
+                                "tag": {
+                                    "smithed": {
+                                        "block": {
+                                            "from": "lthc.advancenergy",
+                                            "id": "lthc.advancenergy:deepslate_tin_ore"
+                                        }
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                }
+            }
+        }
+    }
+}
