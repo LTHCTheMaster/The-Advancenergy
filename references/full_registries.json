@@ -92,6 +92,154 @@
                         ]
                     }
                 }
+            },
+            "170202": {
+                "Slot": 16,
+                "id": "minecraft:barrel",
+                "Count": 1,
+                "tag": {
+                    "ctc": {
+                        "id": "raw_tin_block",
+                        "from": "lthc.advancenergy",
+                        "traits": {
+                            "metal/tin": 1,
+                            "block": 1,
+                            "packed":1,
+                            "raw": 1
+                        }
+                    },
+                    "CustomModelData": 170202,
+                    "lthc_advancenergy": {
+                        "raw_tin_block": 1
+                    },
+                    "display": {
+                        "Lore": [
+                            "'{\"translate\":\"The Advancenergy\",\"color\":\"blue\",\"italic\":true}'"
+                        ],
+                        "Name": [
+                            "'[{\"text\":\"Raw Tin Block\",\"italic\":false,\"color\":\"white\"}]'"
+                        ]
+                    },
+                    "BlockEntityTag": {
+                        "Items": [
+                            {
+                                "id": "minecraft:stone",
+                                "Count": 1,
+                                "Slot": 0,
+                                "tag": {
+                                    "smithed": {
+                                        "block": {
+                                            "from": "lthc.advancenergy",
+                                            "id": "lthc.advancenergy:raw_tin_block"
+                                        }
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                }
+            },
+            "170203": {
+                "Slot": 16,
+                "id": "minecraft:barrel",
+                "Count": 1,
+                "tag": {
+                    "ctc": {
+                        "id": "tin_block",
+                        "from": "lthc.advancenergy",
+                        "traits": {
+                            "metal/tin": 1,
+                            "block": 1,
+                            "packed":1
+                        }
+                    },
+                    "CustomModelData": 170203,
+                    "lthc_advancenergy": {
+                        "tin_block": 1
+                    },
+                    "display": {
+                        "Lore": [
+                            "'{\"translate\":\"The Advancenergy\",\"color\":\"blue\",\"italic\":true}'"
+                        ],
+                        "Name": [
+                            "'[{\"text\":\"Tin Block\",\"italic\":false,\"color\":\"white\"}]'"
+                        ]
+                    },
+                    "BlockEntityTag": {
+                        "Items": [
+                            {
+                                "id": "minecraft:stone",
+                                "Count": 1,
+                                "Slot": 0,
+                                "tag": {
+                                    "smithed": {
+                                        "block": {
+                                            "from": "lthc.advancenergy",
+                                            "id": "lthc.advancenergy:tin_block"
+                                        }
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        "item": {
+            "170200": {
+                "Slot": 16,
+                "id": "minecraft:command_block",
+                "Count": 1,
+                "tag": {
+                    "ctc": {
+                        "id": "raw_tin",
+                        "from": "lthc.advancenergy",
+                        "traits": {
+                            "metal/tin": 1,
+                            "raw": 1
+                        }
+                    },
+                    "CustomModelData": 170200,
+                    "lthc_advancenergy": {
+                        "raw_tin": 1,
+                        "tin_source": 1
+                    },
+                    "display": {
+                        "Lore": [
+                            "'{\"translate\":\"The Advancenergy\",\"color\":\"blue\",\"italic\":true}'"
+                        ],
+                        "Name": [
+                            "'[{\"text\":\"Raw Tin\",\"italic\":false,\"color\":\"white\"}]'"
+                        ]
+                    }
+                }
+            },
+            "170201": {
+                "Slot": 16,
+                "id": "minecraft:command_block",
+                "Count": 1,
+                "tag": {
+                    "ctc": {
+                        "id": "tin_ingot",
+                        "from": "lthc.advancenergy",
+                        "traits": {
+                            "metal/tin": 1,
+                            "ingot": 1
+                        }
+                    },
+                    "CustomModelData": 170201,
+                    "lthc_advancenergy": {
+                        "tin_ingot": 1
+                    },
+                    "display": {
+                        "Lore": [
+                            "'{\"translate\":\"The Advancenergy\",\"color\":\"blue\",\"italic\":true}'"
+                        ],
+                        "Name": [
+                            "'[{\"text\":\"Tin Ingot\",\"italic\":false,\"color\":\"white\"}]'"
+                        ]
+                    }
+                }
             }
         }
     }
