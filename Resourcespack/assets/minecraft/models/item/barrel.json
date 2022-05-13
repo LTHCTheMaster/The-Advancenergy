@@ -22,6 +22,7 @@
 		{ "predicate": { "custom_model_data": 170218 }, "model": "lthc.advancenergy:machine/barrel/refinery_on" },
 		{ "predicate": { "custom_model_data": 170219 }, "model": "lthc.advancenergy:others/barrel/lead_bomb" },
 		{ "predicate": { "custom_model_data": 170220 }, "model": "lthc.advancenergy:materials/barrel/bronze_block" },
-		{ "predicate": { "custom_model_data": 170221 }, "model": "lthc.advancenergy:others/barrel/bronze_bomb" }
+		{ "predicate": { "custom_model_data": 170221 }, "model": "lthc.advancenergy:others/barrel/bronze_bomb" },
+		{ "predicate": { "custom_model_data": 170222 }, "model": "lthc.advancenergy:machine/barrel/solar_generator" }
     ]
 }
