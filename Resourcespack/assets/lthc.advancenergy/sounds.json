@@ -16,5 +16,11 @@
         "sounds": [
             "lthc.advancenergy:lead_bomb_boom"
         ]
+    },
+    "refinery": {
+        "subtitle":"Refinery Working",
+        "sounds": [
+            "lthc.advancenergy:refinery"
+        ]
     }
 }
