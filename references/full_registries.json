@@ -240,6 +240,88 @@
                         ]
                     }
                 }
+            },
+            "170202": {
+                "Slot": 16,
+                "id": "minecraft:command_block",
+                "Count": 1,
+                "tag": {
+                    "ctc": {
+                        "id": "tin_nugget",
+                        "from": "lthc.advancenergy",
+                        "traits": {
+                            "metal/tin": 1,
+                            "nugget": 1
+                        }
+                    },
+                    "CustomModelData": 170202,
+                    "lthc_advancenergy": {
+                        "tin_nugget": 1
+                    },
+                    "display": {
+                        "Lore": [
+                            "'{\"translate\":\"The Advancenergy\",\"color\":\"blue\",\"italic\":true}'"
+                        ],
+                        "Name": [
+                            "'[{\"text\":\"Tin Nugget\",\"italic\":false,\"color\":\"white\"}]'"
+                        ]
+                    }
+                }
+            },
+            "helmet": {
+                "170200": {
+                    "Slot": 16,
+                    "id": "minecraft:leather_helmet",
+                    "Count": 1,
+                    "tag": {
+                        "ctc": {
+                            "id": "tin_helmet",
+                            "from": "lthc.advancenergy",
+                            "traits": {
+                                "metal/tin": 1,
+                                "armor": 1,
+                                "equipment": 1
+                            }
+                        },
+                        "CustomModelData": 170200,
+                        "lthc_advancenergy": {
+                            "tin": 1,
+                            "tin_helmet": 1
+                        },
+                        "HideFlags": 64,
+                        "AttributeModifiers": [
+                            {
+                                "AttributeName": "generic.armor",
+                                "Name": "generic.armor",
+                                "Slot": "head",
+                                "Amount": 3,
+                                "Operation": 0,
+                                "UUID": [ "I;",
+                                    201302,201302,201302,201303
+                                ]
+                            },
+                            {
+                                "AttributeName": "generic.movement_speed",
+                                "Name": "generic.movement_speed",
+                                "Amount": 0.003,
+                                "Operation":0,
+                                "UUID": [ "I;",
+                                    -612365165,1395475798,-1278882303,1263841637
+                                ],
+                                "Slot": "head"
+                            }
+                        ],
+                        "display": {
+                            "color": 15790335,
+                            "Lore": [
+                                "'{\"translate\":\"The Advancenergy\",\"color\":\"blue\",\"italic\":true}'"
+                            ],
+                            "Name": [
+                                "'[{\"text\":\"Tin Helmet\",\"italic\":false,\"color\":\"white\"}]'"
+                            ]
+                        }
+                    }
+                }
             }
         }
     }
