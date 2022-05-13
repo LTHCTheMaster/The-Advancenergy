@@ -22,5 +22,11 @@
         "sounds": [
             "lthc.advancenergy:refinery"
         ]
+    },
+    "dust_generator": {
+        "subtitle":"Dust Generator Working",
+        "sounds": [
+            "lthc.advancenergy:dust_generator"
+        ]
     }
 }
