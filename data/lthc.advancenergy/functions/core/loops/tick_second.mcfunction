@@ -10,3 +10,6 @@
 
 # Special
 	execute as @e[type=glow_item_frame,tag=lthc.advancenergy.is_bomb] at @s run function lthc.advancenergy:opti/tick_second_bomb
+
+# Player ?
+	execute as @r run function lthc.advancenergy:opti/tick_second_players

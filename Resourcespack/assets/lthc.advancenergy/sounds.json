@@ -28,5 +28,11 @@
         "sounds": [
             "lthc.advancenergy:dust_generator"
         ]
+    },
+    "mineral_extracting_machine": {
+        "subtitle":"Mineral Extracting Machine Working",
+        "sounds": [
+            "lthc.advancenergy:mineral_extracting_machine"
+        ]
     }
 }
