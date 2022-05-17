@@ -21,6 +21,7 @@ barrel and glow_item_frame:
     170219 : lead bomb
     170220 : bronze block
     170221 : bronze bomb
+    170222 : solar generator
 
 command_block:
     170200 : raw tin
