@@ -40,3 +40,6 @@ execute if score #already2 lthc.advancenergy.data matches 0 store success score 
 
 # From other packs
 function #lthc.advancenergy:calls/count/nothing_in_output
+
+### Found
+execute if score #already2 lthc.advancenergy.data matches 1 run function lthc.advancenergy:controller/work/refinery/found
