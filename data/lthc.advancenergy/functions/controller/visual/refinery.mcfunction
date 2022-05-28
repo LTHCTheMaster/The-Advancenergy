@@ -1,3 +1,4 @@
+execute if predicate lthc.advancenergy:is_barrel_open run function lthc.advancenergy:controller/shift_click/refinery
 execute if score @s energy.storage matches 33.. run function lthc.advancenergy:controller/work/refinery/main
 execute if predicate lthc.advancenergy:is_barrel_open run function lthc.advancenergy:controller/visual/refinery_2
 
