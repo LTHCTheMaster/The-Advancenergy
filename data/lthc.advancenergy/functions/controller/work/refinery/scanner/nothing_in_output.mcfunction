@@ -27,7 +27,7 @@ execute if score #already2 lthc.advancenergy.data matches 0 store success score 
 execute if score #already2 lthc.advancenergy.data matches 0 store success score #already2 lthc.advancenergy.data if data storage lthc.advancenergy:main Items[{Slot:10b,id:"minecraft:emerald_ore"}] run data modify entity @s Item.tag.RefineryCurrent set value {"emerald":1b}
 execute if score #already2 lthc.advancenergy.data matches 0 store success score #already2 lthc.advancenergy.data if data storage lthc.advancenergy:main Items[{Slot:10b,id:"minecraft:deepslate_emerald_ore"}] run data modify entity @s Item.tag.RefineryCurrent set value {"emerald":1b}
 # Quartz
-execute if score #already2 lthc.advancenergy.data matches 0 store success score #already2 lthc.advancenergy.data if data storage lthc.advancenergy:main Items[{Slot:10b,id:"minecraft:quartz"}] run data modify entity @s Item.tag.RefineryCurrent set value {"quartz":1b}
+execute if score #already2 lthc.advancenergy.data matches 0 store success score #already2 lthc.advancenergy.data if data storage lthc.advancenergy:main Items[{Slot:10b,id:"minecraft:nether_quartz_ore"}] run data modify entity @s Item.tag.RefineryCurrent set value {"quartz":1b}
 # Redstone
 execute if score #already2 lthc.advancenergy.data matches 0 store success score #already2 lthc.advancenergy.data if data storage lthc.advancenergy:main Items[{Slot:10b,id:"minecraft:redstone_ore"}] run data modify entity @s Item.tag.RefineryCurrent set value {"redstone":1b}
 execute if score #already2 lthc.advancenergy.data matches 0 store success score #already2 lthc.advancenergy.data if data storage lthc.advancenergy:main Items[{Slot:10b,id:"minecraft:deepslate_redstone_ore"}] run data modify entity @s Item.tag.RefineryCurrent set value {"redstone":1b}
