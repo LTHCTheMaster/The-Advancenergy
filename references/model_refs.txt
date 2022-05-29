@@ -77,6 +77,3 @@ cobblestone:
 	170211 - 170221 : carbon generator and advanced carbon generator GUI
 	170222 - 170232 : dust generator GUI
 	170233 - 170243 : refinery GUI
-
-golden_axe:
-	170000 : creepy cow
