@@ -22,6 +22,8 @@ barrel and glow_item_frame:
 	170220 : bronze block
 	170221 : bronze bomb
 	170222 : solar generator
+	170223 : potato generator
+	170224 : potato generator on
 
 command_block:
 	170200 : raw tin
@@ -77,3 +79,4 @@ cobblestone:
 	170211 - 170221 : carbon generator and advanced carbon generator GUI
 	170222 - 170232 : dust generator GUI
 	170233 - 170243 : refinery GUI
+	170244 - 170254 : potato generator GUI

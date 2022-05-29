@@ -22,5 +22,6 @@ execute if score #success lthc.advancenergy.data matches 0 store success score #
 execute if score #success lthc.advancenergy.data matches 0 store success score #success lthc.advancenergy.data if data storage smithed.custom_block:main blockApi{id:"lthc.advancenergy:bronze_block"} run function lthc.advancenergy:custom/block/place/bronze_block/main
 execute if score #success lthc.advancenergy.data matches 0 store success score #success lthc.advancenergy.data if data storage smithed.custom_block:main blockApi{id:"lthc.advancenergy:bronze_bomb"} run function lthc.advancenergy:custom/block/place/bronze_bomb/main
 execute if score #success lthc.advancenergy.data matches 0 store success score #success lthc.advancenergy.data if data storage smithed.custom_block:main blockApi{id:"lthc.advancenergy:solar_generator"} run function lthc.advancenergy:custom/block/place/solar_generator/main
+execute if score #success lthc.advancenergy.data matches 0 store success score #success lthc.advancenergy.data if data storage smithed.custom_block:main blockApi{id:"lthc.advancenergy:potato_generator"} run function lthc.advancenergy:custom/block/place/potato_generator/main
 
 tag @s remove lthc.advancenergy.placer
