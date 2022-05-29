@@ -1,6 +1,6 @@
 {
-    "parent": "block/barrel",
-    "overrides": [
+		"parent": "block/barrel",
+		"overrides": [
 		{ "predicate": { "custom_model_data": 170200 }, "model": "lthc.advancenergy:ores/barrel/tin/tin_ore" },
 		{ "predicate": { "custom_model_data": 170201 }, "model": "lthc.advancenergy:ores/barrel/tin/deepslate_tin_ore" },
 		{ "predicate": { "custom_model_data": 170202 }, "model": "lthc.advancenergy:ores/barrel/tin/raw_tin_block" },
@@ -24,5 +24,5 @@
 		{ "predicate": { "custom_model_data": 170220 }, "model": "lthc.advancenergy:materials/barrel/bronze_block" },
 		{ "predicate": { "custom_model_data": 170221 }, "model": "lthc.advancenergy:others/barrel/bronze_bomb" },
 		{ "predicate": { "custom_model_data": 170222 }, "model": "lthc.advancenergy:machine/barrel/solar_generator" }
-    ]
+		]
 }

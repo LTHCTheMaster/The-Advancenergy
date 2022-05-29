@@ -1,9 +1,9 @@
 {
-    "parent": "item/handheld",
-  	"textures": {
-    	"layer0": "item/diamond_pickaxe"
-  	},
-    "overrides": [
+		"parent": "item/handheld",
+		"textures": {
+			"layer0": "item/diamond_pickaxe"
+		},
+		"overrides": [
 		{ "predicate": { "custom_model_data": 170200 }, "model": "lthc.advancenergy:equipments/tin_pickaxe" },
 		{ "predicate": { "custom_model_data": 170201 }, "model": "lthc.advancenergy:equipments/lead_pickaxe" }
 	]

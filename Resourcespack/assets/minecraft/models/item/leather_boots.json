@@ -1,10 +1,10 @@
 {
-    "parent": "item/handheld",
+		"parent": "item/handheld",
 	"textures": {
-        "layer0": "item/leather_boots",
-        "layer1": "item/leather_boots_overlay"
-    },
-    "overrides": [
+				"layer0": "item/leather_boots",
+				"layer1": "item/leather_boots_overlay"
+		},
+		"overrides": [
 		{ "predicate": { "custom_model_data": 170200 }, "model": "lthc.advancenergy:equipments/tin_boots" },
 		{ "predicate": { "custom_model_data": 170201 }, "model": "lthc.advancenergy:equipments/lead_boots" }
 	]

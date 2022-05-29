@@ -1,79 +1,82 @@
 barrel and glow_item_frame:
-    170200 : tin ore
-    170201 : deepslate tin ore
-    170202 : raw tin block
-    170203 : tin block
-    170204 : carbon generator off
-    170205 : carbon generator on
-    170206 : ash block
-    170207 : primitive capacitor
-    170208 : mineral extracting machine
-    170209 : dust generator off
-    170210 : dust generator on
-    170211 : lead ore
-    170212 : deepslate lead ore
-    170213 : raw lead block
-    170214 : lead block
-    170215 : advanced carbon generator off
-    170216 : advanced carbon generator on
-    170217 : refinery
-    170218 : refinery on
-    170219 : lead bomb
-    170220 : bronze block
-    170221 : bronze bomb
-    170222 : solar generator
+	170200 : tin ore
+	170201 : deepslate tin ore
+	170202 : raw tin block
+	170203 : tin block
+	170204 : carbon generator off
+	170205 : carbon generator on
+	170206 : ash block
+	170207 : primitive capacitor
+	170208 : mineral extracting machine
+	170209 : dust generator off
+	170210 : dust generator on
+	170211 : lead ore
+	170212 : deepslate lead ore
+	170213 : raw lead block
+	170214 : lead block
+	170215 : advanced carbon generator off
+	170216 : advanced carbon generator on
+	170217 : refinery
+	170218 : refinery on
+	170219 : lead bomb
+	170220 : bronze block
+	170221 : bronze bomb
+	170222 : solar generator
 
 command_block:
-    170200 : raw tin
-    170201 : tin ingot
-    170202 : tin nugget
-    170203 : ash
-    170204 : raw lead
-    170205 : lead ingot
-    170206 : lead nugget
-    170207 : bronze ingot
-    170208 : bronze nugget
-    170209 : bronze machine casing
+	170200 : raw tin
+	170201 : tin ingot
+	170202 : tin nugget
+	170203 : ash
+	170204 : raw lead
+	170205 : lead ingot
+	170206 : lead nugget
+	170207 : bronze ingot
+	170208 : bronze nugget
+	170209 : bronze machine casing
 
 leather_helmet:
-    170200 : tin helmet
-    170201 : lead helmet
+	170200 : tin helmet
+	170201 : lead helmet
 
 leather_chestplate:
-    170200 : tin chestplate
-    170201 : lead chestplate
+	170200 : tin chestplate
+	170201 : lead chestplate
 
 leather_leggings:
-    170200 : tin leggings
-    170201 : lead leggings
+	170200 : tin leggings
+	170201 : lead leggings
 
 leather_boots:
-    170200 : tin boots
-    170201 : lead boots
+	170200 : tin boots
+	170201 : lead boots
 
 diamond_axe:
-    170200 : tin axe
-    170201 : lead axe
+	170200 : tin axe
+	170201 : lead axe
 
 diamond_pickaxe:
-    170200 : tin pickaxe
-    170201 : lead pickaxe
+	170200 : tin pickaxe
+	170201 : lead pickaxe
 
 diamond_shovel:
-    170200 : tin shovel
-    170201 : lead shovel
+	170200 : tin shovel
+	170201 : lead shovel
 
 diamond_hoe:
-    170200 : tin hoe
-    170201 : lead hoe
+	170200 : tin hoe
+	170201 : lead hoe
 
 diamond_sword:
-    170200 : tin sword
-    170201 : lead sword
+	170200 : tin sword
+	170201 : lead sword
 
 cobblestone:
-    170000 - 170063 : primitive cable MODEL
-    170200 - 170210 : cooling GUI
-    170211 - 170221 : carbon generator and advanced carbon generator GUI
-    170222 - 170232 : dust generator GUI
-    170233 - 170243 : refinery GUI
+	170000 - 170063 : primitive cable MODEL
+	170200 - 170210 : cooling GUI
+	170211 - 170221 : carbon generator and advanced carbon generator GUI
+	170222 - 170232 : dust generator GUI
+	170233 - 170243 : refinery GUI
+
+golden_axe:
+	170000 : creepy cow

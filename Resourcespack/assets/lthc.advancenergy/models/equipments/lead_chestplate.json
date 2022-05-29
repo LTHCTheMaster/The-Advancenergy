@@ -1,6 +1,6 @@
 {
-    "parent": "item/handheld",
-    "textures": {
-        "layer0": "lthc.advancenergy:equipments/lead_chestplate"
-    }
+		"parent": "item/handheld",
+		"textures": {
+				"layer0": "lthc.advancenergy:equipments/lead_chestplate"
+		}
 }

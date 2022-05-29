@@ -8,11 +8,11 @@
 		"show_toast": false,
 		"announce_to_chat": false,
 		"frame": "goal"
-    },
-    "parent": "global:lthcthemaster",
+		},
+		"parent": "global:lthcthemaster",
 	"criteria": {
-        "always": {
+				"always": {
 			"trigger": "minecraft:tick"
 		}
-    }
+		}
 }
