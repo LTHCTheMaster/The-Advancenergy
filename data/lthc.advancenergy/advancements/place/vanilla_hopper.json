@@ -1,0 +1,11 @@
+{
+	"criteria": {
+		"place": {
+			"trigger": "placed_block",
+			"conditions": {"item": {"items": ["minecraft:hopper"] }}
+		}
+	},
+	"rewards": {
+		"function": "lthc.advancenergy:custom/block/locking/hopper_placed"
+	}
+}
