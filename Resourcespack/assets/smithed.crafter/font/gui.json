@@ -1,31 +1,21 @@
 {
-	"providers": [
-		{
-			"type": "bitmap",
-			"file": "smithed.crafter:gui/negative_space.png",
-			"ascent": -32768,
-			"height": -10,
-			"chars": [
-				"\uc000"
-			]
-		},
-		{
-			"type": "bitmap",
-			"file": "smithed.crafter:gui/negative_space.png",
-			"ascent": -32768,
-			"height": -171,
-			"chars": [
-				"\uc001"
-			]
-		},
-		{
-			"type": "bitmap",
-			"file": "smithed.crafter:gui/table.png",
-			"ascent": 14,
-			"height": 176.0,
-			"chars": [
-				"\uc002"
-			]
-		}
-	]
+  "providers": [
+    {
+      "type": "space",
+      "advances": {
+        " ": 4,
+        "\uc000": -12,
+        "\uc001": -166
+      }
+    },
+    {
+      "type": "bitmap",
+      "file": "smithed.crafter:gui/table.png",
+      "ascent": 14,
+      "height": 176.0,
+      "chars": [
+        "\uc002"
+      ]
+    }
+  ]
 }

@@ -2,7 +2,7 @@
 	"replace": false,
 	"values": [
 		"#lthc.advancenergy:air",
-		"#minecraft:carpets",
+		"#minecraft:wool_carpets",
 		"#minecraft:buttons",
 		"#minecraft:banners",
 		"#minecraft:flower_pots",
@@ -36,6 +36,7 @@
 		"minecraft:tall_seagrass",
 		"minecraft:snow",
 		"#minecraft:leaves",
-		"#minecraft:trapdoors"
+		"#minecraft:trapdoors",
+		"minecraft:moss_carpet"
 	]
 }
