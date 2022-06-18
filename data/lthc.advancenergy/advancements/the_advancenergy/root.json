@@ -1,0 +1,21 @@
+{
+    "display": {
+        "icon": {
+            "item": "barrel",
+            "nbt": "{CustomModelData: 170200}"
+        },
+        "title": {
+            "text": "The Advancenergy",
+            "color": "#d91107"
+        },
+        "description": "The Advancenergy",
+        "background": "minecraft:textures/block/red_concrete.png",
+        "show_toast": false,
+        "announce_to_chat": false
+    },
+    "criteria": {
+        "auto": {
+            "trigger": "tick"
+        }
+    }
+}
