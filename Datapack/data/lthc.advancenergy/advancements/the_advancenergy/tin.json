@@ -1,0 +1,29 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:command_block",
+      "nbt": "{CustomModelData:170201}"
+    },
+    "title": {
+      "text": "Tinager",
+      "color": "#ebebeb"
+    },
+    "description": "get some tin ingots to start your great engineer's adventure"
+  },
+  "criteria": {
+    "unlock": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:command_block"
+            ],
+            "nbt": "{ctc:{id:\"tin_ingot\",from:\"lthc.advancenergy\"}}"
+          }
+        ]
+      }
+    }
+  },
+  "parent": "lthc.advancenergy:the_advancenergy/root"
+}
