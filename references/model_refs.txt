@@ -24,6 +24,7 @@ barrel and glow_item_frame:
 	170222 : solar generator
 	170223 : potato generator
 	170224 : potato generator on
+	179999 : The Advancenergy Icon
 
 command_block:
 	170200 : raw tin

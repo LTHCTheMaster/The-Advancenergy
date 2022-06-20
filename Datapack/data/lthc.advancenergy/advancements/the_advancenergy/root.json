@@ -1,8 +1,8 @@
 {
     "display": {
         "icon": {
-            "item": "barrel",
-            "nbt": "{CustomModelData: 170200}"
+            "item": "command_block",
+            "nbt": "{CustomModelData: 179999}"
         },
         "title": {
             "text": "The Advancenergy",
@@ -11,7 +11,9 @@
         "description": "The Advancenergy",
         "background": "minecraft:textures/block/red_concrete.png",
         "show_toast": false,
-        "announce_to_chat": false
+        "announce_to_chat": false,
+        "hidden": false,
+        "frame": "challenge"
     },
     "criteria": {
         "auto": {

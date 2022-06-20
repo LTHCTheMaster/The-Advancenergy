@@ -6,9 +6,13 @@ Tin:
 	Iron
 Lead:
 	Copper
-Silver:
-	Lead
-	Copper
-	Calcite
-Aluminium :
-	Iron
+
+
+### Later
+		Silver:
+			Lead
+			Copper
+			Calcite
+		Aluminium :
+			Iron
+### Later
