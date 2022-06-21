@@ -3,6 +3,8 @@ tag @s add lthc.advancenergy.placer
 
 scoreboard players set #success lthc.advancenergy.data 0
 
+execute as @e[tag=lthc.advancenergy.destroyer,distance=..1] at @s run function lthc.advancenergy:custom/block/destroy/all
+
 execute store success score #success lthc.advancenergy.data if data storage smithed.custom_block:main blockApi{id:"lthc.advancenergy:tin_ore"} run function lthc.advancenergy:custom/block/place/ores/tin/tin_ore/main
 execute if score #success lthc.advancenergy.data matches 0 store success score #success lthc.advancenergy.data if data storage smithed.custom_block:main blockApi{id:"lthc.advancenergy:deepslate_tin_ore"} run function lthc.advancenergy:custom/block/place/ores/tin/deepslate_tin_ore/main
 execute if score #success lthc.advancenergy.data matches 0 store success score #success lthc.advancenergy.data if data storage smithed.custom_block:main blockApi{id:"lthc.advancenergy:raw_tin_block"} run function lthc.advancenergy:custom/block/place/ores/tin/raw_tin_block/main
