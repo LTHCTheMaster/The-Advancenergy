@@ -1,0 +1,11 @@
+{
+"providers": [
+{"type":"bitmap","file":"lthc.advancenergy:font/none.png","ascent":8,"height":18,"chars":["\uea00"]},
+{"type":"bitmap","file":"lthc.advancenergy:font/main_page/heavy_workbench.png","ascent":8,"height":18,"chars":["\uea01"]},
+{"type":"bitmap","file":"lthc.advancenergy:font/main_page/tin_ore.png","ascent":8,"height":18,"chars":["\uea02"]},
+{"type":"bitmap","file":"lthc.advancenergy:font/main_page/lead_ore.png","ascent":8,"height":18,"chars":["\uea03"]},
+{"type":"bitmap","file":"lthc.advancenergy:font/main_page/bronze.png","ascent":8,"height":18,"chars":["\uea04"]},
+{"type":"bitmap","file":"lthc.advancenergy:font/main_page/ash.png","ascent":8,"height":18,"chars":["\uea05"]},
+{"type":"bitmap","file":"lthc.advancenergy:font/main_page/bronze_machine_casing.png","ascent":8,"height":18,"chars":["\uea06"]}
+]
+}
