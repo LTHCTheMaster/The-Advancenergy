@@ -1,4 +1,4 @@
 scoreboard players set #tick_2 lthc.advancenergy.data 0
 clear @a cobblestone{lthc_advancenergy:{texture_item:1b}}
 #Destroy
-	execute as @a at @s as @e[tag=lthc.advancenergy.destroyer,distance=..6] at @s unless block ~ ~ ~ #lthc.advancenergy:check_destroyer run function lthc.advancenergy:custom/block/destroy/all
+	execute as @a at @s as @e[tag=lthc.advancenergy.destroyer,distance=..12] at @s unless block ~ ~ ~ #lthc.advancenergy:check_destroyer run function lthc.advancenergy:custom/block/destroy/all
