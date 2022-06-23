@@ -4,13 +4,19 @@
 
 ![latest release](https://img.shields.io/github/v/release/LTHCTheMaster/The-Advancenergy?color=green&label=Latest%20Release) ![release/pre release](https://img.shields.io/github/v/release/LTHCTheMaster/The-Advancenergy?include_prereleases&color=darkred&label=Current%20Release%20or%20Pre%20Release) ![downloads](https://img.shields.io/github/downloads/LTHCTheMaster/The-Advancenergy/total?color=cyan) ![stars](https://img.shields.io/github/stars/LTHCTheMaster/The-Advancenergy?color=gold)
 
-<img src="./Datapack/pack.png" width="64px"></img>
+<img src="./Datapack/pack.png" width="128px"></img>
 
 </div>
 
 ## 🤔 What is this?
 
 ### 📜 Features:
+
+- An energy system with cables, capacitors, generators and consumers
+- New ores and materials
+- New equipments
+- New structures
+- New advancements
 
 ### 💽 Versions
 | ✅   | 1.18.2 |
