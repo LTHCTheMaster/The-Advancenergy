@@ -10,6 +10,8 @@
 
 ## 🤔 What is this?
 
+The Advancenergy is an energy datapack inspired by <a href="https://github.com/Stoupy51/SimplEnergy">SimplEnergy</a> by <a href="https://github.com/Stoupy51">Stoupy51</a>.
+
 ### 📜 Features:
 
 - An energy system with cables, capacitors, generators and consumers
@@ -48,12 +50,12 @@ Thanks to the <a href="https://discord.me/dataworld">Dataworld</a> discord for t
 
 ## Used librairies
 
-<a href="https://github.com/Smithed-MC/Libraries">Smithed Crafter and Block API</a> by <a href="https://github.com/Smithed-MC">Smithed-MC</a>
+<a href="https://github.com/Smithed-MC/Libraries">Smithed Crafter and Block API</a> by <a href="https://github.com/Smithed-MC">Smithed-MC</a>.
 
-<a href="https://github.com/Stoupy51/DurabilityMultiplier">Durability Multiplier</a> by <a href="https://github.com/Stoupy51">Stoupy51</a>
+<a href="https://github.com/Stoupy51/DurabilityMultiplier">Durability Multiplier</a> by <a href="https://github.com/Stoupy51">Stoupy51</a>.
 
-<a href="https://github.com/Stoupy51/FurnaceNbtRecipes">Furnace Nbt Recipes</a> by <a href="https://github.com/Stoupy51">Stoupy51</a>
+<a href="https://github.com/Stoupy51/FurnaceNbtRecipes">Furnace Nbt Recipes</a> by <a href="https://github.com/Stoupy51">Stoupy51</a>.
 
-<a href="https://github.com/ICY105/DatapackEnergy">Datapack Energy</a> by <a href="https://github.com/ICY105">ICY105</a>
+<a href="https://github.com/ICY105/DatapackEnergy">Datapack Energy</a> by <a href="https://github.com/ICY105">ICY105</a>.
 
-<a href="https://github.com/LanternMC/load">Lantern Load</a> by <a href="https://github.com/LanternMC">LanternMC</a>
+<a href="https://github.com/LanternMC/load">Lantern Load</a> by <a href="https://github.com/LanternMC">LanternMC</a>.
