@@ -2,13 +2,13 @@
     "display": {
       "icon": {
         "item": "minecraft:barrel",
-        "nbt": "{CustomModelData:170204}"
+        "nbt": "{CustomModelData:170208}"
       },
       "title": {
-        "text": "Burn, Burn, Burn forever",
-        "color": "#9c0c03"
+        "text": "Fast Mineral Cave",
+        "color": "#398174"
       },
-      "description": "create your first source of energy, a carbon generator",
+      "description": "grab a mineral extracting machine",
       "hidden": false,
       "frame": "task",
       "announce_to_chat": false,
@@ -23,11 +23,11 @@
               "items": [
                 "minecraft:barrel"
               ],
-              "nbt": "{ctc:{id:\"carbon_generator\",from:\"lthc.advancenergy\"}}"
+              "nbt": "{ctc:{id:\"mineral_extracting_machine\",from:\"lthc.advancenergy\"}}"
             }
           ]
         }
       }
     },
-    "parent": "lthc.advancenergy:the_advancenergy/tin"
+    "parent": "lthc.advancenergy:the_advancenergy/ash"
   }

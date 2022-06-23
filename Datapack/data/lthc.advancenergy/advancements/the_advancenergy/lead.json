@@ -1,14 +1,14 @@
 {
     "display": {
       "icon": {
-        "item": "minecraft:barrel",
-        "nbt": "{CustomModelData:170204}"
+        "item": "minecraft:command_block",
+        "nbt": "{CustomModelData:170205}"
       },
       "title": {
-        "text": "Burn, Burn, Burn forever",
-        "color": "#9c0c03"
+        "text": "Lead or not to lead?",
+        "color": "#5b1e96"
       },
-      "description": "create your first source of energy, a carbon generator",
+      "description": "get some lead ingots to improve your machines",
       "hidden": false,
       "frame": "task",
       "announce_to_chat": false,
@@ -21,13 +21,13 @@
           "items": [
             {
               "items": [
-                "minecraft:barrel"
+                "minecraft:command_block"
               ],
-              "nbt": "{ctc:{id:\"carbon_generator\",from:\"lthc.advancenergy\"}}"
+              "nbt": "{ctc:{id:\"lead_ingot\",from:\"lthc.advancenergy\"}}"
             }
           ]
         }
       }
     },
-    "parent": "lthc.advancenergy:the_advancenergy/tin"
+    "parent": "lthc.advancenergy:the_advancenergy/root"
   }

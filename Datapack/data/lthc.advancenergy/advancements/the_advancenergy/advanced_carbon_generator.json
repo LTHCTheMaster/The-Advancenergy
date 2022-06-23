@@ -2,16 +2,16 @@
     "display": {
       "icon": {
         "item": "minecraft:barrel",
-        "nbt": "{CustomModelData:170204}"
+        "nbt": "{CustomModelData:170215}"
       },
       "title": {
-        "text": "Burn, Burn, Burn forever",
+        "text": "Better Burning, Lennon",
         "color": "#9c0c03"
       },
-      "description": "create your first source of energy, a carbon generator",
+      "description": "upgrade the burning efficiency by upgrading\nyour carbon generator and getting\nan advanced carbon generator",
       "hidden": false,
-      "frame": "task",
-      "announce_to_chat": false,
+      "frame": "goal",
+      "announce_to_chat": true,
       "show_toast": true
     },
     "criteria": {
@@ -23,11 +23,11 @@
               "items": [
                 "minecraft:barrel"
               ],
-              "nbt": "{ctc:{id:\"carbon_generator\",from:\"lthc.advancenergy\"}}"
+              "nbt": "{ctc:{id:\"advanced_carbon_generator\",from:\"lthc.advancenergy\"}}"
             }
           ]
         }
       }
     },
-    "parent": "lthc.advancenergy:the_advancenergy/tin"
+    "parent": "lthc.advancenergy:the_advancenergy/carbon_generator"
   }
