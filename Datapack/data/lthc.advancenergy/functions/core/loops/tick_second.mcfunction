@@ -1,6 +1,6 @@
 #Others
-	scoreboard players set #second lthc.advancenergy.data 0
-	execute as @e[tag=lthc.advancenergy.destroyer,sort=random,limit=100] at @s unless block ~ ~ ~ #lthc.advancenergy:check_destroyer run function lthc.advancenergy:custom/block/destroy/all
+	scoreboard players set #second lthc.advancenergy.data 3
+	execute as @e[tag=lthc.advancenergy.destroyer] at @s unless block ~ ~ ~ #lthc.advancenergy:check_destroyer run function lthc.advancenergy:custom/block/destroy/all
 	execute as @e[tag=lthc.advancenergy.is_machine,sort=random] at @s run function lthc.advancenergy:ticking/tick_second_machine
 
 # Special
