@@ -5,6 +5,8 @@
 		}
 	},
 	"rewards": {
-		
+		"loot": [
+			"lthc.advancenergy:i/guide/guide"
+		]
 	}
 }
