@@ -1,0 +1,26 @@
+{
+    "display": {
+        "icon": {
+            "item": "command_block",
+            "nbt": "{CustomModelData: 179999}"
+        },
+        "title": {
+            "text": "Hidden",
+            "color": "#0711d9"
+        },
+        "description": "The Advancenergy",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": true,
+        "frame": "challenge"
+    },
+    "criteria": {
+        "nope": {
+            "trigger": "impossible"
+        }
+    },
+    "parent": "lthc.advancenergy:the_advancenergy/root",
+    "rewards": {
+        "function": "lthc.advancenergy:utils/remove_hidden"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "display": {
+        "icon": {
+            "item": "comparator"
+        },
+        "title": {
+            "text": "Be Logical",
+            "color": "#0711d9"
+        },
+        "description": "Discovery: a carbon generator above a dust generator auto fuel the dust generator with ash",
+        "show_toast": true,
+        "announce_to_chat": false,
+        "hidden": true,
+        "frame": "task"
+    },
+    "criteria": {
+        "nope": {
+            "trigger": "impossible"
+        }
+    },
+    "parent": "lthc.advancenergy:hidden/hidden"
+}
