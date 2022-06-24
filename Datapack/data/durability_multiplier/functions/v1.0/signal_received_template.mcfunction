@@ -7,17 +7,17 @@
 
 
 
-#Example taken from lthc.advancenergy data pack
+#Example taken from SimplEnergy data pack
 #Custom durability for Simplunium Armor & Tools (x7 leather armor & x1.2 diamond tools)
 #Offhand durability here is useless because no diamond tools can be used in offhand
 	scoreboard players set #multiplier durability_multiplier.data 7000
-	execute if score #head_valid durability_multiplier.data matches 1 if data storage durability_multiplier:main head{tag:{lthc.advancenergy:{simplunium:1b}}} run function durability_multiplier:v1.0/technical/head
-	execute if score #chest_valid durability_multiplier.data matches 1 if data storage durability_multiplier:main chest{tag:{lthc.advancenergy:{simplunium:1b}}} run function durability_multiplier:v1.0/technical/chest
-	execute if score #legs_valid durability_multiplier.data matches 1 if data storage durability_multiplier:main legs{tag:{lthc.advancenergy:{simplunium:1b}}} run function durability_multiplier:v1.0/technical/legs
-	execute if score #feet_valid durability_multiplier.data matches 1 if data storage durability_multiplier:main feet{tag:{lthc.advancenergy:{simplunium:1b}}} run function durability_multiplier:v1.0/technical/feet
+	execute if score #head_valid durability_multiplier.data matches 1 if data storage durability_multiplier:main head{tag:{simplenergy:{simplunium:1b}}} run function durability_multiplier:v1.0/technical/head
+	execute if score #chest_valid durability_multiplier.data matches 1 if data storage durability_multiplier:main chest{tag:{simplenergy:{simplunium:1b}}} run function durability_multiplier:v1.0/technical/chest
+	execute if score #legs_valid durability_multiplier.data matches 1 if data storage durability_multiplier:main legs{tag:{simplenergy:{simplunium:1b}}} run function durability_multiplier:v1.0/technical/legs
+	execute if score #feet_valid durability_multiplier.data matches 1 if data storage durability_multiplier:main feet{tag:{simplenergy:{simplunium:1b}}} run function durability_multiplier:v1.0/technical/feet
 	scoreboard players set #multiplier durability_multiplier.data 1200
-	execute if score #mainhand_valid durability_multiplier.data matches 1 if data storage durability_multiplier:main mainhand{tag:{lthc.advancenergy:{simplunium:1b}}} run function durability_multiplier:v1.0/technical/mainhand
-	#execute if score #offhand_valid durability_multiplier.data matches 1 if data storage durability_multiplier:main offhand{tag:{lthc.advancenergy:{simplunium:1b}}} run function durability_multiplier:v1.0/technical/offhand
+	execute if score #mainhand_valid durability_multiplier.data matches 1 if data storage durability_multiplier:main mainhand{tag:{simplenergy:{simplunium:1b}}} run function durability_multiplier:v1.0/technical/mainhand
+	#execute if score #offhand_valid durability_multiplier.data matches 1 if data storage durability_multiplier:main offhand{tag:{simplenergy:{simplunium:1b}}} run function durability_multiplier:v1.0/technical/offhand
 
 
 #Example that multiply every elytra durability on the server by 2

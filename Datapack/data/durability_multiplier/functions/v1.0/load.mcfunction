@@ -1,3 +1,4 @@
+
 #Objectives initialization
 scoreboard objectives add durability_multiplier.data dummy
 scoreboard objectives add durability_multiplier.head dummy
