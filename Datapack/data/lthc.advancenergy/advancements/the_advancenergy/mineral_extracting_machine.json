@@ -8,7 +8,7 @@
         "text": "Fast Mineral Cave",
         "color": "#398174"
       },
-      "description": "grab a mineral extracting machine",
+      "description": "Grab a mineral Extracting Machine.",
       "hidden": false,
       "frame": "task",
       "announce_to_chat": false,

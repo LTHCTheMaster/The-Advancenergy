@@ -8,7 +8,7 @@
         "text": "Ash, Catch'em all",
         "color": "#802019"
       },
-      "description": "catch(get) some ash from your new carbon generator",
+      "description": "Catch(get) some Ash from your new carbon generator.",
       "hidden": false,
       "frame": "goal",
       "announce_to_chat": false,

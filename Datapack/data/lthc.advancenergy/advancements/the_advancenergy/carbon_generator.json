@@ -8,7 +8,7 @@
         "text": "Burn, Burn, Burn forever",
         "color": "#9c0c03"
       },
-      "description": "create your first source of energy, a carbon generator",
+      "description": "Create your first source of energy, a Carbon Generator.",
       "hidden": false,
       "frame": "task",
       "announce_to_chat": false,

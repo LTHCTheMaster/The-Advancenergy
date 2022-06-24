@@ -7,4 +7,6 @@ tag @s remove lthc.advancenergy.set_new
 #Call on a new machine to initialize its connections
 function energy:v1/api/init_machine
 
-execute positioned ~ ~-1 ~ if entity @e[tag=lthc.advancenergy.dust_generator,distance=..1] run advancement grant @p[tag=lthc.advancenergy.placer] only lthc.advancenergy:hidden/be_logical
+function lthc.advancenergy:controller/visual/carbon_generator_2
+
+execute positioned ~ ~-1 ~ if entity @e[tag=lthc.advancenergy.dust_generator,distance=..1] run advancement grant @p[tag=lthc.advancenergy.placer] only lthc.advancenergy:hidden_progress/be_logical

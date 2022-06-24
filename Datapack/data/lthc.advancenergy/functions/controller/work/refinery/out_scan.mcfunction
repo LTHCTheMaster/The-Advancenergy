@@ -28,3 +28,6 @@ data remove storage lthc.advancenergy:main RefineryCurrent
 
 # Modify the block
 data modify block ~ ~ ~ Items set from storage lthc.advancenergy:main Items
+
+# Update the GUI
+function lthc.advancenergy:controller/visual/refinery_2

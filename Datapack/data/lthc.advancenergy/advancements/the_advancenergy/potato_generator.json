@@ -8,7 +8,7 @@
         "text": "Why Fucking Potatoes?",
         "color": "#efeab5"
       },
-      "description": "create your first special source of energy, a potato generator",
+      "description": "Create your first special source of energy, a Potato Generator.",
       "hidden": false,
       "frame": "goal",
       "announce_to_chat": true,

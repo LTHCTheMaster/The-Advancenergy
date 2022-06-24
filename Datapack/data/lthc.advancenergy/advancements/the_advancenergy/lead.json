@@ -8,7 +8,7 @@
         "text": "Lead or not to lead?",
         "color": "#5b1e96"
       },
-      "description": "get some lead ingots to improve your machines",
+      "description": "Get some Lead Ingots to improve your machines.",
       "hidden": false,
       "frame": "task",
       "announce_to_chat": false,

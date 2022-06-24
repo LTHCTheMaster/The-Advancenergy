@@ -7,7 +7,7 @@
             "text": "Use The Old",
             "color": "#0711d9"
         },
-        "description": "Place a dust generator and a mineral extracting machine in a tin shed",
+        "description": "Place a Dust Generator and a Mineral Extracting Machine in a Tin Shed.",
         "show_toast": true,
         "announce_to_chat": false,
         "hidden": true,

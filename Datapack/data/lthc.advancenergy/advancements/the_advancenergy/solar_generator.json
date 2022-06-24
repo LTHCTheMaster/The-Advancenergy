@@ -8,7 +8,7 @@
         "text": "Ultima Victor Solem",
         "color": "#fcdc5c"
       },
-      "description": "create your first natural source of energy, a solar generator",
+      "description": "Create your first natural source of energy, a Solar Generator.",
       "hidden": false,
       "frame": "task",
       "announce_to_chat": true,

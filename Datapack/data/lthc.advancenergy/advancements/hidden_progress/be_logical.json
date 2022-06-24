@@ -7,7 +7,7 @@
             "text": "Be Logical",
             "color": "#0711d9"
         },
-        "description": "Discovery: a carbon generator above a dust generator auto fuel the dust generator with ash",
+        "description": "Discovery: a Carbon Generator above a Dust Generator auto fuel the Dust Generator with Ash.",
         "show_toast": true,
         "announce_to_chat": false,
         "hidden": true,

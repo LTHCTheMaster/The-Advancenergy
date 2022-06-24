@@ -8,7 +8,7 @@
       "text": "Tinager",
       "color": "#ebebeb"
     },
-    "description": "get some tin ingots to start your great engineer's adventure",
+    "description": "Get some Tin Ingots to start your great engineer's adventure.",
     "hidden": false,
     "frame": "task",
     "announce_to_chat": false,

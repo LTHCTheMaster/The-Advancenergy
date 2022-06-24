@@ -6,3 +6,5 @@ scoreboard players add @s lthc.advancenergy.overheating 0
 tag @s remove lthc.advancenergy.set_new
 #Call on a new machine to initialize its connections
 function energy:v1/api/init_machine
+
+function lthc.advancenergy:controller/visual/potato_generator_2

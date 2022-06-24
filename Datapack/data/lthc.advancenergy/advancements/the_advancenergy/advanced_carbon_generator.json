@@ -8,7 +8,7 @@
         "text": "Better Burning, Lennon",
         "color": "#9c0c03"
       },
-      "description": "upgrade the burning efficiency by upgrading\nyour carbon generator and getting\nan advanced carbon generator",
+      "description": "Upgrade the burning efficiency by upgrading\nyour Carbon Generator and getting\nan Advanced Carbon Generator.",
       "hidden": false,
       "frame": "goal",
       "announce_to_chat": true,

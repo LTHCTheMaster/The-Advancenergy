@@ -26,6 +26,6 @@ execute if score #success lthc.advancenergy.data matches 0 store success score #
 execute if score #success lthc.advancenergy.data matches 0 store success score #success lthc.advancenergy.data if data storage smithed.custom_block:main blockApi{id:"lthc.advancenergy:solar_generator"} run function lthc.advancenergy:custom/block/place/solar_generator/main
 execute if score #success lthc.advancenergy.data matches 0 store success score #success lthc.advancenergy.data if data storage smithed.custom_block:main blockApi{id:"lthc.advancenergy:potato_generator"} run function lthc.advancenergy:custom/block/place/potato_generator/main
 
-execute if score #success lthc.advancenergy.data matches 1 positioned ~ ~-1 ~ if block ~ ~ ~ hopper run data modify block ~ ~ ~ TransferCooldown set value 12
+execute if score #success lthc.advancenergy.data matches 1 positioned ~ ~-1 ~ if block ~ ~ ~ hopper run data modify block ~ ~ ~ TransferCooldown set value 100
 
 tag @s remove lthc.advancenergy.placer

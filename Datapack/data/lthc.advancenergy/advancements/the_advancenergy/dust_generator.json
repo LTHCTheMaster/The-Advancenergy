@@ -8,7 +8,7 @@
         "text": "Dust and Ash can burn??",
         "color": "#c9c1b5"
       },
-      "description": "Get a dust generator to recycle your ash\ninto energy",
+      "description": "Get a Dust Generator to recycle your ash\ninto energy.",
       "hidden": false,
       "frame": "challenge",
       "announce_to_chat": true,
