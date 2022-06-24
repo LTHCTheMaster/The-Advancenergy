@@ -1,0 +1,21 @@
+{
+    "display": {
+      "icon": {
+        "item": "minecraft:diamond"
+      },
+      "title": {
+        "text": ""
+      },
+      "description": "",
+      "hidden": false,
+      "frame": "task",
+      "announce_to_chat": false,
+      "show_toast": false
+    },
+    "criteria": {
+      "unlock": {
+        "trigger": "minecraft:tick"
+      }
+    },
+    "parent": "lthc.advancenergy:the_advancenergy/refinery"
+  }
