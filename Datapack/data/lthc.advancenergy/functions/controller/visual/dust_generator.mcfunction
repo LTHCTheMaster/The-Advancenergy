@@ -1,5 +1,4 @@
-execute if predicate lthc.advancenergy:is_barrel_open run function lthc.advancenergy:controller/shift_click/dust_generator
-execute if score @s energy.storage < @s energy.max_storage run function lthc.advancenergy:controller/work/dust_generator/main
+function lthc.advancenergy:controller/work/dust_generator/main
 execute if predicate lthc.advancenergy:is_barrel_open run function lthc.advancenergy:controller/visual/dust_generator_2
 
 #Update model depends on BurnTime (on/off)

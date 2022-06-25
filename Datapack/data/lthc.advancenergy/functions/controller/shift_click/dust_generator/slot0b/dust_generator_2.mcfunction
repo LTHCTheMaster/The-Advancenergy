@@ -3,3 +3,4 @@ data modify storage lthc.advancenergy:main GUI[{Slot:13b}].id set from storage l
 data modify storage lthc.advancenergy:main GUI[{Slot:13b}].Count set from storage lthc.advancenergy:main GUI[{Slot:0b}].Count
 data modify storage lthc.advancenergy:main GUI[{Slot:13b}].tag set from storage lthc.advancenergy:main GUI[{Slot:0b}].tag
 data modify storage lthc.advancenergy:main GUI[{Slot:0b}].id set value "minecraft:air"
+scoreboard players set #success lthc.advancenergy.data 1
