@@ -49,54 +49,85 @@
 		{"text":"\\uea00","color":"white","font":"lthc.advancenergy:book","hoverEvent": {"action": "show_text","contents":"Primitive Capacitor"},"clickEvent": {"action": "change_page", "value": "18"}}
 	]',
 	'[
-		{"text":"\\uea12","color":"white","font":"lthc.advancenergy:book"}
+		{"text":"Heavy Workbench\\n","color":"#0000aa"},
+		{"text":"\\uea12","color":"white","font":"lthc.advancenergy:book"},
+		{"text":"\\n\\n\\n\\n\\n\\nThe ultimate Holy Grail of technology, without this workbench you do nothing","color":"black"}
 	]',
 	'[
-		{"text":"Tin ore can be found in every world containing stone between world bottom and layer 40"}
+		{"text":"Tin\\n","color":"#00aa00"},
+		{"text":"\\n\\nTin ore can be found in every world containing stone between world bottom and layer 40","color":"black"}
 	]',
 	'[
-		{"text":"Lead ore can be found in every world containing stone between world bottom and layer 52"}
+		{"text":"Lead\\n","color":"#00aa00"},
+		{"text":"\\n\\nLead ore can be found in every world containing stone between world bottom and layer 52","color":"black"}
 	]',
 	'[
-		{"text":"\\uea13","color":"white","font":"lthc.advancenergy:book"}
+		{"text":"Bronze\\n","color":"#aa0000"},
+		{"text":"\\uea13","color":"white","font":"lthc.advancenergy:book"},
+		{"text":"\\n\\n\\n\\n\\n\\nA usefull material created with tin and copper","color":"black"}
 	]',
 	'[
-		{"text":"Ash is a Carbon Generators\' waste"}
+		{"text":"Ash\\n","color":"#00aa00"},
+		{"text":"\\n\\nAsh is a Carbon Generators\' waste","color":"black"}
 	]',
 	'[
-		{"text":"\\uea14","color":"white","font":"lthc.advancenergy:book"}
+		{"text":"Bronze Machine Casing\\n","color":"#aa0000"},
+		{"text":"\\uea14","color":"white","font":"lthc.advancenergy:book"},
+		{"text":"\\n\\n\\n\\n\\n\\nA usefull machine component","color":"black"}
 	]',
 	'[
-		{"text":"\\uea15","color":"white","font":"lthc.advancenergy:book"}
+		{"text":"Tin Stuff\\n","color":"#aa0000"},
+		{"text":"\\uea15","color":"white","font":"lthc.advancenergy:book"},
+		{"text":"\\n\\n\\n\\n\\n\\nYou can use tin to craft regular stuff and tools","color":"black"}
 	]',
 	'[
-		{"text":"\\uea16","color":"white","font":"lthc.advancenergy:book"}
+		{"text":"Lead Stuff\\n","color":"#aa0000"},
+		{"text":"\\uea16","color":"white","font":"lthc.advancenergy:book"},
+		{"text":"\\n\\n\\n\\n\\n\\nYou can use lead to craft regular stuff and tools","color":"black"}
 	]',
 	'[
-		{"text":"\\uea17","color":"white","font":"lthc.advancenergy:book"}
+		{"text":"Carbon Generator\\n","color":"#aa0000"},
+		{"text":"\\uea17","color":"white","font":"lthc.advancenergy:book"},
+		{"text":"\\n\\n\\n\\n\\n\\n[Cooling Required]\\n[Generate: 25kW]\\n[Buffer: 2MJ]","color":"black"}
 	]',
 	'[
-		{"text":"\\uea18","color":"white","font":"lthc.advancenergy:book"}
+		{"text":"Advanced Carbon Generator\\n","color":"#aa0000"},
+		{"text":"\\uea18","color":"white","font":"lthc.advancenergy:book"},
+		{"text":"\\n\\n\\n\\n\\n\\n[Cooling Required]\\n[Generate: 66kW]\\n[Buffer: 19.8MJ]","color":"black"}
 	]',
 	'[
-		{"text":"\\uea19","color":"white","font":"lthc.advancenergy:book"}
+		{"text":"Dust Generator\\n","color":"#aa0000"},
+		{"text":"\\uea19","color":"white","font":"lthc.advancenergy:book"},
+		{"text":"\\n\\n\\n\\n\\n\\n[Generate: 18-23kW]\\n[Buffer: 6.5MJ]","color":"black"}
 	]',
 	'[
-		{"text":"\\uea1a","color":"white","font":"lthc.advancenergy:book"}
+		{"text":"Solar Generator\\n","color":"#aa0000"},
+		{"text":"\\uea1a","color":"white","font":"lthc.advancenergy:book"},
+		{"text":"\\n\\n\\n\\n\\n\\n[Generate: 28kW]\\n[Buffer: 2MJ]","color":"black"}
 	]',
 	'[
-		{"text":"\\uea1b","color":"white","font":"lthc.advancenergy:book"}
+		{"text":"Potato Generator\\n","color":"#aa0000"},
+		{"text":"\\uea1b","color":"white","font":"lthc.advancenergy:book"},
+		{"text":"\\n\\n\\n\\n\\n\\n[Generate: 10-15kW]\\n[Buffer: 6.5MJ]","color":"black"}
 	]',
 	'[
-		{"text":"\\uea1c","color":"white","font":"lthc.advancenergy:book"}
+		{"text":"Mineral Extracting Machine\\n","color":"#aa0000"},
+		{"text":"\\uea1c","color":"white","font":"lthc.advancenergy:book"},
+		{"text":"\\n\\n\\n\\n\\n\\n[Power Usage: 5kW]\\n[Buffer: 300kJ]","color":"black"}
 	]',
 	'[
-		{"text":"\\uea1d","color":"white","font":"lthc.advancenergy:book"}
+		{"text":"Refinery\\n","color":"#aa0000"},
+		{"text":"\\uea1d","color":"white","font":"lthc.advancenergy:book"},
+		{"text":"\\n\\n\\n\\n\\n\\n[Power Usage: 33kW]\\n[Buffer: 999kJ]","color":"black"}
 	]',
 	'[
-		{"text":"\\uea1e","color":"white","font":"lthc.advancenergy:book"}
+		{"text":"Primitive Cable\\n","color":"#aa0000"},
+		{"text":"\\uea1e","color":"white","font":"lthc.advancenergy:book"},
+		{"text":"\\n\\n\\n\\n\\n\\n[Transfer: 25kW]","color":"black"}
 	]',
 	'[
-		{"text":"\\uea1f","color":"white","font":"lthc.advancenergy:book"}
+		{"text":"Primitive Capacitor\\n","color":"#aa0000"},
+		{"text":"\\uea1f","color":"white","font":"lthc.advancenergy:book"},
+		{"text":"\\n\\n\\n\\n\\n\\n[Energy Storage: 120MJ]","color":"black"}
 	]'
 ]
