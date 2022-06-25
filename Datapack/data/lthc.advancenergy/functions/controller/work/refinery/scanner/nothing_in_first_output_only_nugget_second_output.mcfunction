@@ -11,5 +11,8 @@ execute if score #already2 lthc.advancenergy.data matches 0 store success score 
 # Lead
 execute if score #already2 lthc.advancenergy.data matches 0 store success score #already2 lthc.advancenergy.data if data storage lthc.advancenergy:main Items[{Slot:16b,tag:{lthc_advancenergy:{lead_nugget:1b}}}] if data storage lthc.advancenergy:main Items[{Slot:10b,tag:{lthc_advancenergy:{lead_source:1b}}}] run function lthc.advancenergy:controller/work/refinery/scanner/accept_input/lead
 
+# SimplEnergy Compatibility
+execute if score #laready2 lthc.advancenergy.data matches 0 if score SimplEnergy load.status matches 1090 run function lthc.advancenergy:controller/work/refinery/scanner/simplenergy_compatibility/nothing_in_first_output_only_nugget_second_output
+
 # From other packs
 function #lthc.advancenergy:calls/count/foe_sob2
