@@ -2,6 +2,7 @@ execute as @e[tag=lthc.advancenergy.destroyer] run function lthc.advancenergy:un
 execute as @e[type=marker,tag=lthc.advancenergy] run function lthc.advancenergy:utils/try_unload
 kill @e[type=marker,tag=lthc.advancenergy]
 kill @e[tag=lthc.advancenergy.chunk_scan]
+kill @e[type=marker,tag=lthc.advancenergy.is_a_marker]
 clear @a #lthc.advancenergy:items{ctc:{from:"lthc.advancenergy"}}
 function lthc.advancenergy:uninstall/under/remove_score
 function lthc.advancenergy:uninstall/under/clear_storage

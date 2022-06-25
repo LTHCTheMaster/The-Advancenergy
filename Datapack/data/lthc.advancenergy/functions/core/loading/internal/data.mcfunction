@@ -30,6 +30,23 @@
 #define score_holder #ydaerla
 #define score_holder #bomb_config
 
+###########
+kill @e[type=marker,tag=lthc.advancenergy.is_a_marker]
+summon marker ~ ~ ~ {Tags:["global.ignore","global.ignore.kill","lthc.advancenergy.is_a_marker"]}
+summon marker ~ ~ ~ {Tags:["global.ignore","global.ignore.kill","lthc.advancenergy.is_a_marker"]}
+summon marker ~ ~ ~ {Tags:["global.ignore","global.ignore.kill","lthc.advancenergy.is_a_marker"]}
+summon marker ~ ~ ~ {Tags:["global.ignore","global.ignore.kill","lthc.advancenergy.is_a_marker"]}
+summon marker ~ ~ ~ {Tags:["global.ignore","global.ignore.kill","lthc.advancenergy.is_a_marker"]}
+summon marker ~ ~ ~ {Tags:["global.ignore","global.ignore.kill","lthc.advancenergy.is_a_marker"]}
+summon marker ~ ~ ~ {Tags:["global.ignore","global.ignore.kill","lthc.advancenergy.is_a_marker"]}
+summon marker ~ ~ ~ {Tags:["global.ignore","global.ignore.kill","lthc.advancenergy.is_a_marker"]}
+summon marker ~ ~ ~ {Tags:["global.ignore","global.ignore.kill","lthc.advancenergy.is_a_marker"]}
+summon marker ~ ~ ~ {Tags:["global.ignore","global.ignore.kill","lthc.advancenergy.is_a_marker"]}
+summon marker ~ ~ ~ {Tags:["global.ignore","global.ignore.kill","lthc.advancenergy.is_a_marker"]}
+summon marker ~ ~ ~ {Tags:["global.ignore","global.ignore.kill","lthc.advancenergy.is_a_marker"]}
+summon marker ~ ~ ~ {Tags:["global.ignore","global.ignore.kill","lthc.advancenergy.is_a_marker"]}
+###########
+
 function lthc.advancenergy:core/loading/internal/scores
 
 scoreboard players set #1000000000 lthc.advancenergy.data 1000000000

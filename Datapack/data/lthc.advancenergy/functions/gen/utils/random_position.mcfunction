@@ -4,8 +4,8 @@
 #Define a -/+ value offset randomly with UUID.
 #I multiply values by 10 to keep a digit after decimal.
 #Init values
-	summon area_effect_cloud ~ ~ ~ {Tags:["lthc.advancenergy.temp"],Duration:0}
-	execute as @e[tag=lthc.advancenergy.temp,limit=1] run function lthc.advancenergy:gen/utils/fill_storage
+	summon area_effect_cloud ~ ~ ~ {Tags:["lthc.advancenergy.temp"],Duration:0,UUID:[I;170200,170200,170200,170200]}
+	execute as 000298d8-0002-98d8-0002-98d8000298d8 run function lthc.advancenergy:gen/utils/fill_storage
 	
 	execute store result score #x.random lthc.advancenergy.data run data get storage lthc.advancenergy:main temp[0]
 	execute store result score #z.random lthc.advancenergy.data run data get storage lthc.advancenergy:main temp[2]
