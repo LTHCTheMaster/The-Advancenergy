@@ -42,10 +42,10 @@ command_block:
 	170209 : bronze machine casing
 	170210 : tin machine casing
 	170211 : lead machine casing
-	170211 : raw silver
-	170211 : silver ingot
-	170211 : silver nugget
-	170211 : silver machine casing
+	170212 : raw silver
+	170213 : silver ingot
+	170214 : silver nugget
+	170215 : silver machine casing
 	179999 : The Advancenergy Icon
 
 leather_helmet:
