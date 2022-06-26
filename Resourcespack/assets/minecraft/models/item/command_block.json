@@ -11,6 +11,8 @@
 		{ "predicate": { "custom_model_data": 170207 }, "model": "lthc.advancenergy:materials/bronze_ingot" },
 		{ "predicate": { "custom_model_data": 170208 }, "model": "lthc.advancenergy:materials/bronze_nugget" },
 		{ "predicate": { "custom_model_data": 170209 }, "model": "lthc.advancenergy:materials/bronze_machine_casing" },
+		{ "predicate": { "custom_model_data": 170210 }, "model": "lthc.advancenergy:ores/tin/tin_machine_casing" },
+		{ "predicate": { "custom_model_data": 170211 }, "model": "lthc.advancenergy:ores/lead/lead_machine_casing" },
 
 
 
