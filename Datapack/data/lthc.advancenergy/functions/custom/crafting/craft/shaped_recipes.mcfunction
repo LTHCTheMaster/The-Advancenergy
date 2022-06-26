@@ -38,6 +38,14 @@ execute store result score @s smithed.data if entity @s[scores={smithed.data=0}]
 # Lead Shovel
 execute store result score @s smithed.data if entity @s[scores={smithed.data=0}] if data storage smithed.crafter:main root.temp{crafting_input:{0:[{Slot:0b,tag:{ctc:{id:"lead_ingot"}}},{Slot:1b,id:"minecraft:air"},{Slot:2b,id:"minecraft:air"}],1:[{Slot:0b,id:"minecraft:stick"},{Slot:1b,id:"minecraft:air"},{Slot:2b,id:"minecraft:air"}],2:[{Slot:0b,id:"minecraft:stick"},{Slot:1b,id:"minecraft:air"},{Slot:2b,id:"minecraft:air"}]}} run loot replace block ~ ~ ~ container.16 loot lthc.advancenergy:i/equipments/lead_shovel
 
+## Other Tin Things
+# Tin Machine Casing
+execute store result score @s smithed.data if entity @s[scores={smithed.data=0}] if data storage smithed.crafter:main root.temp{crafting_input:{0:[{Slot:0b,tag:{ctc:{id:"tin_ingot"}}},{Slot:1b,tag:{ctc:{id:"tin_ingot"}}},{Slot:2b,tag:{ctc:{id:"tin_ingot"}}}],1:[{Slot:0b,tag:{ctc:{id:"tin_ingot"}}},{Slot:1b,id:"minecraft:redstone_block"},{Slot:2b,tag:{ctc:{id:"tin_ingot"}}}],2:[{Slot:0b,tag:{ctc:{id:"tin_ingot"}}},{Slot:1b,tag:{ctc:{id:"tin_ingot"}}},{Slot:2b,tag:{ctc:{id:"tin_ingot"}}}]}} run loot replace block ~ ~ ~ container.16 loot lthc.advancenergy:i/ores/tin/tin_machine_casing
+
+## Other Lead Things
+# Lead Machine Casing
+execute store result score @s smithed.data if entity @s[scores={smithed.data=0}] if data storage smithed.crafter:main root.temp{crafting_input:{0:[{Slot:0b,tag:{ctc:{id:"lead_ingot"}}},{Slot:1b,tag:{ctc:{id:"lead_ingot"}}},{Slot:2b,tag:{ctc:{id:"lead_ingot"}}}],1:[{Slot:0b,tag:{ctc:{id:"lead_ingot"}}},{Slot:1b,tag:{ctc:{id:"tin_machine_casing"}}},{Slot:2b,tag:{ctc:{id:"lead_ingot"}}}],2:[{Slot:0b,tag:{ctc:{id:"lead_ingot"}}},{Slot:1b,tag:{ctc:{id:"lead_ingot"}}},{Slot:2b,tag:{ctc:{id:"lead_ingot"}}}]}} run loot replace block ~ ~ ~ container.16 loot lthc.advancenergy:i/ores/lead/lead_machine_casing
+
 ## Generators and Machines
 # Carbon Generator
 execute store result score @s smithed.data if entity @s[scores={smithed.data=0}] if data storage smithed.crafter:main root.temp{crafting_input:{0:[{Slot:0b,tag:{ctc:{id:"tin_ingot"}}},{Slot:1b,tag:{ctc:{id:"tin_block"}}},{Slot:2b,tag:{ctc:{id:"tin_ingot"}}}],1:[{Slot:0b,tag:{ctc:{id:"tin_block"}}},{Slot:1b,id:"minecraft:blast_furnace"},{Slot:2b,tag:{ctc:{id:"tin_block"}}}],2:[{Slot:0b,tag:{ctc:{id:"tin_ingot"}}},{Slot:1b,tag:{ctc:{id:"tin_block"}}},{Slot:2b,tag:{ctc:{id:"tin_ingot"}}}]}} run loot replace block ~ ~ ~ container.16 loot lthc.advancenergy:i/machine/carbon_generator
@@ -64,6 +72,6 @@ execute store result score @s smithed.data if entity @s[scores={smithed.data=0}]
 
 ## Materials
 # Bronze Machine Casing
-execute store result score @s smithed.data if entity @s[scores={smithed.data=0}] if data storage smithed.crafter:main root.temp{crafting_input:{0:[{Slot:0b,tag:{ctc:{id:"bronze_ingot"}}},{Slot:1b,tag:{ctc:{id:"bronze_ingot"}}},{Slot:2b,tag:{ctc:{id:"bronze_ingot"}}}],1:[{Slot:0b,tag:{ctc:{id:"bronze_ingot"}}},{Slot:1b,id:"minecraft:redstone_block"},{Slot:2b,tag:{ctc:{id:"bronze_ingot"}}}],2:[{Slot:0b,tag:{ctc:{id:"bronze_ingot"}}},{Slot:1b,tag:{ctc:{id:"bronze_ingot"}}},{Slot:2b,tag:{ctc:{id:"bronze_ingot"}}}]}} run loot replace block ~ ~ ~ container.16 loot lthc.advancenergy:i/materials/bronze_machine_casing
+execute store result score @s smithed.data if entity @s[scores={smithed.data=0}] if data storage smithed.crafter:main root.temp{crafting_input:{0:[{Slot:0b,tag:{ctc:{id:"bronze_ingot"}}},{Slot:1b,tag:{ctc:{id:"bronze_ingot"}}},{Slot:2b,tag:{ctc:{id:"bronze_ingot"}}}],1:[{Slot:0b,tag:{ctc:{id:"bronze_ingot"}}},{Slot:1b,tag:{ctc:{id:"lead_machine_casing"}}},{Slot:2b,tag:{ctc:{id:"bronze_ingot"}}}],2:[{Slot:0b,tag:{ctc:{id:"bronze_ingot"}}},{Slot:1b,tag:{ctc:{id:"bronze_ingot"}}},{Slot:2b,tag:{ctc:{id:"bronze_ingot"}}}]}} run loot replace block ~ ~ ~ container.16 loot lthc.advancenergy:i/materials/bronze_machine_casing
 # Bronze Ingot
 execute store result score @s smithed.data if entity @s[scores={smithed.data=0}] if data storage smithed.crafter:main root.temp{crafting_input:{0:[{Slot:0b,id:"minecraft:copper_ingot"},{Slot:1b,tag:{ctc:{id:"tin_ingot"}}},{Slot:2b,id:"minecraft:copper_ingot"}],1:[{Slot:0b,tag:{ctc:{id:"tin_ingot"}}},{Slot:1b,id:"minecraft:copper_ingot"},{Slot:2b,tag:{ctc:{id:"tin_ingot"}}}]}} if data storage smithed.crafter:main root.temp{crafting_input:{2:[]}} run loot replace block ~ ~ ~ container.16 loot lthc.advancenergy:i/materials/bronze_ingot_x6
