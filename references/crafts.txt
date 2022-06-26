@@ -29,3 +29,13 @@ Carbon Generator:
   - M: Tin Machine Casing
   - I: Tin Ingot
   - O: Torch
+
+Dust Generator:
+    ATA
+    TMT
+    CBC
+  - A: Ash
+  - T: Tin Nugget
+  - M: Tin Machine Casing
+  - C: Cobblestone
+  - B: Ash Block
