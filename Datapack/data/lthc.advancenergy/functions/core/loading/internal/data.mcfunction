@@ -45,6 +45,13 @@ summon marker ~ ~ ~ {Tags:["global.ignore","global.ignore.kill","lthc.advancener
 summon marker ~ ~ ~ {Tags:["global.ignore","global.ignore.kill","lthc.advancenergy.is_a_marker"]}
 summon marker ~ ~ ~ {Tags:["global.ignore","global.ignore.kill","lthc.advancenergy.is_a_marker"]}
 summon marker ~ ~ ~ {Tags:["global.ignore","global.ignore.kill","lthc.advancenergy.is_a_marker"]}
+summon marker ~ ~ ~ {Tags:["global.ignore","global.ignore.kill","lthc.advancenergy.is_a_marker"]}
+summon marker ~ ~ ~ {Tags:["global.ignore","global.ignore.kill","lthc.advancenergy.is_a_marker"]}
+summon marker ~ ~ ~ {Tags:["global.ignore","global.ignore.kill","lthc.advancenergy.is_a_marker"]}
+summon marker ~ ~ ~ {Tags:["global.ignore","global.ignore.kill","lthc.advancenergy.is_a_marker"]}
+summon marker ~ ~ ~ {Tags:["global.ignore","global.ignore.kill","lthc.advancenergy.is_a_marker"]}
+summon marker ~ ~ ~ {Tags:["global.ignore","global.ignore.kill","lthc.advancenergy.is_a_marker"]}
+summon marker ~ ~ ~ {Tags:["global.ignore","global.ignore.kill","lthc.advancenergy.is_a_marker"]}
 ###########
 
 function lthc.advancenergy:core/loading/internal/scores
