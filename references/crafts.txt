@@ -18,3 +18,14 @@ Bronze Machine Casing:
     BBB
   - B: Bronze Ingot
   - L: Lead Machine Casing
+
+Carbon Generator:
+    FBF
+    TMT
+    IOI
+  - F: Furnace
+  - B: Blast Furnace
+  - T: Tin Block
+  - M: Tin Machine Casing
+  - I: Tin Ingot
+  - O: Torch
