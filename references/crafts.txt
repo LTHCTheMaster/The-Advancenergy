@@ -47,3 +47,13 @@ Advanced Carbon Generator:
   - P: Prmitive Cable
   - C: Carbon Generator
   - L: Lead Machine Casing
+
+Solar Generator:
+    LLL
+    LBL
+    CPR
+  - L: Lapis Lazuli
+  - B: Bronze Machine Casing
+  - C: Copper Ingot
+  - P: Primitive Cable
+  - R: Redstone Dust
