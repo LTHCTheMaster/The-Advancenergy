@@ -66,3 +66,14 @@ Mineral Extracting Machine:
   - D: Sand/Red Sand/Soul Sand
   - T: Tin Machine Casing
   - I: Iron Nugget
+
+Refinery:
+    LMG
+    GCT
+    TDL
+  - L: Lead Ingot
+  - M: Mineral Extracting Machine
+  - G: Gold Ingot
+  - C: Lead Machine Casing
+  - T: Tin Ingot
+  - D: Dust Generator
