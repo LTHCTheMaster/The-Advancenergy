@@ -3,11 +3,29 @@
 	"fallback": "minecraft:empty",
 	"elements": [
 		{
+			"weight": 6,
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"projection": "rigid",
+				"location": "lthc.advancenergy:tin_shed/tin_shed",
+				"processors": "minecraft:empty"
+			}
+		},
+		{
+			"weight": 3,
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"projection": "rigid",
+				"location": "lthc.advancenergy:tin_shed/tin_shed_2",
+				"processors": "minecraft:empty"
+			}
+		},
+		{
 			"weight": 1,
 			"element": {
 				"element_type": "minecraft:single_pool_element",
 				"projection": "rigid",
-				"location": "lthc.advancenergy:tin_shed",
+				"location": "lthc.advancenergy:tin_shed/tin_shed_3",
 				"processors": "minecraft:empty"
 			}
 		}
