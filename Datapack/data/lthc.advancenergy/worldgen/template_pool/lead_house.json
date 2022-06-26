@@ -1,0 +1,33 @@
+{
+	"name": "lthc.advancenergy:lead_house",
+	"fallback": "minecraft:empty",
+	"elements": [
+		{
+			"weight": 2,
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"projection": "rigid",
+				"location": "lthc.advancenergy:lead_house/lead_house",
+				"processors": "minecraft:empty"
+			}
+		},
+		{
+			"weight": 2,
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"projection": "rigid",
+				"location": "lthc.advancenergy:lead_house/lead_house_2",
+				"processors": "minecraft:empty"
+			}
+		},
+		{
+			"weight": 1,
+			"element": {
+				"element_type": "minecraft:single_pool_element",
+				"projection": "rigid",
+				"location": "lthc.advancenergy:lead_house/lead_house_3",
+				"processors": "minecraft:empty"
+			}
+		}
+	]
+}
