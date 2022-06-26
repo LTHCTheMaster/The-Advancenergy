@@ -74,7 +74,7 @@ data modify storage lthc.advancenergy:main registry.item.hoe.170201 set value {S
 # Lead Sword
 data modify storage lthc.advancenergy:main registry.item.sword.170201 set value {Slot:16b,id:"minecraft:diamond_sword",Count:1b,tag:{ctc:{id:"lead_sword",from:"lthc.advancenergy",traits:{"metal/lead":1b,"tool":1b, "tool/weapon":1b,"equipment":1b}},CustomModelData:170201,lthc_advancenergy:{lead:1b,lead_sword:1b},HideFlags:64,display:{Lore:['{"translate":"The Advancenergy","color":"blue","italic":true}'],Name:'[{"text":"Lead Sword","italic":false,"color":"#5b1e96"}]'}}}
 # Lead Machine Casing
-data modify storage lthc.advancenergy:main registry.item.170210 set value {Slot:16b,id:"minecraft:command_block",Count:1b,tag:{ctc:{id:"lead_machine_casing",from:"lthc.advancenergy",traits:{"metal/lead":1b,"casing":1b,"machine_casing":1b}},CustomModelData:170210,lthc_advancenergy:{lead_machine_casing:1b},display:{Lore:['{"translate":"The Advancenergy","color":"blue","italic":true}'],Name:'[{"text":"Lead Machine Casing","italic":false,"color":"#5b1e96"}]'}}}
+data modify storage lthc.advancenergy:main registry.item.170211 set value {Slot:16b,id:"minecraft:command_block",Count:1b,tag:{ctc:{id:"lead_machine_casing",from:"lthc.advancenergy",traits:{"metal/lead":1b,"casing":1b,"machine_casing":1b}},CustomModelData:170211,lthc_advancenergy:{lead_machine_casing:1b},display:{Lore:['{"translate":"The Advancenergy","color":"blue","italic":true}'],Name:'[{"text":"Lead Machine Casing","italic":false,"color":"#5b1e96"}]'}}}
 
 ## Energy
 # Carbon Generator
