@@ -57,3 +57,12 @@ Solar Generator:
   - C: Copper Ingot
   - P: Primitive Cable
   - R: Redstone Dust
+
+Mineral Extracting Machine:
+    SDS
+    STD
+    III
+  - S: Sugar
+  - D: Sand/Red Sand/Soul Sand
+  - T: Tin Machine Casing
+  - I: Iron Nugget
