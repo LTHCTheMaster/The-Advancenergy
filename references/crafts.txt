@@ -1,0 +1,20 @@
+Tin Machine Casing
+    TTT
+    TRT
+    TTT
+  - T: Tin Ingot
+  - R: Redstone Block
+
+Lead Machine Casing:
+    LLL
+    LTL
+    LLL
+  - L: Lead Ingot
+  - T: Tin Machine Casing
+
+Bronze Machine Casing:
+    BBB
+    BLB
+    BBB
+  - B: Bronze Ingot
+  - L: Lead Machine Casing
