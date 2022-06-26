@@ -39,3 +39,11 @@ Dust Generator:
   - M: Tin Machine Casing
   - C: Cobblestone
   - B: Ash Block
+
+Advanced Carbon Generator:
+    PSP
+    CLC
+    PPP
+  - P: Prmitive Cable
+  - C: Carbon Generator
+  - L: Lead Machine Casing
