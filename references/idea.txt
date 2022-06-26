@@ -1,18 +1,11 @@
-Tin:
-	Copper
-	Gold
-	Calcite
-	Coal
-	Iron
-Lead:
-	Copper
-
-
-### Later
+### ToDo
 		Silver:
 			Lead
 			Copper
 			Calcite
+### ToDo
+
+### Later
 		Aluminium :
 			Iron
 ### Later
