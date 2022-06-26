@@ -33,3 +33,14 @@ execute store result score @s smithed.data if entity @s[scores={smithed.data=0}]
 execute store result score @s smithed.data if entity @s[scores={smithed.data=0}] if score count smithed.data matches 1 if data storage smithed.crafter:main root.temp{shapeless_crafting_input:[{Count:9b,tag:{ctc:{id:"bronze_nugget"}}}]} run loot replace block ~ ~ ~ container.16 loot lthc.advancenergy:i/materials/bronze_ingot
 # Bronze Nugget
 execute store result score @s smithed.data if entity @s[scores={smithed.data=0}] if score count smithed.data matches 1 if data storage smithed.crafter:main root.temp{shapeless_crafting_input:[{Count:1b,tag:{ctc:{id:"bronze_ingot"}}}]} run loot replace block ~ ~ ~ container.16 loot lthc.advancenergy:i/materials/bronze_nugget_x9
+# Raw Silver Block
+execute store result score @s smithed.data if entity @s[scores={smithed.data=0}] if score count smithed.data matches 1 if data storage smithed.crafter:main root.temp{shapeless_crafting_input:[{Count:9b,tag:{ctc:{id:"raw_silver"}}}]} run loot replace block ~ ~ ~ container.16 loot lthc.advancenergy:i/ores/silver/raw_silver_block
+# Silver Block
+execute store result score @s smithed.data if entity @s[scores={smithed.data=0}] if score count smithed.data matches 1 if data storage smithed.crafter:main root.temp{shapeless_crafting_input:[{Count:9b,tag:{ctc:{id:"silver_ingot"}}}]} run loot replace block ~ ~ ~ container.16 loot lthc.advancenergy:i/ores/silver/silver_block
+# Raw Silver
+execute store result score @s smithed.data if entity @s[scores={smithed.data=0}] if score count smithed.data matches 1 if data storage smithed.crafter:main root.temp{shapeless_crafting_input:[{Count:1b,tag:{ctc:{id:"raw_silver_block"}}}]} run loot replace block ~ ~ ~ container.16 loot lthc.advancenergy:i/ores/silver/raw_silver_x9
+# Silver Ingot
+execute store result score @s smithed.data if entity @s[scores={smithed.data=0}] if score count smithed.data matches 1 if data storage smithed.crafter:main root.temp{shapeless_crafting_input:[{Count:1b,tag:{ctc:{id:"silver_block"}}}]} run loot replace block ~ ~ ~ container.16 loot lthc.advancenergy:i/ores/silver/silver_ingot_x9
+execute store result score @s smithed.data if entity @s[scores={smithed.data=0}] if score count smithed.data matches 1 if data storage smithed.crafter:main root.temp{shapeless_crafting_input:[{Count:9b,tag:{ctc:{id:"silver_nugget"}}}]} run loot replace block ~ ~ ~ container.16 loot lthc.advancenergy:i/ores/silver/silver_ingot
+# Silver Nugget
+execute store result score @s smithed.data if entity @s[scores={smithed.data=0}] if score count smithed.data matches 1 if data storage smithed.crafter:main root.temp{shapeless_crafting_input:[{Count:1b,tag:{ctc:{id:"silver_ingot"}}}]} run loot replace block ~ ~ ~ container.16 loot lthc.advancenergy:i/ores/silver/silver_nugget_x9
