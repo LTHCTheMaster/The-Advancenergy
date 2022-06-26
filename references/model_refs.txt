@@ -24,6 +24,10 @@ barrel and glow_item_frame:
 	170222 : solar generator
 	170223 : potato generator
 	170224 : potato generator on
+	170225 : silver ore
+	170226 : deepslate silver ore
+	170227 : raw silver block
+	170228 : silver block
 
 command_block:
 	170200 : raw tin
@@ -38,6 +42,10 @@ command_block:
 	170209 : bronze machine casing
 	170210 : tin machine casing
 	170211 : lead machine casing
+	170211 : raw silver
+	170211 : silver ingot
+	170211 : silver nugget
+	170211 : silver machine casing
 	179999 : The Advancenergy Icon
 
 leather_helmet:

@@ -25,6 +25,10 @@
 		{ "predicate": { "custom_model_data": 170221 }, "model": "lthc.advancenergy:others/barrel/bronze_bomb" },
 		{ "predicate": { "custom_model_data": 170222 }, "model": "lthc.advancenergy:machine/barrel/solar_generator" },
 		{ "predicate": { "custom_model_data": 170223 }, "model": "lthc.advancenergy:machine/barrel/potato_generator" },
-		{ "predicate": { "custom_model_data": 170224 }, "model": "lthc.advancenergy:machine/barrel/potato_generator_on" }
+		{ "predicate": { "custom_model_data": 170224 }, "model": "lthc.advancenergy:machine/barrel/potato_generator_on" },
+		{ "predicate": { "custom_model_data": 170225 }, "model": "lthc.advancenergy:ores/barrel/silver/silver_ore" },
+		{ "predicate": { "custom_model_data": 170226 }, "model": "lthc.advancenergy:ores/barrel/silver/deepslate_silver_ore" },
+		{ "predicate": { "custom_model_data": 170227 }, "model": "lthc.advancenergy:ores/barrel/silver/raw_silver_block" },
+		{ "predicate": { "custom_model_data": 170228 }, "model": "lthc.advancenergy:ores/barrel/silver/silver_block" }
 		]
 }
