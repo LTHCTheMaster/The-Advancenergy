@@ -1,10 +1,10 @@
-loot give @s loot lthc.advancenergy:i/ores/tin/deepslate_tin_ore
-loot give @s loot lthc.advancenergy:i/ores/tin/tin_ore
-loot give @s loot lthc.advancenergy:i/ores/tin/raw_tin
-loot give @s loot lthc.advancenergy:i/ores/tin/raw_tin_block
-loot give @s loot lthc.advancenergy:i/ores/tin/tin_ingot
-loot give @s loot lthc.advancenergy:i/ores/tin/tin_block
-loot give @s loot lthc.advancenergy:i/ores/tin/tin_nugget
+loot give @s loot lthc.advancenergy:i/ores/tin/deepslate_ore
+loot give @s loot lthc.advancenergy:i/ores/tin/ore
+loot give @s loot lthc.advancenergy:i/ores/tin/raw
+loot give @s loot lthc.advancenergy:i/ores/tin/raw_block
+loot give @s loot lthc.advancenergy:i/ores/tin/ingot
+loot give @s loot lthc.advancenergy:i/ores/tin/block
+loot give @s loot lthc.advancenergy:i/ores/tin/nugget
 loot give @s loot lthc.advancenergy:i/equipments/tin_helmet
 loot give @s loot lthc.advancenergy:i/equipments/tin_chestplate
 loot give @s loot lthc.advancenergy:i/equipments/tin_leggings

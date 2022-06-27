@@ -5,11 +5,11 @@
 			"entries": [
 				{
 					"type": "minecraft:loot_table",
-					"name": "lthc.advancenergy:i/ores/tin/tin_nugget",
+					"name": "lthc.advancenergy:i/ores/silver/ingot",
 					"functions": [
 						{
 							"function": "minecraft:set_count",
-							"count": 2
+							"count": 9
 						}
 					]
 				}

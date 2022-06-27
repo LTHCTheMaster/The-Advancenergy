@@ -16,22 +16,22 @@
 						"entries": [
 								{
 										"type": "loot_table",
-										"name": "lthc.advancenergy:i/ores/tin/tin_nugget_x2",
+										"name": "lthc.advancenergy:i/ores/tin/nugget_x2",
 										"weight": 9
 								},
 								{
 										"type": "loot_table",
-										"name": "lthc.advancenergy:i/ores/tin/tin_nugget_x9",
+										"name": "lthc.advancenergy:i/ores/tin/nugget_x9",
 										"weight": 11
 								},
 								{
 										"type": "loot_table",
-										"name": "lthc.advancenergy:i/ores/tin/tin_ingot",
+										"name": "lthc.advancenergy:i/ores/tin/ingot",
 										"weight": 6
 								},
 								{
 										"type": "loot_table",
-										"name": "lthc.advancenergy:i/ores/tin/raw_tin",
+										"name": "lthc.advancenergy:i/ores/tin/raw",
 										"weight": 8
 								},
 								{
@@ -65,12 +65,12 @@
 								},
 								{
 										"type": "loot_table",
-										"name": "lthc.advancenergy:i/ores/tin/raw_tin_block",
+										"name": "lthc.advancenergy:i/ores/tin/raw_block",
 										"weight": 20
 								},
 								{
 										"type": "loot_table",
-										"name": "lthc.advancenergy:i/ores/tin/raw_tin_x2",
+										"name": "lthc.advancenergy:i/ores/tin/raw_x2",
 										"weight": 7
 								}
 						]
