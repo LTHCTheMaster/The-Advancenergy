@@ -5,11 +5,11 @@
 			"entries": [
 				{
 					"type": "minecraft:loot_table",
-					"name": "lthc.advancenergy:i/ores/lead/raw_lead",
+					"name": "lthc.advancenergy:i/ores/lead/raw",
 					"functions": [
 						{
 							"function": "minecraft:set_count",
-							"count": 9
+							"count": 2
 						}
 					]
 				}

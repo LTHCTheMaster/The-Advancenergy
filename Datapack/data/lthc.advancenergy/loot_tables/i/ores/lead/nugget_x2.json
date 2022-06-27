@@ -5,7 +5,7 @@
 			"entries": [
 				{
 					"type": "minecraft:loot_table",
-					"name": "lthc.advancenergy:i/ores/lead/lead_nugget",
+					"name": "lthc.advancenergy:i/ores/lead/nugget",
 					"functions": [
 						{
 							"function": "minecraft:set_count",

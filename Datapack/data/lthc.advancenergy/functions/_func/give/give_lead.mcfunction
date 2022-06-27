@@ -1,10 +1,10 @@
-loot give @s loot lthc.advancenergy:i/ores/lead/deepslate_lead_ore
-loot give @s loot lthc.advancenergy:i/ores/lead/lead_ore
-loot give @s loot lthc.advancenergy:i/ores/lead/raw_lead
-loot give @s loot lthc.advancenergy:i/ores/lead/raw_lead_block
-loot give @s loot lthc.advancenergy:i/ores/lead/lead_ingot
-loot give @s loot lthc.advancenergy:i/ores/lead/lead_block
-loot give @s loot lthc.advancenergy:i/ores/lead/lead_nugget
+loot give @s loot lthc.advancenergy:i/ores/lead/deepslate_ore
+loot give @s loot lthc.advancenergy:i/ores/lead/ore
+loot give @s loot lthc.advancenergy:i/ores/lead/raw
+loot give @s loot lthc.advancenergy:i/ores/lead/raw_block
+loot give @s loot lthc.advancenergy:i/ores/lead/ingot
+loot give @s loot lthc.advancenergy:i/ores/lead/block
+loot give @s loot lthc.advancenergy:i/ores/lead/nugget
 loot give @s loot lthc.advancenergy:i/equipments/lead_helmet
 loot give @s loot lthc.advancenergy:i/equipments/lead_chestplate
 loot give @s loot lthc.advancenergy:i/equipments/lead_leggings
