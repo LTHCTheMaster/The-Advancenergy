@@ -5,3 +5,5 @@ execute if predicate lthc.advancenergy:is_barrel_open run function lthc.advancen
 execute if score @s lthc.advancenergy.working matches 0 run data modify entity @s Item.tag.CustomModelData set value 170217
 execute unless score @s lthc.advancenergy.working matches 0 run data modify entity @s Item.tag.CustomModelData set value 170218
 
+# Lock hopper
+execute positioned ~ ~-1 ~ if block ~ ~ ~ hopper run data modify block ~ ~ ~ TransferCooldown set value 100

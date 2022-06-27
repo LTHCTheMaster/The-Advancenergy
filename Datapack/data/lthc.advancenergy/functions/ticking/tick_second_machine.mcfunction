@@ -5,4 +5,3 @@ execute if entity @s[tag=lthc.advancenergy.mineral_extracting_machine] if score 
 execute if entity @s[tag=lthc.advancenergy.refinery] if score @s energy.storage matches 33.. run function lthc.advancenergy:controller/visual/refinery
 execute if entity @s[tag=lthc.advancenergy.solar_generator] if score @s energy.storage < @s energy.max_storage run function lthc.advancenergy:controller/work/solar_generator/main
 execute if entity @s[tag=lthc.advancenergy.potato_generator] if score @s energy.storage < @s energy.max_storage run function lthc.advancenergy:controller/visual/potato_generator
-execute positioned ~ ~-1 ~ if block ~ ~ ~ hopper run data modify block ~ ~ ~ TransferCooldown set value 100
