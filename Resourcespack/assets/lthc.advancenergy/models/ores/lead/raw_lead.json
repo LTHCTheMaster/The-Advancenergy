@@ -1,6 +1,0 @@
-{
-	"parent": "item/handheld",
-	"textures": {
-		"layer0": "lthc.advancenergy:ores/lead/raw_lead"
-	}
-}

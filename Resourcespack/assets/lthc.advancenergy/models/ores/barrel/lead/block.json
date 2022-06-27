@@ -1,6 +1,6 @@
 {
 	"parent": "minecraft:block/cube_all",
 	"textures": {
-		"all": "lthc.advancenergy:ores/lead/raw_lead_block"
+		"all": "lthc.advancenergy:ores/lead/block"
 	}
 }
