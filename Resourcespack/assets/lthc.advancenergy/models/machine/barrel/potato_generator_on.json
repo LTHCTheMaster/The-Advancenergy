@@ -3,10 +3,10 @@
 	"textures": {
 		"down": "lthc.advancenergy:others/bronze_bomb",
 		"up": "lthc.advancenergy:others/bronze_bomb",
-		"north": "lthc.advancenergy:machines/potato_generator_side_on",
-		"south": "lthc.advancenergy:machines/potato_generator_side_on",
-		"west": "lthc.advancenergy:machines/potato_generator_side_on",
-		"east": "lthc.advancenergy:machines/potato_generator_side_on"
+		"north": "lthc.advancenergy:machines/potato_generator/potato_generator_side_on",
+		"south": "lthc.advancenergy:machines/potato_generator/potato_generator_side_on",
+		"west": "lthc.advancenergy:machines/potato_generator/potato_generator_side_on",
+		"east": "lthc.advancenergy:machines/potato_generator/potato_generator_side_on"
 	},
 	"elements": [{
 		"from": [ 0, 0, 0 ],

@@ -1,12 +1,12 @@
 {
 	"parent": "minecraft:block/cube_all",
 	"textures": {
-		"down": "lthc.advancenergy:machines/advanced_carbon_generator_bottom",
+		"down": "lthc.advancenergy:machines/advanced_carbon_generator/advanced_carbon_generator_bottom",
 		"up": "lthc.advancenergy:ores/lead/lead_block",
-		"north": "lthc.advancenergy:machines/advanced_carbon_generator_side_on",
-		"south": "lthc.advancenergy:machines/advanced_carbon_generator_side_on",
-		"west": "lthc.advancenergy:machines/advanced_carbon_generator_side_on",
-		"east": "lthc.advancenergy:machines/advanced_carbon_generator_side_on"
+		"north": "lthc.advancenergy:machines/advanced_carbon_generator/advanced_carbon_generator_side_on",
+		"south": "lthc.advancenergy:machines/advanced_carbon_generator/advanced_carbon_generator_side_on",
+		"west": "lthc.advancenergy:machines/advanced_carbon_generator/advanced_carbon_generator_side_on",
+		"east": "lthc.advancenergy:machines/advanced_carbon_generator/advanced_carbon_generator_side_on"
 	},
 	"elements": [{
 		"from": [ 0, 0, 0 ],

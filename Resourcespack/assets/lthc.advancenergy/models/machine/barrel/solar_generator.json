@@ -1,9 +1,9 @@
 {
 	"parent": "minecraft:block/cube_all",
 	"textures": {
-		"3": "lthc.advancenergy:machines/solar_panel_bottom",
-		"4": "lthc.advancenergy:machines/solar_panel_side",
-		"5": "lthc.advancenergy:machines/solar_panel_top"
+		"3": "lthc.advancenergy:machines/solar_generator/solar_generator_bottom",
+		"4": "lthc.advancenergy:machines/solar_generator/solar_generator_side",
+		"5": "lthc.advancenergy:machines/solar_generator/solar_generator_top"
 	},
 	"elements": [
 		{

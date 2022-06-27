@@ -3,10 +3,10 @@
 	"textures": {
 		"down": "lthc.advancenergy:ores/lead/lead_block",
 		"up": "lthc.advancenergy:ores/lead/lead_block",
-		"north": "lthc.advancenergy:machines/refinery_side_on",
-		"south": "lthc.advancenergy:machines/refinery_side_on",
-		"west": "lthc.advancenergy:machines/refinery_side_on",
-		"east": "lthc.advancenergy:machines/refinery_side_on"
+		"north": "lthc.advancenergy:machines/refinery/refinery_side_on",
+		"south": "lthc.advancenergy:machines/refinery/refinery_side_on",
+		"west": "lthc.advancenergy:machines/refinery/refinery_side_on",
+		"east": "lthc.advancenergy:machines/refinery/refinery_side_on"
 	},
 	"elements": [{
 		"from": [ 0, 0, 0 ],
