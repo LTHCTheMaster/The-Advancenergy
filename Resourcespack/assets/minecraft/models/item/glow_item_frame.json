@@ -35,6 +35,7 @@
 	{ "predicate": { "custom_model_data": 170226 }, "model": "lthc.advancenergy:ores/silver/deepslate_ore" },
 	{ "predicate": { "custom_model_data": 170227 }, "model": "lthc.advancenergy:ores/silver/raw_block" },
 	{ "predicate": { "custom_model_data": 170228 }, "model": "lthc.advancenergy:ores/silver/block" },
-	{ "predicate": { "custom_model_data": 170229 }, "model": "lthc.advancenergy:machine/cobblestone_farmer" }
+	{ "predicate": { "custom_model_data": 170229 }, "model": "lthc.advancenergy:machine/cobblestone_farmer" },
+	{ "predicate": { "custom_model_data": 170230 }, "model": "lthc.advancenergy:machine/carbon_extractor" }
 ]
 }
