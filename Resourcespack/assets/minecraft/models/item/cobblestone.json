@@ -120,6 +120,17 @@
 		{ "predicate": { "custom_model_data": 170251 }, "model": "lthc.advancenergy:gui/potato_generator_gui/gui_7" },
 		{ "predicate": { "custom_model_data": 170252 }, "model": "lthc.advancenergy:gui/potato_generator_gui/gui_8" },
 		{ "predicate": { "custom_model_data": 170253 }, "model": "lthc.advancenergy:gui/potato_generator_gui/gui_9" },
-		{ "predicate": { "custom_model_data": 170254 }, "model": "lthc.advancenergy:gui/potato_generator_gui/gui_10" }
+		{ "predicate": { "custom_model_data": 170254 }, "model": "lthc.advancenergy:gui/potato_generator_gui/gui_10" },
+		{ "predicate": { "custom_model_data": 170255 }, "model": "lthc.advancenergy:gui/carbon_extractor_gui/gui_0" },
+		{ "predicate": { "custom_model_data": 170256 }, "model": "lthc.advancenergy:gui/carbon_extractor_gui/gui_1" },
+		{ "predicate": { "custom_model_data": 170257 }, "model": "lthc.advancenergy:gui/carbon_extractor_gui/gui_2" },
+		{ "predicate": { "custom_model_data": 170258 }, "model": "lthc.advancenergy:gui/carbon_extractor_gui/gui_3" },
+		{ "predicate": { "custom_model_data": 170259 }, "model": "lthc.advancenergy:gui/carbon_extractor_gui/gui_4" },
+		{ "predicate": { "custom_model_data": 170260 }, "model": "lthc.advancenergy:gui/carbon_extractor_gui/gui_5" },
+		{ "predicate": { "custom_model_data": 170261 }, "model": "lthc.advancenergy:gui/carbon_extractor_gui/gui_6" },
+		{ "predicate": { "custom_model_data": 170262 }, "model": "lthc.advancenergy:gui/carbon_extractor_gui/gui_7" },
+		{ "predicate": { "custom_model_data": 170263 }, "model": "lthc.advancenergy:gui/carbon_extractor_gui/gui_8" },
+		{ "predicate": { "custom_model_data": 170264 }, "model": "lthc.advancenergy:gui/carbon_extractor_gui/gui_9" },
+		{ "predicate": { "custom_model_data": 170265 }, "model": "lthc.advancenergy:gui/carbon_extractor_gui/gui_10" }
 	]
 }

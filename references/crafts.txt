@@ -65,6 +65,13 @@ Solar Generator:
   - P: Primitive Cable
   - R: Redstone Dust
 
+Potato Generator:
+    FFF
+    FBF
+    FFF
+  - F: Furnace
+  - B: Bronze Machine Casing
+
 Mineral Extracting Machine:
     SDS
     STD
@@ -91,3 +98,12 @@ Cobblestone Farmer:
     TCT
   - T: Tin Ingot
   - C: Cobblestone
+
+Carbon Extractor:
+    TST
+    TCT
+    III
+  - T: Tin Ingot
+  - S: Silver Ingot
+  - C: Coal/Charcoal
+  - I: Iron Ingot

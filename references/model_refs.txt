@@ -93,3 +93,4 @@ cobblestone:
 	170222 - 170232 : dust generator GUI
 	170233 - 170243 : refinery GUI
 	170244 - 170254 : potato generator GUI
+	170255 - 170265 : carbon extractor GUI
