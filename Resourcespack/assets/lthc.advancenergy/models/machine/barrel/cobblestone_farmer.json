@@ -1,12 +1,12 @@
 {
 	"parent": "minecraft:block/cube_all",
 	"textures": {
-		"down": "lthc.advancenergy:machines/carbon_generator/carbon_generator_bottom",
-		"up": "lthc.advancenergy:ores/tin/block",
-		"north": "lthc.advancenergy:machines/carbon_generator/carbon_generator_side_off",
-		"south": "lthc.advancenergy:machines/carbon_generator/carbon_generator_side_off",
-		"west": "lthc.advancenergy:machines/carbon_generator/carbon_generator_side_off",
-		"east": "lthc.advancenergy:machines/carbon_generator/carbon_generator_side_off"
+		"down": "lthc.advancenergy:machines/cobblestone_farmer",
+		"up": "lthc.advancenergy:machines/cobblestone_farmer",
+		"north": "lthc.advancenergy:machines/cobblestone_farmer",
+		"south": "lthc.advancenergy:machines/cobblestone_farmer",
+		"west": "lthc.advancenergy:machines/cobblestone_farmer",
+		"east": "lthc.advancenergy:machines/cobblestone_farmer"
 	},
 	"elements": [{
 		"from": [ 0, 0, 0 ],

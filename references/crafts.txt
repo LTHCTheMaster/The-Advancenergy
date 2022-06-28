@@ -12,6 +12,13 @@ Lead Machine Casing:
   - L: Lead Ingot
   - T: Tin Machine Casing
 
+Silver Machine Casing:
+    SSS
+    STS
+    SSS
+  - S: Siver Ingot
+  - T: Tin Machine Casing
+
 Bronze Machine Casing:
     BBB
     BLB
@@ -77,3 +84,10 @@ Refinery:
   - C: Lead Machine Casing
   - T: Tin Ingot
   - D: Dust Generator
+
+Cobblestone Farmer:
+    TCT
+    CTC
+    TCT
+  - T: Tin Ingot
+  - C: Cobblestone

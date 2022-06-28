@@ -2,7 +2,7 @@
 	"parent": "minecraft:block/cube_all",
 	"textures": {
 		"down": "lthc.advancenergy:machines/carbon_generator/carbon_generator_bottom",
-		"up": "lthc.advancenergy:ores/tin/tin_block",
+		"up": "lthc.advancenergy:ores/tin/block",
 		"north": "lthc.advancenergy:machines/carbon_generator/carbon_generator_side_off",
 		"south": "lthc.advancenergy:machines/carbon_generator/carbon_generator_side_off",
 		"west": "lthc.advancenergy:machines/carbon_generator/carbon_generator_side_off",

@@ -28,6 +28,7 @@ barrel and glow_item_frame:
 	170226 : deepslate silver ore
 	170227 : raw silver block
 	170228 : silver block
+	170229 : cobblestone farmer
 
 command_block:
 	170200 : raw tin
