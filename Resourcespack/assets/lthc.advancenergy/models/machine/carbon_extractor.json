@@ -1,7 +1,7 @@
 {
 	"parent": "minecraft:block/cube_all",
 	"textures": {
-		"down": "lthc.advancenergy:machines/tin/machine_casing",
+		"down": "lthc.advancenergy:ores/tin/machine_casing",
 		"up": "lthc.advancenergy:ores/tin/machine_casing",
 		"north": "lthc.advancenergy:machines/carbon_extractor/carbon_extractor",
 		"south": "lthc.advancenergy:machines/carbon_extractor/carbon_extractor",
