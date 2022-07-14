@@ -1,0 +1,14 @@
+lthc.advancenergy.destroyer => breakable custom block
+
+lthc.advancenergy.shift_clickable => custom block with custom GUI ans slot conditions
+lthc.advancenergy.is_ash_as_waste_generator => the custom block produce ash
+
+lthc.advancenergy.balancing => custom block capable of energy balancing
+lthc.advancenergy.balanced => custom block already balanced
+
+lthc.advancenergy.is_second_ticked => custom blocks with one second behaviour
+
+lthc.advancenergy.is_bomb => a bomb
+lthc.advancenergy.is_machine => a machine
+
+lthc.advancenergy.gui => has custom GUI

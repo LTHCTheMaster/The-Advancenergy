@@ -1,0 +1,4 @@
+lthc_advancenergy -> is_materials_block => ores and materials
+lthc_advancenergy -> is_machine_with_gui => machine with a custom GUI
+lthc_advancenergy -> is_machine_without_gui => machine without custom GUI
+lthc_advancenergy -> is_block_without_entry_interaction => custom block with behaviour without interface

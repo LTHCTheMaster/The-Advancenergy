@@ -10,7 +10,7 @@ data modify storage lthc.advancenergy:main PlacedBlock set from entity @p[tag=lt
 execute store success score #success lthc.advancenergy.data if data storage lthc.advancenergy:main PlacedBlock.is_materials_block run function lthc.advancenergy:custom/block/place/identify/is_materials_block
 execute if score #success lthc.advancenergy.data matches 0 store success score #success lthc.advancenergy.data if data storage lthc.advancenergy:main PlacedBlock.is_machine_with_gui run function lthc.advancenergy:custom/block/place/identify/is_machine_with_gui
 execute if score #success lthc.advancenergy.data matches 0 store success score #success lthc.advancenergy.data if data storage lthc.advancenergy:main PlacedBlock.is_machine_without_gui run function lthc.advancenergy:custom/block/place/identify/is_machine_without_gui
-execute if score #success lthc.advancenergy.data matches 0 store success score #success lthc.advancenergy.data if data storage lthc.advancenergy:main PlacedBlock.is_bloc_without_entry_interaction run function lthc.advancenergy:custom/block/place/identify/is_bloc_without_entry_interaction
+execute if score #success lthc.advancenergy.data matches 0 store success score #success lthc.advancenergy.data if data storage lthc.advancenergy:main PlacedBlock.is_block_without_entry_interaction run function lthc.advancenergy:custom/block/place/identify/is_block_without_entry_interaction
 
 data remove storage lthc.advancenergy:main PlacedBlock
 tag @s remove lthc.advancenergy.placer
