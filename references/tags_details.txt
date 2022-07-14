@@ -12,3 +12,5 @@ lthc.advancenergy.is_bomb => a bomb
 lthc.advancenergy.is_machine => a machine
 
 lthc.advancenergy.gui => has custom GUI
+
+lthc.advancenergy.can_chained_interaction => can be in a chain of interaction and not the end of this chain of interaction
