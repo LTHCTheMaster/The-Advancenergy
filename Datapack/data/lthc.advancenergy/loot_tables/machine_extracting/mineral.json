@@ -48,6 +48,20 @@
 					"type": "item",
 					"name": "gravel",
 					"weight": 29
+				},
+				{
+					"type": "item",
+					"name": "obsidian",
+					"weight": 2
+				},
+				{
+					"type": "item",
+					"name": "crying_obsidian",
+					"weight": 2
+				},
+				{
+					"type": "empty",
+					"weight": 60
 				}
 			]
 		}

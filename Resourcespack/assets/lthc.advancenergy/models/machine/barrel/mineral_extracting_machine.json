@@ -1,8 +1,8 @@
 {
 	"parent": "minecraft:block/cube_all",
 	"textures": {
-		"down": "lthc.advancenergy:ores/tin/tin_block",
-		"up": "lthc.advancenergy:ores/tin/tin_block",
+		"down": "lthc.advancenergy:ores/tin/block",
+		"up": "lthc.advancenergy:ores/tin/block",
 		"north": "lthc.advancenergy:machines/mineral_extracting_machine",
 		"south": "lthc.advancenergy:machines/mineral_extracting_machine",
 		"west": "lthc.advancenergy:machines/mineral_extracting_machine",
