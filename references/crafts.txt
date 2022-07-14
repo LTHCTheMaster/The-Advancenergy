@@ -51,7 +51,7 @@ Advanced Carbon Generator:
     PSP
     CLC
     PPP
-  - P: Prmitive Cable
+  - P: Primitive Cable
   - C: Carbon Generator
   - L: Lead Machine Casing
 
