@@ -1,73 +1,73 @@
 {
-		"type": "chest",
-		"pools": [
-				{
-						"rolls": {
-								"type": "binomial",
-								"n": 8,
-								"p": 0.71
-						},
-						"entries": [
-								{
-										"type": "loot_table",
-										"name": "lthc.advancenergy:i/ores/tin/nugget_x2",
-										"weight": 11
-								},
-								{
-										"type": "loot_table",
-										"name": "lthc.advancenergy:i/ores/tin/nugget_x9",
-										"weight": 9
-								},
-								{
-										"type": "loot_table",
-										"name": "lthc.advancenergy:i/ores/tin/ingot",
-										"weight": 6
-								},
-								{
-										"type": "loot_table",
-										"name": "lthc.advancenergy:i/ores/tin/raw",
-										"weight": 8
-								},
-								{
-										"type": "item",
-										"name": "iron_ingot",
-										"weight": 8
-								},
-								{
-										"type": "item",
-										"name": "iron_ingot",
-										"weight": 7
-								},
-								{
-										"type": "loot_table",
-										"name": "lthc.advancenergy:i/equipments/tin_hoe",
-										"weight": 13,
-										"functions": [
-												{
-														"function": "enchant_with_levels",
-														"levels": {
-																"min": 3,
-																"max": 11
-														}
-												}
-										]
-								},
-								{
-										"type": "loot_table",
-										"name": "lthc.advancenergy:i/equipments/tin_boots",
-										"weight": 13
-								},
-								{
-										"type": "loot_table",
-										"name": "lthc.advancenergy:i/ores/tin/raw_block",
-										"weight": 20
-								},
-								{
-										"type": "loot_table",
-										"name": "lthc.advancenergy:i/ores/tin/raw_x2",
-										"weight": 7
-								}
-						]
-				}
-		]
+"type": "chest",
+"pools": [
+{
+"rolls": {
+"type": "binomial",
+"n": 9,
+"p": 0.71
+},
+"entries": [
+{
+"type": "loot_table",
+"name": "lthc.advancenergy:i/ores/tin/nugget_x2",
+"weight": 11
+},
+{
+"type": "loot_table",
+"name": "lthc.advancenergy:i/ores/tin/nugget_x9",
+"weight": 9
+},
+{
+"type": "loot_table",
+"name": "lthc.advancenergy:i/ores/tin/ingot",
+"weight": 6
+},
+{
+"type": "loot_table",
+"name": "lthc.advancenergy:i/ores/tin/raw",
+"weight": 8
+},
+{
+"type": "item",
+"name": "iron_ingot",
+"weight": 15
+},
+{
+"type": "loot_table",
+"name": "lthc.advancenergy:i/equipments/tin_hoe",
+"weight": 13,
+"functions": [
+{
+"function": "enchant_with_levels",
+"levels": {
+"min": 3,
+"max": 11
+}
+}
+]
+},
+{
+"type": "loot_table",
+"name": "lthc.advancenergy:i/equipments/tin_boots",
+"weight": 13
+},
+{
+"type": "loot_table",
+"name": "lthc.advancenergy:i/ores/silver/block",
+"weight": 2
+},
+{
+"type": "loot_table",
+"name": "lthc.advancenergy:i/ores/tin/raw_block",
+"weight": 20
+},
+{
+"type": "loot_table",
+"name": "lthc.advancenergy:i/ores/tin/raw_x2",
+"weight": 7
+}
+]
+}
+]
 }
