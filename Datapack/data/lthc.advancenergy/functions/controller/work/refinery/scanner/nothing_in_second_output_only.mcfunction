@@ -26,7 +26,7 @@ execute if score #already2 lthc.advancenergy.data matches 0 store success score 
 execute if score #already2 lthc.advancenergy.data matches 0 store success score #already2 lthc.advancenergy.data if data storage lthc.advancenergy:main Items[{Slot:14b,id:"minecraft:quartz"}] if data storage lthc.advancenergy:main Items[{Slot:10b,id:"minecraft:nether_quartz_ore"}] run function lthc.advancenergy:controller/work/refinery/scanner/accept_input/quartz
 
 # SimplEnergy Compatibility
-execute if score #laready2 lthc.advancenergy.data matches 0 if score SimplEnergy load.status matches 1090 run function lthc.advancenergy:controller/work/refinery/scanner/simplenergy_compatibility/nothing_in_second_output_only
+execute if score #laready2 lthc.advancenergy.data matches 0 if score SimplEnergy load.status matches 1090.. run function lthc.advancenergy:controller/work/refinery/scanner/simplenergy_compatibility/nothing_in_second_output_only
 
 # From other packs
 function #lthc.advancenergy:calls/count/soe_fob1

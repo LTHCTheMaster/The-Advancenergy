@@ -14,3 +14,5 @@ lthc.advancenergy.is_machine => a machine
 lthc.advancenergy.gui => has custom GUI
 
 lthc.advancenergy.can_chained_interaction => can be in a chain of interaction and not the end of this chain of interaction
+
+lthc.advancenergy.just_end_process => avoid on/off/on blinking between two "chained" process
