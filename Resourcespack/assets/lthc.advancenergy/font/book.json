@@ -33,6 +33,17 @@
 {"type":"bitmap","file":"lthc.advancenergy:font/crafts/mineral_extracting_machine.png","ascent": 8, "height": 52,"chars":["\uea1c"]},
 {"type":"bitmap","file":"lthc.advancenergy:font/crafts/refinery.png","ascent": 8, "height": 52,"chars":["\uea1d"]},
 {"type":"bitmap","file":"lthc.advancenergy:font/crafts/primitive_cable.png","ascent": 8, "height": 52,"chars":["\uea1e"]},
-{"type":"bitmap","file":"lthc.advancenergy:font/crafts/primitive_capacitor.png","ascent": 8, "height": 52,"chars":["\uea1f"]}
+{"type":"bitmap","file":"lthc.advancenergy:font/crafts/primitive_capacitor.png","ascent": 8, "height": 52,"chars":["\uea1f"]},
+{"type":"bitmap","file":"lthc.advancenergy:font/main_page/silver_ore.png","ascent": 8, "height": 18,"chars":["\uea20"]},
+{"type":"bitmap","file":"lthc.advancenergy:font/main_page/tin_machine_casing.png","ascent": 8, "height": 18,"chars":["\uea21"]},
+{"type":"bitmap","file":"lthc.advancenergy:font/main_page/lead_machine_casing.png","ascent": 8, "height": 18,"chars":["\uea22"]},
+{"type":"bitmap","file":"lthc.advancenergy:font/main_page/silver_machine_casing.png","ascent": 8, "height": 18,"chars":["\uea23"]},
+{"type":"bitmap","file":"lthc.advancenergy:font/main_page/cobblestone_farmer.png","ascent": 8, "height": 18,"chars":["\uea24"]},
+{"type":"bitmap","file":"lthc.advancenergy:font/main_page/carbon_extractor.png","ascent": 8, "height": 18,"chars":["\uea25"]},
+{"type":"bitmap","file":"lthc.advancenergy:font/crafts/tin_machine_casing.png","ascent": 8, "height": 52,"chars":["\uea26"]},
+{"type":"bitmap","file":"lthc.advancenergy:font/crafts/lead_machine_casing.png","ascent": 8, "height": 52,"chars":["\uea27"]},
+{"type":"bitmap","file":"lthc.advancenergy:font/crafts/silver_machine_casing.png","ascent": 8, "height": 52,"chars":["\uea28"]},
+{"type":"bitmap","file":"lthc.advancenergy:font/crafts/cobblestone_farmer.png","ascent": 8, "height": 52,"chars":["\uea29"]},
+{"type":"bitmap","file":"lthc.advancenergy:font/crafts/carbon_extractor.png","ascent": 8, "height": 52,"chars":["\uea2a"]}
 ]
 }

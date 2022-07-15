@@ -4,7 +4,10 @@ execute store result score #energy lthc.advancenergy.data run data get storage e
 scoreboard players operation #part_1 lthc.advancenergy.data = #energy lthc.advancenergy.data
 scoreboard players operation #part_2 lthc.advancenergy.data = #energy lthc.advancenergy.data
 
-#MJ, GJ, TJ cases
+#kJ, MJ, GJ, TJ cases
+execute if score #energy lthc.advancenergy.data matches ..999 run data modify storage lthc.advancenergy:main scale set value " kJ]"
+execute if score #energy lthc.advancenergy.data matches ..999 run scoreboard players set #part_2 lthc.advancenergy.data 0
+
 execute if score #energy lthc.advancenergy.data matches ..999999 run data modify storage lthc.advancenergy:main scale set value " MJ]"
 execute if score #energy lthc.advancenergy.data matches ..999999 run scoreboard players operation #part_1 lthc.advancenergy.data /= #1000 lthc.advancenergy.data
 execute if score #energy lthc.advancenergy.data matches ..999999 run scoreboard players operation #part_2 lthc.advancenergy.data %= #1000 lthc.advancenergy.data
