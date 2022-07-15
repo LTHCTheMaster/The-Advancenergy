@@ -18,7 +18,9 @@ execute if score #already lthc.advancenergy.data matches 0 store success score #
 execute if score #already lthc.advancenergy.data matches 0 store success score #already lthc.advancenergy.data if data storage lthc.advancenergy:main RefineryCurrent.silver run function lthc.advancenergy:controller/work/refinery/output/silver
 execute if score #already lthc.advancenergy.data matches 0 store success score #already lthc.advancenergy.data if data storage lthc.advancenergy:main RefineryCurrent.netherite run function lthc.advancenergy:controller/work/refinery/output/netherite
 execute if score #already lthc.advancenergy.data matches 0 store success score #already lthc.advancenergy.data if data storage lthc.advancenergy:main RefineryCurrent.quartz run function lthc.advancenergy:controller/work/refinery/output/quartz
-execute if score #already lthc.advancenergy.data matches 0 store success score #already lthc.advancenergy.data if data storage lthc.advancenergy:main RefineryCurrent.simplunium run function lthc.advancenergy:controller/work/refinery/output/simplunium
+execute if score #already lthc.advancenergy.data matches 0 store success score #already lthc.advancenergy.data if data storage lthc.advancenergy:main RefineryCurrent."simplenergy/simplunium" run function lthc.advancenergy:controller/work/refinery/output/simplenergy_compatibility/simplunium
+execute if score #already lthc.advancenergy.data matches 0 store success score #already lthc.advancenergy.data if data storage lthc.advancenergy:main RefineryCurrent."mechanization/ender_alloy" run function lthc.advancenergy:controller/work/refinery/output/mechanization_compatibility/ender_alloy
+execute if score #already lthc.advancenergy.data matches 0 store success score #already lthc.advancenergy.data if data storage lthc.advancenergy:main RefineryCurrent."mechanization/nether_alloy" run function lthc.advancenergy:controller/work/refinery/output/mechanization_compatibility/nether_alloy
 
 function #lthc.advancenergy:calls/refinery_output_scan
 
