@@ -4,7 +4,11 @@ data modify storage lthc.advancenergy:main RefineryCurrent set from entity @s It
 # Use to avoid nbt test repetition
 scoreboard players set #already lthc.advancenergy.data 0
 
-# Scan and output
+# Control on the working of the output
+scoreboard players set #skip lthc.advancenergy.data 0
+
+## Scan and output
+# Vanilla
 execute if score #already lthc.advancenergy.data matches 0 store success score #already lthc.advancenergy.data if data storage lthc.advancenergy:main RefineryCurrent.coal run function lthc.advancenergy:controller/work/refinery/output/coal
 execute if score #already lthc.advancenergy.data matches 0 store success score #already lthc.advancenergy.data if data storage lthc.advancenergy:main RefineryCurrent.copper run function lthc.advancenergy:controller/work/refinery/output/copper
 execute if score #already lthc.advancenergy.data matches 0 store success score #already lthc.advancenergy.data if data storage lthc.advancenergy:main RefineryCurrent.iron run function lthc.advancenergy:controller/work/refinery/output/iron
@@ -13,14 +17,18 @@ execute if score #already lthc.advancenergy.data matches 0 store success score #
 execute if score #already lthc.advancenergy.data matches 0 store success score #already lthc.advancenergy.data if data storage lthc.advancenergy:main RefineryCurrent.redstone run function lthc.advancenergy:controller/work/refinery/output/redstone
 execute if score #already lthc.advancenergy.data matches 0 store success score #already lthc.advancenergy.data if data storage lthc.advancenergy:main RefineryCurrent.emerald run function lthc.advancenergy:controller/work/refinery/output/emerald
 execute if score #already lthc.advancenergy.data matches 0 store success score #already lthc.advancenergy.data if data storage lthc.advancenergy:main RefineryCurrent.diamond run function lthc.advancenergy:controller/work/refinery/output/diamond
-execute if score #already lthc.advancenergy.data matches 0 store success score #already lthc.advancenergy.data if data storage lthc.advancenergy:main RefineryCurrent.tin run function lthc.advancenergy:controller/work/refinery/output/tin
-execute if score #already lthc.advancenergy.data matches 0 store success score #already lthc.advancenergy.data if data storage lthc.advancenergy:main RefineryCurrent.lead run function lthc.advancenergy:controller/work/refinery/output/lead
-execute if score #already lthc.advancenergy.data matches 0 store success score #already lthc.advancenergy.data if data storage lthc.advancenergy:main RefineryCurrent.silver run function lthc.advancenergy:controller/work/refinery/output/silver
 execute if score #already lthc.advancenergy.data matches 0 store success score #already lthc.advancenergy.data if data storage lthc.advancenergy:main RefineryCurrent.netherite run function lthc.advancenergy:controller/work/refinery/output/netherite
 execute if score #already lthc.advancenergy.data matches 0 store success score #already lthc.advancenergy.data if data storage lthc.advancenergy:main RefineryCurrent.quartz run function lthc.advancenergy:controller/work/refinery/output/quartz
+# Owned (The Advancenergy)
+execute if score #already lthc.advancenergy.data matches 0 store success score #already lthc.advancenergy.data if data storage lthc.advancenergy:main RefineryCurrent."the_advancenergy/tin" run function lthc.advancenergy:controller/work/refinery/output/owned/tin
+execute if score #already lthc.advancenergy.data matches 0 store success score #already lthc.advancenergy.data if data storage lthc.advancenergy:main RefineryCurrent."the_advancenergy/lead" run function lthc.advancenergy:controller/work/refinery/output/owned/lead
+execute if score #already lthc.advancenergy.data matches 0 store success score #already lthc.advancenergy.data if data storage lthc.advancenergy:main RefineryCurrent."the_advancenergy/silver" run function lthc.advancenergy:controller/work/refinery/output/owned/silver
+# SimplEnergy
 execute if score #already lthc.advancenergy.data matches 0 store success score #already lthc.advancenergy.data if data storage lthc.advancenergy:main RefineryCurrent."simplenergy/simplunium" run function lthc.advancenergy:controller/work/refinery/output/simplenergy_compatibility/simplunium
+# Mechanization
 execute if score #already lthc.advancenergy.data matches 0 store success score #already lthc.advancenergy.data if data storage lthc.advancenergy:main RefineryCurrent."mechanization/ender_alloy" run function lthc.advancenergy:controller/work/refinery/output/mechanization_compatibility/ender_alloy
 execute if score #already lthc.advancenergy.data matches 0 store success score #already lthc.advancenergy.data if data storage lthc.advancenergy:main RefineryCurrent."mechanization/nether_alloy" run function lthc.advancenergy:controller/work/refinery/output/mechanization_compatibility/nether_alloy
+execute if score #already lthc.advancenergy.data matches 0 store success score #already lthc.advancenergy.data if data storage lthc.advancenergy:main RefineryCurrent."mechanization/plutonium" run function lthc.advancenergy:controller/work/refinery/output/mechanization_compatibility/plutonium
 
 function #lthc.advancenergy:calls/refinery_output_scan
 
@@ -31,7 +39,7 @@ data modify entity @s Item.tag.RefineryCurrent set from storage lthc.advancenerg
 data remove storage lthc.advancenergy:main RefineryCurrent
 
 # Modify the block
-data modify block ~ ~ ~ Items set from storage lthc.advancenergy:main Items
+execute if score #skip lthc.advancenergy.data matches 0 run data modify block ~ ~ ~ Items set from storage lthc.advancenergy:main Items
 
 # Add a tag to avoid on/off/on blinking
 tag @s add lthc.advancenergy.just_end_process
