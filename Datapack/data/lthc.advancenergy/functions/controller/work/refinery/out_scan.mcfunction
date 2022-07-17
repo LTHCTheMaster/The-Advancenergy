@@ -34,6 +34,7 @@ execute if score #already lthc.advancenergy.data matches 0 store success score #
 execute if score #already lthc.advancenergy.data matches 0 store success score #already lthc.advancenergy.data if data storage lthc.advancenergy:main RefineryCurrent."mechanization/structural_alloy" run function lthc.advancenergy:controller/work/refinery/output/mechanization_compatibility/structural_alloy
 execute if score #already lthc.advancenergy.data matches 0 store success score #already lthc.advancenergy.data if data storage lthc.advancenergy:main RefineryCurrent."mechanization/conductive_alloy" run function lthc.advancenergy:controller/work/refinery/output/mechanization_compatibility/conductive_alloy
 execute if score #already lthc.advancenergy.data matches 0 store success score #already lthc.advancenergy.data if data storage lthc.advancenergy:main RefineryCurrent."mechanization/super_conductive_alloy" run function lthc.advancenergy:controller/work/refinery/output/mechanization_compatibility/super_conductive_alloy
+execute if score #already lthc.advancenergy.data matches 0 store success score #already lthc.advancenergy.data if data storage lthc.advancenergy:main RefineryCurrent."mechanization/tin" run function lthc.advancenergy:controller/work/refinery/output/mechanization_compatibility/tin
 
 function #lthc.advancenergy:calls/refinery_output_scan
 
