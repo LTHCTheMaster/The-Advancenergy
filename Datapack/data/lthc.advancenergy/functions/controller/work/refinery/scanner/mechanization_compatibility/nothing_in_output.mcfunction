@@ -18,3 +18,5 @@ execute if score #already2 lthc.advancenergy.data matches 0 store success score 
 execute if score #already2 lthc.advancenergy.data matches 0 store success score #already2 lthc.advancenergy.data if data storage lthc.advancenergy:main Items[{Slot:10b,tag:{mechanization:{id:"raw_tin"}}}] run data modify entity @s Item.tag.RefineryCurrent set value {"mechanization/tin":1b}
 # Titanium
 execute if score #already2 lthc.advancenergy.data matches 0 store success score #already2 lthc.advancenergy.data if data storage lthc.advancenergy:main Items[{Slot:10b,tag:{mechanization:{id:"raw_titanium"}}}] run data modify entity @s Item.tag.RefineryCurrent set value {"mechanization/titanium":1b}
+# Titanium
+execute if score #already2 lthc.advancenergy.data matches 0 store success score #already2 lthc.advancenergy.data if data storage lthc.advancenergy:main Items[{Slot:10b,tag:{mechanization:{id:"raw_uranium"}}}] run data modify entity @s Item.tag.RefineryCurrent set value {"mechanization/uranium":1b}
