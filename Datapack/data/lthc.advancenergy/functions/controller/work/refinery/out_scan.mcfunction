@@ -37,6 +37,8 @@ execute if score #already lthc.advancenergy.data matches 0 store success score #
 execute if score #already lthc.advancenergy.data matches 0 store success score #already lthc.advancenergy.data if data storage lthc.advancenergy:main RefineryCurrent."mechanization/tin" run function lthc.advancenergy:controller/work/refinery/output/mechanization_compatibility/tin
 execute if score #already lthc.advancenergy.data matches 0 store success score #already lthc.advancenergy.data if data storage lthc.advancenergy:main RefineryCurrent."mechanization/titanium" run function lthc.advancenergy:controller/work/refinery/output/mechanization_compatibility/titanium
 execute if score #already lthc.advancenergy.data matches 0 store success score #already lthc.advancenergy.data if data storage lthc.advancenergy:main RefineryCurrent."mechanization/uranium" run function lthc.advancenergy:controller/work/refinery/output/mechanization_compatibility/uranium
+# Crazy Adventure
+execute if score #already lthc.advancenergy.data matches 0 store success score #already lthc.advancenergy.data if data storage lthc.advancenergy:main RefineryCurrent."crazy_adventure/uranium" run function lthc.advancenergy:controller/work/refinery/output/crazy_adventure_compatibility/uranium
 
 function #lthc.advancenergy:calls/refinery_output_scan
 
