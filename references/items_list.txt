@@ -1,0 +1,62 @@
+advanced carbon generator
+ash
+block of ash
+block of bronze
+block of lead
+block of raw lead
+block of raw silver
+block of raw tin
+block of silver
+block of tin
+bronze bomb
+bronze ingot
+bronze machine casing
+bronze nugget
+carbon extractor
+carbon generator
+cobblestone farmer
+deepslate lead ore
+deepslate silver ore
+deepslate tin ore
+dust generator
+lead axe
+lead bomb
+lead boots
+lead chestplate
+lead helmet
+lead hoe
+lead ingot
+lead leggings
+lead machine casing
+lead nugget
+lead ore
+lead pickaxe
+lead shovel
+lead sword
+mineral extracting machine
+potato generator
+primitive cable
+primitive capacitor
+raw lead
+raw silver
+raw tin
+refinery
+silver ingot
+silver machine casing
+silver nugget
+silver ore
+solar generator
+the advancenergy guide
+tin axe
+tin boots
+tin chestplate
+tin helmet
+tin hoe
+tin ingot
+tin leggings
+tin machine casing
+tin nugget
+tin ore
+tin pickaxe
+tin shovel
+tin sword
