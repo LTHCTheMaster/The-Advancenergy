@@ -4,9 +4,6 @@ data modify storage lthc.advancenergy:main RefineryCurrent set from entity @s It
 # Use to avoid nbt test repetition
 scoreboard players set #already lthc.advancenergy.data 0
 
-# Control on the working of the output
-scoreboard players set #skip lthc.advancenergy.data 0
-
 ## Scan and output
 # Vanilla
 execute if score #already lthc.advancenergy.data matches 0 store success score #already lthc.advancenergy.data if data storage lthc.advancenergy:main RefineryCurrent.coal run function lthc.advancenergy:controller/work/refinery/output/coal
@@ -52,7 +49,7 @@ data modify entity @s Item.tag.RefineryCurrent set from storage lthc.advancenerg
 data remove storage lthc.advancenergy:main RefineryCurrent
 
 # Modify the block
-execute if score #skip lthc.advancenergy.data matches 0 run data modify block ~ ~ ~ Items set from storage lthc.advancenergy:main Items
+data modify block ~ ~ ~ Items set from storage lthc.advancenergy:main Items
 
 # Add a tag to avoid on/off/on blinking
 tag @s add lthc.advancenergy.just_end_process

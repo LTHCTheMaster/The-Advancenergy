@@ -11,11 +11,17 @@ kill @e[type=marker,tag=lthc.advancenergy]
 summon marker ~ ~1 ~ {Tags:["lthc.advancenergy","global.ignore","global.forceload","smithed.entity","smithed.strict"]}
 execute as @e[type=marker,tag=lthc.advancenergy] at @s run forceload add ~ ~ ~ ~
 
+# Chunkload convention chunk
+execute in minecraft:overworld run forceload add -30000000 1600
+
 # Init the gamerules
 gamerule maxCommandChainLength 2147483647
 
 # Start loops
 schedule function lthc.advancenergy:core/loading/sub_functions/schedule 1t replace
+
+# Call load_delayed
+schedule function lthc.advancenergy:core/loading/load_delayed 18t replace
 
 # Saves that the datapack was started/loaded
 scoreboard players set #lthc.loaded lthc.advancenergy.data 1
