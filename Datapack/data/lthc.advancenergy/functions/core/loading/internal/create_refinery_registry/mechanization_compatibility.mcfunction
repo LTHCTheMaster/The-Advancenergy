@@ -34,8 +34,8 @@ loot replace block -30000000 -55 1610 container.16 loot mechanization:base/steel
 data modify storage lthc.advancenergy:main refinery.registry.mechanization.steel.out1 set from block -30000000 -55 1610 Items[{Slot:14b}]
 data modify storage lthc.advancenergy:main refinery.registry.mechanization.steel.out2 set from block -30000000 -55 1610 Items[{Slot:16b}]
 # Structural Alloy
-loot replace block -30000000 -55 1610 container.14 loot mechanization:base/reinforced_structural_ingot
-loot replace block -30000000 -55 1610 container.16 loot mechanization:base/reinforced_structural_ingot
+loot replace block -30000000 -55 1610 container.14 loot mechanization:base/structural_ingot
+loot replace block -30000000 -55 1610 container.16 loot mechanization:base/structural_ingot
 data modify storage lthc.advancenergy:main refinery.registry.mechanization.structural_alloy.out1 set from block -30000000 -55 1610 Items[{Slot:14b}]
 data modify storage lthc.advancenergy:main refinery.registry.mechanization.structural_alloy.out2 set from block -30000000 -55 1610 Items[{Slot:16b}]
 # Super Conductive Alloy
@@ -58,3 +58,8 @@ loot replace block -30000000 -55 1610 container.14 loot mechanization:base/urani
 loot replace block -30000000 -55 1610 container.16 loot mechanization:base/uranium_ingot
 data modify storage lthc.advancenergy:main refinery.registry.mechanization.uranium.out1 set from block -30000000 -55 1610 Items[{Slot:14b}]
 data modify storage lthc.advancenergy:main refinery.registry.mechanization.uranium.out2 set from block -30000000 -55 1610 Items[{Slot:16b}]
+# Titanium Steel
+loot replace block -30000000 -55 1610 container.14 loot mechanization:base/titanium_steel_ingot
+loot replace block -30000000 -55 1610 container.16 loot mechanization:base/titanium_steel_ingot
+data modify storage lthc.advancenergy:main refinery.registry.mechanization.titanium_steel.out1 set from block -30000000 -55 1610 Items[{Slot:14b}]
+data modify storage lthc.advancenergy:main refinery.registry.mechanization.titanium_steel.out2 set from block -30000000 -55 1610 Items[{Slot:16b}]
