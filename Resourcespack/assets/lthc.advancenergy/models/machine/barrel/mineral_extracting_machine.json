@@ -1,23 +1,19 @@
 {
 	"parent": "minecraft:block/cube_all",
 	"textures": {
-		"down": "lthc.advancenergy:ores/tin/block",
-		"up": "lthc.advancenergy:ores/tin/block",
-		"north": "lthc.advancenergy:machines/mineral_extracting_machine",
-		"south": "lthc.advancenergy:machines/mineral_extracting_machine",
-		"west": "lthc.advancenergy:machines/mineral_extracting_machine",
-		"east": "lthc.advancenergy:machines/mineral_extracting_machine"
+		"ud": "lthc.advancenergy:ores/tin/block",
+		"sides": "lthc.advancenergy:machines/mineral_extracting_machine"
 	},
 	"elements": [{
 		"from": [ 0, 0, 0 ],
 		"to": [ 16, 16, 16 ],
 		"faces": {
-			"down":	{ "texture": "#down", "cullface": "down" },
-			"up":	 { "texture": "#up", "cullface": "up" },
-			"north": { "texture": "#north", "cullface": "north" },
-			"south": { "texture": "#south", "cullface": "south" },
-			"west":	{ "texture": "#west", "cullface": "west" },
-			"east":	{ "texture": "#east", "cullface": "east" }
+			"down":	{"texture": "#ud"},
+			"up":	 {"texture": "#ud"},
+			"north": {"texture": "#sides"},
+			"south": {"texture": "#sides"},
+			"west":	{"texture": "#sides"},
+			"east":	{"texture": "#sides"}
 		}
 	}]
 }

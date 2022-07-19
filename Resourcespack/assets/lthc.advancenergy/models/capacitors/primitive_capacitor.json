@@ -1,12 +1,9 @@
 {
-	"parent": "minecraft:block/cube_all",
+	"parent": "lthc.advancenergy:block_renderer",
 	"textures": {
 		"down": "lthc.advancenergy:capacitors/capacitor_bottom",
 		"up": "lthc.advancenergy:capacitors/capacitor_top",
-		"north": "lthc.advancenergy:capacitors/primitive_capacitor",
-		"south": "lthc.advancenergy:capacitors/primitive_capacitor",
-		"west": "lthc.advancenergy:capacitors/primitive_capacitor",
-		"east": "lthc.advancenergy:capacitors/primitive_capacitor"
+		"sides": "lthc.advancenergy:capacitors/primitive_capacitor"
 	},
 	"elements": [{
 		"from": [ 0, 0, 0 ],
@@ -14,17 +11,10 @@
 		"faces": {
 			"down":	{ "texture": "#down", "cullface": "down" },
 			"up":	 { "texture": "#up", "cullface": "up" },
-			"north": { "texture": "#north", "cullface": "north" },
-			"south": { "texture": "#south", "cullface": "south" },
-			"west":	{ "texture": "#west", "cullface": "west" },
-			"east":	{ "texture": "#east", "cullface": "east" }
+			"north": { "texture": "#sides", "cullface": "north" },
+			"south": { "texture": "#sides", "cullface": "south" },
+			"west":	{ "texture": "#sides", "cullface": "west" },
+			"east":	{ "texture": "#sides", "cullface": "east" }
 		}
-	}],
-	"display": {
-		"fixed": {
-			"rotation": [ -90, 0, 0 ],
-			"translation": [ 0, 0, -16 ],
-			"scale": [2.0075, 2.0075, 2.0075]
-		}
-	}
+	}]
 }

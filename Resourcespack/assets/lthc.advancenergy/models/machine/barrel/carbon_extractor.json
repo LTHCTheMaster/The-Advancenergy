@@ -1,23 +1,19 @@
 {
 	"parent": "minecraft:block/cube_all",
 	"textures": {
-		"down": "lthc.advancenergy:ores/tin/machine_casing",
-		"up": "lthc.advancenergy:ores/tin/machine_casing",
-		"north": "lthc.advancenergy:machines/carbon_extractor/carbon_extractor",
-		"south": "lthc.advancenergy:machines/carbon_extractor/carbon_extractor",
-		"west": "lthc.advancenergy:machines/carbon_extractor/carbon_extractor",
-		"east": "lthc.advancenergy:machines/carbon_extractor/carbon_extractor"
+		"ud": "lthc.advancenergy:ores/tin/machine_casing",
+		"sides": "lthc.advancenergy:machines/carbon_extractor/carbon_extractor"
 	},
 	"elements": [{
 		"from": [ 0, 0, 0 ],
 		"to": [ 16, 16, 16 ],
 		"faces": {
-			"down":	{ "texture": "#down", "cullface": "down" },
-			"up":	 { "texture": "#up", "cullface": "up" },
-			"north": { "texture": "#north", "cullface": "north" },
-			"south": { "texture": "#south", "cullface": "south" },
-			"west":	{ "texture": "#west", "cullface": "west" },
-			"east":	{ "texture": "#east", "cullface": "east" }
+			"down":	{"texture": "#ud"},
+			"up":	 {"texture": "#ud"},
+			"north": {"texture": "#sides"},
+			"south": {"texture": "#sides"},
+			"west":	{"texture": "#sides"},
+			"east":	{"texture": "#sides"}
 		}
 	}]
 }
