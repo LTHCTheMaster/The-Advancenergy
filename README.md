@@ -34,7 +34,6 @@ The Advancenergy is an energy datapack inspired by **<a href="https://github.com
 | ❌   | Bukkit          |
 | ⚠   | Spigot          |
 | ⚠   | Paper           |
-| ❌   | Waterfall       |
 
 ## 🤝 Contributors
 
