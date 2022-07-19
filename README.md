@@ -21,7 +21,7 @@ The Advancenergy is an energy datapack inspired by **<a href="https://github.com
 - New advancements
 
 ### 💽 Versions
-| ✅   | 1.18.2 |
+| ✅   | 1.19.x |
 | --- | --------------- |
 | ✅   | Singleplayer    |
 | ✅   | Multiplayer     |
@@ -33,7 +33,7 @@ The Advancenergy is an energy datapack inspired by **<a href="https://github.com
 | ❓   | Realms          |
 | ❌   | Bukkit          |
 | ⚠   | Spigot          |
-| ❌   | Paper           |
+| ⚠   | Paper           |
 | ❌   | Waterfall       |
 
 ## 🤝 Contributors
@@ -44,7 +44,7 @@ The Advancenergy is an energy datapack inspired by **<a href="https://github.com
 
 ## 🫂 Credits
 
-Thanks to <a href="https://github.com/VGreluchon">VGreluchon</a> and <a href="https://github.com/Stoupy51">Stoupy51</a> for their help.
+Thanks to <a href="https://github.com/VGreluchon">VGreluchon</a> and <a href="https://github.com/Stoupy51">Stoupy51</a> for their help and contributions.
 
 Thanks to the <a href="https://discord.me/dataworld">Dataworld</a> discord for their feedback and help.
 
