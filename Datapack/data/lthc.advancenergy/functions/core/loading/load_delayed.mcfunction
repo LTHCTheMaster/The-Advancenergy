@@ -49,9 +49,9 @@ data modify storage lthc.advancenergy:main refinery.registry.the_advancenergy.si
 data modify storage lthc.advancenergy:main refinery.registry.the_advancenergy.silver.out2 set from storage lthc.advancenergy:main registry.item.170213
 ## SimplEnergy
 execute if score SimplEnergy load.status matches 1090.. run function lthc.advancenergy:core/loading/internal/create_refinery_registry/simplenergy_compatibility
-## Mechanization
-execute if score #mech.ver.major load.status matches 4 if score #mech.ver.minor load.status matches 0 if score #mech.ver.fix load.status matches 0.. run function lthc.advancenergy:core/loading/internal/create_refinery_registry/mechanization_compatibility
 ## Crazy Adventure
 execute if score CrazyAdventure load.status matches 1000.. run function lthc.advancenergy:core/loading/internal/create_refinery_registry/crazy_adventure_compatibility
+## Mechanization
+execute if score #mech.ver.major load.status matches 4 if score #mech.ver.minor load.status matches 0 if score #mech.ver.fix load.status matches 0.. run function lthc.advancenergy:core/loading/internal/create_refinery_registry/mechanization_compatibility
 ## EnergyUtils
 execute if score energyutils.major load.status matches 1 if score energyutils.minor load.status matches 0 if score energyutils.patch load.status matches 0.. run function lthc.advancenergy:core/loading/internal/create_refinery_registry/energyutils_compatibility
