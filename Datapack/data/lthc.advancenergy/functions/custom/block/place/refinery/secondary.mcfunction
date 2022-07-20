@@ -6,4 +6,4 @@ tag @s remove lthc.advancenergy.set_new
 #Call on a new machine to initialize its connections
 function energy:v1/api/init_machine
 
-function lthc.advancenergy:controller/gui_visual/refinery
+function lthc.advancenergy:controller/gui_manager/refinery

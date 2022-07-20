@@ -11,4 +11,3 @@ execute if data storage lthc.advancenergy:main GUI[{Slot:6b}] unless data storag
 execute if data storage lthc.advancenergy:main GUI[{Slot:7b}] unless data storage lthc.advancenergy:main GUI[{Slot:6b}] run function lthc.advancenergy:controller/gui_shift_click/dust_generator/slot7b/2
 execute if data storage lthc.advancenergy:main GUI[{Slot:8b}] unless data storage lthc.advancenergy:main GUI[{Slot:7b}] run function lthc.advancenergy:controller/gui_shift_click/dust_generator/slot8b/2
 execute if score #success lthc.advancenergy.data matches 1 run data modify block ~ ~ ~ Items set from storage lthc.advancenergy:main GUI
-data remove storage lthc.advancenergy:main GUI
