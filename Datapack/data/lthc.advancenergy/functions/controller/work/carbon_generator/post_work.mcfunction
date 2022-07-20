@@ -7,4 +7,4 @@ execute if score #success lthc.advancenergy.data matches 0 run loot replace bloc
 tag @s add lthc.advancenergy.just_end_process
 # Update the interface
 scoreboard players remove @s lthc.advancenergy.working 1
-function lthc.advancenergy:controller/visual/carbon_generator_2
+function lthc.advancenergy:controller/gui_visual/carbon_generator
