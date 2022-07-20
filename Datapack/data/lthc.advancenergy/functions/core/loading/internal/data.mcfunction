@@ -29,6 +29,8 @@
 #define score_holder #already3
 #define score_holder #ydaerla
 #define score_holder #bomb_config
+#define score_holder #first_slot
+#define score_holder #cleaned
 
 ###########
 kill @e[type=marker,tag=lthc.advancenergy.is_a_marker]
