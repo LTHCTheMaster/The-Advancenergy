@@ -2,8 +2,9 @@
     "values": [
             "sunflower_plains",
             "eroded_badlands",
-            "taiga",
+            "#is_taiga",
             "sparse_jungle",
-            "stony_shore"
+            "stony_shore",
+            "#is_beach"
     ]
 }

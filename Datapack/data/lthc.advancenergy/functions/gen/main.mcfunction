@@ -27,3 +27,10 @@
 # Generate Silver Ore with air adjacency
 	execute as @e[limit=4] run summon area_effect_cloud ~ 0 ~ {Tags:["lthc.advancenergy.ore_pos"],Duration:0}
 	execute as @e[tag=lthc.advancenergy.ore_pos] at @s run function lthc.advancenergy:gen/ores/silver/silver_air
+
+## Random Builded Pattern
+	scoreboard players set #xz_variation lthc.advancenergy.data 450
+	scoreboard players set #max_height lthc.advancenergy.data 330
+# Generate Random Builded Pattern
+	execute as @e[limit=6] run summon area_effect_cloud ~ 0 ~ {Tags:["lthc.advancenergy.ore_pos"],Duration:0}
+	execute as @e[tag=lthc.advancenergy.ore_pos] at @s run function lthc.advancenergy:gen/ores/multiple_builded_pattern/build_ore_pattern

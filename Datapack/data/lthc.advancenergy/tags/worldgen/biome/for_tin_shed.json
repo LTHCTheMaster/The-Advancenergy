@@ -3,7 +3,8 @@
 				"plains",
 				"desert",
 				"dripstone_caves",
-				"swamp",
-				"badlands"
+				"#allows_surface_slime_spawns",
+				"badlands",
+				"#is_beach"
 		]
 }
