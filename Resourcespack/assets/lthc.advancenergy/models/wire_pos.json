@@ -1,5 +1,5 @@
 {
-	"parent":"block/block",
+	"parent": "lthc.advancenergy:block_renderer",
 	"display": {
 				"head": {
 						"rotation": [ 0, 0, 0 ],
@@ -23,7 +23,8 @@
 								"west": { "texture": "#0", "uv": [ 0.0, 0.0, 16.0, 16.0 ] },
 								"up": { "texture": "#0", "uv": [ 0.0, 0.0, 16.0, 16.0 ] },
 								"down": { "texture": "#0", "uv": [ 0.0, 0.0, 16.0, 16.0 ] }
-						}
+						},
+						"shade": false
 				}
 	]
 }
