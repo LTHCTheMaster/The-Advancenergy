@@ -36,6 +36,3 @@ execute if score #already2 lthc.advancenergy.data matches 0 if score energyutils
 
 # From other packs
 function #lthc.advancenergy:calls/count/soe_fob1
-
-### Found
-execute if score #already2 lthc.advancenergy.data matches 1 run function lthc.advancenergy:controller/work/refinery/found
