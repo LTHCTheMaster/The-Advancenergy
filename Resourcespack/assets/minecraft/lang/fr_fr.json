@@ -64,8 +64,10 @@
     "lthcthemaster.lthc.advancenergy.items.bronze_block": "Bloc de Bronze",
     "lthcthemaster.lthc.advancenergy.items.bronze_mc": "Composante Machine en Bronze",
     "lthcthemaster.lthc.advancenergy.__comment.7": "Ash Translation",
-    "lthcthemaster.lthc.advancenergy.items.ash": "Cendre",
-    "lthcthemaster.lthc.advancenergy.items.ash_block": "Bloc de Cendre",
+    "lthcthemaster.lthc.advancenergy.items.ash": "Cendres",
+    "lthcthemaster.lthc.advancenergy.items.ash_block": "Bloc de Cendres",
+    "lthcthemaster.lthc.advancenergy.items.ash_ingot": "Lingot de Cendres",
+    "lthcthemaster.lthc.advancenergy.items.ash_apple": "Pomme en Cendres",
 
     "lthcthemaster.lthc.advancenergy.__comment.8": "Bomb Translation",
     "lthcthemaster.lthc.advancenergy.items.bomb.lead": "Bomb en Plomb",

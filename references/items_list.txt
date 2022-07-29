@@ -1,5 +1,7 @@
 advanced carbon generator
 ash
+ash apple
+ash ingot
 block of ash
 block of bronze
 block of lead

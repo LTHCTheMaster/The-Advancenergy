@@ -1,0 +1,16 @@
+{
+	"criteria": {
+		"requirement": {
+			"trigger": "minecraft:consume_item",
+			"conditions": {
+				"block": "minecraft:golden_apple",
+				"item": {
+					"nbt": "{lthc_advancenergy:{ash_apple:1b}}"
+				}
+			}
+		}
+	},
+	"rewards": {
+		"function": "lthc.advancenergy:custom/food/ash_apple"
+	}
+}

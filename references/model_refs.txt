@@ -48,6 +48,7 @@ command_block:
 	170213 : silver ingot
 	170214 : silver nugget
 	170215 : silver machine casing
+	170216 : ash ingot
 	179999 : The Advancenergy Icon
 
 leather_helmet:
@@ -66,23 +67,23 @@ leather_boots:
 	170200 : tin boots
 	170201 : lead boots
 
-diamond_axe:
+diamond_axe and netherite_axe:
 	170200 : tin axe
 	170201 : lead axe
 
-diamond_pickaxe:
+diamond_pickaxe and netherite_pickaxe:
 	170200 : tin pickaxe
 	170201 : lead pickaxe
 
-diamond_shovel:
+diamond_shovel and netherite_shovel:
 	170200 : tin shovel
 	170201 : lead shovel
 
-diamond_hoe:
+diamond_hoe and netherite_hoe:
 	170200 : tin hoe
 	170201 : lead hoe
 
-diamond_sword:
+diamond_sword and netherite_sword:
 	170200 : tin sword
 	170201 : lead sword
 
@@ -94,3 +95,6 @@ cobblestone:
 	170233 - 170243 : refinery GUI
 	170244 - 170254 : potato generator GUI
 	170255 - 170265 : carbon extractor GUI
+
+golden_apple:
+	170200 : ash apple

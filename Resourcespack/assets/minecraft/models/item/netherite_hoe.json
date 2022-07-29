@@ -1,0 +1,10 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/netherite_hoe"
+  },
+  "overrides": [
+  { "predicate": { "custom_model_data": 170200 }, "model": "lthc.advancenergy:equipments/tin_hoe" },
+  { "predicate": { "custom_model_data": 170201 }, "model": "lthc.advancenergy:equipments/lead_hoe" }
+]
+}
