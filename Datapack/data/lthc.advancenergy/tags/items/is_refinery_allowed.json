@@ -26,6 +26,14 @@
         "command_block",
         "jigsaw",
         "structure_block",
-        "structure_void"
+        "structure_void",
+        "barrel",
+        "furnace",
+        "blast_furnace",
+        "smoker",
+        "dispenser",
+        "dropper",
+        "campfire",
+        "soul_campfire"
     ]
 }
