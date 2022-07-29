@@ -4,9 +4,7 @@
 	execute at @s positioned ~0.0 ~0.8 ~0.8 if block ~ ~ ~ #lthc.advancenergy:ore_gen/tin/for_tin_ore run function lthc.advancenergy:gen/ores/tin/tin_type
 	execute at @s positioned ~0.8 ~0.8 ~0.0 if block ~ ~ ~ #minecraft:stone_ore_replaceables run function lthc.advancenergy:custom/block/place/ash_block/main
 	execute at @s positioned ~0.8 ~0.8 ~0.0 if block ~ ~ ~ #minecraft:deepslate_ore_replaceables run function lthc.advancenergy:custom/block/place/ash_block/main
-	execute at @s positioned ~0.8 ~0.0 ~0.8 if block ~ ~ ~ #minecraft:stone_ore_replaceables run setblock ~ ~ ~ redstone_ore
-	execute at @s positioned ~0.8 ~0.0 ~0.8 if block ~ ~ ~ #minecraft:deepslate_ore_replaceables run setblock ~ ~ ~ deepslate_redstone_ore
-	execute at @s positioned ~0.0 ~0.8 ~0.0 if block ~ ~ ~ #minecraft:stone_ore_replaceables run setblock ~ ~ ~ gold_ore
-	execute at @s positioned ~0.0 ~0.8 ~0.0 if block ~ ~ ~ #minecraft:deepslate_ore_replaceables run setblock ~ ~ ~ deepslate_gold_ore
+	execute at @s positioned ~0.8 ~0.0 ~0.8 if block ~ ~ ~ #lthc.advancenergy:ore_gen/from_vanilla/ores run function lthc.advancenergy:gen/ores/from_vanilla/redstone_type
+	execute at @s positioned ~0.0 ~0.8 ~0.0 if block ~ ~ ~ #lthc.advancenergy:ore_gen/from_vanilla/ores run function lthc.advancenergy:gen/ores/from_vanilla/gold_type
 
 kill @s
