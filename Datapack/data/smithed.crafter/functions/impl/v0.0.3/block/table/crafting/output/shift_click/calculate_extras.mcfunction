@@ -36,7 +36,7 @@ function smithed.crafter:impl/v0.0.3/block/table/crafting/input/read_barrel
 data modify storage smithed.crafter:main root.temp.item set from block ~ ~ ~ Items[{Slot: 16b}]
 data remove block ~ ~ ~ Items[{Slot: 16b}]
 
-execute as @p[distance=..12, tag=smithed.inside_crafter, tag=smithed.shift_clicked] at @s run function smithed.crafter:impl/v0.0.3/block/table/crafting/output/gui_shift_click/spawn_extra_items
+execute as @p[distance=..12, tag=smithed.inside_crafter, tag=smithed.shift_clicked] at @s run function smithed.crafter:impl/v0.0.3/block/table/crafting/output/shift_click/spawn_extra_items
 function smithed.crafter:impl/v0.0.3/block/table/crafting/input/read_barrel
 tag @s remove smithed.crafter.assembled_output
 data modify entity @s ArmorItems[3].tag.smithed.stored_output set value {Slot: 16b}

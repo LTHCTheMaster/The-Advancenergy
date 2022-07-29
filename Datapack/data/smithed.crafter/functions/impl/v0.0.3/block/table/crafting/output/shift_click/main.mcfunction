@@ -24,4 +24,4 @@ execute store result score @s smithed.data run data get block ~ ~ ~ Items[{Slot:
 execute if score @s smithed.data matches 1.. if score @s smithed.data < $temp2 smithed.data run scoreboard players operation $temp2 smithed.data = @s smithed.data
 
 scoreboard players remove $temp2 smithed.data 1
-execute if score $temp2 smithed.data matches 1..64 run function smithed.crafter:impl/v0.0.3/block/table/crafting/output/gui_shift_click/calculate_extras
+execute if score $temp2 smithed.data matches 1..64 run function smithed.crafter:impl/v0.0.3/block/table/crafting/output/shift_click/calculate_extras
