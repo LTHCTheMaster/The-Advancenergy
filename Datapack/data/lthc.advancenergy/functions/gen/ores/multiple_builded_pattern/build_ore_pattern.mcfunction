@@ -12,10 +12,10 @@ scoreboard players operation #ropbgrvs lthc.advancenergy.data %= #16 lthc.advanc
 kill @e[tag=lthc.advancenergy.ropbgrvs]
 
 #Choose Pattern
-execute if score #ropbgrvs lthc.advancenergy.data matches 0..6 run function lthc.advancenergy:gen/ores/multiple_builded_pattern/patterns/p0
-execute if score #ropbgrvs lthc.advancenergy.data matches 7..11 run function lthc.advancenergy:gen/ores/multiple_builded_pattern/patterns/p1
-execute if score #ropbgrvs lthc.advancenergy.data matches 12 run function lthc.advancenergy:gen/ores/multiple_builded_pattern/patterns/p2
-execute if score #ropbgrvs lthc.advancenergy.data matches 13 run function lthc.advancenergy:gen/ores/multiple_builded_pattern/patterns/p3
+execute if score #ropbgrvs lthc.advancenergy.data matches 0..5 run function lthc.advancenergy:gen/ores/multiple_builded_pattern/patterns/p0
+execute if score #ropbgrvs lthc.advancenergy.data matches 6..9 run function lthc.advancenergy:gen/ores/multiple_builded_pattern/patterns/p1
+execute if score #ropbgrvs lthc.advancenergy.data matches 10..11 run function lthc.advancenergy:gen/ores/multiple_builded_pattern/patterns/p2
+execute if score #ropbgrvs lthc.advancenergy.data matches 12..13 run function lthc.advancenergy:gen/ores/multiple_builded_pattern/patterns/p3
 execute if score #ropbgrvs lthc.advancenergy.data matches 14..15 run function lthc.advancenergy:gen/ores/multiple_builded_pattern/patterns/p4
 
 kill @s
