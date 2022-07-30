@@ -30,6 +30,7 @@ barrel and glow_item_frame:
 	170228 : silver block
 	170229 : cobblestone farmer
 	170230 : carbon extractor
+	170231 : aqueous accumulator
 
 command_block:
 	170200 : raw tin

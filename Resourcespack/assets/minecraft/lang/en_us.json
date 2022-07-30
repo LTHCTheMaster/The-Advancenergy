@@ -87,5 +87,6 @@
     "lthcthemaster.lthc.advancenergy.refinery": "Refinery",
     "lthcthemaster.lthc.advancenergy.mineral_em": "Mineral Extracting Machine",
     "lthcthemaster.lthc.advancenergy.cobble_farmer": "Cobblestone Farmer",
-    "lthcthemaster.lthc.advancenergy.carbon_extractor": "Carbon Extractor"
+    "lthcthemaster.lthc.advancenergy.carbon_extractor": "Carbon Extractor",
+    "lthcthemaster.lthc.advancenergy.aqueous_accumulator": "Aqueous Accumulator"
 }

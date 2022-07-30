@@ -87,5 +87,6 @@
     "lthcthemaster.lthc.advancenergy.refinery": "Raffinerie",
     "lthcthemaster.lthc.advancenergy.mineral_em": "Machine d'Extraction Minérale",
     "lthcthemaster.lthc.advancenergy.cobble_farmer": "Ferme à Pierres",
-    "lthcthemaster.lthc.advancenergy.carbon_extractor": "Extracteur de Substances Carbonées"
+    "lthcthemaster.lthc.advancenergy.carbon_extractor": "Extracteur de Substances Carbonées",
+    "lthcthemaster.lthc.advancenergy.aqueous_accumulator": "Accumulateur de Substance Aqueuse"
 }

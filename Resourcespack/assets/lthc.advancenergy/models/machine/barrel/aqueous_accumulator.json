@@ -1,0 +1,19 @@
+{
+	"parent": "minecraft:block/cube_all",
+	"textures": {
+		"ud": "lthc.advancenergy:ores/silver/block",
+		"sides": "lthc.advancenergy:machines/aqueous_accumulator"
+	},
+	"elements": [{
+		"from": [ 0, 0, 0 ],
+		"to": [ 16, 16, 16 ],
+		"faces": {
+			"down":	{"texture": "#ud"},
+			"up":	 {"texture": "#ud"},
+			"north": {"texture": "#sides"},
+			"south": {"texture": "#sides"},
+			"west":	{"texture": "#sides"},
+			"east":	{"texture": "#sides"}
+		}
+	}]
+}
