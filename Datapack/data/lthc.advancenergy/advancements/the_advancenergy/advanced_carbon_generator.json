@@ -1,33 +1,33 @@
 {
-    "display": {
-      "icon": {
-        "item": "minecraft:barrel",
-        "nbt": "{CustomModelData:170215}"
-      },
-      "title": {
-        "text": "Better Burning, Lennon",
-        "color": "#9c0c03"
-      },
-      "description": "Upgrade the burning efficiency by upgrading\nyour Carbon Generator and getting\nan Advanced Carbon Generator.",
-      "hidden": false,
-      "frame": "goal",
-      "announce_to_chat": true,
-      "show_toast": true
-    },
-    "criteria": {
-      "unlock": {
-        "trigger": "minecraft:inventory_changed",
-        "conditions": {
-          "items": [
-            {
-              "items": [
-                "minecraft:barrel"
-              ],
-              "nbt": "{ctc:{id:\"advanced_carbon_generator\",from:\"lthc.advancenergy\"}}"
-            }
-          ]
-        }
-      }
-    },
-    "parent": "lthc.advancenergy:_hidden/hidden5"
-  }
+	"display": {
+		"icon": {
+		"item": "minecraft:barrel",
+		"nbt": "{CustomModelData:170215}"
+		},
+		"title": {
+		"text": "Better Burning, Lennon",
+		"color": "#9c0c03"
+		},
+		"description": "Upgrade the burning efficiency by upgrading\nyour Carbon Generator and getting\nan Advanced Carbon Generator.",
+		"hidden": false,
+		"frame": "goal",
+		"announce_to_chat": true,
+		"show_toast": true
+	},
+	"criteria": {
+		"unlock": {
+		"trigger": "minecraft:inventory_changed",
+		"conditions": {
+			"items": [
+			{
+				"items": [
+				"minecraft:barrel"
+				],
+				"nbt": "{ctc:{id:\"advanced_carbon_generator\",from:\"lthc.advancenergy\"}}"
+			}
+			]
+		}
+		}
+	},
+	"parent": "lthc.advancenergy:_hidden/hidden5"
+	}

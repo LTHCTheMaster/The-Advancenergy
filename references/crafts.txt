@@ -1,110 +1,110 @@
 Tin Machine Casing
-    TTT
-    TRT
-    TTT
-  - T: Tin Ingot
-  - R: Redstone Block
+	TTT
+	TRT
+	TTT
+	- T: Tin Ingot
+	- R: Redstone Block
 
 Lead Machine Casing:
-    LLL
-    LTL
-    LLL
-  - L: Lead Ingot
-  - T: Tin Machine Casing
+	LLL
+	LTL
+	LLL
+	- L: Lead Ingot
+	- T: Tin Machine Casing
 
 Silver Machine Casing:
-    SSS
-    STS
-    SSS
-  - S: Siver Ingot
-  - T: Tin Machine Casing
+	SSS
+	STS
+	SSS
+	- S: Siver Ingot
+	- T: Tin Machine Casing
 
 Bronze Machine Casing:
-    BBB
-    BLB
-    BBB
-  - B: Bronze Ingot
-  - L: Lead Machine Casing
+	BBB
+	BLB
+	BBB
+	- B: Bronze Ingot
+	- L: Lead Machine Casing
 
 Carbon Generator:
-    FBF
-    TMT
-    IOI
-  - F: Furnace
-  - B: Blast Furnace
-  - T: Tin Block
-  - M: Tin Machine Casing
-  - I: Tin Ingot
-  - O: Torch
+	FBF
+	TMT
+	IOI
+	- F: Furnace
+	- B: Blast Furnace
+	- T: Tin Block
+	- M: Tin Machine Casing
+	- I: Tin Ingot
+	- O: Torch
 
 Dust Generator:
-    ATA
-    TMT
-    CBC
-  - A: Ash
-  - T: Tin Nugget
-  - M: Tin Machine Casing
-  - C: Cobblestone
-  - B: Ash Block
+	ATA
+	TMT
+	CBC
+	- A: Ash
+	- T: Tin Nugget
+	- M: Tin Machine Casing
+	- C: Cobblestone
+	- B: Ash Block
 
 Advanced Carbon Generator:
-    PSP
-    CLC
-    PPP
-  - P: Primitive Cable
-  - S: Smoker
-  - C: Carbon Generator
-  - L: Lead Machine Casing
+	PSP
+	CLC
+	PPP
+	- P: Primitive Cable
+	- S: Smoker
+	- C: Carbon Generator
+	- L: Lead Machine Casing
 
 Solar Generator:
-    LLL
-    LBL
-    CPR
-  - L: Lapis Lazuli
-  - B: Bronze Machine Casing
-  - C: Copper Ingot
-  - P: Primitive Cable
-  - R: Redstone Dust
+	LLL
+	LBL
+	CPR
+	- L: Lapis Lazuli
+	- B: Bronze Machine Casing
+	- C: Copper Ingot
+	- P: Primitive Cable
+	- R: Redstone Dust
 
 Potato Generator:
-    FFF
-    FBF
-    FFF
-  - F: Furnace
-  - B: Bronze Machine Casing
+	FFF
+	FBF
+	FFF
+	- F: Furnace
+	- B: Bronze Machine Casing
 
 Mineral Extracting Machine:
-    SDS
-    STD
-    III
-  - S: Sugar
-  - D: Sand/Red Sand/Soul Sand
-  - T: Tin Machine Casing
-  - I: Iron Nugget
+	SDS
+	STD
+	III
+	- S: Sugar
+	- D: Sand/Red Sand/Soul Sand
+	- T: Tin Machine Casing
+	- I: Iron Nugget
 
 Refinery:
-    LMG
-    GCT
-    TDL
-  - L: Lead Ingot
-  - M: Mineral Extracting Machine
-  - G: Gold Ingot
-  - C: Lead Machine Casing
-  - T: Tin Ingot
-  - D: Dust Generator
+	LMG
+	GCT
+	TDL
+	- L: Lead Ingot
+	- M: Mineral Extracting Machine
+	- G: Gold Ingot
+	- C: Lead Machine Casing
+	- T: Tin Ingot
+	- D: Dust Generator
 
 Cobblestone Farmer:
-    TCT
-    CTC
-    TCT
-  - T: Tin Ingot
-  - C: Cobblestone
+	TCT
+	CTC
+	TCT
+	- T: Tin Ingot
+	- C: Cobblestone
 
 Carbon Extractor:
-    TST
-    TCT
-    III
-  - T: Tin Ingot
-  - S: Silver Ingot
-  - C: Coal/Charcoal
-  - I: Iron Ingot
+	TST
+	TCT
+	III
+	- T: Tin Ingot
+	- S: Silver Ingot
+	- C: Coal/Charcoal
+	- I: Iron Ingot

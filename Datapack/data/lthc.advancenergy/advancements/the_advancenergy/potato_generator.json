@@ -1,33 +1,33 @@
 {
-    "display": {
-      "icon": {
-        "item": "minecraft:barrel",
-        "nbt": "{CustomModelData:170223}"
-      },
-      "title": {
-        "text": "Why Fucking Potatoes?",
-        "color": "#efeab5"
-      },
-      "description": "Create your first special source of energy, a Potato Generator.",
-      "hidden": false,
-      "frame": "goal",
-      "announce_to_chat": true,
-      "show_toast": true
-    },
-    "criteria": {
-      "unlock": {
-        "trigger": "minecraft:inventory_changed",
-        "conditions": {
-          "items": [
-            {
-              "items": [
-                "minecraft:barrel"
-              ],
-              "nbt": "{ctc:{id:\"potato_generator\",from:\"lthc.advancenergy\"}}"
-            }
-          ]
-        }
-      }
-    },
-    "parent": "lthc.advancenergy:the_advancenergy/bronze"
-  }
+	"display": {
+		"icon": {
+		"item": "minecraft:barrel",
+		"nbt": "{CustomModelData:170223}"
+		},
+		"title": {
+		"text": "Why Fucking Potatoes?",
+		"color": "#efeab5"
+		},
+		"description": "Create your first special source of energy, a Potato Generator.",
+		"hidden": false,
+		"frame": "goal",
+		"announce_to_chat": true,
+		"show_toast": true
+	},
+	"criteria": {
+		"unlock": {
+		"trigger": "minecraft:inventory_changed",
+		"conditions": {
+			"items": [
+			{
+				"items": [
+				"minecraft:barrel"
+				],
+				"nbt": "{ctc:{id:\"potato_generator\",from:\"lthc.advancenergy\"}}"
+			}
+			]
+		}
+		}
+	},
+	"parent": "lthc.advancenergy:the_advancenergy/bronze"
+	}

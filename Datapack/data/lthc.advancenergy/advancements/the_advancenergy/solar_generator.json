@@ -1,33 +1,33 @@
 {
-    "display": {
-      "icon": {
-        "item": "minecraft:barrel",
-        "nbt": "{CustomModelData:170222}"
-      },
-      "title": {
-        "text": "Ultima Victor Solem",
-        "color": "#fcdc5c"
-      },
-      "description": "Create your first natural source of energy, a Solar Generator.",
-      "hidden": false,
-      "frame": "task",
-      "announce_to_chat": true,
-      "show_toast": true
-    },
-    "criteria": {
-      "unlock": {
-        "trigger": "minecraft:inventory_changed",
-        "conditions": {
-          "items": [
-            {
-              "items": [
-                "minecraft:barrel"
-              ],
-              "nbt": "{ctc:{id:\"solar_generator\",from:\"lthc.advancenergy\"}}"
-            }
-          ]
-        }
-      }
-    },
-    "parent": "lthc.advancenergy:the_advancenergy/bronze"
-  }
+	"display": {
+		"icon": {
+		"item": "minecraft:barrel",
+		"nbt": "{CustomModelData:170222}"
+		},
+		"title": {
+		"text": "Ultima Victor Solem",
+		"color": "#fcdc5c"
+		},
+		"description": "Create your first natural source of energy, a Solar Generator.",
+		"hidden": false,
+		"frame": "task",
+		"announce_to_chat": true,
+		"show_toast": true
+	},
+	"criteria": {
+		"unlock": {
+		"trigger": "minecraft:inventory_changed",
+		"conditions": {
+			"items": [
+			{
+				"items": [
+				"minecraft:barrel"
+				],
+				"nbt": "{ctc:{id:\"solar_generator\",from:\"lthc.advancenergy\"}}"
+			}
+			]
+		}
+		}
+	},
+	"parent": "lthc.advancenergy:the_advancenergy/bronze"
+	}

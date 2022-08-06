@@ -1,33 +1,33 @@
 {
-    "display": {
-      "icon": {
-        "item": "minecraft:barrel",
-        "nbt": "{CustomModelData:170204}"
-      },
-      "title": {
-        "text": "Burn, Burn, Burn forever",
-        "color": "#9c0c03"
-      },
-      "description": "Create your first source of energy, a Carbon Generator.",
-      "hidden": false,
-      "frame": "task",
-      "announce_to_chat": false,
-      "show_toast": true
-    },
-    "criteria": {
-      "unlock": {
-        "trigger": "minecraft:inventory_changed",
-        "conditions": {
-          "items": [
-            {
-              "items": [
-                "minecraft:barrel"
-              ],
-              "nbt": "{ctc:{id:\"carbon_generator\",from:\"lthc.advancenergy\"}}"
-            }
-          ]
-        }
-      }
-    },
-    "parent": "lthc.advancenergy:the_advancenergy/tin"
-  }
+	"display": {
+		"icon": {
+		"item": "minecraft:barrel",
+		"nbt": "{CustomModelData:170204}"
+		},
+		"title": {
+		"text": "Burn, Burn, Burn forever",
+		"color": "#9c0c03"
+		},
+		"description": "Create your first source of energy, a Carbon Generator.",
+		"hidden": false,
+		"frame": "task",
+		"announce_to_chat": false,
+		"show_toast": true
+	},
+	"criteria": {
+		"unlock": {
+		"trigger": "minecraft:inventory_changed",
+		"conditions": {
+			"items": [
+			{
+				"items": [
+				"minecraft:barrel"
+				],
+				"nbt": "{ctc:{id:\"carbon_generator\",from:\"lthc.advancenergy\"}}"
+			}
+			]
+		}
+		}
+	},
+	"parent": "lthc.advancenergy:the_advancenergy/tin"
+	}

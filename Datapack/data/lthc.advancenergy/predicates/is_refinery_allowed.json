@@ -1,11 +1,11 @@
 {
-    "condition": "minecraft:entity_properties",
-    "entity": "this",
-    "predicate": {
-        "equipment": {
-            "mainhand": {
-                "tag": "lthc.advancenergy:is_refinery_allowed"
-            }
-        }
-    }
+	"condition": "minecraft:entity_properties",
+	"entity": "this",
+	"predicate": {
+		"equipment": {
+			"mainhand": {
+				"tag": "lthc.advancenergy:is_refinery_allowed"
+			}
+		}
+	}
 }
