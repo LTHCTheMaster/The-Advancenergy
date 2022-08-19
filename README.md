@@ -49,6 +49,8 @@ Thanks to the <a href="https://discord.me/dataworld">Dataworld</a> discord for t
 
 ## Used librairies
 
+### Datapack
+
 **<a href="https://github.com/Smithed-MC/Libraries">Smithed Crafter and Block API</a>** by <a href="https://github.com/Smithed-MC">Smithed-MC</a>.
 
 **<a href="https://github.com/Stoupy51/DurabilityMultiplier">Durability Multiplier</a>** by <a href="https://github.com/Stoupy51">Stoupy51</a>.
@@ -58,3 +60,7 @@ Thanks to the <a href="https://discord.me/dataworld">Dataworld</a> discord for t
 **<a href="https://github.com/ICY105/DatapackEnergy">Datapack Energy</a>** by <a href="https://github.com/ICY105">ICY105</a>.
 
 **<a href="https://github.com/LanternMC/load">Lantern Load</a>** by <a href="https://github.com/LanternMC">LanternMC</a>.
+
+### Resource Pack
+
+**<a href="https://github.com/Ancientkingg/fancyPants">fancyPants</a> by <a href="https://github.com/Ancientkingg">Ancientkingg</a>**
