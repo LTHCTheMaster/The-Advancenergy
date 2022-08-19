@@ -6,4 +6,4 @@ execute if score #valid_item itemio.math matches 0 store success score #valid_it
 execute if score #valid_item itemio.math matches 0 store success score #valid_item itemio.math if data storage itemio:io item{id:"minecraft:blaze_powder"}
 execute if score #valid_item itemio.math matches 0 store success score #valid_item itemio.math if data storage itemio:io item{id:"minecraft:sugar"}
 execute if score #valid_item itemio.math matches 0 store success score #valid_item itemio.math if data storage itemio:io item{id:"minecraft:bone_meal"}
-execute if score #valid_item itemio.math matches 0 store success score #valid_item itemio.math if data storage itemio:io item.ctc.traits{"dust":1b}
+execute if score #valid_item itemio.math matches 0 store success score #valid_item itemio.math if data storage itemio:io item.tag.ctc.traits{"dust":1b}
