@@ -1,3 +1,4 @@
 execute if entity @s[tag=lthc.advancenergy.is_ash_as_waste_generator] positioned ~ ~-1 ~ if entity @e[tag=lthc.advancenergy.dust_generator,distance=..1] at @s run function lthc.advancenergy:controller/between/carbon_to_dust
 execute if entity @s[tag=lthc.advancenergy.cobblestone_farmer] positioned ~ ~-1 ~ if entity @e[tag=lthc.advancenergy.carbon_extractor,distance=..1] at @s run function lthc.advancenergy:controller/between/cobble_farmer_to_carbon_extractor
 execute if entity @s[tag=lthc.advancenergy.aqueous_accumulator] run function lthc.advancenergy:controller/between/aqueous_accumulator_to_carbon
+execute if entity @s[tag=lthc.advancenergy.carbon_extractor] positioned ~ ~-1 ~ if entity @e[tag=lthc.advancenergy.is_ash_as_waste_generator,distance=..1] at @s run function lthc.advancenergy:controller/between/carbon_extractor_to_carbon
