@@ -5,6 +5,7 @@
 		"#smithed.crafter:load",
 		"#energy:load",
 		"#furnace_nbt_recipes:load",
-		"#lthc.advancenergy:load/load"
+		"#lthc.advancenergy:load/load",
+		"#itemio:load"
 	]
 }

@@ -1,0 +1,8 @@
+{
+    "values": [
+        "itemio:calls/filter",
+        "lthc.advancenergy:controller/work/refinery/filter/input_filter",
+        "lthc.advancenergy:controller/work/carbon_generator/filter/input_filter",
+        "lthc.advancenergy:controller/work/dust_generator/filter/input_filter"
+    ]
+}

@@ -61,6 +61,8 @@ Thanks to the <a href="https://discord.me/dataworld">Dataworld</a> discord for t
 
 **<a href="https://github.com/LanternMC/load">Lantern Load</a>** by <a href="https://github.com/LanternMC">LanternMC</a>.
 
+**<a href="https://github.com/edayot/ItemIO">ItemIO</a>** by <a href="https://github.com/edayot">edayot</a>.
+
 ### Resource Pack
 
 **<a href="https://github.com/Ancientkingg/fancyPants">fancyPants</a> by <a href="https://github.com/Ancientkingg">Ancientkingg</a>**
