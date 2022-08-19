@@ -7,61 +7,61 @@
 				{
 					"type": "item",
 					"name": "calcite",
-					"weight": 1000
+					"weight": 1500
 				},
 				{
 					"type": "item",
 					"name": "andesite",
-					"weight": 1320
+					"weight": 1980
 				},
 				{
 					"type": "item",
 					"name": "granite",
-					"weight": 1320
+					"weight": 1980
 				},
 				{
 					"type": "item",
 					"name": "diorite",
-					"weight": 1320
+					"weight": 1980
 				},
 				{
 					"type": "item",
 					"name": "dripstone_block",
-					"weight": 660
+					"weight": 990
 				},
 				{
 					"type": "item",
 					"name": "stone",
-					"weight": 900
+					"weight": 1350
 				},
 				{
 					"type": "item",
 					"name": "deepslate",
-					"weight": 760
+					"weight": 1140
 				},
 				{
 					"type": "item",
 					"name": "sand",
-					"weight": 860
+					"weight": 1290
 				},
 				{
 					"type": "item",
 					"name": "gravel",
-					"weight": 580
+					"weight": 870
 				},
 				{
 					"type": "item",
 					"name": "obsidian",
-					"weight": 40
+					"weight": 60
 				},
 				{
 					"type": "item",
 					"name": "crying_obsidian",
-					"weight": 40
+					"weight": 60
 				},
 				{
 					"type": "empty",
-					"weight": 1630
+					"weight": 2445
 				},
 				{
 					"type": "item",
