@@ -7,61 +7,211 @@
 				{
 					"type": "item",
 					"name": "calcite",
-					"weight": 50
+					"weight": 1000
 				},
 				{
 					"type": "item",
 					"name": "andesite",
-					"weight": 66
+					"weight": 1320
 				},
 				{
 					"type": "item",
 					"name": "granite",
-					"weight": 66
+					"weight": 1320
 				},
 				{
 					"type": "item",
 					"name": "diorite",
-					"weight": 66
+					"weight": 1320
 				},
 				{
 					"type": "item",
 					"name": "dripstone_block",
-					"weight": 33
+					"weight": 660
 				},
 				{
 					"type": "item",
 					"name": "stone",
-					"weight": 45
+					"weight": 900
 				},
 				{
 					"type": "item",
 					"name": "deepslate",
-					"weight": 38
+					"weight": 760
 				},
 				{
 					"type": "item",
 					"name": "sand",
-					"weight": 43
+					"weight": 860
 				},
 				{
 					"type": "item",
 					"name": "gravel",
-					"weight": 29
+					"weight": 580
 				},
 				{
 					"type": "item",
 					"name": "obsidian",
-					"weight": 2
+					"weight": 40
 				},
 				{
 					"type": "item",
 					"name": "crying_obsidian",
-					"weight": 2
+					"weight": 40
 				},
 				{
 					"type": "empty",
-					"weight": 60
+					"weight": 1630
+				},
+				{
+					"type": "item",
+					"name": "minecraft:coal_ore",
+					"weight": 3
+				},
+				{
+					"type": "item",
+					"name": "minecraft:deepslate_coal_ore",
+					"weight": 3
+				},
+				{
+					"type": "item",
+					"name": "minecraft:copper_ore",
+					"weight": 2
+				},
+				{
+					"type": "item",
+					"name": "minecraft:deepslate_copper_ore",
+					"weight": 2
+				},
+				{
+					"type": "item",
+					"name": "minecraft:iron_ore",
+					"weight": 2
+				},
+				{
+					"type": "item",
+					"name": "minecraft:deepslate_iron_ore",
+					"weight": 2
+				},
+				{
+					"type": "item",
+					"name": "minecraft:diamond_ore",
+					"weight": 1
+				},
+				{
+					"type": "item",
+					"name": "minecraft:deepslate_diamond_ore",
+					"weight": 1
+				},
+				{
+					"type": "item",
+					"name": "minecraft:emerald_ore",
+					"weight": 1
+				},
+				{
+					"type": "item",
+					"name": "minecraft:deepslate_emerald_ore",
+					"weight": 1
+				},
+				{
+					"type": "item",
+					"name": "minecraft:gold_ore",
+					"weight": 1
+				},
+				{
+					"type": "item",
+					"name": "minecraft:deepslate_gold_ore",
+					"weight": 1
+				},
+				{
+					"type": "item",
+					"name": "minecraft:nether_gold_ore",
+					"weight": 1
+				},
+				{
+					"type": "item",
+					"name": "minecraft:gilded_blackstone",
+					"weight": 1
+				},
+				{
+					"type": "item",
+					"name": "minecraft:nether_quartz_ore",
+					"weight": 4
+				},
+				{
+					"type": "item",
+					"name": "minecraft:lapis_ore",
+					"weight": 3
+				},
+				{
+					"type": "item",
+					"name": "minecraft:deepslate_lapis_ore",
+					"weight": 3
+				},
+				{
+					"type": "item",
+					"name": "minecraft:redstone_ore",
+					"weight": 3
+				},
+				{
+					"type": "item",
+					"name": "minecraft:deepslate_redstone_ore",
+					"weight": 3
+				},
+				{
+					"type": "item",
+					"name": "minecraft:ancient_debris",
+					"weight": 2
+				},
+				{
+					"type": "loot_table",
+					"name": "lthc.advancenergy:i/ores/tin/ore",
+					"weight": 3
+				},
+				{
+					"type": "loot_table",
+					"name": "lthc.advancenergy:i/ores/tin/deepslate_ore",
+					"weight": 3
+				},
+				{
+					"type": "loot_table",
+					"name": "lthc.advancenergy:i/ores/silver/ore",
+					"weight": 2
+				},
+				{
+					"type": "loot_table",
+					"name": "lthc.advancenergy:i/ores/silver/deepslate_ore",
+					"weight": 2
+				},
+				{
+					"type": "loot_table",
+					"name": "lthc.advancenergy:i/ores/lead/ore",
+					"weight": 1
+				},
+				{
+					"type": "loot_table",
+					"name": "lthc.advancenergy:i/ores/lead/deepslate_ore",
+					"weight": 1
+				},
+				{
+					"type": "loot_table",
+					"name": "lthc.advancenergy:i/materials/ash",
+					"weight": 4
+				},
+				{
+					"type": "loot_table",
+					"name": "lthc.advancenergy:i/materials/ash_block",
+					"weight": 1
+				},
+				{
+					"type": "item",
+					"name": "minecraft:clay",
+					"weight": 3
+				},
+				{
+					"type": "item",
+					"name": "minecraft:clay_ball",
+					"weight": 10
 				}
 			]
 		}
