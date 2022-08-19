@@ -57,15 +57,17 @@
 		{"text":"\\uea23","color":"white","font":"lthc.advancenergy:book","hoverEvent": {"action": "show_text","contents":"Silver Machine Casing"},"clickEvent": {"action": "change_page", "value": "22"}},
 		{"text":"\\uea24","color":"white","font":"lthc.advancenergy:book","hoverEvent": {"action": "show_text","contents":"Cobblestone Farmer"},"clickEvent": {"action": "change_page", "value": "23"}},
 		{"text":"\\uea25","color":"white","font":"lthc.advancenergy:book","hoverEvent": {"action": "show_text","contents":"Carbon Extractor"},"clickEvent": {"action": "change_page", "value": "24"}},
+		{"text":"\\uea2b","color":"white","font":"lthc.advancenergy:book","hoverEvent": {"action": "show_text","contents":"Aqueous Accumulator"},"clickEvent": {"action": "change_page", "value": "25"}},
 		{"text":"\\n","color":"reset"},
 		{"text":"\\uea00","color":"white","font":"lthc.advancenergy:book","hoverEvent": {"action": "show_text","contents":"Tin Machine Casing"},"clickEvent": {"action": "change_page", "value": "20"}},
 		{"text":"\\uea00","color":"white","font":"lthc.advancenergy:book","hoverEvent": {"action": "show_text","contents":"Lead Machine Casing"},"clickEvent": {"action": "change_page", "value": "21"}},
 		{"text":"\\uea00","color":"white","font":"lthc.advancenergy:book","hoverEvent": {"action": "show_text","contents":"Silver Machine Casing"},"clickEvent": {"action": "change_page", "value": "22"}},
 		{"text":"\\uea00","color":"white","font":"lthc.advancenergy:book","hoverEvent": {"action": "show_text","contents":"Cobblestone Farmer"},"clickEvent": {"action": "change_page", "value": "23"}},
-		{"text":"\\uea00","color":"white","font":"lthc.advancenergy:book","hoverEvent": {"action": "show_text","contents":"Carbon Extractor"},"clickEvent": {"action": "change_page", "value": "24"}}
+		{"text":"\\uea00","color":"white","font":"lthc.advancenergy:book","hoverEvent": {"action": "show_text","contents":"Carbon Extractor"},"clickEvent": {"action": "change_page", "value": "24"}},
+		{"text":"\\uea00","color":"white","font":"lthc.advancenergy:book","hoverEvent": {"action": "show_text","contents":"Aqueous Accumulator"},"clickEvent": {"action": "change_page", "value": "25"}}
 	]',
 	'[
-		{"text":"Heavy Workbench\\n","color":"#0000aa"},
+		{"text":"Heavy Workbench\\n","color":"#0000aa","hoverEvent": {"action": "show_text","contents":"Requires:\\n -5 Logs\\n -1 Crafting Table\\n -3 Smooth Stone"}},
 		{"text":"\\uea12","color":"white","font":"lthc.advancenergy:book"},
 		{"text":"\\n\\n\\n\\n\\n\\nThe ultimate Holy Grail of technology, without this workbench you do nothing","color":"black"}
 	]',
@@ -78,7 +80,7 @@
 		{"text":"\\n\\nLead ore can be found in every world containing stone between world bottom and layer 52","color":"black"}
 	]',
 	'[
-		{"text":"Bronze\\n","color":"#aa0000"},
+		{"text":"Bronze\\n","color":"#aa0000","hoverEvent": {"action": "show_text","contents":"Requires:\\n -3 Copper Ingot\\n -3 Tin Ingot"}},
 		{"text":"\\uea13","color":"white","font":"lthc.advancenergy:book"},
 		{"text":"\\n\\n\\n\\n\\n\\nA usefull material created with tin and copper","color":"black"}
 	]',
@@ -87,7 +89,7 @@
 		{"text":"\\n\\nAsh is a Carbon Generators\' waste","color":"black"}
 	]',
 	'[
-		{"text":"Bronze Machine Casing\\n","color":"#aa0000"},
+		{"text":"Bronze Machine Casing\\n","color":"#aa0000","hoverEvent": {"action": "show_text","contents":"Requires:\\n -8 Bronze Ingot\\n -1 Lead Machine Casing"}},
 		{"text":"\\uea14","color":"white","font":"lthc.advancenergy:book"},
 		{"text":"\\n\\n\\n\\n\\n\\nA usefull machine component","color":"black"}
 	]',
@@ -144,7 +146,7 @@
 	'[
 		{"text":"Primitive Capacitor\\n","color":"#aa0000"},
 		{"text":"\\uea1f","color":"white","font":"lthc.advancenergy:book"},
-		{"text":"\\n\\n\\n\\n\\n\\n[Energy Storage: 120MJ]","color":"black"}
+		{"text":"\\n\\n\\n\\n\\n\\n[Energy Storage: 36.5MJ]","color":"black"}
 	]',
 	'[
 		{"text":"Silver\\n","color":"#00aa00"},
@@ -174,5 +176,10 @@
 		{"text":"Carbon Extractor\\n","color":"#aa0000"},
 		{"text":"\\uea2a","color":"white","font":"lthc.advancenergy:book"},
 		{"text":"\\n\\n\\n\\n\\n\\nAdd some cobblestone and wait until the machine end one process cycle","color":"black"}
+	]',
+	'[
+		{"text":"Aqueous Accumulator\\n","color":"#aa0000"},
+		{"text":"\\uea2c","color":"white","font":"lthc.advancenergy:book"},
+		{"text":"\\n\\n\\n\\n\\n\\nGood water direct into your generator (if there is water next to the accumulator)","color":"black"}
 	]'
 ]
