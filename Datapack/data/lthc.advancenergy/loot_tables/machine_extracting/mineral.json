@@ -52,16 +52,16 @@
 				{
 					"type": "item",
 					"name": "obsidian",
-					"weight": 60
+					"weight": 56
 				},
 				{
 					"type": "item",
 					"name": "crying_obsidian",
-					"weight": 60
+					"weight": 56
 				},
 				{
 					"type": "empty",
-					"weight": 2445
+					"weight": 2488
 				},
 				{
 					"type": "item",
