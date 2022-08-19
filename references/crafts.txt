@@ -59,12 +59,10 @@ Advanced Carbon Generator:
 Solar Generator:
 	LLL
 	LBL
-	CPR
+	ZZZ
 	- L: Lapis Lazuli
 	- B: Bronze Machine Casing
-	- C: Copper Ingot
-	- P: Primitive Cable
-	- R: Redstone Dust
+	- Z: Copper Ingot (1) /(+) Primitive Cable (1) /(+) Redstone Dust (1)
 
 Potato Generator:
 	FFF
@@ -108,3 +106,18 @@ Carbon Extractor:
 	- S: Silver Ingot
 	- C: Coal/Charcoal
 	- I: Iron Ingot
+
+Aqueous Accumulator:
+	SBS
+	B B
+	SBS
+	- S: Silver Ingot
+	- B: Water Bucket (1) /(+) Bucket (3)
+
+Primitive Capacitor:
+	TTT
+	TRT
+	TBT
+	- T: Tin Ingot
+	- R: Redstone Block
+	- B: Tin Block
