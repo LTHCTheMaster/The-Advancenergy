@@ -11,7 +11,7 @@
 		"description": "Get some Lead Ingots to improve your machines.",
 		"hidden": false,
 		"frame": "task",
-		"announce_to_chat": false,
+		"announce_to_chat": true,
 		"show_toast": true
 	},
 	"criteria": {
@@ -29,5 +29,5 @@
 		}
 		}
 	},
-	"parent": "lthc.advancenergy:_hidden/hidden0"
+	"parent": "lthc.advancenergy:the_advancenergy/root"
 	}

@@ -37,7 +37,7 @@
 			}
 		}
 	},
-	"parent": "lthc.advancenergy:_hidden/hidden9",
+	"parent": "lthc.advancenergy:the_advancenergy/root",
 	"requirements": [
 		[
 			"a"
