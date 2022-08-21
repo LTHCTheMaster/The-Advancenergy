@@ -1,11 +1,11 @@
 {
-	"condition": "minecraft:entity_properties",
-	"entity": "this",
-	"predicate": {
-		"equipment": {
-			"mainhand": {
-				"tag": "minecraft:wooden_pressure_plates"
-			}
-		}
-	}
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "equipment": {
+      "mainhand": {
+        "tag": "minecraft:wooden_pressure_plates"
+      }
+    }
+  }
 }
