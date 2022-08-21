@@ -1,3 +1,6 @@
+#Copy block Items into a storage
+data modify storage lthc.advancenergy:main Items set from block ~ ~ ~ Items
+
 # Store the last saved refining recipes
 data modify storage lthc.advancenergy:main RefineryCurrent set from entity @s Item.tag.RefineryCurrent
 
@@ -51,6 +54,9 @@ data remove storage lthc.advancenergy:main RefineryCurrent
 
 # Modify the block
 data modify block ~ ~ ~ Items set from storage lthc.advancenergy:main Items
+
+#Clear storage for memory
+data remove storage lthc.advancenergy:main Items
 
 # Add a tag to avoid on/off/on blinking
 tag @s add lthc.advancenergy.just_end_process
