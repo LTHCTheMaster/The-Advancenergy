@@ -5,3 +5,12 @@ loot give @s loot lthc.advancenergy:i/ores/silver/raw_block
 loot give @s loot lthc.advancenergy:i/ores/silver/ingot
 loot give @s loot lthc.advancenergy:i/ores/silver/block
 loot give @s loot lthc.advancenergy:i/ores/silver/nugget
+loot give @s loot lthc.advancenergy:i/equipments/silver_helmet
+loot give @s loot lthc.advancenergy:i/equipments/silver_chestplate
+loot give @s loot lthc.advancenergy:i/equipments/silver_leggings
+loot give @s loot lthc.advancenergy:i/equipments/silver_boots
+loot give @s loot lthc.advancenergy:i/equipments/silver_pickaxe
+loot give @s loot lthc.advancenergy:i/equipments/silver_axe
+loot give @s loot lthc.advancenergy:i/equipments/silver_shovel
+loot give @s loot lthc.advancenergy:i/equipments/silver_hoe
+loot give @s loot lthc.advancenergy:i/equipments/silver_sword
