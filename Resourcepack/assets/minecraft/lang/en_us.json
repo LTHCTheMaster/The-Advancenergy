@@ -88,5 +88,16 @@
 	"lthcthemaster.lthc.advancenergy.mineral_em": "Mineral Extracting Machine",
 	"lthcthemaster.lthc.advancenergy.cobble_farmer": "Cobblestone Farmer",
 	"lthcthemaster.lthc.advancenergy.carbon_extractor": "Carbon Extractor",
-	"lthcthemaster.lthc.advancenergy.aqueous_accumulator": "Aqueous Accumulator"
+	"lthcthemaster.lthc.advancenergy.aqueous_accumulator": "Aqueous Accumulator",
+
+	"lthcthemaster.lthc.advancenergy.__comment.b": "Silver Stuff Translation",
+	"lthcthemaster.lthc.advancenergy.items.silver.helmet": "Silver Helmet",
+	"lthcthemaster.lthc.advancenergy.items.silver.chestplate": "Silver Chestplate",
+	"lthcthemaster.lthc.advancenergy.items.silver.leggings": "Silver Leggings",
+	"lthcthemaster.lthc.advancenergy.items.silver.boots": "Silver Boots",
+	"lthcthemaster.lthc.advancenergy.items.silver.pickaxe": "Silver Pickaxe",
+	"lthcthemaster.lthc.advancenergy.items.silver.axe": "Silver Axe",
+	"lthcthemaster.lthc.advancenergy.items.silver.shovel": "Silver Shovel",
+	"lthcthemaster.lthc.advancenergy.items.silver.hoe": "Silver Hoe",
+	"lthcthemaster.lthc.advancenergy.items.silver.sword": "Silver Sword"
 }
