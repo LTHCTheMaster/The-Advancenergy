@@ -5,6 +5,7 @@
 		},
 		"overrides": [
 		{ "predicate": { "custom_model_data": 170200 }, "model": "lthc.advancenergy:equipments/tin_shovel" },
-		{ "predicate": { "custom_model_data": 170201 }, "model": "lthc.advancenergy:equipments/lead_shovel" }
+		{ "predicate": { "custom_model_data": 170201 }, "model": "lthc.advancenergy:equipments/lead_shovel" },
+		{ "predicate": { "custom_model_data": 170202 }, "model": "lthc.advancenergy:equipments/silver_shovel" }
 	]
 }
