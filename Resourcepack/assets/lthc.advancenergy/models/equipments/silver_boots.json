@@ -1,7 +1,7 @@
 {
 		"parent": "item/generated",
 		"textures": {
-				"layer0": "lthc.advancenergy:equipments/lead_boots",
-				"layer1": "lthc.advancenergy:equipments/lead_boots"
+				"layer0": "lthc.advancenergy:equipments/silver_boots",
+				"layer1": "lthc.advancenergy:equipments/silver_boots"
 		}
 }
