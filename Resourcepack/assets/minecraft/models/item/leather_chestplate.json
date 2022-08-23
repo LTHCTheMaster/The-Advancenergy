@@ -7,6 +7,7 @@
 		"overrides": [
 		{ "predicate": { "custom_model_data": 170200 }, "model": "lthc.advancenergy:equipments/tin/chestplate" },
 		{ "predicate": { "custom_model_data": 170201 }, "model": "lthc.advancenergy:equipments/lead/chestplate" },
-		{ "predicate": { "custom_model_data": 170202 }, "model": "lthc.advancenergy:equipments/silver/chestplate" }
+		{ "predicate": { "custom_model_data": 170202 }, "model": "lthc.advancenergy:equipments/silver/chestplate" },
+		{ "predicate": { "custom_model_data": 170203 }, "model": "lthc.advancenergy:equipments/bronze/chestplate" }
 	]
 }
