@@ -4,8 +4,8 @@
 	"layer0": "minecraft:item/netherite_sword"
 	},
 	"overrides": [
-	{ "predicate": { "custom_model_data": 170200 }, "model": "lthc.advancenergy:equipments/tin_sword" },
-	{ "predicate": { "custom_model_data": 170201 }, "model": "lthc.advancenergy:equipments/lead_sword" },
-	{ "predicate": { "custom_model_data": 170202 }, "model": "lthc.advancenergy:equipments/silver_sword" }
+	{ "predicate": { "custom_model_data": 170200 }, "model": "lthc.advancenergy:equipments/tin/sword" },
+	{ "predicate": { "custom_model_data": 170201 }, "model": "lthc.advancenergy:equipments/lead/sword" },
+	{ "predicate": { "custom_model_data": 170202 }, "model": "lthc.advancenergy:equipments/silver/sword" }
 ]
 }
