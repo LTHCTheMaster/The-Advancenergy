@@ -2,23 +2,27 @@
 
 <div align="center">
 
-![latest release](https://img.shields.io/github/v/release/LTHCTheMaster/The-Advancenergy?color=green&label=Latest%20Release) ![release/pre release](https://img.shields.io/github/v/release/LTHCTheMaster/The-Advancenergy?include_prereleases&color=green&label=Current%20Release%20or%20Pre%20Release) ![downloads](https://img.shields.io/github/downloads/LTHCTheMaster/The-Advancenergy/total?color=cyan) ![stars](https://img.shields.io/github/stars/LTHCTheMaster/The-Advancenergy?color=gold) ![repo size](https://img.shields.io/github/repo-size/LTHCTheMaster/The-Advancenergy?color=gold)
-
 <img src="./Datapack/pack.png" width="128px"></img>
+
+![latest release](https://img.shields.io/github/v/release/LTHCTheMaster/The-Advancenergy?color=green&label=Latest%20Release) ![release/pre release](https://img.shields.io/github/v/release/LTHCTheMaster/The-Advancenergy?include_prereleases&color=green&label=Current%20Release%20or%20Pre%20Release) ![downloads](https://img.shields.io/github/downloads/LTHCTheMaster/The-Advancenergy/total?color=cyan) ![stars](https://img.shields.io/github/stars/LTHCTheMaster/The-Advancenergy?color=gold) ![repo size](https://img.shields.io/github/repo-size/LTHCTheMaster/The-Advancenergy?color=gold)
 
 </div>
 
 ## 🤔 What is this?
 
-The Advancenergy is an energy datapack inspired by **<a href="https://github.com/Stoupy51/SimplEnergy">SimplEnergy</a>** by <a href="https://github.com/Stoupy51">Stoupy51</a>.
+**The Advancenergy** is an energy datapack inspired by **<a href="https://github.com/Stoupy51/SimplEnergy">SimplEnergy</a>** by <a href="https://github.com/Stoupy51">Stoupy51</a>.
 
 ### 📜 Features:
 
-- An energy system with cables, capacitors, generators and consumers
-- New ores and materials
-- New equipments
-- New structures
-- New advancements
+- An energy system
+- New materials such as tin or lead
+- Some alloys such as bronze
+- New equipments with different side effects and durability
+- Some new structures with their own variations
+- A great number of machines
+- Automated chain with some machines
+- A reworked mining experience with special patterns that combine new ores and vanilla ores
+- Many advancements to cover your tech life
 
 ### 💽 Versions
 | ✅   | 1.19.x |
