@@ -35,7 +35,7 @@
 },
 {
 "type": "loot_table",
-"name": "lthc.advancenergy:i/equipments/tin_hoe",
+"name": "lthc.advancenergy:i/equipments/tin/hoe",
 "weight": 13,
 "functions": [
 {
@@ -49,7 +49,7 @@
 },
 {
 "type": "loot_table",
-"name": "lthc.advancenergy:i/equipments/tin_boots",
+"name": "lthc.advancenergy:i/equipments/tin/boots",
 "weight": 13
 },
 {

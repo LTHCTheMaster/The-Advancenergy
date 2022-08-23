@@ -41,7 +41,7 @@
 },
 {
 "type": "loot_table",
-"name": "lthc.advancenergy:i/equipments/tin_helmet",
+"name": "lthc.advancenergy:i/equipments/tin/helmet",
 "weight": 13,
 "functions": [
 {
@@ -55,7 +55,7 @@
 },
 {
 "type": "loot_table",
-"name": "lthc.advancenergy:i/equipments/tin_sword",
+"name": "lthc.advancenergy:i/equipments/tin/sword",
 "weight": 13
 },
 {

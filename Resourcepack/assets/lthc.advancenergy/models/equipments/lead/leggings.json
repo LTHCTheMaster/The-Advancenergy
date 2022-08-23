@@ -1,7 +1,7 @@
 {
 		"parent": "item/handheld",
 		"textures": {
-				"layer0": "lthc.advancenergy:equipments/lead_leggings",
-				"layer1": "lthc.advancenergy:equipments/lead_leggings"
+				"layer0": "lthc.advancenergy:equipments/lead/leggings",
+				"layer1": "lthc.advancenergy:equipments/lead/leggings"
 		}
 }

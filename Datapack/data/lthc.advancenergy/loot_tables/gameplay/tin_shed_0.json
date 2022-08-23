@@ -38,7 +38,7 @@
 },
 {
 "type": "loot_table",
-"name": "lthc.advancenergy:i/equipments/tin_pickaxe",
+"name": "lthc.advancenergy:i/equipments/tin/pickaxe",
 "weight": 13,
 "functions": [
 {
@@ -52,7 +52,7 @@
 },
 {
 "type": "loot_table",
-"name": "lthc.advancenergy:i/equipments/tin_pickaxe",
+"name": "lthc.advancenergy:i/equipments/tin/pickaxe",
 "weight": 6,
 "functions": [
 {
@@ -73,7 +73,7 @@
 },
 {
 "type": "loot_table",
-"name": "lthc.advancenergy:i/equipments/tin_pickaxe",
+"name": "lthc.advancenergy:i/equipments/tin/pickaxe",
 "weight": 13
 },
 {
