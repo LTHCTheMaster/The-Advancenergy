@@ -1,4 +1,4 @@
-# Shift+Click support
+# Move Items support
 scoreboard players set #success lthc.advancenergy.data 0
 data modify storage lthc.advancenergy:main ItemsToMove set from block ~ ~ ~ Items
 execute if data storage lthc.advancenergy:main ItemsToMove[{Slot:1b}] unless data storage lthc.advancenergy:main ItemsToMove[{Slot:0b}] run function lthc.advancenergy:controller/move_items/no_tag/sub_move/slot1b/2
