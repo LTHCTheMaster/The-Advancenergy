@@ -15,12 +15,16 @@
 		{
 			"structure": "lthc.advancenergy:creeper_cage",
 			"weight": 4
+		},
+		{
+			"structure": "lthc.advancenergy:rare_tin_shed",
+			"weight": 2
 		}
 	],
 	"placement": {
 		"type": "minecraft:random_spread",
-		"spacing": 15,
-		"separation": 11,
+		"spacing": 19,
+		"separation": 15,
 		"salt": 150003102
 	}
 }
