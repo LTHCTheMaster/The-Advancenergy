@@ -42,3 +42,8 @@ REGISTRY (Items):
     UUID:[I;-170880,170200,170208,-170202] => +1% attack speed
     UUID:[I;-170880,170200,170208,-170203] => +1% attack speed
     UUID:[I;-170880,170200,170208,-170204] => +1% attack speed
+    UUID:[I;-170888,170200,170208,-170200] => +3% attack speed
+    UUID:[I;-170888,170200,170208,-170201] => +3% attack speed
+    UUID:[I;-170888,170200,170208,-170202] => +3% attack speed
+    UUID:[I;-170888,170200,170208,-170203] => +3% attack speed
+    UUID:[I;-170888,170200,170208,-170204] => +3% attack speed
