@@ -44,10 +44,19 @@ raw lead
 raw silver
 raw tin
 refinery
+silver axe
+silver boots
+silver chestplate
+silver helmet
+silver hoe
 silver ingot
+silver leggings
 silver machine casing
 silver nugget
 silver ore
+silver pickaxe
+silver shovel
+silver sword
 solar generator
 the advancenergy guide
 tin axe
