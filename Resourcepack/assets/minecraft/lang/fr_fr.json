@@ -99,5 +99,16 @@
 	"lthcthemaster.lthc.advancenergy.items.silver.axe": "Hache en Argent",
 	"lthcthemaster.lthc.advancenergy.items.silver.shovel": "Pelle en Argent",
 	"lthcthemaster.lthc.advancenergy.items.silver.hoe": "Houe en Argent",
-	"lthcthemaster.lthc.advancenergy.items.silver.sword": "Épée en Argent"
+	"lthcthemaster.lthc.advancenergy.items.silver.sword": "Épée en Argent",
+
+	"lthcthemaster.lthc.advancenergy.__comment.c": "Bronze Stuff Translation",
+	"lthcthemaster.lthc.advancenergy.items.bronze.helmet": "Casque en Bronze",
+	"lthcthemaster.lthc.advancenergy.items.bronze.chestplate": "Plastron en Bronze",
+	"lthcthemaster.lthc.advancenergy.items.bronze.leggings": "Jambières en Bronze",
+	"lthcthemaster.lthc.advancenergy.items.bronze.boots": "Bottes en Bronze",
+	"lthcthemaster.lthc.advancenergy.items.bronze.pickaxe": "Pioche en Bronze",
+	"lthcthemaster.lthc.advancenergy.items.bronze.axe": "Hache en Bronze",
+	"lthcthemaster.lthc.advancenergy.items.bronze.shovel": "Pelle en Bronze",
+	"lthcthemaster.lthc.advancenergy.items.bronze.hoe": "Houe en Bronze",
+	"lthcthemaster.lthc.advancenergy.items.bronze.sword": "Épée en Bronze"
 }
