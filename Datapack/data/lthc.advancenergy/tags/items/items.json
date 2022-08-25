@@ -12,6 +12,14 @@
 		"leather_helmet",
 		"leather_chestplate",
 		"leather_leggings",
-		"leather_boots"
+		"leather_boots",
+		"netherite_sword",
+		"netherite_pickaxe",
+		"netherite_axe",
+		"netherite_hoe",
+		"netherite_shovel",
+		"golden_apple",
+		"cobblestone",
+		"glow_item_frame"
 	]
 }

@@ -1,6 +1,6 @@
 {
-    "values": [
-        "lthc.advancenergy:custom/crafting/craft/complex_shaped/mineral_extracting_machine",
-        "lthc.advancenergy:custom/crafting/craft/complex_shaped/solar_generator"
-    ]
+		"values": [
+				"lthc.advancenergy:custom/crafting/craft/complex_shaped/mineral_extracting_machine",
+				"lthc.advancenergy:custom/crafting/craft/complex_shaped/solar_generator"
+		]
 }

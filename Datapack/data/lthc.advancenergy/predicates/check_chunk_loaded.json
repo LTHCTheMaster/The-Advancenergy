@@ -1,9 +1,49 @@
 [
 	{
 		"condition": "minecraft:location_check",
+		"predicate": {
+			"block": {}
+		}
+	},
+	{
+		"condition": "minecraft:location_check",
+		"offsetX": 8,
+		"offsetZ": 8,
+		"predicate": {
+			"block": {}
+		}
+	},
+	{
+		"condition": "minecraft:location_check",
+		"offsetX": 8,
+		"offsetZ": -8,
+		"predicate": {
+			"block": {}
+		}
+	},
+	{
+		"condition": "minecraft:location_check",
+		"offsetX": -8,
+		"offsetZ": 8,
+		"predicate": {
+			"block": {}
+		}
+	},
+	{
+		"condition": "minecraft:location_check",
+		"offsetX": -8,
+		"offsetZ": -8,
+		"predicate": {
+			"block": {}
+		}
+	},
+	{
+		"condition": "minecraft:location_check",
 		"offsetX": 16,
 		"offsetZ": 16,
-		"predicate": {}
+		"predicate": {
+			"block": {}
+		}
 	},
 	{
 		"condition": "minecraft:location_check",
@@ -25,6 +65,70 @@
 		"condition": "minecraft:location_check",
 		"offsetX": -16,
 		"offsetZ": -16,
+		"predicate": {
+			"block": {}
+		}
+	},
+	{
+		"condition": "minecraft:location_check",
+		"offsetX": 32,
+		"offsetZ": 32,
+		"predicate": {
+			"block": {}
+		}
+	},
+	{
+		"condition": "minecraft:location_check",
+		"offsetX": 32,
+		"offsetZ": -32,
+		"predicate": {
+			"block": {}
+		}
+	},
+	{
+		"condition": "minecraft:location_check",
+		"offsetX": -32,
+		"offsetZ": 32,
+		"predicate": {
+			"block": {}
+		}
+	},
+	{
+		"condition": "minecraft:location_check",
+		"offsetX": -32,
+		"offsetZ": -32,
+		"predicate": {
+			"block": {}
+		}
+	},
+	{
+		"condition": "minecraft:location_check",
+		"offsetX": 48,
+		"offsetZ": 48,
+		"predicate": {
+			"block": {}
+		}
+	},
+	{
+		"condition": "minecraft:location_check",
+		"offsetX": 48,
+		"offsetZ": -48,
+		"predicate": {
+			"block": {}
+		}
+	},
+	{
+		"condition": "minecraft:location_check",
+		"offsetX": -48,
+		"offsetZ": 48,
+		"predicate": {
+			"block": {}
+		}
+	},
+	{
+		"condition": "minecraft:location_check",
+		"offsetX": -48,
+		"offsetZ": -48,
 		"predicate": {
 			"block": {}
 		}

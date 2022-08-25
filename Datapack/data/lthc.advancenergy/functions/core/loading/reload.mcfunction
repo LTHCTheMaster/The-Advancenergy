@@ -12,7 +12,7 @@ summon marker ~ ~1 ~ {Tags:["lthc.advancenergy","global.ignore","global.ignore.k
 execute as @e[type=marker,tag=lthc.advancenergy] at @s run forceload add ~ ~ ~ ~
 
 # Chunkload convention chunk
-execute in minecraft:overworld run forceload add -30000000 1600
+execute in overworld run forceload add -30000000 1600
 
 # Summon an armor stand at world spawn for some process
 execute as fffd6728-0002-993b-fffd-672000029931 run function lthc.advancenergy:utils/try_unload

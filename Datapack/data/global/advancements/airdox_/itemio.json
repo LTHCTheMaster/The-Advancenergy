@@ -1,18 +1,18 @@
 {
-    "display": {
-        "title": "ItemIO",
-        "description": "v0.0.1\n A library to transfer items between vanilla and custom containers",
-        "icon": {
-            "item": "minecraft:hopper",
-            "nbt": "{CustomModelData:1430000}"
-        },
-        "announce_to_chat": false,
-        "show_toast": false
-    },
-    "parent": "global:airdox_/root",
-    "criteria": {
-        "trigger": {
-            "trigger": "minecraft:tick"
-        }
-    }
+		"display": {
+				"title": "ItemIO",
+				"description": "v0.0.1\n A library to transfer items between vanilla and custom containers",
+				"icon": {
+						"item": "minecraft:hopper",
+						"nbt": "{CustomModelData:1430000}"
+				},
+				"announce_to_chat": false,
+				"show_toast": false
+		},
+		"parent": "global:airdox_/root",
+		"criteria": {
+				"trigger": {
+						"trigger": "minecraft:tick"
+				}
+		}
 }

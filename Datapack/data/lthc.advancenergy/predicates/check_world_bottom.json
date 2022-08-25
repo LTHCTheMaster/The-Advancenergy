@@ -1,8 +1,6 @@
 {
 	"condition": "minecraft:location_check",
 	"predicate": {
-		"block": {
-			"tag": "lthc.advancenergy:furnaces"
-		}
+		"block": {}
 	}
 }
