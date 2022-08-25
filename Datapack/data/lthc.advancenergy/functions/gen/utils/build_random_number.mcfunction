@@ -1,0 +1,39 @@
+scoreboard players set #temprandom_0 lthc.advancenergy.data 0
+execute if predicate lthc.advancenergy:luck/50 run scoreboard players operation #temprandom_0 lthc.advancenergy.data += #1 lthc.advancenergy.data
+execute if predicate lthc.advancenergy:luck/50 run scoreboard players operation #temprandom_0 lthc.advancenergy.data += #2 lthc.advancenergy.data
+execute if predicate lthc.advancenergy:luck/50 run scoreboard players operation #temprandom_0 lthc.advancenergy.data += #4 lthc.advancenergy.data
+execute if predicate lthc.advancenergy:luck/50 run scoreboard players operation #temprandom_0 lthc.advancenergy.data += #8 lthc.advancenergy.data
+execute if predicate lthc.advancenergy:luck/50 run scoreboard players operation #temprandom_0 lthc.advancenergy.data += #16 lthc.advancenergy.data
+execute if predicate lthc.advancenergy:luck/50 run scoreboard players operation #temprandom_0 lthc.advancenergy.data += #32 lthc.advancenergy.data
+execute if predicate lthc.advancenergy:luck/50 run scoreboard players operation #temprandom_0 lthc.advancenergy.data += #64 lthc.advancenergy.data
+execute if predicate lthc.advancenergy:luck/50 run scoreboard players operation #temprandom_0 lthc.advancenergy.data += #128 lthc.advancenergy.data
+execute if predicate lthc.advancenergy:luck/50 run scoreboard players operation #temprandom_0 lthc.advancenergy.data += #256 lthc.advancenergy.data
+execute if predicate lthc.advancenergy:luck/50 run scoreboard players operation #temprandom_0 lthc.advancenergy.data += #512 lthc.advancenergy.data
+execute if predicate lthc.advancenergy:luck/50 run scoreboard players operation #temprandom_0 lthc.advancenergy.data += #1024 lthc.advancenergy.data
+execute if predicate lthc.advancenergy:luck/50 run scoreboard players operation #temprandom_0 lthc.advancenergy.data *= #-1 lthc.advancenergy.data
+scoreboard players set #temprandom_1 lthc.advancenergy.data 0
+execute if predicate lthc.advancenergy:luck/50 run scoreboard players operation #temprandom_1 lthc.advancenergy.data += #1 lthc.advancenergy.data
+execute if predicate lthc.advancenergy:luck/50 run scoreboard players operation #temprandom_1 lthc.advancenergy.data += #2 lthc.advancenergy.data
+execute if predicate lthc.advancenergy:luck/50 run scoreboard players operation #temprandom_1 lthc.advancenergy.data += #4 lthc.advancenergy.data
+execute if predicate lthc.advancenergy:luck/50 run scoreboard players operation #temprandom_1 lthc.advancenergy.data += #8 lthc.advancenergy.data
+execute if predicate lthc.advancenergy:luck/50 run scoreboard players operation #temprandom_1 lthc.advancenergy.data += #16 lthc.advancenergy.data
+execute if predicate lthc.advancenergy:luck/50 run scoreboard players operation #temprandom_1 lthc.advancenergy.data += #32 lthc.advancenergy.data
+execute if predicate lthc.advancenergy:luck/50 run scoreboard players operation #temprandom_1 lthc.advancenergy.data += #64 lthc.advancenergy.data
+execute if predicate lthc.advancenergy:luck/50 run scoreboard players operation #temprandom_1 lthc.advancenergy.data += #128 lthc.advancenergy.data
+execute if predicate lthc.advancenergy:luck/50 run scoreboard players operation #temprandom_1 lthc.advancenergy.data += #256 lthc.advancenergy.data
+execute if predicate lthc.advancenergy:luck/50 run scoreboard players operation #temprandom_1 lthc.advancenergy.data += #512 lthc.advancenergy.data
+execute if predicate lthc.advancenergy:luck/50 run scoreboard players operation #temprandom_1 lthc.advancenergy.data += #1024 lthc.advancenergy.data
+execute if predicate lthc.advancenergy:luck/50 run scoreboard players operation #temprandom_1 lthc.advancenergy.data *= #-1 lthc.advancenergy.data
+scoreboard players set #temprandom_2 lthc.advancenergy.data 0
+execute if predicate lthc.advancenergy:luck/50 run scoreboard players operation #temprandom_2 lthc.advancenergy.data += #1 lthc.advancenergy.data
+execute if predicate lthc.advancenergy:luck/50 run scoreboard players operation #temprandom_2 lthc.advancenergy.data += #2 lthc.advancenergy.data
+execute if predicate lthc.advancenergy:luck/50 run scoreboard players operation #temprandom_2 lthc.advancenergy.data += #4 lthc.advancenergy.data
+execute if predicate lthc.advancenergy:luck/50 run scoreboard players operation #temprandom_2 lthc.advancenergy.data += #8 lthc.advancenergy.data
+execute if predicate lthc.advancenergy:luck/50 run scoreboard players operation #temprandom_2 lthc.advancenergy.data += #16 lthc.advancenergy.data
+execute if predicate lthc.advancenergy:luck/50 run scoreboard players operation #temprandom_2 lthc.advancenergy.data += #32 lthc.advancenergy.data
+execute if predicate lthc.advancenergy:luck/50 run scoreboard players operation #temprandom_2 lthc.advancenergy.data += #64 lthc.advancenergy.data
+execute if predicate lthc.advancenergy:luck/50 run scoreboard players operation #temprandom_2 lthc.advancenergy.data += #128 lthc.advancenergy.data
+execute if predicate lthc.advancenergy:luck/50 run scoreboard players operation #temprandom_2 lthc.advancenergy.data += #256 lthc.advancenergy.data
+execute if predicate lthc.advancenergy:luck/50 run scoreboard players operation #temprandom_2 lthc.advancenergy.data += #512 lthc.advancenergy.data
+execute if predicate lthc.advancenergy:luck/50 run scoreboard players operation #temprandom_2 lthc.advancenergy.data += #1024 lthc.advancenergy.data
+execute if predicate lthc.advancenergy:luck/50 run scoreboard players operation #temprandom_2 lthc.advancenergy.data *= #-1 lthc.advancenergy.data
