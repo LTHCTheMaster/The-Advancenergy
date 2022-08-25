@@ -25,19 +25,23 @@
 - Many advancements to cover your tech life
 
 ### 💽 Versions
-| ✅   | 1.19.x |
-| --- | --------------- |
-| ✅   | Singleplayer    |
-| ✅   | Multiplayer     |
-| ✅   | Vanilla         |
-| ✅   | Optifine        |
-| ✅   | Iris-Sodium     |
-| ✅   | Fabric          |
-| ⚠   | Forge           |
-| ❓   | Realms          |
-| ❌   | Bukkit          |
-| ⚠   | Spigot          |
-| ⚠   | Paper           |
+| DP   | RP | 1.19.x |
+| --- | -- | --------------- |
+| ✅   | ✅   | Singleplayer    |
+| ✅   | / | Multiplayer     |
+| ✅   | ✅   | Vanilla         |
+| ✅   | ✅   | Optifine        |
+| ✅   | ✅/❌   | Iris-Sodium     |
+| ✅   | ✅   | Fabric          |
+| ⚠   | ✅   | Forge           |
+| ❓   | ❓   | Realms          |
+| ❌   | /   | Bukkit          |
+| ⚠   | /   | Spigot          |
+| ⚠   | /   | Paper           |
+
+## 🐞 Bug Tracker
+
+<a href="https://github.com/LTHCTheMaster/The-Advancenergy/issues">Here is the bug tracker</a>
 
 ## 🤝 Contributors
 
