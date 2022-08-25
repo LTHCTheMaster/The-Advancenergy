@@ -4,14 +4,13 @@
 #Define a -/+ value offset randomly with UUID.
 #I multiply values by 10 to keep a digit after decimal.
 #Init values
-	summon area_effect_cloud ~ ~ ~ {Tags:["lthc.advancenergy.temp"]}
-	execute as @e[type=area_effect_cloud,tag=lthc.advancenergy.temp,sort=nearest,limit=1] run function lthc.advancenergy:gen/utils/fill_storage
+	function lthc.advancenergy:gen/utils/build_random_number
 	
-	execute store result score #x.random lthc.advancenergy.data run data get storage lthc.advancenergy:main temp[0]
-	execute store result score #z.random lthc.advancenergy.data run data get storage lthc.advancenergy:main temp[2]
+	scoreboard players operation #x.random lthc.advancenergy.data = #temprandom_0 lthc.advancenergy.data
+	scoreboard players operation #z.random lthc.advancenergy.data = #temprandom_2 lthc.advancenergy.data
 	scoreboard players operation #x lthc.advancenergy.data = #x.random lthc.advancenergy.data
 	scoreboard players operation #z lthc.advancenergy.data = #z.random lthc.advancenergy.data
-	execute store result score #y lthc.advancenergy.data run data get storage lthc.advancenergy:main temp[1]
+	scoreboard players operation #y lthc.advancenergy.data = #temprandom_1 lthc.advancenergy.data
 
 	data modify storage lthc.advancenergy:main temp set from entity @s Pos
 	execute store result score #pos_x lthc.advancenergy.data run data get storage lthc.advancenergy:main temp[0] 10
