@@ -1,0 +1,12 @@
+loot give @s loot lthc.advancenergy:i/materials/bronze_ingot
+loot give @s loot lthc.advancenergy:i/materials/bronze_block
+loot give @s loot lthc.advancenergy:i/materials/bronze_nugget
+loot give @s loot lthc.advancenergy:i/equipments/bronze/helmet
+loot give @s loot lthc.advancenergy:i/equipments/bronze/chestplate
+loot give @s loot lthc.advancenergy:i/equipments/bronze/leggings
+loot give @s loot lthc.advancenergy:i/equipments/bronze/boots
+loot give @s loot lthc.advancenergy:i/equipments/bronze/pickaxe
+loot give @s loot lthc.advancenergy:i/equipments/bronze/axe
+loot give @s loot lthc.advancenergy:i/equipments/bronze/shovel
+loot give @s loot lthc.advancenergy:i/equipments/bronze/hoe
+loot give @s loot lthc.advancenergy:i/equipments/bronze/sword

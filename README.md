@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="./Datapack/pack.png" width="128px"></img>
+<img src="./Datapack/pack.png"></img>
 
 ![latest release](https://img.shields.io/github/v/release/LTHCTheMaster/The-Advancenergy?color=green&label=Latest%20Release) ![release/pre release](https://img.shields.io/github/v/release/LTHCTheMaster/The-Advancenergy?include_prereleases&color=green&label=Current%20Release%20or%20Pre%20Release) ![downloads](https://img.shields.io/github/downloads/LTHCTheMaster/The-Advancenergy/total?color=cyan) ![stars](https://img.shields.io/github/stars/LTHCTheMaster/The-Advancenergy?color=gold) ![repo size](https://img.shields.io/github/repo-size/LTHCTheMaster/The-Advancenergy?color=gold)
 
@@ -42,6 +42,11 @@
 ## 🐞 Bug Tracker
 
 <a href="https://github.com/LTHCTheMaster/The-Advancenergy/issues">Here is the bug tracker</a>
+
+## 👨‍🏭 Admin Tips
+
+- Force a full reload of The Advancenergy's component: ``/function lthc.advancenergy:_func/admin/force_full_reload``
+- Give structure: ``/function lthc.advancenergy:_func/give/_give``, look under your feet and click the LOAD button on your right until the structure is loaded
 
 ## 🤝 Contributors
 
