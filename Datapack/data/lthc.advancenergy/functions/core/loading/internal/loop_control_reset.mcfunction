@@ -1,3 +1,4 @@
+# Reset Loop Control var
 scoreboard players set #second lthc.advancenergy.data 0
 scoreboard players set #second_2 lthc.advancenergy.data 0
 scoreboard players set #second_10 lthc.advancenergy.data 0

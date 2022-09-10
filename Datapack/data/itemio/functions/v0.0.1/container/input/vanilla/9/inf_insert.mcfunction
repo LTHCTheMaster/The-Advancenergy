@@ -7,7 +7,7 @@ execute as 93682a08-d099-4e8f-a4a6-1e33a3692301 if predicate itemio:stack1 run s
 
 execute if score #count_input itemio.math.input > #full_stack itemio.math.input store result storage itemio:main.input input.Count int 1 run scoreboard players get #full_stack itemio.math.input
 
-execute in overworld run function itemio:v0.0.1/container/input/vanilla/9/inf_insert_dimension
+execute in minecraft:overworld run function itemio:v0.0.1/container/input/vanilla/9/inf_insert_dimension
 data modify block ~ ~ ~ Items set from storage itemio:main.input Items
 
 

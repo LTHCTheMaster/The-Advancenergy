@@ -1,3 +1,5 @@
+## More test than before but only one category and not all blocks
+
 scoreboard players set #success lthc.advancenergy.data_2 0
 
 execute store success score #success lthc.advancenergy.data_2 if data storage smithed.custom_block:main blockApi{id:"lthc.advancenergy:mineral_extracting_machine"} run function lthc.advancenergy:custom/block/place/mineral_extracting_machine/main

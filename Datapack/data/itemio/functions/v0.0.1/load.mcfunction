@@ -1,8 +1,6 @@
 #define storage itemio:main
 
 
-scoreboard players set itemio load.status 1
-function itemio:v0.0.1/set_version
 forceload add -30000000 1600
 
 schedule function itemio:v0.0.1/load_2 2s
@@ -18,6 +16,7 @@ scoreboard objectives add itemio.network_id.high dummy
 scoreboard objectives add itemio.network.process_queue dummy
 
 scoreboard objectives add itemio.servo.stack_limit dummy
+scoreboard objectives add itemio.servo.cooldown dummy
 
 scoreboard players set #process_queue itemio.math 20
 scoreboard players set #hopper_speed itemio.math 20

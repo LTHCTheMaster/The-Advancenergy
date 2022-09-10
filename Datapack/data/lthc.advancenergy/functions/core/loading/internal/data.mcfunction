@@ -88,10 +88,13 @@ scoreboard players set #1 lthc.advancenergy.data 1
 scoreboard players set #-10 lthc.advancenergy.data -10
 scoreboard players set #-1 lthc.advancenergy.data -1
 
+scoreboard players set #seed lthc.advancenergy.data 0
+execute store result score #seed lthc.advancenergy.data run seed
+
 tag LTHCTheMaster add convention.debug
 
 function lthc.advancenergy:core/loading/internal/load_registry
 
 function lthc.advancenergy:core/loading/internal/loop_control_reset
 
-schedule function lthc.advancenergy:utils/world_bottom/world_bottom_start 2s
+schedule function lthc.advancenergy:utils/world_bottom/world_bottom_start 1s

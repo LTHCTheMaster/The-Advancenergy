@@ -7,4 +7,3 @@ execute if score #temp lthc.advancenergy.data matches 0 run function lthc.advanc
 
 #Try a new time if the block is still not adjacent to air
 execute if score #temp lthc.advancenergy.data matches 0 unless score #max_attempts lthc.advancenergy.data matches 0 run function lthc.advancenergy:gen/utils/find_adjacent_air/new_random_position
-
