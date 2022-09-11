@@ -1,6 +1,6 @@
 {
-    "values": [
-        "#itemio:enumerate",
-        "#itemio:resolve"
-    ]
+	"values": [
+		"#itemio:enumerate",
+		"#itemio:resolve"
+	]
 }

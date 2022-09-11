@@ -2,10 +2,10 @@
 	"condition": "minecraft:entity_properties",
 	"entity": "this",
 	"predicate": {
-		"equipment": {
-			"mainhand": {
-				"tag": "minecraft:coal_ores"
-			}
+	"equipment": {
+		"mainhand": {
+		"tag": "minecraft:coal_ores"
 		}
+	}
 	}
 }
