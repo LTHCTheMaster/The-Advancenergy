@@ -17,7 +17,7 @@ execute in overworld run forceload add -30000000 1600
 # Summon an armor stand at world spawn for some process
 execute as fffd6728-0002-993b-fffd-672000029931 run function lthc.advancenergy:utils/try_unload
 kill fffd6728-0002-993b-fffd-672000029931
-summon armor_stand ~ ~ ~ {Marker:1b,Invulnerable:1b,Invisible:1b,Silent:1b,NoGravity:1b,UUID:[I;-170200,170299,-170208,170289],Small:1b,Tags:["lthc.advancenergy","global.ignore","global.ignore.kill","global.forceload","smithed.entity","smithed.strict"]}
+summon armor_stand ~ ~320 ~ {Marker:1b,Invulnerable:1b,Invisible:1b,Silent:1b,NoGravity:1b,UUID:[I;-170200,170299,-170208,170289],Small:1b,Tags:["lthc.advancenergy","global.ignore","global.ignore.kill","global.forceload","smithed.entity","smithed.strict"]}
 
 # Init the gamerules
 gamerule maxCommandChainLength 2147483647

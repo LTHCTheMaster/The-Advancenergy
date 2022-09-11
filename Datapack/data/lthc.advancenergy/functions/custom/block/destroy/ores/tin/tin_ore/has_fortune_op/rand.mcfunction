@@ -21,7 +21,7 @@ scoreboard players operation #enchtemp_fortune_copy lthc.advancenergy.data = #en
 
 scoreboard players operation #enchtemp_fortune_copy lthc.advancenergy.data *= #9 lthc.advancenergy.data
 
-execute if predicate lthc.advancenergy:luck/4 run scoreboard players add #enchtemp_fortune_copy lthc.advancenergy.data 1
+execute if predicate lthc.advancenergy:luck/6 run scoreboard players add #enchtemp_fortune_copy lthc.advancenergy.data 1
 execute if predicate lthc.advancenergy:luck/4 run scoreboard players add #enchtemp_fortune_copy lthc.advancenergy.data 1
 
 scoreboard players set #enchtemp_fortune_success lthc.advancenergy.data 0

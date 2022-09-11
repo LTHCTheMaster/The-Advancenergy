@@ -1,3 +1,2 @@
-kill @e[type=item,nbt={Item:{id:"minecraft:mud_bricks",Count:1b}},sort=nearest,limit=1]
-loot spawn ~ ~0.11 ~ loot lthc.advancenergy:i/ores/silver/raw_block
+execute as @e[type=item,nbt={Item:{id:"minecraft:mud_bricks",Count:1b}},sort=nearest,limit=1] run data modify entity @s Item set from storage lthc.advancenergy:main registry.item.170227
 kill @s
