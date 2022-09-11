@@ -18,4 +18,6 @@ execute if score #ropbgrvs lthc.advancenergy.data matches 10..11 run function lt
 execute if score #ropbgrvs lthc.advancenergy.data matches 12..13 run function lthc.advancenergy:gen/ores/1/multiple_builded_pattern/patterns/p3
 execute if score #ropbgrvs lthc.advancenergy.data matches 14..15 run function lthc.advancenergy:gen/ores/1/multiple_builded_pattern/patterns/p4
 
+execute if predicate lthc.advancenergy:luck/2 run function lthc.advancenergy:gen/ores/1/multiple_builded_pattern/lucky_second_step/build_ore_pattern_init
+
 kill @s
