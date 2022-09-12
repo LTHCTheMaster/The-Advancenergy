@@ -60,9 +60,9 @@ Thanks to <a href="https://github.com/VGreluchon">VGreluchon</a> and <a href="ht
 
 Thanks to the <a href="https://discord.me/dataworld">Dataworld</a> discord for their feedback and help.
 
-## Used librairies
+## 📖 Used librairies
 
-### Datapack
+### 🧰 Datapack
 
 **<a href="https://github.com/Smithed-MC/Libraries">Smithed Crafter and Block API</a>** by <a href="https://github.com/Smithed-MC">Smithed-MC</a>.
 
@@ -76,6 +76,6 @@ Thanks to the <a href="https://discord.me/dataworld">Dataworld</a> discord for t
 
 **<a href="https://github.com/edayot/ItemIO">ItemIO</a>** by <a href="https://github.com/edayot">edayot</a>.
 
-### Resource Pack
+### 🖼️ Resource Pack
 
 **<a href="https://github.com/Ancientkingg/fancyPants">fancyPants</a> by <a href="https://github.com/Ancientkingg">Ancientkingg</a>**
