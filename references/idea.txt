@@ -1,3 +1,18 @@
+### TODO
+	Ash Stuff:
+		armor:
+			helmet
+			chestplate
+			leggings
+			boots
+		tools and weapons:
+			pickaxe
+			axe
+			hoe
+			shovel
+			sword
+### TODO
+
 ### Later
 		Aluminium :
 			Iron
