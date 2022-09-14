@@ -16,6 +16,9 @@
 ### Later
 		Aluminium :
 			Iron
+		Nickel:
+			Calcite
+			Aluminium
 
 		Electrum
 ### Later
