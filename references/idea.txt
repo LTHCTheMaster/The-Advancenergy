@@ -1,4 +1,8 @@
 ### TODO
+	
+### TODO
+
+### Later
 	Ash Stuff:
 		armor:
 			helmet
@@ -11,9 +15,7 @@
 			hoe
 			shovel
 			sword
-### TODO
 
-### Later
 		Aluminium :
 			Iron
 		Nickel:
