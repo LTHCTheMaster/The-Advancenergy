@@ -8,6 +8,7 @@
 		{ "predicate": { "custom_model_data": 170200 }, "model": "lthc.advancenergy:equipments/tin/boots" },
 		{ "predicate": { "custom_model_data": 170201 }, "model": "lthc.advancenergy:equipments/lead/boots" },
 		{ "predicate": { "custom_model_data": 170202 }, "model": "lthc.advancenergy:equipments/silver/boots" },
-		{ "predicate": { "custom_model_data": 170203 }, "model": "lthc.advancenergy:equipments/bronze/boots" }
+		{ "predicate": { "custom_model_data": 170203 }, "model": "lthc.advancenergy:equipments/bronze/boots" },
+		{ "predicate": { "custom_model_data": 170204 }, "model": "lthc.advancenergy:equipments/ash/boots" }
 	]
 }

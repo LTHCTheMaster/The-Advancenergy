@@ -7,6 +7,7 @@
 		{ "predicate": { "custom_model_data": 170200 }, "model": "lthc.advancenergy:equipments/tin/axe" },
 		{ "predicate": { "custom_model_data": 170201 }, "model": "lthc.advancenergy:equipments/lead/axe" },
 		{ "predicate": { "custom_model_data": 170202 }, "model": "lthc.advancenergy:equipments/silver/axe" },
-		{ "predicate": { "custom_model_data": 170203 }, "model": "lthc.advancenergy:equipments/bronze/axe" }
+		{ "predicate": { "custom_model_data": 170203 }, "model": "lthc.advancenergy:equipments/bronze/axe" },
+		{ "predicate": { "custom_model_data": 170204 }, "model": "lthc.advancenergy:equipments/ash/axe" }
 	]
 }
