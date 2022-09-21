@@ -110,5 +110,16 @@
 	"lthcthemaster.lthc.advancenergy.items.bronze.axe": "Bronze Axe",
 	"lthcthemaster.lthc.advancenergy.items.bronze.shovel": "Bronze Shovel",
 	"lthcthemaster.lthc.advancenergy.items.bronze.hoe": "Bronze Hoe",
-	"lthcthemaster.lthc.advancenergy.items.bronze.sword": "Bronze Sword"
+	"lthcthemaster.lthc.advancenergy.items.bronze.sword": "Bronze Sword",
+
+	"lthcthemaster.lthc.advancenergy.__comment.d": "Ash Stuff Translation",
+	"lthcthemaster.lthc.advancenergy.items.ash.helmet": "Ash Helmet",
+	"lthcthemaster.lthc.advancenergy.items.ash.chestplate": "Ash Chestplate",
+	"lthcthemaster.lthc.advancenergy.items.ash.leggings": "Ash Leggings",
+	"lthcthemaster.lthc.advancenergy.items.ash.boots": "Ash Boots",
+	"lthcthemaster.lthc.advancenergy.items.ash.pickaxe": "Ash Pickaxe",
+	"lthcthemaster.lthc.advancenergy.items.ash.axe": "Ash Axe",
+	"lthcthemaster.lthc.advancenergy.items.ash.shovel": "Ash Shovel",
+	"lthcthemaster.lthc.advancenergy.items.ash.hoe": "Ash Hoe",
+	"lthcthemaster.lthc.advancenergy.items.ash.sword": "Ash Sword"
 }

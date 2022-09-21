@@ -110,5 +110,16 @@
 	"lthcthemaster.lthc.advancenergy.items.bronze.axe": "Hache en Bronze",
 	"lthcthemaster.lthc.advancenergy.items.bronze.shovel": "Pelle en Bronze",
 	"lthcthemaster.lthc.advancenergy.items.bronze.hoe": "Houe en Bronze",
-	"lthcthemaster.lthc.advancenergy.items.bronze.sword": "Épée en Bronze"
+	"lthcthemaster.lthc.advancenergy.items.bronze.sword": "Épée en Bronze",
+
+	"lthcthemaster.lthc.advancenergy.__comment.d": "Ash Stuff Translation",
+	"lthcthemaster.lthc.advancenergy.items.ash.helmet": "Casque en Cendres",
+	"lthcthemaster.lthc.advancenergy.items.ash.chestplate": "Plastron en Cendres",
+	"lthcthemaster.lthc.advancenergy.items.ash.leggings": "Jambières en Cendres",
+	"lthcthemaster.lthc.advancenergy.items.ash.boots": "Bottes en Cendres",
+	"lthcthemaster.lthc.advancenergy.items.ash.pickaxe": "Pioche en Cendres",
+	"lthcthemaster.lthc.advancenergy.items.ash.axe": "Hache en Cendres",
+	"lthcthemaster.lthc.advancenergy.items.ash.shovel": "Pelle en Cendres",
+	"lthcthemaster.lthc.advancenergy.items.ash.hoe": "Houe en Cendres",
+	"lthcthemaster.lthc.advancenergy.items.ash.sword": "Épée en Cendres"
 }
