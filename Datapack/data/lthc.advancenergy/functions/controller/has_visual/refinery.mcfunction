@@ -1,4 +1,4 @@
-function lthc.advancenergy:controller/work/refinery/main
+function lthc.advancenergy:controller/work/refinery/
 execute if predicate lthc.advancenergy:is_barrel_open run function lthc.advancenergy:controller/gui_manager/refinery
 
 #Update model depends on BurnTime (on/off)

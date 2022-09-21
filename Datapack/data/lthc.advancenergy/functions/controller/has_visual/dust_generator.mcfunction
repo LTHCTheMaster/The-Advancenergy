@@ -1,4 +1,4 @@
-function lthc.advancenergy:controller/work/dust_generator/main
+function lthc.advancenergy:controller/work/dust_generator/
 execute if predicate lthc.advancenergy:is_barrel_open run function lthc.advancenergy:controller/gui_manager/dust_generator
 
 #Update model depends on BurnTime (on/off)
