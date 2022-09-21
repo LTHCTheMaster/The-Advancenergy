@@ -1,128 +1,128 @@
 barrel and glow_item_frame:
-	170200 : tin ore
-	170201 : deepslate tin ore
-	170202 : raw tin block
-	170203 : tin block
-	170204 : carbon generator off
-	170205 : carbon generator on
-	170206 : ash block
-	170207 : primitive capacitor
-	170208 : mineral extracting machine
-	170209 : dust generator off
-	170210 : dust generator on
-	170211 : lead ore
-	170212 : deepslate lead ore
-	170213 : raw lead block
-	170214 : lead block
-	170215 : advanced carbon generator off
-	170216 : advanced carbon generator on
-	170217 : refinery
-	170218 : refinery on
-	170219 : lead bomb
-	170220 : bronze block
-	170221 : bronze bomb
-	170222 : solar generator
-	170223 : potato generator
-	170224 : potato generator on
-	170225 : silver ore
-	170226 : deepslate silver ore
-	170227 : raw silver block
-	170228 : silver block
-	170229 : cobblestone farmer
-	170230 : carbon extractor
-	170231 : aqueous accumulator
+  170200 : tin ore
+  170201 : deepslate tin ore
+  170202 : raw tin block
+  170203 : tin block
+  170204 : carbon generator off
+  170205 : carbon generator on
+  170206 : ash block
+  170207 : primitive capacitor
+  170208 : mineral extracting machine
+  170209 : dust generator off
+  170210 : dust generator on
+  170211 : lead ore
+  170212 : deepslate lead ore
+  170213 : raw lead block
+  170214 : lead block
+  170215 : advanced carbon generator off
+  170216 : advanced carbon generator on
+  170217 : refinery
+  170218 : refinery on
+  170219 : lead bomb
+  170220 : bronze block
+  170221 : bronze bomb
+  170222 : solar generator
+  170223 : potato generator
+  170224 : potato generator on
+  170225 : silver ore
+  170226 : deepslate silver ore
+  170227 : raw silver block
+  170228 : silver block
+  170229 : cobblestone farmer
+  170230 : carbon extractor
+  170231 : aqueous accumulator
 
 command_block:
-	170200 : raw tin
-	170201 : tin ingot
-	170202 : tin nugget
-	170203 : ash
-	170204 : raw lead
-	170205 : lead ingot
-	170206 : lead nugget
-	170207 : bronze ingot
-	170208 : bronze nugget
-	170209 : bronze machine casing
-	170210 : tin machine casing
-	170211 : lead machine casing
-	170212 : raw silver
-	170213 : silver ingot
-	170214 : silver nugget
-	170215 : silver machine casing
-	170216 : ash ingot
-	179999 : The Advancenergy Icon
+  170200 : raw tin
+  170201 : tin ingot
+  170202 : tin nugget
+  170203 : ash
+  170204 : raw lead
+  170205 : lead ingot
+  170206 : lead nugget
+  170207 : bronze ingot
+  170208 : bronze nugget
+  170209 : bronze machine casing
+  170210 : tin machine casing
+  170211 : lead machine casing
+  170212 : raw silver
+  170213 : silver ingot
+  170214 : silver nugget
+  170215 : silver machine casing
+  170216 : ash ingot
+  179999 : The Advancenergy Icon
 
 leather_helmet:
-	170200 : tin helmet
-	170201 : lead helmet
-	170202 : silver helmet
-	170203 : bronze helmet
-	170204 : ash helmet
+  170200 : tin helmet
+  170201 : lead helmet
+  170202 : silver helmet
+  170203 : bronze helmet
+  170204 : ash helmet
 
 leather_chestplate:
-	170200 : tin chestplate
-	170201 : lead chestplate
-	170202 : silver chestplate
-	170203 : bronze chestplate
-	170204 : ash chestplate
+  170200 : tin chestplate
+  170201 : lead chestplate
+  170202 : silver chestplate
+  170203 : bronze chestplate
+  170204 : ash chestplate
 
 leather_leggings:
-	170200 : tin leggings
-	170201 : lead leggings
-	170202 : silver leggings
-	170203 : bronze leggings
-	170204 : ash leggings
+  170200 : tin leggings
+  170201 : lead leggings
+  170202 : silver leggings
+  170203 : bronze leggings
+  170204 : ash leggings
 
 leather_boots:
-	170200 : tin boots
-	170201 : lead boots
-	170202 : silver boots
-	170203 : bronze boots
-	170204 : ash boots
+  170200 : tin boots
+  170201 : lead boots
+  170202 : silver boots
+  170203 : bronze boots
+  170204 : ash boots
 
 diamond_axe and netherite_axe:
-	170200 : tin axe
-	170201 : lead axe
-	170202 : silver axe
-	170203 : bronze axe
-	170204 : ash axe
+  170200 : tin axe
+  170201 : lead axe
+  170202 : silver axe
+  170203 : bronze axe
+  170204 : ash axe
 
 diamond_pickaxe and netherite_pickaxe:
-	170200 : tin pickaxe
-	170201 : lead pickaxe
-	170202 : silver pickaxe
-	170203 : bronze pickaxe
-	170204 : ash pickaxe
+  170200 : tin pickaxe
+  170201 : lead pickaxe
+  170202 : silver pickaxe
+  170203 : bronze pickaxe
+  170204 : ash pickaxe
 
 diamond_shovel and netherite_shovel:
-	170200 : tin shovel
-	170201 : lead shovel
-	170202 : silver shovel
-	170203 : bronze shovel
-	170204 : ash shovel
+  170200 : tin shovel
+  170201 : lead shovel
+  170202 : silver shovel
+  170203 : bronze shovel
+  170204 : ash shovel
 
 diamond_hoe and netherite_hoe:
-	170200 : tin hoe
-	170201 : lead hoe
-	170202 : silver hoe
-	170203 : bronze hoe
-	170204 : ash hoe
+  170200 : tin hoe
+  170201 : lead hoe
+  170202 : silver hoe
+  170203 : bronze hoe
+  170204 : ash hoe
 
 diamond_sword and netherite_sword:
-	170200 : tin sword
-	170201 : lead sword
-	170202 : silver sword
-	170203 : bronze sword
-	170204 : ash sword
+  170200 : tin sword
+  170201 : lead sword
+  170202 : silver sword
+  170203 : bronze sword
+  170204 : ash sword
 
 cobblestone:
-	170000 - 170063 : primitive cable MODEL
-	170200 - 170210 : cooling GUI
-	170211 - 170221 : carbon generator and advanced carbon generator GUI
-	170222 - 170232 : dust generator GUI
-	170233 - 170243 : refinery GUI
-	170244 - 170254 : potato generator GUI
-	170255 - 170265 : carbon extractor GUI
+  170000 - 170063 : primitive cable MODEL
+  170200 - 170210 : cooling GUI
+  170211 - 170221 : carbon generator and advanced carbon generator GUI
+  170222 - 170232 : dust generator GUI
+  170233 - 170243 : refinery GUI
+  170244 - 170254 : potato generator GUI
+  170255 - 170265 : carbon extractor GUI
 
 golden_apple:
-	170200 : ash apple
+  170200 : ash apple

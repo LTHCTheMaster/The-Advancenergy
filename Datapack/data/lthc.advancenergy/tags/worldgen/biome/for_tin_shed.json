@@ -1,10 +1,10 @@
 {
-		"values": [
-				"plains",
-				"desert",
-				"dripstone_caves",
-				"#allows_surface_slime_spawns",
-				"badlands",
-				"#is_beach"
-		]
+  "values": [
+	"plains",
+	"desert",
+	"dripstone_caves",
+	"#allows_surface_slime_spawns",
+	"badlands",
+	"#is_beach"
+  ]
 }

@@ -1,20 +1,20 @@
 {
-	"parent": "lthc.advancenergy:block_renderer",
-	"textures": {
-		"ud": "lthc.advancenergy:ores/lead/block",
-		"sides": "lthc.advancenergy:machines/refinery/refinery_side_on"
+  "parent": "lthc.advancenergy:block_renderer",
+  "textures": {
+	"ud": "lthc.advancenergy:ores/lead/block",
+	"sides": "lthc.advancenergy:machines/refinery/refinery_side_on"
+  },
+  "elements": [{
+	"from": [ 0, 0, 0 ],
+	"to": [ 16, 16, 16 ],
+	"faces": {
+	  "down":  { "texture": "#ud", "cullface": "down" },
+	  "up":   { "texture": "#ud", "cullface": "up" },
+	  "north": { "texture": "#sides", "cullface": "north" },
+	  "south": { "texture": "#sides", "cullface": "south" },
+	  "west":  { "texture": "#sides", "cullface": "west" },
+	  "east":  { "texture": "#sides", "cullface": "east" }
 	},
-	"elements": [{
-		"from": [ 0, 0, 0 ],
-		"to": [ 16, 16, 16 ],
-		"faces": {
-			"down":	{ "texture": "#ud", "cullface": "down" },
-			"up":	 { "texture": "#ud", "cullface": "up" },
-			"north": { "texture": "#sides", "cullface": "north" },
-			"south": { "texture": "#sides", "cullface": "south" },
-			"west":	{ "texture": "#sides", "cullface": "west" },
-			"east":	{ "texture": "#sides", "cullface": "east" }
-		},
-		"shade": false
-	}]
+	"shade": false
+  }]
 }

@@ -1,19 +1,19 @@
 {
-	"display": {
-		"title": "The Advancenergy",
-		"description": "v1.0.0",
-		"icon": {
-			"item": "command_block",
-			"nbt": "{CustomModelData: 179999}"
-		},
-		"show_toast": false,
-		"announce_to_chat": false,
-		"frame": "goal"
-		},
-		"parent": "global:lthcthemaster",
-	"criteria": {
-				"always": {
-			"trigger": "minecraft:tick"
-		}
-		}
+  "display": {
+	"title": "The Advancenergy",
+	"description": "v1.0.0",
+	"icon": {
+	  "item": "command_block",
+	  "nbt": "{CustomModelData: 179999}"
+	},
+	"show_toast": false,
+	"announce_to_chat": false,
+	"frame": "goal"
+	},
+	"parent": "global:lthcthemaster",
+  "criteria": {
+		"always": {
+	  "trigger": "minecraft:tick"
+	}
+	}
 }

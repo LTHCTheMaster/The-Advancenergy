@@ -1,19 +1,19 @@
 {
-	"parent": "minecraft:block/cube_all",
-	"textures": {
-		"ud": "lthc.advancenergy:others/bronze_bomb",
-		"sides": "lthc.advancenergy:machines/potato_generator/potato_generator_side_on"
-	},
-	"elements": [{
-		"from": [ 0, 0, 0 ],
-		"to": [ 16, 16, 16 ],
-		"faces": {
-			"down":	{"texture": "#ud"},
-			"up":	 {"texture": "#ud"},
-			"north": {"texture": "#sides"},
-			"south": {"texture": "#sides"},
-			"west":	{"texture": "#sides"},
-			"east":	{"texture": "#sides"}
-		}
-	}]
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+	"ud": "lthc.advancenergy:others/bronze_bomb",
+	"sides": "lthc.advancenergy:machines/potato_generator/potato_generator_side_on"
+  },
+  "elements": [{
+	"from": [ 0, 0, 0 ],
+	"to": [ 16, 16, 16 ],
+	"faces": {
+	  "down":  {"texture": "#ud"},
+	  "up":   {"texture": "#ud"},
+	  "north": {"texture": "#sides"},
+	  "south": {"texture": "#sides"},
+	  "west":  {"texture": "#sides"},
+	  "east":  {"texture": "#sides"}
+	}
+  }]
 }

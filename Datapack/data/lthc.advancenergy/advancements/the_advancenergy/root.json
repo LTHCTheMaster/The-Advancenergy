@@ -1,23 +1,23 @@
 {
-	"display": {
-		"icon": {
-			"item": "command_block",
-			"nbt": "{CustomModelData: 179999}"
-		},
-		"title": {
-			"text": "The Advancenergy",
-			"color": "#d91107"
-		},
-		"description": "The Advancenergy",
-		"background": "minecraft:textures/block/red_concrete.png",
-		"show_toast": false,
-		"announce_to_chat": false,
-		"hidden": false,
-		"frame": "challenge"
+  "display": {
+	"icon": {
+	  "item": "command_block",
+	  "nbt": "{CustomModelData: 179999}"
 	},
-	"criteria": {
-		"auto": {
-			"trigger": "tick"
-		}
+	"title": {
+	  "text": "The Advancenergy",
+	  "color": "#d91107"
+	},
+	"description": "The Advancenergy",
+	"background": "minecraft:textures/block/red_concrete.png",
+	"show_toast": false,
+	"announce_to_chat": false,
+	"hidden": false,
+	"frame": "challenge"
+  },
+  "criteria": {
+	"auto": {
+	  "trigger": "tick"
 	}
+  }
 }

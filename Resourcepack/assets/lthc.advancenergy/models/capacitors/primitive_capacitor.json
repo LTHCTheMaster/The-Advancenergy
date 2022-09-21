@@ -1,21 +1,21 @@
 {
-	"parent": "lthc.advancenergy:block_renderer",
-	"textures": {
-		"down": "lthc.advancenergy:capacitors/capacitor_bottom",
-		"up": "lthc.advancenergy:capacitors/capacitor_top",
-		"sides": "lthc.advancenergy:capacitors/primitive_capacitor"
+  "parent": "lthc.advancenergy:block_renderer",
+  "textures": {
+	"down": "lthc.advancenergy:capacitors/capacitor_bottom",
+	"up": "lthc.advancenergy:capacitors/capacitor_top",
+	"sides": "lthc.advancenergy:capacitors/primitive_capacitor"
+  },
+  "elements": [{
+	"from": [ 0, 0, 0 ],
+	"to": [ 16, 16, 16 ],
+	"faces": {
+	  "down":  { "texture": "#down", "cullface": "down" },
+	  "up":   { "texture": "#up", "cullface": "up" },
+	  "north": { "texture": "#sides", "cullface": "north" },
+	  "south": { "texture": "#sides", "cullface": "south" },
+	  "west":  { "texture": "#sides", "cullface": "west" },
+	  "east":  { "texture": "#sides", "cullface": "east" }
 	},
-	"elements": [{
-		"from": [ 0, 0, 0 ],
-		"to": [ 16, 16, 16 ],
-		"faces": {
-			"down":	{ "texture": "#down", "cullface": "down" },
-			"up":	 { "texture": "#up", "cullface": "up" },
-			"north": { "texture": "#sides", "cullface": "north" },
-			"south": { "texture": "#sides", "cullface": "south" },
-			"west":	{ "texture": "#sides", "cullface": "west" },
-			"east":	{ "texture": "#sides", "cullface": "east" }
-		},
-		"shade": false
-	}]
+	"shade": false
+  }]
 }

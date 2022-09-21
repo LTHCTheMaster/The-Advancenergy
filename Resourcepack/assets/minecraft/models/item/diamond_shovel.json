@@ -1,13 +1,13 @@
 {
-		"parent": "item/handheld",
-		"textures": {
-			"layer0": "item/diamond_shovel"
-		},
-		"overrides": [
-		{ "predicate": { "custom_model_data": 170200 }, "model": "lthc.advancenergy:equipments/tin/shovel" },
-		{ "predicate": { "custom_model_data": 170201 }, "model": "lthc.advancenergy:equipments/lead/shovel" },
-		{ "predicate": { "custom_model_data": 170202 }, "model": "lthc.advancenergy:equipments/silver/shovel" },
-		{ "predicate": { "custom_model_data": 170203 }, "model": "lthc.advancenergy:equipments/bronze/shovel" },
-		{ "predicate": { "custom_model_data": 170204 }, "model": "lthc.advancenergy:equipments/ash/shovel" }
-	]
+	"parent": "item/handheld",
+	"textures": {
+	  "layer0": "item/diamond_shovel"
+	},
+	"overrides": [
+	{ "predicate": { "custom_model_data": 170200 }, "model": "lthc.advancenergy:equipments/tin/shovel" },
+	{ "predicate": { "custom_model_data": 170201 }, "model": "lthc.advancenergy:equipments/lead/shovel" },
+	{ "predicate": { "custom_model_data": 170202 }, "model": "lthc.advancenergy:equipments/silver/shovel" },
+	{ "predicate": { "custom_model_data": 170203 }, "model": "lthc.advancenergy:equipments/bronze/shovel" },
+	{ "predicate": { "custom_model_data": 170204 }, "model": "lthc.advancenergy:equipments/ash/shovel" }
+  ]
 }

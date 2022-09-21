@@ -1,203 +1,203 @@
 
 [
-	'[
-		"",
-		{"text":"The Advancenergy\\n"},
+  '[
+	"",
+	{"text":"The Advancenergy\\n"},
 
-		{"text":"\\uea01","color":"white","font":"lthc.advancenergy:book","hoverEvent": {"action": "show_text","contents":"Heavy Workbench"},"clickEvent": {"action": "change_page", "value": "2"}},
-		{"text":"\\uea02","color":"white","font":"lthc.advancenergy:book","hoverEvent": {"action": "show_text","contents":"Tin Ore"},"clickEvent": {"action": "change_page", "value": "3"}},
-		{"text":"\\uea03","color":"white","font":"lthc.advancenergy:book","hoverEvent": {"action": "show_text","contents":"Lead Ore"},"clickEvent": {"action": "change_page", "value": "4"}},
-		{"text":"\\uea04","color":"white","font":"lthc.advancenergy:book","hoverEvent": {"action": "show_text","contents":"Bronze Ingot"},"clickEvent": {"action": "change_page", "value": "5"}},
-		{"text":"\\uea05","color":"white","font":"lthc.advancenergy:book","hoverEvent": {"action": "show_text","contents":"Ash"},"clickEvent": {"action": "change_page", "value": "6"}},
-		{"text":"\\uea06","color":"white","font":"lthc.advancenergy:book","hoverEvent": {"action": "show_text","contents":"Bronze Machine Casing"},"clickEvent": {"action": "change_page", "value": "7"}},
-		{"text":"\\n","color":"reset"},
-		{"text":"\\uea00","color":"white","font":"lthc.advancenergy:book","hoverEvent": {"action": "show_text","contents":"Heavy Workbench"},"clickEvent": {"action": "change_page", "value": "2"}},
-		{"text":"\\uea00","color":"white","font":"lthc.advancenergy:book","hoverEvent": {"action": "show_text","contents":"Tin Ore"},"clickEvent": {"action": "change_page", "value": "3"}},
-		{"text":"\\uea00","color":"white","font":"lthc.advancenergy:book","hoverEvent": {"action": "show_text","contents":"Lead Ore"},"clickEvent": {"action": "change_page", "value": "4"}},
-		{"text":"\\uea00","color":"white","font":"lthc.advancenergy:book","hoverEvent": {"action": "show_text","contents":"Bronze Ingot"},"clickEvent": {"action": "change_page", "value": "5"}},
-		{"text":"\\uea00","color":"white","font":"lthc.advancenergy:book","hoverEvent": {"action": "show_text","contents":"Ash"},"clickEvent": {"action": "change_page", "value": "6"}},
-		{"text":"\\uea00","color":"white","font":"lthc.advancenergy:book","hoverEvent": {"action": "show_text","contents":"Bronze Machine Casing"},"clickEvent": {"action": "change_page", "value": "7"}},
-		
-		{"text":"\\n","color":"reset"},
+	{"text":"\\uea01","color":"white","font":"lthc.advancenergy:book","hoverEvent": {"action": "show_text","contents":"Heavy Workbench"},"clickEvent": {"action": "change_page", "value": "2"}},
+	{"text":"\\uea02","color":"white","font":"lthc.advancenergy:book","hoverEvent": {"action": "show_text","contents":"Tin Ore"},"clickEvent": {"action": "change_page", "value": "3"}},
+	{"text":"\\uea03","color":"white","font":"lthc.advancenergy:book","hoverEvent": {"action": "show_text","contents":"Lead Ore"},"clickEvent": {"action": "change_page", "value": "4"}},
+	{"text":"\\uea04","color":"white","font":"lthc.advancenergy:book","hoverEvent": {"action": "show_text","contents":"Bronze Ingot"},"clickEvent": {"action": "change_page", "value": "5"}},
+	{"text":"\\uea05","color":"white","font":"lthc.advancenergy:book","hoverEvent": {"action": "show_text","contents":"Ash"},"clickEvent": {"action": "change_page", "value": "6"}},
+	{"text":"\\uea06","color":"white","font":"lthc.advancenergy:book","hoverEvent": {"action": "show_text","contents":"Bronze Machine Casing"},"clickEvent": {"action": "change_page", "value": "7"}},
+	{"text":"\\n","color":"reset"},
+	{"text":"\\uea00","color":"white","font":"lthc.advancenergy:book","hoverEvent": {"action": "show_text","contents":"Heavy Workbench"},"clickEvent": {"action": "change_page", "value": "2"}},
+	{"text":"\\uea00","color":"white","font":"lthc.advancenergy:book","hoverEvent": {"action": "show_text","contents":"Tin Ore"},"clickEvent": {"action": "change_page", "value": "3"}},
+	{"text":"\\uea00","color":"white","font":"lthc.advancenergy:book","hoverEvent": {"action": "show_text","contents":"Lead Ore"},"clickEvent": {"action": "change_page", "value": "4"}},
+	{"text":"\\uea00","color":"white","font":"lthc.advancenergy:book","hoverEvent": {"action": "show_text","contents":"Bronze Ingot"},"clickEvent": {"action": "change_page", "value": "5"}},
+	{"text":"\\uea00","color":"white","font":"lthc.advancenergy:book","hoverEvent": {"action": "show_text","contents":"Ash"},"clickEvent": {"action": "change_page", "value": "6"}},
+	{"text":"\\uea00","color":"white","font":"lthc.advancenergy:book","hoverEvent": {"action": "show_text","contents":"Bronze Machine Casing"},"clickEvent": {"action": "change_page", "value": "7"}},
+	
+	{"text":"\\n","color":"reset"},
 
-		{"text":"\\uea07","color":"white","font":"lthc.advancenergy:book","hoverEvent": {"action": "show_text","contents":"Tin Stuff"},"clickEvent": {"action": "change_page", "value": "8"}},
-		{"text":"\\uea08","color":"white","font":"lthc.advancenergy:book","hoverEvent": {"action": "show_text","contents":"Lead Stuff"},"clickEvent": {"action": "change_page", "value": "9"}},
-		{"text":"\\uea09","color":"white","font":"lthc.advancenergy:book","hoverEvent": {"action": "show_text","contents":"Carbon Generator"},"clickEvent": {"action": "change_page", "value": "10"}},
-		{"text":"\\uea0a","color":"white","font":"lthc.advancenergy:book","hoverEvent": {"action": "show_text","contents":"Advanced Carbon Generator"},"clickEvent": {"action": "change_page", "value": "11"}},
-		{"text":"\\uea0b","color":"white","font":"lthc.advancenergy:book","hoverEvent": {"action": "show_text","contents":"Dust Generator"},"clickEvent": {"action": "change_page", "value": "12"}},
-		{"text":"\\uea0c","color":"white","font":"lthc.advancenergy:book","hoverEvent": {"action": "show_text","contents":"Solar Generator"},"clickEvent": {"action": "change_page", "value": "13"}},
-		{"text":"\\n","color":"reset"},
-		{"text":"\\uea00","color":"white","font":"lthc.advancenergy:book","hoverEvent": {"action": "show_text","contents":"Tin Stuff"},"clickEvent": {"action": "change_page", "value": "8"}},
-		{"text":"\\uea00","color":"white","font":"lthc.advancenergy:book","hoverEvent": {"action": "show_text","contents":"Lead Stuff"},"clickEvent": {"action": "change_page", "value": "9"}},
-		{"text":"\\uea00","color":"white","font":"lthc.advancenergy:book","hoverEvent": {"action": "show_text","contents":"Carbon Generator"},"clickEvent": {"action": "change_page", "value": "10"}},
-		{"text":"\\uea00","color":"white","font":"lthc.advancenergy:book","hoverEvent": {"action": "show_text","contents":"Advanced Carbon Generator"},"clickEvent": {"action": "change_page", "value": "11"}},
-		{"text":"\\uea00","color":"white","font":"lthc.advancenergy:book","hoverEvent": {"action": "show_text","contents":"Dust Generator"},"clickEvent": {"action": "change_page", "value": "12"}},
-		{"text":"\\uea00","color":"white","font":"lthc.advancenergy:book","hoverEvent": {"action": "show_text","contents":"Solar Generator"},"clickEvent": {"action": "change_page", "value": "13"}},
+	{"text":"\\uea07","color":"white","font":"lthc.advancenergy:book","hoverEvent": {"action": "show_text","contents":"Tin Stuff"},"clickEvent": {"action": "change_page", "value": "8"}},
+	{"text":"\\uea08","color":"white","font":"lthc.advancenergy:book","hoverEvent": {"action": "show_text","contents":"Lead Stuff"},"clickEvent": {"action": "change_page", "value": "9"}},
+	{"text":"\\uea09","color":"white","font":"lthc.advancenergy:book","hoverEvent": {"action": "show_text","contents":"Carbon Generator"},"clickEvent": {"action": "change_page", "value": "10"}},
+	{"text":"\\uea0a","color":"white","font":"lthc.advancenergy:book","hoverEvent": {"action": "show_text","contents":"Advanced Carbon Generator"},"clickEvent": {"action": "change_page", "value": "11"}},
+	{"text":"\\uea0b","color":"white","font":"lthc.advancenergy:book","hoverEvent": {"action": "show_text","contents":"Dust Generator"},"clickEvent": {"action": "change_page", "value": "12"}},
+	{"text":"\\uea0c","color":"white","font":"lthc.advancenergy:book","hoverEvent": {"action": "show_text","contents":"Solar Generator"},"clickEvent": {"action": "change_page", "value": "13"}},
+	{"text":"\\n","color":"reset"},
+	{"text":"\\uea00","color":"white","font":"lthc.advancenergy:book","hoverEvent": {"action": "show_text","contents":"Tin Stuff"},"clickEvent": {"action": "change_page", "value": "8"}},
+	{"text":"\\uea00","color":"white","font":"lthc.advancenergy:book","hoverEvent": {"action": "show_text","contents":"Lead Stuff"},"clickEvent": {"action": "change_page", "value": "9"}},
+	{"text":"\\uea00","color":"white","font":"lthc.advancenergy:book","hoverEvent": {"action": "show_text","contents":"Carbon Generator"},"clickEvent": {"action": "change_page", "value": "10"}},
+	{"text":"\\uea00","color":"white","font":"lthc.advancenergy:book","hoverEvent": {"action": "show_text","contents":"Advanced Carbon Generator"},"clickEvent": {"action": "change_page", "value": "11"}},
+	{"text":"\\uea00","color":"white","font":"lthc.advancenergy:book","hoverEvent": {"action": "show_text","contents":"Dust Generator"},"clickEvent": {"action": "change_page", "value": "12"}},
+	{"text":"\\uea00","color":"white","font":"lthc.advancenergy:book","hoverEvent": {"action": "show_text","contents":"Solar Generator"},"clickEvent": {"action": "change_page", "value": "13"}},
 
-		{"text":"\\n","color":"reset"},
+	{"text":"\\n","color":"reset"},
 
-		{"text":"\\uea0d","color":"white","font":"lthc.advancenergy:book","hoverEvent": {"action": "show_text","contents":"Potato Generator"},"clickEvent": {"action": "change_page", "value": "14"}},
-		{"text":"\\uea0e","color":"white","font":"lthc.advancenergy:book","hoverEvent": {"action": "show_text","contents":"Mineral Extracting Machine"},"clickEvent": {"action": "change_page", "value": "15"}},
-		{"text":"\\uea0f","color":"white","font":"lthc.advancenergy:book","hoverEvent": {"action": "show_text","contents":"Refinery"},"clickEvent": {"action": "change_page", "value": "16"}},
-		{"text":"\\uea10","color":"white","font":"lthc.advancenergy:book","hoverEvent": {"action": "show_text","contents":"Primitive Cable"},"clickEvent": {"action": "change_page", "value": "17"}},
-		{"text":"\\uea11","color":"white","font":"lthc.advancenergy:book","hoverEvent": {"action": "show_text","contents":"Primitive Capacitor"},"clickEvent": {"action": "change_page", "value": "18"}},
-		{"text":"\\uea20","color":"white","font":"lthc.advancenergy:book","hoverEvent": {"action": "show_text","contents":"Silver Ore"},"clickEvent": {"action": "change_page", "value": "19"}},
-		{"text":"\\n","color":"reset"},
-		{"text":"\\uea00","color":"white","font":"lthc.advancenergy:book","hoverEvent": {"action": "show_text","contents":"Potato Generator"},"clickEvent": {"action": "change_page", "value": "14"}},
-		{"text":"\\uea00","color":"white","font":"lthc.advancenergy:book","hoverEvent": {"action": "show_text","contents":"Mineral Extracting Machine"},"clickEvent": {"action": "change_page", "value": "15"}},
-		{"text":"\\uea00","color":"white","font":"lthc.advancenergy:book","hoverEvent": {"action": "show_text","contents":"Refinery"},"clickEvent": {"action": "change_page", "value": "16"}},
-		{"text":"\\uea00","color":"white","font":"lthc.advancenergy:book","hoverEvent": {"action": "show_text","contents":"Primitive Cable"},"clickEvent": {"action": "change_page", "value": "17"}},
-		{"text":"\\uea00","color":"white","font":"lthc.advancenergy:book","hoverEvent": {"action": "show_text","contents":"Primitive Capacitor"},"clickEvent": {"action": "change_page", "value": "18"}},
-		{"text":"\\uea00","color":"white","font":"lthc.advancenergy:book","hoverEvent": {"action": "show_text","contents":"Silver Ore"},"clickEvent": {"action": "change_page", "value": "19"}},
+	{"text":"\\uea0d","color":"white","font":"lthc.advancenergy:book","hoverEvent": {"action": "show_text","contents":"Potato Generator"},"clickEvent": {"action": "change_page", "value": "14"}},
+	{"text":"\\uea0e","color":"white","font":"lthc.advancenergy:book","hoverEvent": {"action": "show_text","contents":"Mineral Extracting Machine"},"clickEvent": {"action": "change_page", "value": "15"}},
+	{"text":"\\uea0f","color":"white","font":"lthc.advancenergy:book","hoverEvent": {"action": "show_text","contents":"Refinery"},"clickEvent": {"action": "change_page", "value": "16"}},
+	{"text":"\\uea10","color":"white","font":"lthc.advancenergy:book","hoverEvent": {"action": "show_text","contents":"Primitive Cable"},"clickEvent": {"action": "change_page", "value": "17"}},
+	{"text":"\\uea11","color":"white","font":"lthc.advancenergy:book","hoverEvent": {"action": "show_text","contents":"Primitive Capacitor"},"clickEvent": {"action": "change_page", "value": "18"}},
+	{"text":"\\uea20","color":"white","font":"lthc.advancenergy:book","hoverEvent": {"action": "show_text","contents":"Silver Ore"},"clickEvent": {"action": "change_page", "value": "19"}},
+	{"text":"\\n","color":"reset"},
+	{"text":"\\uea00","color":"white","font":"lthc.advancenergy:book","hoverEvent": {"action": "show_text","contents":"Potato Generator"},"clickEvent": {"action": "change_page", "value": "14"}},
+	{"text":"\\uea00","color":"white","font":"lthc.advancenergy:book","hoverEvent": {"action": "show_text","contents":"Mineral Extracting Machine"},"clickEvent": {"action": "change_page", "value": "15"}},
+	{"text":"\\uea00","color":"white","font":"lthc.advancenergy:book","hoverEvent": {"action": "show_text","contents":"Refinery"},"clickEvent": {"action": "change_page", "value": "16"}},
+	{"text":"\\uea00","color":"white","font":"lthc.advancenergy:book","hoverEvent": {"action": "show_text","contents":"Primitive Cable"},"clickEvent": {"action": "change_page", "value": "17"}},
+	{"text":"\\uea00","color":"white","font":"lthc.advancenergy:book","hoverEvent": {"action": "show_text","contents":"Primitive Capacitor"},"clickEvent": {"action": "change_page", "value": "18"}},
+	{"text":"\\uea00","color":"white","font":"lthc.advancenergy:book","hoverEvent": {"action": "show_text","contents":"Silver Ore"},"clickEvent": {"action": "change_page", "value": "19"}},
 
-		{"text":"\\n","color":"reset"},
+	{"text":"\\n","color":"reset"},
 
-		{"text":"\\uea21","color":"white","font":"lthc.advancenergy:book","hoverEvent": {"action": "show_text","contents":"Tin Machine Casing"},"clickEvent": {"action": "change_page", "value": "20"}},
-		{"text":"\\uea22","color":"white","font":"lthc.advancenergy:book","hoverEvent": {"action": "show_text","contents":"Lead Machine Casing"},"clickEvent": {"action": "change_page", "value": "21"}},
-		{"text":"\\uea23","color":"white","font":"lthc.advancenergy:book","hoverEvent": {"action": "show_text","contents":"Silver Machine Casing"},"clickEvent": {"action": "change_page", "value": "22"}},
-		{"text":"\\uea24","color":"white","font":"lthc.advancenergy:book","hoverEvent": {"action": "show_text","contents":"Cobblestone Farmer"},"clickEvent": {"action": "change_page", "value": "23"}},
-		{"text":"\\uea25","color":"white","font":"lthc.advancenergy:book","hoverEvent": {"action": "show_text","contents":"Carbon Extractor"},"clickEvent": {"action": "change_page", "value": "24"}},
-		{"text":"\\uea2b","color":"white","font":"lthc.advancenergy:book","hoverEvent": {"action": "show_text","contents":"Aqueous Accumulator"},"clickEvent": {"action": "change_page", "value": "25"}},
-		{"text":"\\n","color":"reset"},
-		{"text":"\\uea00","color":"white","font":"lthc.advancenergy:book","hoverEvent": {"action": "show_text","contents":"Tin Machine Casing"},"clickEvent": {"action": "change_page", "value": "20"}},
-		{"text":"\\uea00","color":"white","font":"lthc.advancenergy:book","hoverEvent": {"action": "show_text","contents":"Lead Machine Casing"},"clickEvent": {"action": "change_page", "value": "21"}},
-		{"text":"\\uea00","color":"white","font":"lthc.advancenergy:book","hoverEvent": {"action": "show_text","contents":"Silver Machine Casing"},"clickEvent": {"action": "change_page", "value": "22"}},
-		{"text":"\\uea00","color":"white","font":"lthc.advancenergy:book","hoverEvent": {"action": "show_text","contents":"Cobblestone Farmer"},"clickEvent": {"action": "change_page", "value": "23"}},
-		{"text":"\\uea00","color":"white","font":"lthc.advancenergy:book","hoverEvent": {"action": "show_text","contents":"Carbon Extractor"},"clickEvent": {"action": "change_page", "value": "24"}},
-		{"text":"\\uea00","color":"white","font":"lthc.advancenergy:book","hoverEvent": {"action": "show_text","contents":"Aqueous Accumulator"},"clickEvent": {"action": "change_page", "value": "25"}}
-	]',
-	'[
-		"",
-		{"text":"Heavy Workbench\\n","color":"#0000aa","hoverEvent": {"action": "show_text","contents":"Requires:\\n -5 Logs\\n -1 Crafting Table\\n -3 Smooth Stone"}},
-		{"text":"\\uea12","color":"white","font":"lthc.advancenergy:book"},
-		{"text":"\\n\\n\\n\\n\\n\\nThe ultimate Holy Grail of technology, without this workbench you do nothing","color":"black"}
-	]',
-	'[
-		{"text":"Tin\\n","color":"#00aa00"},
-		{"text":"\\n\\nTin ore can be found in every world containing stone between world bottom and layer 40","color":"black"}
-	]',
-	'[
-		{"text":"Lead\\n","color":"#00aa00"},
-		{"text":"\\n\\nLead ore can be found in every world containing stone between world bottom and layer 52","color":"black"}
-	]',
-	'[
-		"",
-		{"text":"Bronze\\n","color":"#aa0000","hoverEvent": {"action": "show_text","contents":"Requires:\\n -3 Copper Ingot\\n -3 Tin Ingot"}},
-		{"text":"\\uea13","color":"white","font":"lthc.advancenergy:book"},
-		{"text":"\\n\\n\\n\\n\\n\\nA usefull material created with tin and copper","color":"black"}
-	]',
-	'[
-		{"text":"Ash\\n","color":"#00aa00"},
-		{"text":"\\n\\nAsh is a Carbon Generators\' waste","color":"black"}
-	]',
-	'[
-		"",
-		{"text":"Bronze Machine Casing\\n","color":"#aa0000","hoverEvent": {"action": "show_text","contents":"Requires:\\n -8 Bronze Ingot\\n -1 Lead Machine Casing"}},
-		{"text":"\\uea14","color":"white","font":"lthc.advancenergy:book"},
-		{"text":"\\n\\n\\n\\n\\n\\nA usefull machine component","color":"black"}
-	]',
-	'[
-		{"text":"Tin Stuff\\n","color":"#aa0000"},
-		{"text":"\\uea15","color":"white","font":"lthc.advancenergy:book"},
-		{"text":"\\n\\n\\n\\n\\n\\nYou can use tin to craft regular stuff and tools","color":"black"}
-	]',
-	'[
-		{"text":"Lead Stuff\\n","color":"#aa0000"},
-		{"text":"\\uea16","color":"white","font":"lthc.advancenergy:book"},
-		{"text":"\\n\\n\\n\\n\\n\\nYou can use lead to craft regular stuff and tools","color":"black"}
-	]',
-	'[
-		"",
-		{"text":"Carbon Generator\\n","color":"#aa0000","hoverEvent": {"action": "show_text","contents":"Requires:\\n -2 Furnace\\n -1 Blast Furnace\\n -2 Block of Tin\\n -1 Machine Tin Casing\\n -2 Tin Ingot\\n -1 Torch"}},
-		{"text":"\\uea17","color":"white","font":"lthc.advancenergy:book"},
-		{"text":"\\n\\n\\n\\n\\n\\n[Cooling Required]\\n[Generate: 25kW]\\n[Buffer: 2MJ]","color":"black"}
-	]',
-	'[
-		"",
-		{"text":"Advanced Carbon Generator\\n","color":"#aa0000","hoverEvent": {"action": "show_text","contents":"Requires:\\n -5 Primitive Cable\\n -1 Smoker\\n -2 Carbon Generator\\n -1 Lead Machine Casing"}},
-		{"text":"\\uea18","color":"white","font":"lthc.advancenergy:book"},
-		{"text":"\\n\\n\\n\\n\\n\\n[Cooling Required]\\n[Generate: 66kW]\\n[Buffer: 19.8MJ]","color":"black"}
-	]',
-	'[
-		"",
-		{"text":"Dust Generator\\n","color":"#aa0000","hoverEvent": {"action": "show_text","contents":"Requires:\\n -2 Ash\\n -3 Tin Nugget\\n -1 Tin Machine Casing\\n -2 Cobblestone\\n -1 Block of Ash"}},
-		{"text":"\\uea19","color":"white","font":"lthc.advancenergy:book"},
-		{"text":"\\n\\n\\n\\n\\n\\n[Generate: 18-23kW]\\n[Buffer: 6.5MJ]","color":"black"}
-	]',
-	'[
-		"",
-		{"text":"Solar Generator\\n","color":"#aa0000","hoverEvent": {"action": "show_text","contents":"Requires:\\n -5 Lapis Lazuli\\n -1 Bronze Machine Casing\\n -1 Copper Ingot\\n -1 Primitive Cable\\n -1 Redstone\\n\\nThe bottom line of the recipe doesn\'t have any precise order"}},
-		{"text":"\\uea1a","color":"white","font":"lthc.advancenergy:book"},
-		{"text":"\\n\\n\\n\\n\\n\\n[Generate: 28kW]\\n[Buffer: 2MJ]","color":"black"}
-	]',
-	'[
-		"",
-		{"text":"Potato Generator\\n","color":"#aa0000","hoverEvent": {"action": "show_text","contents":"Requires:\\n -8 Furnace\\n -1 Bronze Machine Casing"}},
-		{"text":"\\uea1b","color":"white","font":"lthc.advancenergy:book"},
-		{"text":"\\n\\n\\n\\n\\n\\n[Generate: 10-15kW]\\n[Buffer: 6.5MJ]","color":"black"}
-	]',
-	'[
-		"",
-		{"text":"Mineral Extracting Machine\\n","color":"#aa0000","hoverEvent": {"action": "show_text","contents":"Requires:\\n -3 Sugar\\n -2 Sand/Red Sand/Soul Sand\\n -1 Tin Machine Casing\\n -3 Iron Nugget"}},
-		{"text":"\\uea1c","color":"white","font":"lthc.advancenergy:book"},
-		{"text":"\\n\\n\\n\\n\\n\\n[Power Usage: 5kW]\\n[Buffer: 300kJ]","color":"black"}
-	]',
-	'[
-		"",
-		{"text":"Refinery\\n","color":"#aa0000","hoverEvent": {"action": "show_text","contents":"Requires:\\n -2 Lead Ingot\\n -1 Mineral Extracting Machine\\n -2 Gold Ingot\\n -1 Lead Machine Casing\\n -2 Tin Ingot\\n -1 Dust Generator"}},
-		{"text":"\\uea1d","color":"white","font":"lthc.advancenergy:book"},
-		{"text":"\\n\\n\\n\\n\\n\\n[Power Usage: 33kW]\\n[Buffer: 999kJ]","color":"black"}
-	]',
-	'[
-		"",
-		{"text":"Primitive Cable\\n","color":"#aa0000","hoverEvent": {"action": "show_text","contents":"Requires:\\n -2 Tin Ingot"}},
-		{"text":"\\uea1e","color":"white","font":"lthc.advancenergy:book"},
-		{"text":"\\n\\n\\n\\n\\n\\n[Transfer: 25kW]","color":"black"}
-	]',
-	'[
-		"",
-		{"text":"Primitive Capacitor\\n","color":"#aa0000","hoverEvent": {"action": "show_text","contents":"Requires:\\n -7 Tin Ingot\\n -1 Block of Redstone\\n -1 Block of Tin"}},
-		{"text":"\\uea1f","color":"white","font":"lthc.advancenergy:book"},
-		{"text":"\\n\\n\\n\\n\\n\\n[Energy Storage: 36.5MJ]","color":"black"}
-	]',
-	'[
-		{"text":"Silver\\n","color":"#00aa00"},
-		{"text":"\\n\\nSilver ore can be found in every world containing stone between world bottom and layer 35","color":"black"}
-	]',
-	'[
-		"",
-		{"text":"Tin Machine Casing\\n","color":"#aa0000","hoverEvent": {"action": "show_text","contents":"Requires:\\n -8 Tin Ingot\\n -1 Block of Redstone"}},
-		{"text":"\\uea26","color":"white","font":"lthc.advancenergy:book"},
-		{"text":"\\n\\n\\n\\n\\n\\nA usefull machine component","color":"black"}
-	]',
-	'[
-		"",
-		{"text":"Lead Machine Casing\\n","color":"#aa0000","hoverEvent": {"action": "show_text","contents":"Requires:\\n -8 Lead Ingot\\n -1 Tin Machine Casing"}},
-		{"text":"\\uea27","color":"white","font":"lthc.advancenergy:book"},
-		{"text":"\\n\\n\\n\\n\\n\\nA usefull machine component","color":"black"}
-	]',
-	'[
-		"",
-		{"text":"Silver Machine Casing\\n","color":"#aa0000","hoverEvent": {"action": "show_text","contents":"Requires:\\n -8 Silver Ingot\\n -1 Tin Machine Casing"}},
-		{"text":"\\uea28","color":"white","font":"lthc.advancenergy:book"},
-		{"text":"\\n\\n\\n\\n\\n\\nA usefull machine component","color":"black"}
-	]',
-	'[
-		"",
-		{"text":"Cobblestone Farmer\\n","color":"#aa0000","hoverEvent": {"action": "show_text","contents":"Requires:\\n -5 Tin Ingot\\n -4 Cobblestone"}},
-		{"text":"\\uea29","color":"white","font":"lthc.advancenergy:book"},
-		{"text":"\\n\\n\\n\\n\\n\\nRead the name of this machine, now you know","color":"black"}
-	]',
-	'[
-		"",
-		{"text":"Carbon Extractor\\n","color":"#aa0000","hoverEvent": {"action": "show_text","contents":"Requires:\\n -4 Tin Ingot\\n -1 Silver Ingot\\n -1 Coal/Charcoal\\n -3 Iron Ingot"}},
-		{"text":"\\uea2a","color":"white","font":"lthc.advancenergy:book"},
-		{"text":"\\n\\n\\n\\n\\n\\nAdd some cobblestone and wait until the machine end one process cycle","color":"black"}
-	]',
-	'[
-		"",
-		{"text":"Aqueous Accumulator\\n","color":"#aa0000","hoverEvent": {"action": "show_text","contents":"Requires:\\n -4 Silver Ingot\\n -3 Bucket\\n -1 Water Bucket"}},
-		{"text":"\\uea2c","color":"white","font":"lthc.advancenergy:book"},
-		{"text":"\\n\\n\\n\\n\\n\\nGood water direct into your generator (if there is water next to the accumulator)","color":"black"}
-	]'
+	{"text":"\\uea21","color":"white","font":"lthc.advancenergy:book","hoverEvent": {"action": "show_text","contents":"Tin Machine Casing"},"clickEvent": {"action": "change_page", "value": "20"}},
+	{"text":"\\uea22","color":"white","font":"lthc.advancenergy:book","hoverEvent": {"action": "show_text","contents":"Lead Machine Casing"},"clickEvent": {"action": "change_page", "value": "21"}},
+	{"text":"\\uea23","color":"white","font":"lthc.advancenergy:book","hoverEvent": {"action": "show_text","contents":"Silver Machine Casing"},"clickEvent": {"action": "change_page", "value": "22"}},
+	{"text":"\\uea24","color":"white","font":"lthc.advancenergy:book","hoverEvent": {"action": "show_text","contents":"Cobblestone Farmer"},"clickEvent": {"action": "change_page", "value": "23"}},
+	{"text":"\\uea25","color":"white","font":"lthc.advancenergy:book","hoverEvent": {"action": "show_text","contents":"Carbon Extractor"},"clickEvent": {"action": "change_page", "value": "24"}},
+	{"text":"\\uea2b","color":"white","font":"lthc.advancenergy:book","hoverEvent": {"action": "show_text","contents":"Aqueous Accumulator"},"clickEvent": {"action": "change_page", "value": "25"}},
+	{"text":"\\n","color":"reset"},
+	{"text":"\\uea00","color":"white","font":"lthc.advancenergy:book","hoverEvent": {"action": "show_text","contents":"Tin Machine Casing"},"clickEvent": {"action": "change_page", "value": "20"}},
+	{"text":"\\uea00","color":"white","font":"lthc.advancenergy:book","hoverEvent": {"action": "show_text","contents":"Lead Machine Casing"},"clickEvent": {"action": "change_page", "value": "21"}},
+	{"text":"\\uea00","color":"white","font":"lthc.advancenergy:book","hoverEvent": {"action": "show_text","contents":"Silver Machine Casing"},"clickEvent": {"action": "change_page", "value": "22"}},
+	{"text":"\\uea00","color":"white","font":"lthc.advancenergy:book","hoverEvent": {"action": "show_text","contents":"Cobblestone Farmer"},"clickEvent": {"action": "change_page", "value": "23"}},
+	{"text":"\\uea00","color":"white","font":"lthc.advancenergy:book","hoverEvent": {"action": "show_text","contents":"Carbon Extractor"},"clickEvent": {"action": "change_page", "value": "24"}},
+	{"text":"\\uea00","color":"white","font":"lthc.advancenergy:book","hoverEvent": {"action": "show_text","contents":"Aqueous Accumulator"},"clickEvent": {"action": "change_page", "value": "25"}}
+  ]',
+  '[
+	"",
+	{"text":"Heavy Workbench\\n","color":"#0000aa","hoverEvent": {"action": "show_text","contents":"Requires:\\n -5 Logs\\n -1 Crafting Table\\n -3 Smooth Stone"}},
+	{"text":"\\uea12","color":"white","font":"lthc.advancenergy:book"},
+	{"text":"\\n\\n\\n\\n\\n\\nThe ultimate Holy Grail of technology, without this workbench you do nothing","color":"black"}
+  ]',
+  '[
+	{"text":"Tin\\n","color":"#00aa00"},
+	{"text":"\\n\\nTin ore can be found in every world containing stone between world bottom and layer 40","color":"black"}
+  ]',
+  '[
+	{"text":"Lead\\n","color":"#00aa00"},
+	{"text":"\\n\\nLead ore can be found in every world containing stone between world bottom and layer 52","color":"black"}
+  ]',
+  '[
+	"",
+	{"text":"Bronze\\n","color":"#aa0000","hoverEvent": {"action": "show_text","contents":"Requires:\\n -3 Copper Ingot\\n -3 Tin Ingot"}},
+	{"text":"\\uea13","color":"white","font":"lthc.advancenergy:book"},
+	{"text":"\\n\\n\\n\\n\\n\\nA usefull material created with tin and copper","color":"black"}
+  ]',
+  '[
+	{"text":"Ash\\n","color":"#00aa00"},
+	{"text":"\\n\\nAsh is a Carbon Generators\' waste","color":"black"}
+  ]',
+  '[
+	"",
+	{"text":"Bronze Machine Casing\\n","color":"#aa0000","hoverEvent": {"action": "show_text","contents":"Requires:\\n -8 Bronze Ingot\\n -1 Lead Machine Casing"}},
+	{"text":"\\uea14","color":"white","font":"lthc.advancenergy:book"},
+	{"text":"\\n\\n\\n\\n\\n\\nA usefull machine component","color":"black"}
+  ]',
+  '[
+	{"text":"Tin Stuff\\n","color":"#aa0000"},
+	{"text":"\\uea15","color":"white","font":"lthc.advancenergy:book"},
+	{"text":"\\n\\n\\n\\n\\n\\nYou can use tin to craft regular stuff and tools","color":"black"}
+  ]',
+  '[
+	{"text":"Lead Stuff\\n","color":"#aa0000"},
+	{"text":"\\uea16","color":"white","font":"lthc.advancenergy:book"},
+	{"text":"\\n\\n\\n\\n\\n\\nYou can use lead to craft regular stuff and tools","color":"black"}
+  ]',
+  '[
+	"",
+	{"text":"Carbon Generator\\n","color":"#aa0000","hoverEvent": {"action": "show_text","contents":"Requires:\\n -2 Furnace\\n -1 Blast Furnace\\n -2 Block of Tin\\n -1 Machine Tin Casing\\n -2 Tin Ingot\\n -1 Torch"}},
+	{"text":"\\uea17","color":"white","font":"lthc.advancenergy:book"},
+	{"text":"\\n\\n\\n\\n\\n\\n[Cooling Required]\\n[Generate: 25kW]\\n[Buffer: 2MJ]","color":"black"}
+  ]',
+  '[
+	"",
+	{"text":"Advanced Carbon Generator\\n","color":"#aa0000","hoverEvent": {"action": "show_text","contents":"Requires:\\n -5 Primitive Cable\\n -1 Smoker\\n -2 Carbon Generator\\n -1 Lead Machine Casing"}},
+	{"text":"\\uea18","color":"white","font":"lthc.advancenergy:book"},
+	{"text":"\\n\\n\\n\\n\\n\\n[Cooling Required]\\n[Generate: 66kW]\\n[Buffer: 19.8MJ]","color":"black"}
+  ]',
+  '[
+	"",
+	{"text":"Dust Generator\\n","color":"#aa0000","hoverEvent": {"action": "show_text","contents":"Requires:\\n -2 Ash\\n -3 Tin Nugget\\n -1 Tin Machine Casing\\n -2 Cobblestone\\n -1 Block of Ash"}},
+	{"text":"\\uea19","color":"white","font":"lthc.advancenergy:book"},
+	{"text":"\\n\\n\\n\\n\\n\\n[Generate: 18-23kW]\\n[Buffer: 6.5MJ]","color":"black"}
+  ]',
+  '[
+	"",
+	{"text":"Solar Generator\\n","color":"#aa0000","hoverEvent": {"action": "show_text","contents":"Requires:\\n -5 Lapis Lazuli\\n -1 Bronze Machine Casing\\n -1 Copper Ingot\\n -1 Primitive Cable\\n -1 Redstone\\n\\nThe bottom line of the recipe doesn\'t have any precise order"}},
+	{"text":"\\uea1a","color":"white","font":"lthc.advancenergy:book"},
+	{"text":"\\n\\n\\n\\n\\n\\n[Generate: 28kW]\\n[Buffer: 2MJ]","color":"black"}
+  ]',
+  '[
+	"",
+	{"text":"Potato Generator\\n","color":"#aa0000","hoverEvent": {"action": "show_text","contents":"Requires:\\n -8 Furnace\\n -1 Bronze Machine Casing"}},
+	{"text":"\\uea1b","color":"white","font":"lthc.advancenergy:book"},
+	{"text":"\\n\\n\\n\\n\\n\\n[Generate: 10-15kW]\\n[Buffer: 6.5MJ]","color":"black"}
+  ]',
+  '[
+	"",
+	{"text":"Mineral Extracting Machine\\n","color":"#aa0000","hoverEvent": {"action": "show_text","contents":"Requires:\\n -3 Sugar\\n -2 Sand/Red Sand/Soul Sand\\n -1 Tin Machine Casing\\n -3 Iron Nugget"}},
+	{"text":"\\uea1c","color":"white","font":"lthc.advancenergy:book"},
+	{"text":"\\n\\n\\n\\n\\n\\n[Power Usage: 5kW]\\n[Buffer: 300kJ]","color":"black"}
+  ]',
+  '[
+	"",
+	{"text":"Refinery\\n","color":"#aa0000","hoverEvent": {"action": "show_text","contents":"Requires:\\n -2 Lead Ingot\\n -1 Mineral Extracting Machine\\n -2 Gold Ingot\\n -1 Lead Machine Casing\\n -2 Tin Ingot\\n -1 Dust Generator"}},
+	{"text":"\\uea1d","color":"white","font":"lthc.advancenergy:book"},
+	{"text":"\\n\\n\\n\\n\\n\\n[Power Usage: 33kW]\\n[Buffer: 999kJ]","color":"black"}
+  ]',
+  '[
+	"",
+	{"text":"Primitive Cable\\n","color":"#aa0000","hoverEvent": {"action": "show_text","contents":"Requires:\\n -2 Tin Ingot"}},
+	{"text":"\\uea1e","color":"white","font":"lthc.advancenergy:book"},
+	{"text":"\\n\\n\\n\\n\\n\\n[Transfer: 25kW]","color":"black"}
+  ]',
+  '[
+	"",
+	{"text":"Primitive Capacitor\\n","color":"#aa0000","hoverEvent": {"action": "show_text","contents":"Requires:\\n -7 Tin Ingot\\n -1 Block of Redstone\\n -1 Block of Tin"}},
+	{"text":"\\uea1f","color":"white","font":"lthc.advancenergy:book"},
+	{"text":"\\n\\n\\n\\n\\n\\n[Energy Storage: 36.5MJ]","color":"black"}
+  ]',
+  '[
+	{"text":"Silver\\n","color":"#00aa00"},
+	{"text":"\\n\\nSilver ore can be found in every world containing stone between world bottom and layer 35","color":"black"}
+  ]',
+  '[
+	"",
+	{"text":"Tin Machine Casing\\n","color":"#aa0000","hoverEvent": {"action": "show_text","contents":"Requires:\\n -8 Tin Ingot\\n -1 Block of Redstone"}},
+	{"text":"\\uea26","color":"white","font":"lthc.advancenergy:book"},
+	{"text":"\\n\\n\\n\\n\\n\\nA usefull machine component","color":"black"}
+  ]',
+  '[
+	"",
+	{"text":"Lead Machine Casing\\n","color":"#aa0000","hoverEvent": {"action": "show_text","contents":"Requires:\\n -8 Lead Ingot\\n -1 Tin Machine Casing"}},
+	{"text":"\\uea27","color":"white","font":"lthc.advancenergy:book"},
+	{"text":"\\n\\n\\n\\n\\n\\nA usefull machine component","color":"black"}
+  ]',
+  '[
+	"",
+	{"text":"Silver Machine Casing\\n","color":"#aa0000","hoverEvent": {"action": "show_text","contents":"Requires:\\n -8 Silver Ingot\\n -1 Tin Machine Casing"}},
+	{"text":"\\uea28","color":"white","font":"lthc.advancenergy:book"},
+	{"text":"\\n\\n\\n\\n\\n\\nA usefull machine component","color":"black"}
+  ]',
+  '[
+	"",
+	{"text":"Cobblestone Farmer\\n","color":"#aa0000","hoverEvent": {"action": "show_text","contents":"Requires:\\n -5 Tin Ingot\\n -4 Cobblestone"}},
+	{"text":"\\uea29","color":"white","font":"lthc.advancenergy:book"},
+	{"text":"\\n\\n\\n\\n\\n\\nRead the name of this machine, now you know","color":"black"}
+  ]',
+  '[
+	"",
+	{"text":"Carbon Extractor\\n","color":"#aa0000","hoverEvent": {"action": "show_text","contents":"Requires:\\n -4 Tin Ingot\\n -1 Silver Ingot\\n -1 Coal/Charcoal\\n -3 Iron Ingot"}},
+	{"text":"\\uea2a","color":"white","font":"lthc.advancenergy:book"},
+	{"text":"\\n\\n\\n\\n\\n\\nAdd some cobblestone and wait until the machine end one process cycle","color":"black"}
+  ]',
+  '[
+	"",
+	{"text":"Aqueous Accumulator\\n","color":"#aa0000","hoverEvent": {"action": "show_text","contents":"Requires:\\n -4 Silver Ingot\\n -3 Bucket\\n -1 Water Bucket"}},
+	{"text":"\\uea2c","color":"white","font":"lthc.advancenergy:book"},
+	{"text":"\\n\\n\\n\\n\\n\\nGood water direct into your generator (if there is water next to the accumulator)","color":"black"}
+  ]'
 ]

@@ -1,13 +1,13 @@
 {
-	"replace": false,
-	"values": [
-		"barrel",
-		"deepslate_tiles",
-		"coal_block",
-		"#lthc.advancenergy:player_heads",
-		"deepslate_bricks",
-		"daylight_detector",
-		"mud_bricks",
-		"netherrack"
-	]
+  "replace": false,
+  "values": [
+	"barrel",
+	"deepslate_tiles",
+	"coal_block",
+	"#lthc.advancenergy:player_heads",
+	"deepslate_bricks",
+	"daylight_detector",
+	"mud_bricks",
+	"netherrack"
+  ]
 }

@@ -1,25 +1,25 @@
 {
-	"values": [
-		"command_block",
-		"barrel",
-		"player_head",
-		"written_book",
-		"diamond_sword",
-		"diamond_pickaxe",
-		"diamond_axe",
-		"diamond_hoe",
-		"diamond_shovel",
-		"leather_helmet",
-		"leather_chestplate",
-		"leather_leggings",
-		"leather_boots",
-		"netherite_sword",
-		"netherite_pickaxe",
-		"netherite_axe",
-		"netherite_hoe",
-		"netherite_shovel",
-		"golden_apple",
-		"cobblestone",
-		"glow_item_frame"
-	]
+  "values": [
+	"command_block",
+	"barrel",
+	"player_head",
+	"written_book",
+	"diamond_sword",
+	"diamond_pickaxe",
+	"diamond_axe",
+	"diamond_hoe",
+	"diamond_shovel",
+	"leather_helmet",
+	"leather_chestplate",
+	"leather_leggings",
+	"leather_boots",
+	"netherite_sword",
+	"netherite_pickaxe",
+	"netherite_axe",
+	"netherite_hoe",
+	"netherite_shovel",
+	"golden_apple",
+	"cobblestone",
+	"glow_item_frame"
+  ]
 }

@@ -1,15 +1,15 @@
 [
-	{
-		"function": "minecraft:set_count",
-		"count": {
-			"type": "minecraft:score",
-			"target": {
-				"type": "minecraft:fixed",
-				"name": "#count_to_remove"
-			},
-			"score": "itemio.math.input",
-			"scale": -1
-		},
-		"add": true
-	}
+  {
+	"function": "minecraft:set_count",
+	"count": {
+	  "type": "minecraft:score",
+	  "target": {
+		"type": "minecraft:fixed",
+		"name": "#count_to_remove"
+	  },
+	  "score": "itemio.math.input",
+	  "scale": -1
+	},
+	"add": true
+  }
 ]

@@ -1,11 +1,11 @@
 {
-	"values": [
-		"#durability_multiplier:load",
-		"#smithed.custom_block:load",
-		"#smithed.crafter:load",
-		"#energy:load",
-		"#furnace_nbt_recipes:load",
-		"#itemio:load",
-		"#lthc.advancenergy:load/load"
-	]
+  "values": [
+	"#durability_multiplier:load",
+	"#smithed.custom_block:load",
+	"#smithed.crafter:load",
+	"#energy:load",
+	"#furnace_nbt_recipes:load",
+	"#itemio:load",
+	"#lthc.advancenergy:load/load"
+  ]
 }

@@ -1,18 +1,18 @@
 {
-	"__comment":"All container of minecraft",
-	"values": [
-		"furnace",
-		"blast_furnace",
-		"smoker",
-		
-		"hopper",
+  "__comment":"All container of minecraft",
+  "values": [
+	"furnace",
+	"blast_furnace",
+	"smoker",
+	
+	"hopper",
 
-		"dispenser",
-		"dropper",
-		"chest",
-		
-		"trapped_chest",
-		"#shulker_boxes",
-		"barrel"
-	]
+	"dispenser",
+	"dropper",
+	"chest",
+	
+	"trapped_chest",
+	"#shulker_boxes",
+	"barrel"
+  ]
 }

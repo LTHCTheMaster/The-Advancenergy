@@ -1,6 +1,6 @@
 {
-		"values": [
-				"lthc.advancenergy:custom/crafting/furnace/common_smelting_blasting",
-				"lthc.advancenergy:custom/crafting/furnace/smelting_recipes"
-		]
+  "values": [
+	"lthc.advancenergy:custom/crafting/furnace/common_smelting_blasting",
+	"lthc.advancenergy:custom/crafting/furnace/smelting_recipes"
+  ]
 }

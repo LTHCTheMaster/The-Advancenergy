@@ -1,8 +1,8 @@
 {
-	"values": [
-		"#lthc.advancenergy:for_creeper_cage",
-		"#lthc.advancenergy:for_lead_house",
-		"#lthc.advancenergy:for_tin_shed",
-		"#lthc.advancenergy:for_rare_tin_shed"
-	]
+  "values": [
+	"#lthc.advancenergy:for_creeper_cage",
+	"#lthc.advancenergy:for_lead_house",
+	"#lthc.advancenergy:for_tin_shed",
+	"#lthc.advancenergy:for_rare_tin_shed"
+  ]
 }

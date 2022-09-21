@@ -1,38 +1,38 @@
 {
-		"carbon_generator": {
-				"subtitle":"Carbon Generator Working",
-				"sounds": [
-						"lthc.advancenergy:generator/carbon_generator"
-				]
-		},
-		"lead_bomb_alarm": {
-				"subtitle":"Lead Bomb Alarm",
-				"sounds": [
-						"lthc.advancenergy:bomb/lead_bomb_alarm"
-				]
-		},
-		"lead_bomb_boom": {
-				"subtitle":"Lead Bomb Boom",
-				"sounds": [
-						"lthc.advancenergy:bomb/lead_bomb_boom"
-				]
-		},
-		"refinery": {
-				"subtitle":"Refinery Working",
-				"sounds": [
-						"lthc.advancenergy:machine/refinery"
-				]
-		},
-		"dust_generator": {
-				"subtitle":"Dust Generator Working",
-				"sounds": [
-						"lthc.advancenergy:generator/dust_generator"
-				]
-		},
-		"mineral_extracting_machine": {
-				"subtitle":"Mineral Extracting Machine Working",
-				"sounds": [
-						"lthc.advancenergy:machine/mineral_extracting_machine"
-				]
-		}
+	"carbon_generator": {
+		"subtitle":"Carbon Generator Working",
+		"sounds": [
+			"lthc.advancenergy:generator/carbon_generator"
+		]
+	},
+	"lead_bomb_alarm": {
+		"subtitle":"Lead Bomb Alarm",
+		"sounds": [
+			"lthc.advancenergy:bomb/lead_bomb_alarm"
+		]
+	},
+	"lead_bomb_boom": {
+		"subtitle":"Lead Bomb Boom",
+		"sounds": [
+			"lthc.advancenergy:bomb/lead_bomb_boom"
+		]
+	},
+	"refinery": {
+		"subtitle":"Refinery Working",
+		"sounds": [
+			"lthc.advancenergy:machine/refinery"
+		]
+	},
+	"dust_generator": {
+		"subtitle":"Dust Generator Working",
+		"sounds": [
+			"lthc.advancenergy:generator/dust_generator"
+		]
+	},
+	"mineral_extracting_machine": {
+		"subtitle":"Mineral Extracting Machine Working",
+		"sounds": [
+			"lthc.advancenergy:machine/mineral_extracting_machine"
+		]
+	}
 }

@@ -1,33 +1,33 @@
 {
-	"display": {
-		"icon": {
-		"item": "minecraft:barrel",
-		"nbt": "{CustomModelData:170209}"
-		},
-		"title": {
-		"text": "Dust and Ash can burn??",
-		"color": "#c9c1b5"
-		},
-		"description": "Get a Dust Generator to recycle your ash\ninto energy.",
-		"hidden": false,
-		"frame": "challenge",
-		"announce_to_chat": true,
-		"show_toast": true
+  "display": {
+	"icon": {
+	"item": "minecraft:barrel",
+	"nbt": "{CustomModelData:170209}"
 	},
-	"criteria": {
-		"unlock": {
-		"trigger": "minecraft:inventory_changed",
-		"conditions": {
-			"items": [
-			{
-				"items": [
-				"minecraft:barrel"
-				],
-				"nbt": "{ctc:{id:\"dust_generator\",from:\"lthc.advancenergy\"}}"
-			}
-			]
-		}
-		}
+	"title": {
+	"text": "Dust and Ash can burn??",
+	"color": "#c9c1b5"
 	},
-	"parent": "lthc.advancenergy:the_advancenergy/ash"
+	"description": "Get a Dust Generator to recycle your ash\ninto energy.",
+	"hidden": false,
+	"frame": "challenge",
+	"announce_to_chat": true,
+	"show_toast": true
+  },
+  "criteria": {
+	"unlock": {
+	"trigger": "minecraft:inventory_changed",
+	"conditions": {
+	  "items": [
+	  {
+		"items": [
+		"minecraft:barrel"
+		],
+		"nbt": "{ctc:{id:\"dust_generator\",from:\"lthc.advancenergy\"}}"
+	  }
+	  ]
 	}
+	}
+  },
+  "parent": "lthc.advancenergy:the_advancenergy/ash"
+  }

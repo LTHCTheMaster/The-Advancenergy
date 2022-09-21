@@ -1,6 +1,6 @@
 {
-	"parent": "lthc.advancenergy:block_renderer",
-	"textures": {
-		"all": "lthc.advancenergy:ores/silver/deepslate_ore"
-	}
+  "parent": "lthc.advancenergy:block_renderer",
+  "textures": {
+	"all": "lthc.advancenergy:ores/silver/deepslate_ore"
+  }
 }

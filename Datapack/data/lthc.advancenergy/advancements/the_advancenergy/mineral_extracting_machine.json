@@ -1,33 +1,33 @@
 {
-	"display": {
-		"icon": {
-		"item": "minecraft:barrel",
-		"nbt": "{CustomModelData:170208}"
-		},
-		"title": {
-		"text": "Fast Mineral Cave",
-		"color": "#398174"
-		},
-		"description": "Grab a mineral Extracting Machine.",
-		"hidden": false,
-		"frame": "task",
-		"announce_to_chat": false,
-		"show_toast": true
+  "display": {
+	"icon": {
+	"item": "minecraft:barrel",
+	"nbt": "{CustomModelData:170208}"
 	},
-	"criteria": {
-		"unlock": {
-		"trigger": "minecraft:inventory_changed",
-		"conditions": {
-			"items": [
-			{
-				"items": [
-				"minecraft:barrel"
-				],
-				"nbt": "{ctc:{id:\"mineral_extracting_machine\",from:\"lthc.advancenergy\"}}"
-			}
-			]
-		}
-		}
+	"title": {
+	"text": "Fast Mineral Cave",
+	"color": "#398174"
 	},
-	"parent": "lthc.advancenergy:the_advancenergy/tin"
+	"description": "Grab a mineral Extracting Machine.",
+	"hidden": false,
+	"frame": "task",
+	"announce_to_chat": false,
+	"show_toast": true
+  },
+  "criteria": {
+	"unlock": {
+	"trigger": "minecraft:inventory_changed",
+	"conditions": {
+	  "items": [
+	  {
+		"items": [
+		"minecraft:barrel"
+		],
+		"nbt": "{ctc:{id:\"mineral_extracting_machine\",from:\"lthc.advancenergy\"}}"
+	  }
+	  ]
 	}
+	}
+  },
+  "parent": "lthc.advancenergy:the_advancenergy/tin"
+  }

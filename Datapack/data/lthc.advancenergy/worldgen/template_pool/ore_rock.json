@@ -1,78 +1,78 @@
 {
-	"name": "lthc.advancenergy:ore_rock",
-	"fallback": "minecraft:empty",
-	"elements": [
-		{
-			"weight": 6,
-			"element": {
-				"element_type": "minecraft:single_pool_element",
-				"projection": "rigid",
-				"location": "lthc.advancenergy:ore_rock/ore_rock_coal",
-				"processors": "minecraft:empty"
-			}
-		},
-		{
-			"weight": 6,
-			"element": {
-				"element_type": "minecraft:single_pool_element",
-				"projection": "rigid",
-				"location": "lthc.advancenergy:ore_rock/ore_rock_copper",
-				"processors": "minecraft:empty"
-			}
-		},
-		{
-			"weight": 6,
-			"element": {
-				"element_type": "minecraft:single_pool_element",
-				"projection": "rigid",
-				"location": "lthc.advancenergy:ore_rock/ore_rock_iron",
-				"processors": "minecraft:empty"
-			}
-		},
-		{
-			"weight": 5,
-			"element": {
-				"element_type": "minecraft:single_pool_element",
-				"projection": "rigid",
-				"location": "lthc.advancenergy:ore_rock/ore_rock_redstone",
-				"processors": "minecraft:empty"
-			}
-		},
-		{
-			"weight": 5,
-			"element": {
-				"element_type": "minecraft:single_pool_element",
-				"projection": "rigid",
-				"location": "lthc.advancenergy:ore_rock/ore_rock_tin",
-				"processors": "minecraft:empty"
-			}
-		},
-		{
-			"weight": 3,
-			"element": {
-				"element_type": "minecraft:single_pool_element",
-				"projection": "rigid",
-				"location": "lthc.advancenergy:ore_rock/ore_rock_silver",
-				"processors": "minecraft:empty"
-			}
-		},
-		{
-			"weight": 3,
-			"element": {
-				"element_type": "minecraft:single_pool_element",
-				"projection": "rigid",
-				"location": "lthc.advancenergy:ore_rock/ore_rock_gold",
-				"processors": "minecraft:empty"
-			}
-		},
-		{
-			"weight": 2,
-			"element": {
-				"element_type": "minecraft:single_pool_element",
-				"projection": "rigid",
-				"location": "lthc.advancenergy:ore_rock/ore_rock_lead",
-				"processors": "minecraft:empty"
-			}
-		}
-	]
+  "name": "lthc.advancenergy:ore_rock",
+  "fallback": "minecraft:empty",
+  "elements": [
+	{
+	  "weight": 6,
+	  "element": {
+		"element_type": "minecraft:single_pool_element",
+		"projection": "rigid",
+		"location": "lthc.advancenergy:ore_rock/ore_rock_coal",
+		"processors": "minecraft:empty"
+	  }
+	},
+	{
+	  "weight": 6,
+	  "element": {
+		"element_type": "minecraft:single_pool_element",
+		"projection": "rigid",
+		"location": "lthc.advancenergy:ore_rock/ore_rock_copper",
+		"processors": "minecraft:empty"
+	  }
+	},
+	{
+	  "weight": 6,
+	  "element": {
+		"element_type": "minecraft:single_pool_element",
+		"projection": "rigid",
+		"location": "lthc.advancenergy:ore_rock/ore_rock_iron",
+		"processors": "minecraft:empty"
+	  }
+	},
+	{
+	  "weight": 5,
+	  "element": {
+		"element_type": "minecraft:single_pool_element",
+		"projection": "rigid",
+		"location": "lthc.advancenergy:ore_rock/ore_rock_redstone",
+		"processors": "minecraft:empty"
+	  }
+	},
+	{
+	  "weight": 5,
+	  "element": {
+		"element_type": "minecraft:single_pool_element",
+		"projection": "rigid",
+		"location": "lthc.advancenergy:ore_rock/ore_rock_tin",
+		"processors": "minecraft:empty"
+	  }
+	},
+	{
+	  "weight": 3,
+	  "element": {
+		"element_type": "minecraft:single_pool_element",
+		"projection": "rigid",
+		"location": "lthc.advancenergy:ore_rock/ore_rock_silver",
+		"processors": "minecraft:empty"
+	  }
+	},
+	{
+	  "weight": 3,
+	  "element": {
+		"element_type": "minecraft:single_pool_element",
+		"projection": "rigid",
+		"location": "lthc.advancenergy:ore_rock/ore_rock_gold",
+		"processors": "minecraft:empty"
+	  }
+	},
+	{
+	  "weight": 2,
+	  "element": {
+		"element_type": "minecraft:single_pool_element",
+		"projection": "rigid",
+		"location": "lthc.advancenergy:ore_rock/ore_rock_lead",
+		"processors": "minecraft:empty"
+	  }
+	}
+  ]
 }

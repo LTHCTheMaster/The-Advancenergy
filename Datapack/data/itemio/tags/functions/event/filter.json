@@ -1,6 +1,6 @@
 {
-	"values": [
-		"itemio:v0.0.1/calls/filter",
-		"#lthc.advancenergy:libs/itemio/filters"
-	]
+  "values": [
+	"itemio:v0.0.1/calls/filter",
+	"#lthc.advancenergy:libs/itemio/filters"
+  ]
 }

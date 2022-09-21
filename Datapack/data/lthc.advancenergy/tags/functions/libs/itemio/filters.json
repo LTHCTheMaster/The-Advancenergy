@@ -1,8 +1,8 @@
 {
-		"values": [
-				"lthc.advancenergy:controller/filters/carbon_generators/input_filter",
-				"lthc.advancenergy:controller/filters/dust_generator/input_filter",
-				"lthc.advancenergy:controller/filters/refinery/input_filter",
-				"lthc.advancenergy:controller/filters/potato_generator/input_filter"
-		]
+  "values": [
+	"lthc.advancenergy:controller/filters/carbon_generators/input_filter",
+	"lthc.advancenergy:controller/filters/dust_generator/input_filter",
+	"lthc.advancenergy:controller/filters/refinery/input_filter",
+	"lthc.advancenergy:controller/filters/potato_generator/input_filter"
+  ]
 }

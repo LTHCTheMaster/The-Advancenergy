@@ -1,10 +1,10 @@
 {
-	"condition": "minecraft:location_check",
-	"predicate": {
-		"block": {
-			"state": {
-				"open": "true"
-			}
-		}
+  "condition": "minecraft:location_check",
+  "predicate": {
+	"block": {
+	  "state": {
+		"open": "true"
+	  }
 	}
+  }
 }
