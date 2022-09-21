@@ -57,54 +57,63 @@ leather_helmet:
 	170201 : lead helmet
 	170202 : silver helmet
 	170203 : bronze helmet
+	170204 : ash helmet
 
 leather_chestplate:
 	170200 : tin chestplate
 	170201 : lead chestplate
 	170202 : silver chestplate
 	170203 : bronze chestplate
+	170204 : ash chestplate
 
 leather_leggings:
 	170200 : tin leggings
 	170201 : lead leggings
 	170202 : silver leggings
 	170203 : bronze leggings
+	170204 : ash leggings
 
 leather_boots:
 	170200 : tin boots
 	170201 : lead boots
 	170202 : silver boots
 	170203 : bronze boots
+	170204 : ash boots
 
 diamond_axe and netherite_axe:
 	170200 : tin axe
 	170201 : lead axe
 	170202 : silver axe
 	170203 : bronze axe
+	170204 : ash axe
 
 diamond_pickaxe and netherite_pickaxe:
 	170200 : tin pickaxe
 	170201 : lead pickaxe
 	170202 : silver pickaxe
 	170203 : bronze pickaxe
+	170204 : ash pickaxe
 
 diamond_shovel and netherite_shovel:
 	170200 : tin shovel
 	170201 : lead shovel
 	170202 : silver shovel
 	170203 : bronze shovel
+	170204 : ash shovel
 
 diamond_hoe and netherite_hoe:
 	170200 : tin hoe
 	170201 : lead hoe
 	170202 : silver hoe
 	170203 : bronze hoe
+	170204 : ash hoe
 
 diamond_sword and netherite_sword:
 	170200 : tin sword
 	170201 : lead sword
 	170202 : silver sword
 	170203 : bronze sword
+	170204 : ash sword
 
 cobblestone:
 	170000 - 170063 : primitive cable MODEL
