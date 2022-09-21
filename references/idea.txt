@@ -1,16 +1,5 @@
 ### TODO
-	Ash Stuff:
-		armor:
-			helmet
-			chestplate
-			leggings
-			boots
-		tools and weapons:
-			pickaxe
-			axe
-			hoe
-			shovel
-			sword
+	Electrum
 ### TODO
 
 ### Later
@@ -20,6 +9,5 @@
 			Calcite
 			Aluminium
 
-		Electrum
 		Invar
 ### Later
