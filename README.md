@@ -45,8 +45,8 @@
 
 ## 👨‍🏭 Admin Tips
 
-- Force a full reload of The Advancenergy's component: ``/function lthc.advancenergy:_func/admin/force_full_reload``
-- Give structure: ``/function lthc.advancenergy:_func/give/_give``, look under your feet and click the LOAD button on your right until the structure is loaded
+- Force a full reload of The Advancenergy's component: ``/function lthc.advancenergy:``
+- Give structure: ``/function lthc.advancenergy:_func/give/``, look under your feet and click the LOAD button on your right until the structure is loaded
 
 ## 🤝 Contributors
 
