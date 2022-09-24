@@ -16,7 +16,7 @@
 			  },
 			  "ops": [
 				{
-				  "source": "registry.cable.000000.tag",
+				  "source": "REGISTRY.Cables.000000.tag",
 				  "target": "{}",
 				  "op": "merge"
 				}

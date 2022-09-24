@@ -1,5 +1,5 @@
 execute as @e[tag=lthc.advancenergy.destroyer] run function lthc.advancenergy:uninstall/under/remove_custom_block
-execute as @e[type=marker,tag=lthc.advancenergy] run function lthc.advancenergy:utils/try_unload
+execute as @e[type=marker,tag=lthc.advancenergy] run function lthc.advancenergy:utils/conventions/try_unload
 kill @e[type=marker,tag=lthc.advancenergy]
 kill @e[tag=lthc.advancenergy.chunk_scan]
 kill @e[type=marker,tag=lthc.advancenergy.is_a_marker]

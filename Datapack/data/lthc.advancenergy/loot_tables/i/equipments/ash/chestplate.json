@@ -16,7 +16,7 @@
 			  },
 			  "ops": [
 				{
-				  "source": "registry.item.chestplate.170204.tag",
+				  "source": "REGISTRY.Equipments.Armors.chestplate.170204.tag",
 				  "target": "{}",
 				  "op": "merge"
 				}

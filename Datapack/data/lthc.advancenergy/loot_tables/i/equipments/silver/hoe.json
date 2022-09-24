@@ -16,7 +16,7 @@
 			  },
 			  "ops": [
 				{
-				  "source": "registry.item.hoe.170202.tag",
+				  "source": "REGISTRY.Equipments.Tools.hoe.170202.tag",
 				  "target": "{}",
 				  "op": "merge"
 				}

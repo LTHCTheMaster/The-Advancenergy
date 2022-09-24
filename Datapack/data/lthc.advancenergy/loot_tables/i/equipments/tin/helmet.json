@@ -16,7 +16,7 @@
 			  },
 			  "ops": [
 				{
-				  "source": "registry.item.helmet.170200.tag",
+				  "source": "REGISTRY.Equipments.Armors.helmet.170200.tag",
 				  "target": "{}",
 				  "op": "merge"
 				}

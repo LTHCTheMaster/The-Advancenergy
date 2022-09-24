@@ -16,7 +16,7 @@
 			  },
 			  "ops": [
 				{
-				  "source": "registry.item.pickaxe.170200.tag",
+				  "source": "REGISTRY.Equipments.Tools.pickaxe.170200.tag",
 				  "target": "{}",
 				  "op": "merge"
 				}

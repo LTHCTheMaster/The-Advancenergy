@@ -1,0 +1,10 @@
+{
+    "values": [
+        "lthc.advancenergy:init/_intern/sub_parts/parts/registry/blocks",
+        "lthc.advancenergy:init/_intern/sub_parts/parts/registry/items",
+        "lthc.advancenergy:init/_intern/sub_parts/parts/registry/foods",
+        "lthc.advancenergy:init/_intern/sub_parts/parts/registry/cables",
+        "lthc.advancenergy:init/_intern/sub_parts/parts/registry/guides",
+        "#lthc.advancenergy:_intern/registry/equipments"
+    ]
+}

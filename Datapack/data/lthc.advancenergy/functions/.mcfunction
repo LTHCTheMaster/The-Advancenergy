@@ -5,7 +5,7 @@ scoreboard objectives add lthc.advancenergy.data dummy
 function lthc.advancenergy:core/loading/internal/data
 
 # Summon a marker at the worldspawn for something
-execute as @e[type=marker,tag=lthc.advancenergy] run function lthc.advancenergy:utils/try_unload
+execute as @e[type=marker,tag=lthc.advancenergy] run function lthc.advancenergy:utils/conventions/try_unload
 kill @e[type=marker,tag=lthc.advancenergy]
 summon marker ~ ~1 ~ {Tags:["lthc.advancenergy","global.ignore","global.forceload","smithed.entity","smithed.strict"]}
 execute as @e[type=marker,tag=lthc.advancenergy] at @s run forceload add ~ ~ ~ ~

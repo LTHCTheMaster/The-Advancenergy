@@ -16,7 +16,7 @@
 			  },
 			  "ops": [
 				{
-				  "source": "registry.item.boots.170202.tag",
+				  "source": "REGISTRY.Equipments.Armors.boots.170202.tag",
 				  "target": "{}",
 				  "op": "merge"
 				}

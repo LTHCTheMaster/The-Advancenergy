@@ -16,7 +16,7 @@
 			  },
 			  "ops": [
 				{
-				  "source": "registry.block.170201.tag",
+				  "source": "REGISTRY.Blocks.170201.tag",
 				  "target": "{}",
 				  "op": "merge"
 				}
