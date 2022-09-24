@@ -1,1 +1,1 @@
-schedule function lthc.advancenergy:core/loops/tick 1t replace
+schedule function lthc.advancenergy:core/ticking_manager 1t replace
