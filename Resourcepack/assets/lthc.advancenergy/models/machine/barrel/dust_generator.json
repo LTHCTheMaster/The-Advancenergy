@@ -2,7 +2,7 @@
   "parent": "minecraft:block/cube_all",
   "textures": {
 	"down": "lthc.advancenergy:machines/dust_generator/dust_generator_bottom",
-	"up": "lthc.advancenergy:materials/ash_block",
+	"up": "lthc.advancenergy:materials/ash/block",
 	"sides": "lthc.advancenergy:machines/dust_generator/dust_generator_side_off"
   },
   "elements": [{
