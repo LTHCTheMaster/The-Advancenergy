@@ -1,20 +1,20 @@
 {
-  "parent": "minecraft:block/cube_all",
-  "textures": {
+	"parent": "minecraft:block/cube_all",
+	"textures": {
 	"down": "lthc.advancenergy:machines/carbon_generator/carbon_generator_bottom",
 	"up": "lthc.advancenergy:ores/tin/block",
 	"sides": "lthc.advancenergy:machines/carbon_generator/carbon_generator_side_off"
-  },
-  "elements": [{
+	},
+	"elements": [{
 	"from": [ 0, 0, 0 ],
 	"to": [ 16, 16, 16 ],
 	"faces": {
-	  "down":  {"texture": "#down"},
-	  "up":   {"texture": "#up"},
-	  "north": {"texture": "#sides"},
-	  "south": {"texture": "#sides"},
-	  "west":  {"texture": "#sides"},
-	  "east":  {"texture": "#sides"}
+		"down":	{"texture": "#down"},
+		"up":	 {"texture": "#up"},
+		"north": {"texture": "#sides"},
+		"south": {"texture": "#sides"},
+		"west":	{"texture": "#sides"},
+		"east":	{"texture": "#sides"}
 	}
-  }]
+	}]
 }

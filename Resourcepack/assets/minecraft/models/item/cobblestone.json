@@ -1,6 +1,6 @@
 {
-  "parent": "block/cobblestone",
-  "overrides": [
+	"parent": "block/cobblestone",
+	"overrides": [
 	{ "predicate": { "custom_model_data": 170000 }, "model": "lthc.advancenergy:cables/primitive_cable/wire" },
 	{ "predicate": { "custom_model_data": 170001 }, "model": "lthc.advancenergy:cables/primitive_cable/wire_d" },
 	{ "predicate": { "custom_model_data": 170002 }, "model": "lthc.advancenergy:cables/primitive_cable/wire_u" },
@@ -132,5 +132,5 @@
 	{ "predicate": { "custom_model_data": 170263 }, "model": "lthc.advancenergy:gui/carbon_extractor_gui/gui_8" },
 	{ "predicate": { "custom_model_data": 170264 }, "model": "lthc.advancenergy:gui/carbon_extractor_gui/gui_9" },
 	{ "predicate": { "custom_model_data": 170265 }, "model": "lthc.advancenergy:gui/carbon_extractor_gui/gui_10" }
-  ]
+	]
 }

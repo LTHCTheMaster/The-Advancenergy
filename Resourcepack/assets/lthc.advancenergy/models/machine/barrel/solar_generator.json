@@ -1,22 +1,22 @@
 {
-  "parent": "minecraft:block/cube_all",
-  "textures": {
+	"parent": "minecraft:block/cube_all",
+	"textures": {
 	"3": "lthc.advancenergy:machines/solar_generator/solar_generator_bottom",
 	"4": "lthc.advancenergy:machines/solar_generator/solar_generator_side",
 	"5": "lthc.advancenergy:machines/solar_generator/solar_generator_top"
-  },
-  "elements": [
+	},
+	"elements": [
 	{
-	  "from": [0, 0, 0],
-	  "to": [16, 6, 16],
-	  "faces": {
+		"from": [0, 0, 0],
+		"to": [16, 6, 16],
+		"faces": {
 		"north": {"uv": [0, 10, 16, 16], "texture": "#4"},
 		"east": {"uv": [0, 10, 16, 16], "texture": "#4"},
 		"south": {"uv": [0, 10, 16, 16], "texture": "#4"},
 		"west": {"uv": [0, 10, 16, 16], "texture": "#4"},
 		"up": {"uv": [0, 0, 16, 16], "texture": "#5"},
 		"down": {"uv": [0, 0, 16, 16], "texture": "#3"}
-	  }
+		}
 	}
-  ]
+	]
 }

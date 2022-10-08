@@ -1,10 +1,10 @@
 {
-  "criteria": {
+	"criteria": {
 	"requirement": {
-	  "trigger": "minecraft:item_durability_changed"
+		"trigger": "minecraft:item_durability_changed"
 	}
-  },
-  "rewards": {
+	},
+	"rewards": {
 	"function": "durability_multiplier:v1.2/advancements/item_durability_changed"
-  }
+	}
 }

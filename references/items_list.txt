@@ -36,6 +36,7 @@ lead ore
 lead pickaxe
 lead shovel
 lead sword
+literal dense block of coal
 mineral extracting machine
 potato generator
 primitive cable
@@ -72,3 +73,4 @@ tin ore
 tin pickaxe
 tin shovel
 tin sword
+unleashed carbon generator

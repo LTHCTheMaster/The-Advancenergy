@@ -1,30 +1,30 @@
 {
-  "pools": [
+	"pools": [
 	{
-	  "rolls": 1,
-	  "bonus_rolls": 0,
-	  "entries": [
+		"rolls": 1,
+		"bonus_rolls": 0,
+		"entries": [
 		{
-		  "type": "minecraft:item",
-		  "name": "minecraft:barrel",
-		  "functions": [
+			"type": "minecraft:item",
+			"name": "minecraft:barrel",
+			"functions": [
 			{
-			  "function": "minecraft:copy_nbt",
-			  "source": {
+				"function": "minecraft:copy_nbt",
+				"source": {
 				"type": "minecraft:storage",
 				"source": "lthc.advancenergy:main"
-			  },
-			  "ops": [
+				},
+				"ops": [
 				{
-				  "source": "REGISTRY.Blocks.170214.tag",
-				  "target": "{}",
-				  "op": "merge"
+					"source": "REGISTRY.Blocks.170214.tag",
+					"target": "{}",
+					"op": "merge"
 				}
-			  ]
+				]
 			}
-		  ]
+			]
 		}
-	  ]
+		]
 	}
-  ]
+	]
 }

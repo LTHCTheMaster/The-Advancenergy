@@ -1,0 +1,21 @@
+{
+	"parent": "minecraft:block/cube_all",
+	"textures": {
+		"ud": "lthc.advancenergy:machines/unleashed_carbon_generator/",
+		"sides": "lthc.advancenergy:machines/unleashed_carbon_generator/unleashed_carbon_generator_side_on"
+	},
+	"elements": [{
+		"from": [ 0, 0, 0 ],
+		"to": [ 16, 16, 16 ],
+		"faces": {
+		"down":	{ "texture": "#ud"},
+		"up":	 { "texture": "#ud"},
+		"north": { "texture": "#sides"},
+		"south": { "texture": "#sides"},
+		"west":	{ "texture": "#sides"},
+		"east":	{ "texture": "#sides"}
+		},
+		"shade": false
+	}]
+	}
+	

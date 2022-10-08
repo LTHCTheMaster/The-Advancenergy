@@ -1,6 +1,6 @@
 {
-  "parent": "minecraft:block/cube_all",
-  "textures": {
+	"parent": "minecraft:block/cube_all",
+	"textures": {
 	"all": "lthc.advancenergy:ores/tin/raw_block"
-  }
+	}
 }

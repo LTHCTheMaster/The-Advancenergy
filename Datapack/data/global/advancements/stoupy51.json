@@ -1,18 +1,18 @@
 {
-  "display": {
+	"display": {
 	"title": "Stoupy51",
 	"description": "",
 	"icon": {
-	  "item": "minecraft:player_head",
-	  "nbt": "{SkullOwner:\"Stoupy51\"}"
+		"item": "minecraft:player_head",
+		"nbt": "{SkullOwner:\"Stoupy51\"}"
 	},
 	"show_toast": false,
 	"announce_to_chat": false
-  },
-  "parent": "global:root",
-  "criteria": {
+	},
+	"parent": "global:root",
+	"criteria": {
 	"trigger": {
-	  "trigger": "minecraft:tick"
+		"trigger": "minecraft:tick"
 	}
-  }
+	}
 }

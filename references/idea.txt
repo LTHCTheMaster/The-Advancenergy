@@ -1,13 +1,13 @@
 ### TODO
-  Electrum
+	Electrum
 ### TODO
 
 ### Later
 	Aluminium :
-	  Iron
+		Iron
 	Nickel:
-	  Calcite
-	  Aluminium
+		Calcite
+		Aluminium
 
 	Invar
 ### Later

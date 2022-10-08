@@ -1,6 +1,6 @@
 {
-  "replace": false,
-  "values": [
+	"replace": false,
+	"values": [
 	"barrel",
 	"deepslate_tiles",
 	"coal_block",
@@ -9,5 +9,5 @@
 	"daylight_detector",
 	"mud_bricks",
 	"netherrack"
-  ]
+	]
 }

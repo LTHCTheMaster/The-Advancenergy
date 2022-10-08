@@ -1,12 +1,12 @@
 {
-  "criteria": {
+	"criteria": {
 	"requirement": {
-	  "trigger": "minecraft:tick"
+		"trigger": "minecraft:tick"
 	}
-  },
-  "rewards": {
+	},
+	"rewards": {
 	"loot": [
-	  "lthc.advancenergy:i/guide/guide"
+		"lthc.advancenergy:i/guide/guide"
 	]
-  }
+	}
 }

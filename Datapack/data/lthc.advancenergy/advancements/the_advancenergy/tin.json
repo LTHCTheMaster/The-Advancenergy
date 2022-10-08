@@ -1,33 +1,33 @@
 {
-  "display": {
-  "icon": {
+	"display": {
+	"icon": {
 	"item": "minecraft:command_block",
 	"nbt": "{CustomModelData:170201}"
-  },
-  "title": {
+	},
+	"title": {
 	"text": "Tinager",
 	"color": "#ebebeb"
-  },
-  "description": "Get some Tin Ingots to start your great engineer's adventure.",
-  "hidden": false,
-  "frame": "task",
-  "announce_to_chat": true,
-  "show_toast": true
-  },
-  "criteria": {
-  "unlock": {
+	},
+	"description": "Get some Tin Ingots to start your great engineer's adventure.",
+	"hidden": false,
+	"frame": "task",
+	"announce_to_chat": true,
+	"show_toast": true
+	},
+	"criteria": {
+	"unlock": {
 	"trigger": "minecraft:inventory_changed",
 	"conditions": {
 	"items": [
-	  {
-	  "items": [
+		{
+		"items": [
 		"minecraft:command_block"
-	  ],
-	  "nbt": "{ctc:{id:\"tin_ingot\",from:\"lthc.advancenergy\"}}"
-	  }
+		],
+		"nbt": "{ctc:{id:\"tin_ingot\",from:\"lthc.advancenergy\"}}"
+		}
 	]
 	}
-  }
-  },
-  "parent": "lthc.advancenergy:the_advancenergy/root"
+	}
+	},
+	"parent": "lthc.advancenergy:the_advancenergy/root"
 }

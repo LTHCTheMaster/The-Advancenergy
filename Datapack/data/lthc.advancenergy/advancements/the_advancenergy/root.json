@@ -1,12 +1,12 @@
 {
-  "display": {
+	"display": {
 	"icon": {
-	  "item": "command_block",
-	  "nbt": "{CustomModelData: 179999}"
+		"item": "command_block",
+		"nbt": "{CustomModelData: 179999}"
 	},
 	"title": {
-	  "text": "The Advancenergy",
-	  "color": "#d91107"
+		"text": "The Advancenergy",
+		"color": "#d91107"
 	},
 	"description": "The Advancenergy",
 	"background": "minecraft:textures/block/red_concrete.png",
@@ -14,10 +14,10 @@
 	"announce_to_chat": false,
 	"hidden": false,
 	"frame": "challenge"
-  },
-  "criteria": {
+	},
+	"criteria": {
 	"auto": {
-	  "trigger": "tick"
+		"trigger": "tick"
 	}
-  }
+	}
 }

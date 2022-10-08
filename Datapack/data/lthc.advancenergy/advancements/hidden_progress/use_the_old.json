@@ -1,49 +1,49 @@
 {
-  "display": {
+	"display": {
 	"icon": {
-	  "item": "mossy_cobblestone_stairs"
+		"item": "mossy_cobblestone_stairs"
 	},
 	"title": {
-	  "text": "Use The Old",
-	  "color": "#0711d9"
+		"text": "Use The Old",
+		"color": "#0711d9"
 	},
 	"description": "Place a Dust Generator and a Mineral Extracting Machine in a Tin Shed.",
 	"show_toast": true,
 	"announce_to_chat": false,
 	"hidden": true,
 	"frame": "task"
-  },
-  "criteria": {
+	},
+	"criteria": {
 	"a": {
-	  "trigger": "placed_block",
-	  "conditions": {
+		"trigger": "placed_block",
+		"conditions": {
 		"location": {
-		  "structure": "lthc.advancenergy:tin_shed"
+			"structure": "lthc.advancenergy:tin_shed"
 		},
 		"item": {
-		  "nbt": "{ctc:{id:\"dust_generator\",from:\"lthc.advancenergy\"}}"
+			"nbt": "{ctc:{id:\"dust_generator\",from:\"lthc.advancenergy\"}}"
 		}
-	  }
+		}
 	},
 	"b": {
-	  "trigger": "placed_block",
-	  "conditions": {
+		"trigger": "placed_block",
+		"conditions": {
 		"location": {
-		  "structure": "lthc.advancenergy:tin_shed"
+			"structure": "lthc.advancenergy:tin_shed"
 		},
 		"item": {
-		  "nbt": "{ctc:{id:\"mineral_extracting_machine\",from:\"lthc.advancenergy\"}}"
+			"nbt": "{ctc:{id:\"mineral_extracting_machine\",from:\"lthc.advancenergy\"}}"
 		}
-	  }
+		}
 	}
-  },
-  "parent": "lthc.advancenergy:the_advancenergy/root",
-  "requirements": [
+	},
+	"parent": "lthc.advancenergy:the_advancenergy/root",
+	"requirements": [
 	[
-	  "a"
+		"a"
 	],
 	[
-	  "b"
+		"b"
 	]
-  ]
+	]
 }

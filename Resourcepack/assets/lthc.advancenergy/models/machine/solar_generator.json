@@ -1,30 +1,30 @@
 {
-  "parent": "lthc.advancenergy:block_renderer",
-  "textures": {
+	"parent": "lthc.advancenergy:block_renderer",
+	"textures": {
 	"3": "lthc.advancenergy:machines/solar_generator/solar_generator_bottom",
 	"4": "lthc.advancenergy:machines/solar_generator/solar_generator_side",
 	"5": "lthc.advancenergy:machines/solar_generator/solar_generator_top"
-  },
-  "elements": [
+	},
+	"elements": [
 	{
-	  "from": [0, 0, 0],
-	  "to": [16, 6, 16],
-	  "faces": {
+		"from": [0, 0, 0],
+		"to": [16, 6, 16],
+		"faces": {
 		"north": {"uv": [0, 10, 16, 16], "texture": "#4", "cullface": "north"},
 		"east": {"uv": [0, 10, 16, 16], "texture": "#4", "cullface": "east"},
 		"south": {"uv": [0, 10, 16, 16], "texture": "#4", "cullface": "south"},
 		"west": {"uv": [0, 10, 16, 16], "texture": "#4", "cullface": "west"},
 		"up": {"uv": [0, 0, 16, 16], "texture": "#5", "cullface": "up"},
 		"down": {"uv": [0, 0, 16, 16], "texture": "#3", "cullface": "down"}
-	  },
-	  "shade": false
+		},
+		"shade": false
 	}
-  ],
-  "display": {
+	],
+	"display": {
 	"fixed": {
-	  "rotation": [-90, 0, 0],
-	  "translation": [0, 0, -16.05],
-	  "scale": [2.0075, 2.0075, 2.0075]
+		"rotation": [-90, 0, 0],
+		"translation": [0, 0, -16.05],
+		"scale": [2.0075, 2.0075, 2.0075]
 	}
-  }
+	}
 }

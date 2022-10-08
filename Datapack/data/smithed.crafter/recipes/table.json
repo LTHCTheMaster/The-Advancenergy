@@ -1,23 +1,23 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-  "###",
-  "#C#",
-  "SSS"
-  ],
-  "key": {
-  "#": {
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+	"###",
+	"#C#",
+	"SSS"
+	],
+	"key": {
+	"#": {
 	"tag": "minecraft:logs"
-  },
-  "C": {
+	},
+	"C": {
 	"item": "minecraft:crafting_table"
-  },
-  "S": {
+	},
+	"S": {
 	"item": "minecraft:smooth_stone"
-  }
-  },
-  "result": {
-  "item": "minecraft:knowledge_book",
-  "count": 1
-  }
+	}
+	},
+	"result": {
+	"item": "minecraft:knowledge_book",
+	"count": 1
+	}
 }

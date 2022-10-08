@@ -1,6 +1,6 @@
 {
-  "replace": false,
-  "values": [
+	"replace": false,
+	"values": [
 	"minecraft:stone",
 	"minecraft:infested_stone",
 	"minecraft:cobblestone",
@@ -14,5 +14,5 @@
 	"minecraft:infested_deepslate",
 	"minecraft:cobbled_deepslate",
 	"minecraft:dripstone_block"
-  ]
+	]
 }

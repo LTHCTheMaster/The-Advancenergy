@@ -1,19 +1,19 @@
 {
-  "pools": [
+	"pools": [
 	{
-	  "rolls": 1,
-	  "entries": [
+		"rolls": 1,
+		"entries": [
 		{
-		  "type": "minecraft:loot_table",
-		  "name": "lthc.advancenergy:i/ores/tin/ingot",
-		  "functions": [
+			"type": "minecraft:loot_table",
+			"name": "lthc.advancenergy:i/ores/tin/ingot",
+			"functions": [
 			{
-			  "function": "minecraft:set_count",
-			  "count": 9
+				"function": "minecraft:set_count",
+				"count": 9
 			}
-		  ]
+			]
 		}
-	  ]
+		]
 	}
-  ]
+	]
 }

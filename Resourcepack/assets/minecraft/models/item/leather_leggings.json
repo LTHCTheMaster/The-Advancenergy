@@ -1,8 +1,8 @@
 {
 	"parent": "item/handheld",
 	"textures": {
-	  "layer0": "item/leather_leggings",
-	  "layer1": "item/leather_leggings_overlay"
+		"layer0": "item/leather_leggings",
+		"layer1": "item/leather_leggings_overlay"
 	},
 	"overrides": [
 	{ "predicate": { "custom_model_data": 170200 }, "model": "lthc.advancenergy:equipments/tin/leggings" },
@@ -10,5 +10,5 @@
 	{ "predicate": { "custom_model_data": 170202 }, "model": "lthc.advancenergy:equipments/silver/leggings" },
 	{ "predicate": { "custom_model_data": 170203 }, "model": "lthc.advancenergy:equipments/bronze/leggings" },
 	{ "predicate": { "custom_model_data": 170204 }, "model": "lthc.advancenergy:equipments/ash/leggings" }
-  ]
+	]
 }

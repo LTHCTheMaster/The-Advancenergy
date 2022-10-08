@@ -1,9 +1,9 @@
 {
-  "values": [
+	"values": [
 	"#copper_ores",
 	"#gold_ores",
 	"calcite",
 	"#coal_ores",
 	"#iron_ores"
-  ]
+	]
 }

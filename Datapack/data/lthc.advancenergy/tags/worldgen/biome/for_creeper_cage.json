@@ -1,9 +1,9 @@
 {
-  "values": [
+	"values": [
 	"birch_forest",
 	"wooded_badlands",
 	"dark_forest",
 	"windswept_forest",
 	"#is_hill"
-  ]
+	]
 }

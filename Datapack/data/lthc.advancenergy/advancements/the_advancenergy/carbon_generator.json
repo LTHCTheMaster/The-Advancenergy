@@ -1,5 +1,5 @@
 {
-  "display": {
+	"display": {
 	"icon": {
 	"item": "minecraft:barrel",
 	"nbt": "{CustomModelData:170204}"
@@ -13,21 +13,21 @@
 	"frame": "task",
 	"announce_to_chat": false,
 	"show_toast": true
-  },
-  "criteria": {
+	},
+	"criteria": {
 	"unlock": {
 	"trigger": "minecraft:inventory_changed",
 	"conditions": {
-	  "items": [
-	  {
+		"items": [
+		{
 		"items": [
 		"minecraft:barrel"
 		],
 		"nbt": "{ctc:{id:\"carbon_generator\",from:\"lthc.advancenergy\"}}"
-	  }
-	  ]
+		}
+		]
 	}
 	}
-  },
-  "parent": "lthc.advancenergy:the_advancenergy/tin"
-  }
+	},
+	"parent": "lthc.advancenergy:the_advancenergy/tin"
+	}

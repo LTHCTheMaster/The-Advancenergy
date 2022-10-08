@@ -12,5 +12,4 @@ function #itemio:calls/container/init
 
 function lthc.advancenergy:controller/gui_manager/dust_generator
 
-execute positioned ~ ~1 ~ if entity @e[tag=lthc.advancenergy.carbon_generator,distance=..1] run advancement grant @p[tag=lthc.advancenergy.placer] only lthc.advancenergy:hidden_progress/be_logical
-execute positioned ~ ~1 ~ if entity @e[tag=lthc.advancenergy.advanced_carbon_generator,distance=..1] run advancement grant @p[tag=lthc.advancenergy.placer] only lthc.advancenergy:hidden_progress/be_logical
+execute positioned ~ ~1 ~ if entity @e[tag=lthc.advancenergy.is_ash_as_waste_generator,distance=..1] run advancement grant @p[tag=lthc.advancenergy.placer] only lthc.advancenergy:hidden_progress/be_logical

@@ -1,21 +1,21 @@
 {
-  "parent": "lthc.advancenergy:block_renderer",
-  "textures": {
+	"parent": "lthc.advancenergy:block_renderer",
+	"textures": {
 	"down": "lthc.advancenergy:machines/dust_generator/dust_generator_bottom",
 	"up": "lthc.advancenergy:materials/ash/block",
 	"sides": "lthc.advancenergy:machines/dust_generator/dust_generator_side_off"
-  },
-  "elements": [{
+	},
+	"elements": [{
 	"from": [ 0, 0, 0 ],
 	"to": [ 16, 16, 16 ],
 	"faces": {
-	  "down":  { "texture": "#down", "cullface": "down" },
-	  "up":   { "texture": "#up", "cullface": "up" },
-	  "north": { "texture": "#sides", "cullface": "north" },
-	  "south": { "texture": "#sides", "cullface": "south" },
-	  "west":  { "texture": "#sides", "cullface": "west" },
-	  "east":  { "texture": "#sides", "cullface": "east" }
+		"down":	{ "texture": "#down", "cullface": "down" },
+		"up":	 { "texture": "#up", "cullface": "up" },
+		"north": { "texture": "#sides", "cullface": "north" },
+		"south": { "texture": "#sides", "cullface": "south" },
+		"west":	{ "texture": "#sides", "cullface": "west" },
+		"east":	{ "texture": "#sides", "cullface": "east" }
 	},
 	"shade": false
-  }]
+	}]
 }

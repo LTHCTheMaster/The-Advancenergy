@@ -1,5 +1,5 @@
 {
-  "display": {
+	"display": {
 	"icon": {
 	"item": "minecraft:command_block",
 	"nbt": "{CustomModelData:170203}"
@@ -13,21 +13,21 @@
 	"frame": "goal",
 	"announce_to_chat": false,
 	"show_toast": true
-  },
-  "criteria": {
+	},
+	"criteria": {
 	"unlock": {
 	"trigger": "minecraft:inventory_changed",
 	"conditions": {
-	  "items": [
-	  {
+		"items": [
+		{
 		"items": [
 		"minecraft:command_block"
 		],
 		"nbt": "{ctc:{id:\"ash\",from:\"lthc.advancenergy\"}}"
-	  }
-	  ]
+		}
+		]
 	}
 	}
-  },
-  "parent": "lthc.advancenergy:the_advancenergy/carbon_generator"
-  }
+	},
+	"parent": "lthc.advancenergy:the_advancenergy/carbon_generator"
+	}

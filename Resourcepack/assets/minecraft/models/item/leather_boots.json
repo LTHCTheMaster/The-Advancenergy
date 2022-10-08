@@ -1,6 +1,6 @@
 {
 	"parent": "item/handheld",
-  "textures": {
+	"textures": {
 		"layer0": "item/leather_boots",
 		"layer1": "item/leather_boots_overlay"
 	},
@@ -10,5 +10,5 @@
 	{ "predicate": { "custom_model_data": 170202 }, "model": "lthc.advancenergy:equipments/silver/boots" },
 	{ "predicate": { "custom_model_data": 170203 }, "model": "lthc.advancenergy:equipments/bronze/boots" },
 	{ "predicate": { "custom_model_data": 170204 }, "model": "lthc.advancenergy:equipments/ash/boots" }
-  ]
+	]
 }

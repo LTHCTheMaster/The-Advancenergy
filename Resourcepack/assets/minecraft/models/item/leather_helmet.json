@@ -1,8 +1,8 @@
 {
 	"parent": "item/handheld",
 	"textures": {
-	  "layer0": "item/leather_helmet",
-	  "layer1": "item/leather_helmet_overlay"
+		"layer0": "item/leather_helmet",
+		"layer1": "item/leather_helmet_overlay"
 	},
 	"overrides": [
 	{ "predicate": { "custom_model_data": 170200 }, "model": "lthc.advancenergy:equipments/tin/helmet" },
@@ -10,5 +10,5 @@
 	{ "predicate": { "custom_model_data": 170202 }, "model": "lthc.advancenergy:equipments/silver/helmet" },
 	{ "predicate": { "custom_model_data": 170203 }, "model": "lthc.advancenergy:equipments/bronze/helmet" },
 	{ "predicate": { "custom_model_data": 170204 }, "model": "lthc.advancenergy:equipments/ash/helmet" }
-  ]
+	]
 }

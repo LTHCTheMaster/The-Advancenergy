@@ -1,5 +1,5 @@
 {
-  "values": [
+	"values": [
 	"command_block",
 	"barrel",
 	"player_head",
@@ -21,5 +21,5 @@
 	"golden_apple",
 	"cobblestone",
 	"glow_item_frame"
-  ]
+	]
 }

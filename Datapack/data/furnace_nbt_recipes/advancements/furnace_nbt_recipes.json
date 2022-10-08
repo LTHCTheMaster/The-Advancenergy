@@ -1,18 +1,18 @@
 {
-  "display": {
+	"display": {
 	"title": "Furnace NBT Recipes",
 	"description": "v1.0.0",
 	"icon": {
-	  "item": "minecraft:furnace"
+		"item": "minecraft:furnace"
 	},
 	"show_toast": false,
 	"announce_to_chat": false,
 	"frame": "goal"
-  },
-  "parent": "global:stoupy51",
-  "criteria": {
+	},
+	"parent": "global:stoupy51",
+	"criteria": {
 	"always": {
-	  "trigger": "minecraft:tick"
+		"trigger": "minecraft:tick"
 	}
-  }
+	}
 }

@@ -1,7 +1,7 @@
 {
-  "condition": "minecraft:alternative",
-  "terms": [
-  {
+	"condition": "minecraft:alternative",
+	"terms": [
+	{
 	"condition": "minecraft:value_check",
 	"value": {
 	"type": "minecraft:score",
@@ -10,24 +10,24 @@
 	},
 	"range": {
 	"min": {
-	  "type": "minecraft:score",
-	  "target": {
-	  "type": "minecraft:fixed",
-	  "name": "#predicate"
-	  },
-	  "score": "energy.data"
+		"type": "minecraft:score",
+		"target": {
+		"type": "minecraft:fixed",
+		"name": "#predicate"
+		},
+		"score": "energy.data"
 	},
 	"max": {
-	  "type": "minecraft:score",
-	  "target": {
-	  "type": "minecraft:fixed",
-	  "name": "#predicate"
-	  },
-	  "score": "energy.data"
+		"type": "minecraft:score",
+		"target": {
+		"type": "minecraft:fixed",
+		"name": "#predicate"
+		},
+		"score": "energy.data"
 	}
 	}
-  },
-  {
+	},
+	{
 	"condition": "minecraft:value_check",
 	"value": {
 	"type": "minecraft:score",
@@ -36,24 +36,24 @@
 	},
 	"range": {
 	"min": {
-	  "type": "minecraft:score",
-	  "target": {
-	  "type": "minecraft:fixed",
-	  "name": "#predicate"
-	  },
-	  "score": "energy.data"
+		"type": "minecraft:score",
+		"target": {
+		"type": "minecraft:fixed",
+		"name": "#predicate"
+		},
+		"score": "energy.data"
 	},
 	"max": {
-	  "type": "minecraft:score",
-	  "target": {
-	  "type": "minecraft:fixed",
-	  "name": "#predicate"
-	  },
-	  "score": "energy.data"
+		"type": "minecraft:score",
+		"target": {
+		"type": "minecraft:fixed",
+		"name": "#predicate"
+		},
+		"score": "energy.data"
 	}
 	}
-  },
-  {
+	},
+	{
 	"condition": "minecraft:value_check",
 	"value": {
 	"type": "minecraft:score",
@@ -62,24 +62,24 @@
 	},
 	"range": {
 	"min": {
-	  "type": "minecraft:score",
-	  "target": {
-	  "type": "minecraft:fixed",
-	  "name": "#predicate"
-	  },
-	  "score": "energy.data"
+		"type": "minecraft:score",
+		"target": {
+		"type": "minecraft:fixed",
+		"name": "#predicate"
+		},
+		"score": "energy.data"
 	},
 	"max": {
-	  "type": "minecraft:score",
-	  "target": {
-	  "type": "minecraft:fixed",
-	  "name": "#predicate"
-	  },
-	  "score": "energy.data"
+		"type": "minecraft:score",
+		"target": {
+		"type": "minecraft:fixed",
+		"name": "#predicate"
+		},
+		"score": "energy.data"
 	}
 	}
-  },
-  {
+	},
+	{
 	"condition": "minecraft:value_check",
 	"value": {
 	"type": "minecraft:score",
@@ -88,24 +88,24 @@
 	},
 	"range": {
 	"min": {
-	  "type": "minecraft:score",
-	  "target": {
-	  "type": "minecraft:fixed",
-	  "name": "#predicate"
-	  },
-	  "score": "energy.data"
+		"type": "minecraft:score",
+		"target": {
+		"type": "minecraft:fixed",
+		"name": "#predicate"
+		},
+		"score": "energy.data"
 	},
 	"max": {
-	  "type": "minecraft:score",
-	  "target": {
-	  "type": "minecraft:fixed",
-	  "name": "#predicate"
-	  },
-	  "score": "energy.data"
+		"type": "minecraft:score",
+		"target": {
+		"type": "minecraft:fixed",
+		"name": "#predicate"
+		},
+		"score": "energy.data"
 	}
 	}
-  },
-  {
+	},
+	{
 	"condition": "minecraft:value_check",
 	"value": {
 	"type": "minecraft:score",
@@ -114,24 +114,24 @@
 	},
 	"range": {
 	"min": {
-	  "type": "minecraft:score",
-	  "target": {
-	  "type": "minecraft:fixed",
-	  "name": "#predicate"
-	  },
-	  "score": "energy.data"
+		"type": "minecraft:score",
+		"target": {
+		"type": "minecraft:fixed",
+		"name": "#predicate"
+		},
+		"score": "energy.data"
 	},
 	"max": {
-	  "type": "minecraft:score",
-	  "target": {
-	  "type": "minecraft:fixed",
-	  "name": "#predicate"
-	  },
-	  "score": "energy.data"
+		"type": "minecraft:score",
+		"target": {
+		"type": "minecraft:fixed",
+		"name": "#predicate"
+		},
+		"score": "energy.data"
 	}
 	}
-  },
-  {
+	},
+	{
 	"condition": "minecraft:value_check",
 	"value": {
 	"type": "minecraft:score",
@@ -140,22 +140,22 @@
 	},
 	"range": {
 	"min": {
-	  "type": "minecraft:score",
-	  "target": {
-	  "type": "minecraft:fixed",
-	  "name": "#predicate"
-	  },
-	  "score": "energy.data"
+		"type": "minecraft:score",
+		"target": {
+		"type": "minecraft:fixed",
+		"name": "#predicate"
+		},
+		"score": "energy.data"
 	},
 	"max": {
-	  "type": "minecraft:score",
-	  "target": {
-	  "type": "minecraft:fixed",
-	  "name": "#predicate"
-	  },
-	  "score": "energy.data"
+		"type": "minecraft:score",
+		"target": {
+		"type": "minecraft:fixed",
+		"name": "#predicate"
+		},
+		"score": "energy.data"
 	}
 	}
-  }
-  ]
+	}
+	]
 }

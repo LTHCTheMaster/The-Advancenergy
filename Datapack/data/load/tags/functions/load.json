@@ -1,5 +1,5 @@
 {
-  "values": [
+	"values": [
 	"#durability_multiplier:load",
 	"#smithed.custom_block:load",
 	"#smithed.crafter:load",
@@ -7,5 +7,5 @@
 	"#furnace_nbt_recipes:load",
 	"#itemio:load",
 	"#lthc.advancenergy:load/load"
-  ]
+	]
 }

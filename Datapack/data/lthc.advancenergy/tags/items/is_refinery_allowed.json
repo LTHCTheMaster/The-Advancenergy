@@ -1,5 +1,5 @@
 {
-  "values": [
+	"values": [
 	"iron_ore",
 	"deepslate_iron_ore",
 	"raw_iron",
@@ -35,5 +35,5 @@
 	"dropper",
 	"campfire",
 	"soul_campfire"
-  ]
+	]
 }

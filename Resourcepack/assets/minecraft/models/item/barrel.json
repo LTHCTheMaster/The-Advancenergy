@@ -32,6 +32,9 @@
 	{ "predicate": { "custom_model_data": 170228 }, "model": "lthc.advancenergy:ores/barrel/silver/block" },
 	{ "predicate": { "custom_model_data": 170229 }, "model": "lthc.advancenergy:machine/barrel/cobblestone_farmer" },
 	{ "predicate": { "custom_model_data": 170230 }, "model": "lthc.advancenergy:machine/barrel/carbon_extractor" },
-	{ "predicate": { "custom_model_data": 170231 }, "model": "lthc.advancenergy:machine/barrel/aqueous_accumulator" }
+	{ "predicate": { "custom_model_data": 170231 }, "model": "lthc.advancenergy:machine/barrel/aqueous_accumulator" },
+	{ "predicate": { "custom_model_data": 170232 }, "model": "lthc.advancenergy:machine/barrel/unleashed_carbon_generator" },
+	{ "predicate": { "custom_model_data": 170233 }, "model": "lthc.advancenergy:machine/barrel/unleashed_carbon_generator_on" },
+	{ "predicate": { "custom_model_data": 170234 }, "model": "lthc.advancenergy:materials/barrel/literal_dense_coal_block" }
 	]
 }

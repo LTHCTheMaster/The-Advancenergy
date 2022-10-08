@@ -1,22 +1,22 @@
 {
-  "display": {
+	"display": {
 	"icon": {
-	  "item": "comparator"
+		"item": "comparator"
 	},
 	"title": {
-	  "text": "Be Logical",
-	  "color": "#0711d9"
+		"text": "Be Logical",
+		"color": "#0711d9"
 	},
 	"description": "Discovery: a Carbon Generator above a Dust Generator auto fuel the Dust Generator with Ash.",
 	"show_toast": true,
 	"announce_to_chat": false,
 	"hidden": true,
 	"frame": "task"
-  },
-  "criteria": {
+	},
+	"criteria": {
 	"nope": {
-	  "trigger": "impossible"
+		"trigger": "impossible"
 	}
-  },
-  "parent": "lthc.advancenergy:the_advancenergy/root"
+	},
+	"parent": "lthc.advancenergy:the_advancenergy/root"
 }

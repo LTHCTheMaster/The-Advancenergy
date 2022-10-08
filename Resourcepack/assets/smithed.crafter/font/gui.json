@@ -1,14 +1,14 @@
 {
-  "providers": [
-  {
+	"providers": [
+	{
 	"type": "space",
 	"advances": {
 	" ": 4,
 	"\uc000": -12,
 	"\uc001": -166
 	}
-  },
-  {
+	},
+	{
 	"type": "bitmap",
 	"file": "smithed.crafter:gui/table.png",
 	"ascent": 14,
@@ -16,6 +16,6 @@
 	"chars": [
 	"\uc002"
 	]
-  }
-  ]
+	}
+	]
 }
