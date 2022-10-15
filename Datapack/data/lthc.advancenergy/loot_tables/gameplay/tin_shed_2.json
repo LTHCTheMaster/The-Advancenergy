@@ -5,7 +5,7 @@
 "rolls": {
 "type": "binomial",
 "n": 9,
-"p": 0.71
+"p": 0.64
 },
 "entries": [
 {

@@ -5,6 +5,7 @@
 	"dripstone_caves",
 	"#allows_surface_slime_spawns",
 	"badlands",
-	"#is_beach"
+	"#is_beach",
+	"#lthc.advancenergy:for_rare_tin_shed"
 	]
 }
