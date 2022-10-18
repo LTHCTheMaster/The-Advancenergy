@@ -1,7 +1,7 @@
 
 function lthc.advancenergy:gen/utils/random_position
 
-scoreboard players set #max_attempts lthc.advancenergy.data 100
+scoreboard players set #max_attempts lthc.advancenergy.data 90
 execute at @s run function lthc.advancenergy:gen/utils/find_adjacent_to_tin/find_adjacent_to_tin
 
 #Placing Ore

@@ -8,5 +8,7 @@ execute store result score #can_avoid lthc.advancenergy.data run data get storag
 # Run the scan if possible
 execute unless score #can_avoid lthc.advancenergy.data matches 0 run function lthc.advancenergy:controller/work/refinery/pre_scan
 
+execute if score @s lthc.advancenergy.working matches 0 run function lthc.advancenergy:controller/work/tag_control
+
 #Clear storage for memory
 data remove storage lthc.advancenergy:main Items

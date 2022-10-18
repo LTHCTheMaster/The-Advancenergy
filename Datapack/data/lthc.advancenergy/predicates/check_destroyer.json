@@ -1,8 +1,16 @@
-{
-	"condition": "minecraft:location_check",
-	"predicate": {
-	"block": {
-		"tag": "lthc.advancenergy:check_destroyer"
+[
+	{
+		"condition": "minecraft:location_check",
+		"predicate": {
+		"block": {}
+		}
+	},
+	{
+		"condition": "minecraft:location_check",
+		"predicate": {
+		"block": {
+			"tag": "lthc.advancenergy:check_destroyer"
+		}
+		}
 	}
-	}
-}
+]

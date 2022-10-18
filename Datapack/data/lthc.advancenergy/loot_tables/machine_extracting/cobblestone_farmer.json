@@ -1,0 +1,17 @@
+{
+    "type": "generic",
+    "pools": [
+        {
+            "rolls": {
+                "min": 2,
+                "max": 32
+            },
+            "entries": [
+                {
+                    "type": "item",
+                    "name": "cobblestone"
+                }
+            ]
+        }
+    ]
+}
