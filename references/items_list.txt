@@ -1,8 +1,17 @@
+advanced cable
 advanced carbon generator
 aqueous accumulator
 ash
 ash apple
+ash axe
+ash chestplate
+ash helmet
+ash hoe
 ash ingot
+ash leggings
+ash pickaxe
+ash shovel
+ash sword
 block of ash
 block of bronze
 block of lead
@@ -11,10 +20,20 @@ block of raw silver
 block of raw tin
 block of silver
 block of tin
+bronze axe
 bronze bomb
+bronze boots
+bronze boots
+bronze chestplate
+bronze helmet
+bronze hoe
 bronze ingot
+bronze leggings
 bronze machine casing
 bronze nugget
+bronze pickaxe
+bronze shovel
+bronze sword
 carbon extractor
 carbon generator
 cobblestone farmer

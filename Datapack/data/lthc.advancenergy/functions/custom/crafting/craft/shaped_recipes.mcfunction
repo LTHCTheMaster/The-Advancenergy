@@ -158,6 +158,10 @@ execute store result score @s smithed.data if entity @s[scores={smithed.data=0}]
 # Literal Dense Block of Coal
 execute store result score @s smithed.data if entity @s[scores={smithed.data=0}] if data storage smithed.crafter:main root.temp{crafting_input:{0:[{Slot:0b,id:"minecraft:coal_block"},{Slot:1b,tag:{ctc:{id:"ash_block"}}},{Slot:2b,id:"minecraft:coal_block"}],1:[{Slot:0b,tag:{ctc:{id:"ash_block"}}},{Slot:1b,id:"minecraft:coal_block"},{Slot:2b,tag:{ctc:{id:"ash_block"}}}],2:[{Slot:0b,id:"minecraft:coal_block"},{Slot:1b,tag:{ctc:{id:"ash_block"}}},{Slot:2b,id:"minecraft:coal_block"}]}} run loot replace block ~ ~ ~ container.16 loot lthc.advancenergy:i/materials/literal_dense_coal_block
 
+## Cables
+# Advanced cable
+execute store result score @s smithed.data if entity @s[scores={smithed.data=0}] if data storage smithed.crafter:main root.temp{crafting_input:{0:[{Slot:0b,tag:{ctc:{id:"bronze_ingot"}}},{Slot:1b,id:"minecraft:copper_ingot"},{Slot:2b,tag:{ctc:{id:"bronze_ingot"}}}],1:[{Slot:0b,tag:{ctc:{id:"primitive_cable"}}},{Slot:1b,tag:{ctc:{id:"lead_nugget"}}},{Slot:2b,tag:{ctc:{id:"primitive_cable"}}}],2:[{Slot:0b,tag:{ctc:{id:"ash"}}},{Slot:1b,tag:{ctc:{id:"ash"}}},{Slot:2b,tag:{ctc:{id:"ash"}}}]}} run loot replace block ~ ~ ~ container.16 loot lthc.advancenergy:i/cables/advanced_cable_x4
+
 #################################################
 
 # Complex Pattern (Multiple format but not shapeless)

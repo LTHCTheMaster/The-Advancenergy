@@ -120,6 +120,7 @@ diamond_sword and netherite_sword:
 
 cobblestone:
 	170000 - 170063 : primitive cable MODEL
+	170100 - 170163 : advanced cable MODEL
 	170200 - 170210 : cooling GUI
 	170211 - 170221 : carbon generator and advanced carbon generator GUI
 	170222 - 170232 : dust generator GUI

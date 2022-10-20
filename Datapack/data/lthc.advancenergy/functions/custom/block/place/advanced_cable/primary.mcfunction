@@ -1,0 +1,5 @@
+setblock ~ ~ ~ minecraft:air
+setblock ~ ~ ~ minecraft:player_head{SkullOwner:{Id:[I;-1416541,25415515,-3515615,-4156415],Properties:{textures:[{Value:"ewogICJ0aW1lc3RhbXAiIDogMTY2NjEwMzMzNzE5NCwKICAicHJvZmlsZUlkIiA6ICJjMjZjNWYyMTA0NDU0ZTQ1OGIzMGEzMGMzYThkMWI1YyIsCiAgInByb2ZpbGVOYW1lIiA6ICJMVEhDVGhlTWFzdGVyIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2YxOTBmZTg3MWEyM2UyZWQ2OWQ3OGFjZDgwMzAyYjY1NjczNDFkZDhhMjQ5YTljMjYzY2NmZmRiZmU0NDgyYmQiCiAgICB9CiAgfQp9"}]}},id:"minecraft:skull"}
+summon item_frame ~ ~ ~ {ItemRotation:0b,Tags:["global.ignore","global.ignore.kill","smithed.block","lthc.advancenergy.destroyer","lthc.advancenergy.advanced_cable","lthc.advancenergy.cable","lthc.advancenergy.new","energy.cable"],Invisible:1b,Invulnerable:1b,Fixed:1b,Silent:1b,Facing:1b,Item:{id:"cobblestone",Count:1b,tag:{CustomModelData:170100}}}
+execute as @e[type=item_frame,tag=lthc.advancenergy.new,limit=1] at @s run function lthc.advancenergy:custom/block/place/advanced_cable/secondary
+kill @s

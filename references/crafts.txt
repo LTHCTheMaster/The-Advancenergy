@@ -136,3 +136,13 @@ Literal Dense Block of Coal:
 	CAC
 	- A: Block of Ash
 	- C: Coal Block
+
+Advanced Cable:
+	BCB
+	PLP
+	AAA
+	- B: Bronze Ingot
+	- C: Copper Ingot
+	- P: Primitive Cable
+	- L: Lead Nugget
+	- A: Ash
