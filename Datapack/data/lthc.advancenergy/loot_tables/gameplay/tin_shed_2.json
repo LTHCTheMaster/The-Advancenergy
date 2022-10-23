@@ -4,8 +4,8 @@
 {
 "rolls": {
 "type": "binomial",
-"n": 9,
-"p": 0.64
+"n": 8,
+"p": 0.6
 },
 "entries": [
 {
@@ -36,7 +36,7 @@
 {
 "type": "loot_table",
 "name": "lthc.advancenergy:i/equipments/tin/hoe",
-"weight": 13,
+"weight": 10,
 "functions": [
 {
 "function": "enchant_with_levels",
@@ -50,7 +50,7 @@
 {
 "type": "loot_table",
 "name": "lthc.advancenergy:i/equipments/tin/boots",
-"weight": 13
+"weight": 10
 },
 {
 "type": "loot_table",

@@ -5,10 +5,10 @@
 "rolls": {
 "type": "binomial",
 "n": {
-"min": 7,
-"max": 12
+"min": 6,
+"max": 11
 },
-"p": 0.61
+"p": 0.56
 },
 "entries": [
 {
@@ -39,7 +39,7 @@
 {
 "type": "loot_table",
 "name": "lthc.advancenergy:i/equipments/tin/pickaxe",
-"weight": 13,
+"weight": 9,
 "functions": [
 {
 "function": "enchant_with_levels",
@@ -53,7 +53,7 @@
 {
 "type": "loot_table",
 "name": "lthc.advancenergy:i/equipments/tin/pickaxe",
-"weight": 6,
+"weight": 4,
 "functions": [
 {
 "function": "enchant_with_levels",
@@ -74,7 +74,7 @@
 {
 "type": "loot_table",
 "name": "lthc.advancenergy:i/equipments/tin/pickaxe",
-"weight": 13
+"weight": 10
 },
 {
 "type": "loot_table",
