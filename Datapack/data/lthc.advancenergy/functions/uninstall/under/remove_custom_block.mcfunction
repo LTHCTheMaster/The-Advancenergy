@@ -1,2 +1,2 @@
 setblock ~ ~ ~ air replace
-kill @s
+function lthc.advancenergy:custom/block/destroy/all

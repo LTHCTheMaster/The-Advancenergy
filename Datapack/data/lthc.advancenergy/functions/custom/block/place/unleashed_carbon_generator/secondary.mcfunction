@@ -4,7 +4,7 @@ scoreboard players set @s energy.storage 0
 scoreboard players add @s lthc.advancenergy.working 0
 scoreboard players add @s lthc.advancenergy.water 0
 scoreboard players add @s lthc.advancenergy.overheating 0
-scoreboard players set @s lthc.advancenergy.balance_require 3500
+scoreboard players set @s lthc.advancenergy.balance_require 8000
 tag @s remove lthc.advancenergy.set_new
 #Call on a new machine to initialize its connections
 function energy:v1/api/init_machine

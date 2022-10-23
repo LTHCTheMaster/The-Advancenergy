@@ -5,6 +5,12 @@
 			"lthc.advancenergy:generator/carbon_generator"
 		]
 	},
+	"unleashed_carbon_generator": {
+		"subtitle":"Carbon Generator Working",
+		"sounds": [
+			"lthc.advancenergy:generator/unleashed_carbon_generator"
+		]
+	},
 	"lead_bomb_alarm": {
 		"subtitle":"Lead Bomb Alarm",
 		"sounds": [

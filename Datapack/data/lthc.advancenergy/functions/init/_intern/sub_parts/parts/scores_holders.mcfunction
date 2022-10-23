@@ -37,6 +37,7 @@ scoreboard objectives add lthc.advancenergy.water dummy
 scoreboard objectives add lthc.advancenergy.working dummy
 scoreboard objectives add lthc.advancenergy.overheating dummy
 scoreboard objectives add lthc.advancenergy.balance_require dummy
+scoreboard objectives add lthc.advancenergy.burning_config dummy
 
 #############################
 
