@@ -35,6 +35,12 @@
 			"lthc.advancenergy:generator/dust_generator"
 		]
 	},
+	"potato_generator": {
+		"subtitle":"Dust Generator Working",
+		"sounds": [
+			"lthc.advancenergy:generator/potato_generator"
+		]
+	},
 	"mineral_extracting_machine": {
 		"subtitle":"Mineral Extracting Machine Working",
 		"sounds": [
