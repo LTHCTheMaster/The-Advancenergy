@@ -1,6 +1,6 @@
 {
 	"parent": "item/handheld",
 	"textures": {
-		"layer0": "lthc.advancenergy:equipments/ash/sword"
+		"layer0": "lthc.advancenergy:block/equipments/ash/sword"
 	}
 }

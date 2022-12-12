@@ -1,6 +1,6 @@
 {
 	"parent": "item/handheld",
 	"textures": {
-		"layer0": "lthc.advancenergy:equipments/lead/axe"
+		"layer0": "lthc.advancenergy:block/equipments/lead/axe"
 	}
 }

@@ -1,6 +1,6 @@
 {
 	"parent": "item/generated",
 	"textures": {
-	"layer0": "lthc.advancenergy:ores/tin/raw"
+	"layer0": "lthc.advancenergy:block/ores/tin/raw"
 	}
 }

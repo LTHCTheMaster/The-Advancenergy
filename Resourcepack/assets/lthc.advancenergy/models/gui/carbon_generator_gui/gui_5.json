@@ -1,6 +1,6 @@
 {
 	"textures": {
-	"texture": "lthc.advancenergy:gui/carbon_generator_gui/gui_5"
+	"texture": "lthc.advancenergy:block/gui/carbon_generator_gui/gui_5"
 	},
 	"elements": [ 
 	{

@@ -1,7 +1,7 @@
 {
 	"parent": "item/generated",
 	"textures": {
-		"layer0": "lthc.advancenergy:equipments/ash/helmet",
+		"layer0": "lthc.advancenergy:block/equipments/ash/helmet",
 		"layer1": "lthc.advancenergy:equipments/ash/helmet"
 	}
 }

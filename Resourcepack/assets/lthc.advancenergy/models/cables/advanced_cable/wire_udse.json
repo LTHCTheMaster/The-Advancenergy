@@ -1,7 +1,7 @@
 {
 	"parent": "lthc.advancenergy:wire_pos",
 	"textures": {
-	"0": "lthc.advancenergy:cables/advanced_cable"
+	"0": "lthc.advancenergy:block/cables/advanced_cable"
 	},
 	"elements": [
 	{

@@ -1,6 +1,6 @@
 {
 	"parent": "item/generated",
 	"textures": {
-	"layer0": "lthc.advancenergy:food/ash_apple"
+	"layer0": "lthc.advancenergy:block/food/ash_apple"
 	}
 }

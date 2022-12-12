@@ -1,6 +1,6 @@
 {
 	"parent": "item/handheld",
 	"textures": {
-		"layer0": "lthc.advancenergy:equipments/lead/pickaxe"
+		"layer0": "lthc.advancenergy:block/equipments/lead/pickaxe"
 	}
 }

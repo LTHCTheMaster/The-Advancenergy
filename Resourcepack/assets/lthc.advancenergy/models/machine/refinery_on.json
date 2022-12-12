@@ -1,8 +1,8 @@
 {
 	"parent": "lthc.advancenergy:block_renderer",
 	"textures": {
-	"ud": "lthc.advancenergy:ores/lead/block",
-	"sides": "lthc.advancenergy:machines/refinery/refinery_side_on"
+	"ud": "lthc.advancenergy:block/ores/lead/block",
+	"sides": "lthc.advancenergy:block/machines/refinery/refinery_side_on"
 	},
 	"elements": [{
 	"from": [ 0, 0, 0 ],

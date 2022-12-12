@@ -1,6 +1,6 @@
 {
 	"textures": {
-	"texture": "lthc.advancenergy:gui/carbon_extractor_gui/gui_1"
+	"texture": "lthc.advancenergy:block/gui/carbon_extractor_gui/gui_1"
 	},
 	"elements": [ 
 	{

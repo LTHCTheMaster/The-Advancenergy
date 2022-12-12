@@ -1,8 +1,8 @@
 {
 	"parent": "lthc.advancenergy:block_renderer",
 	"textures": {
-		"ud": "lthc.advancenergy:machines/unleashed_carbon_generator/",
-		"sides": "lthc.advancenergy:machines/unleashed_carbon_generator/unleashed_carbon_generator_side_on"
+		"ud": "lthc.advancenergy:block/machines/unleashed_carbon_generator/",
+		"sides": "lthc.advancenergy:block/machines/unleashed_carbon_generator/unleashed_carbon_generator_side_on"
 	},
 	"elements": [{
 		"from": [ 0, 0, 0 ],

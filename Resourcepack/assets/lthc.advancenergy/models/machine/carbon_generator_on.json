@@ -1,9 +1,9 @@
 {
 	"parent": "lthc.advancenergy:block_renderer",
 	"textures": {
-	"down": "lthc.advancenergy:machines/carbon_generator/carbon_generator_bottom",
-	"up": "lthc.advancenergy:ores/tin/block",
-	"sides": "lthc.advancenergy:machines/carbon_generator/carbon_generator_side_on"
+	"down": "lthc.advancenergy:block/machines/carbon_generator/carbon_generator_bottom",
+	"up": "lthc.advancenergy:block/ores/tin/block",
+	"sides": "lthc.advancenergy:block/machines/carbon_generator/carbon_generator_side_on"
 	},
 	"elements": [{
 	"from": [ 0, 0, 0 ],

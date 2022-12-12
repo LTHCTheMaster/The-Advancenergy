@@ -1,6 +1,6 @@
 {
 	"parent": "lthc.advancenergy:block_renderer",
 	"textures": {
-	"all": "lthc.advancenergy:materials/bronze/block"
+	"all": "lthc.advancenergy:block/materials/bronze/block"
 	}
 }

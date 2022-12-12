@@ -1,7 +1,7 @@
 {
 	"parent": "item/generated",
 	"textures": {
-		"layer0": "lthc.advancenergy:equipments/ash/chestplate",
+		"layer0": "lthc.advancenergy:block/equipments/ash/chestplate",
 		"layer1": "lthc.advancenergy:equipments/ash/chestplate"
 	}
 }

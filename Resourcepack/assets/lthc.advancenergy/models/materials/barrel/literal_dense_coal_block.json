@@ -1,7 +1,7 @@
 {
 	"parent": "minecraft:block/cube_all",
 	"textures": {
-		"all": "lthc.advancenergy:materials/literal_dense_coal_block/"
+		"all": "lthc.advancenergy:block/materials/literal_dense_coal_block/"
 	}
 	}
 	

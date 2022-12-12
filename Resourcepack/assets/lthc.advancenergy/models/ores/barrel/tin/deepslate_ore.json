@@ -1,6 +1,6 @@
 {
 	"parent": "minecraft:block/cube_all",
 	"textures": {
-	"all": "lthc.advancenergy:ores/tin/deepslate_ore"
+	"all": "lthc.advancenergy:block/ores/tin/deepslate_ore"
 	}
 }

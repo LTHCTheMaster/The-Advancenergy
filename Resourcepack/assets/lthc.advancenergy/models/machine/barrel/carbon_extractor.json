@@ -1,8 +1,8 @@
 {
 	"parent": "minecraft:block/cube_all",
 	"textures": {
-	"ud": "lthc.advancenergy:ores/tin/machine_casing",
-	"sides": "lthc.advancenergy:machines/carbon_extractor/carbon_extractor"
+	"ud": "lthc.advancenergy:block/ores/tin/machine_casing",
+	"sides": "lthc.advancenergy:block/machines/carbon_extractor/carbon_extractor"
 	},
 	"elements": [{
 	"from": [ 0, 0, 0 ],

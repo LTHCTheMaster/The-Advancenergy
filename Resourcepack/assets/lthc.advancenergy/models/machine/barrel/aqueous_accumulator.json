@@ -1,8 +1,8 @@
 {
 	"parent": "minecraft:block/cube_all",
 	"textures": {
-	"ud": "lthc.advancenergy:ores/silver/block",
-	"sides": "lthc.advancenergy:machines/aqueous_accumulator"
+	"ud": "lthc.advancenergy:block/ores/silver/block",
+	"sides": "lthc.advancenergy:block/machines/aqueous_accumulator"
 	},
 	"elements": [{
 	"from": [ 0, 0, 0 ],

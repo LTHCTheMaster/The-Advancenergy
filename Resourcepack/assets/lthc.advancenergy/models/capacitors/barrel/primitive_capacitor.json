@@ -1,9 +1,9 @@
 {
 	"parent": "minecraft:block/cube_all",
 	"textures": {
-	"down": "lthc.advancenergy:capacitors/capacitor_bottom",
-	"up": "lthc.advancenergy:capacitors/capacitor_top",
-	"sides": "lthc.advancenergy:capacitors/primitive_capacitor"
+	"down": "lthc.advancenergy:block/capacitors/capacitor_bottom",
+	"up": "lthc.advancenergy:block/capacitors/capacitor_top",
+	"sides": "lthc.advancenergy:block/capacitors/primitive_capacitor"
 	},
 	"elements": [{
 	"from": [ 0, 0, 0 ],

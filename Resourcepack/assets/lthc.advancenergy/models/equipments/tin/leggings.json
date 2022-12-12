@@ -1,7 +1,7 @@
 {
 	"parent": "item/generated",
 	"textures": {
-		"layer0": "lthc.advancenergy:equipments/tin/leggings",
+		"layer0": "lthc.advancenergy:block/equipments/tin/leggings",
 		"layer1": "lthc.advancenergy:equipments/tin/leggings"
 	}
 }

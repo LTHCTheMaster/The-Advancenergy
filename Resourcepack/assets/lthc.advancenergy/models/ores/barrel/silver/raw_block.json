@@ -1,7 +1,7 @@
 {
 	"parent": "minecraft:block/cube_all",
 	"textures": {
-	"all": "lthc.advancenergy:ores/silver/raw_block"
+	"all": "lthc.advancenergy:block/ores/silver/raw_block"
 	},
 	"display": {
 	

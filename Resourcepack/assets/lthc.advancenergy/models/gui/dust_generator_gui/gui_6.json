@@ -1,6 +1,6 @@
 {
 	"textures": {
-	"texture": "lthc.advancenergy:gui/dust_generator_gui/gui_6"
+	"texture": "lthc.advancenergy:block/gui/dust_generator_gui/gui_6"
 	},
 	"elements": [ 
 	{

@@ -1,6 +1,6 @@
 {
 	"textures": {
-	"texture": "lthc.advancenergy:gui/potato_generator_gui/gui_3"
+	"texture": "lthc.advancenergy:block/gui/potato_generator_gui/gui_3"
 	},
 	"elements": [ 
 	{

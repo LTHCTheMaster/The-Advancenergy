@@ -1,6 +1,6 @@
 {
 	"parent": "item/generated",
 	"textures": {
-	"layer0": "lthc.advancenergy:ores/silver/ingot"
+	"layer0": "lthc.advancenergy:block/ores/silver/ingot"
 	}
 }

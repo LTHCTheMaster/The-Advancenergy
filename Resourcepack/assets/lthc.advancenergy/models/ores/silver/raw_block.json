@@ -1,6 +1,6 @@
 {
 	"parent": "lthc.advancenergy:block_renderer",
 	"textures": {
-	"all": "lthc.advancenergy:ores/silver/raw_block"
+	"all": "lthc.advancenergy:block/ores/silver/raw_block"
 	}
 }

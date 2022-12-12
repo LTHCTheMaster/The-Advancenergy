@@ -1,6 +1,6 @@
 {
 	"parent": "lthc.advancenergy:block_renderer",
 	"textures": {
-	"all": "lthc.advancenergy:ores/tin/ore"
+	"all": "lthc.advancenergy:block/ores/tin/ore"
 	}
 }

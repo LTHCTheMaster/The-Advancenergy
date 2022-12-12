@@ -1,6 +1,6 @@
 {
 	"parent": "lthc.advancenergy:block_renderer",
 	"textures": {
-	"all": "lthc.advancenergy:machines/cobblestone_farmer"
+	"all": "lthc.advancenergy:block/machines/cobblestone_farmer"
 	}
 }

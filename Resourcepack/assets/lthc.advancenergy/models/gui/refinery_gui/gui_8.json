@@ -1,6 +1,6 @@
 {
 	"textures": {
-	"texture": "lthc.advancenergy:gui/refinery_gui/gui_8"
+	"texture": "lthc.advancenergy:block/gui/refinery_gui/gui_8"
 	},
 	"elements": [ 
 	{
