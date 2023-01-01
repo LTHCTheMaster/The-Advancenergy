@@ -2,10 +2,10 @@
 	"condition": "minecraft:entity_properties",
 	"entity": "this",
 	"predicate": {
-	"equipment": {
-	"mainhand": {
-	"tag": "minecraft:occludes_vibration_signals"
-	}
-	}
+		"equipment": {
+			"mainhand": {
+				"tag": "minecraft:occludes_vibration_signals"
+			}
+		}
 	}
 }

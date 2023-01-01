@@ -2,9 +2,9 @@
 	"operation": "smithed:append",
 	"id": "minecraft:decoration",
 	"entries": [
-	{
-		"type":"minecraft:loot_table",
-		"id":"smithed.crafter:block/table"
-	}
+		{
+			"type":"minecraft:loot_table",
+			"id":"smithed.crafter:block/table"
+		}
 	]
 }

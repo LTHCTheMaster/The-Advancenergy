@@ -2,10 +2,10 @@
 	"condition": "minecraft:entity_properties",
 	"entity": "this",
 	"predicate": {
-	"equipment": {
-	"mainhand": {
-	"tag": "minecraft:axolotl_tempt_items"
-	}
-	}
+		"equipment": {
+			"mainhand": {
+				"tag": "minecraft:axolotl_tempt_items"
+			}
+		}
 	}
 }
