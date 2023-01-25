@@ -3,4 +3,3 @@ data modify storage lthc.advancenergy:main GUI[{Slot:7b}].id set from storage lt
 data modify storage lthc.advancenergy:main GUI[{Slot:7b}].Count set from storage lthc.advancenergy:main GUI[{Slot:8b}].Count
 data modify storage lthc.advancenergy:main GUI[{Slot:7b}].tag set from storage lthc.advancenergy:main GUI[{Slot:8b}].tag
 data remove storage lthc.advancenergy:main GUI[{Slot:8b}]
-scoreboard players set #success lthc.advancenergy.data 1
