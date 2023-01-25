@@ -1,8 +1,8 @@
 {
 	"parent": "minecraft:block/cube_all",
 	"textures": {
-	"ud": "lthc.advancenergy:block/ores/lead/block",
-	"sides": "lthc.advancenergy:block/machines/refinery/refinery_side_on"
+	"ud": "lthc.advancenergy:block/machines/alloyer/up_down",
+	"sides": "lthc.advancenergy:block/machines/alloyer/side_off"
 	},
 	"elements": [{
 	"from": [ 0, 0, 0 ],

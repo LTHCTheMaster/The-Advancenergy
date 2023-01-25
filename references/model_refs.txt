@@ -34,6 +34,8 @@ barrel and glow_item_frame:
 	170232 : unleashed carbon generator off
 	170233 : unleashed carbon generator on
 	170234 : literal dense coal block
+	170235 : alloyer off
+	170236 : alloyer on
 
 command_block:
 	170200 : raw tin
