@@ -1,7 +1,7 @@
 
 function lthc.advancenergy:gen/utils/random_position
 
-scoreboard players set #max_attempts lthc.advancenergy.data 73
+scoreboard players set #max_attempts lthc.advancenergy.data 63
 execute at @s run function lthc.advancenergy:gen/utils/find_adjacent_air/find_adjacent_air
 
 #Get Random Value
