@@ -7,3 +7,4 @@ execute if entity @s[tag=lthc.advancenergy.refinery] run function lthc.advancene
 execute if entity @s[tag=lthc.advancenergy.potato_generator] run function lthc.advancenergy:custom/block/destroy/machine/potato_generator
 execute if entity @s[tag=lthc.advancenergy.cobblestone_farmer] run function lthc.advancenergy:custom/block/destroy/machine/cobblestone_farmer
 execute if entity @s[tag=lthc.advancenergy.carbon_extractor] run function lthc.advancenergy:custom/block/destroy/machine/carbon_extractor
+execute if entity @s[tag=lthc.advancenergy.alloyer] run function lthc.advancenergy:custom/block/destroy/machine/alloyer
