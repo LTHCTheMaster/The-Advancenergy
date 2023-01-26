@@ -146,3 +146,16 @@ Advanced Cable:
 	- P: Primitive Cable
 	- L: Lead Nugget
 	- A: Ash
+
+Alloyer:
+	BFS
+	CTH
+	RIR
+	- B: Blast Furnace
+	- F: Furnace
+	- S: Smoker
+	- C: Crafting Table
+	- T: Tin Machine Casing
+	- H: Heavy Workbench
+	- R: Raw Copper
+	- I: Iron Ingot
