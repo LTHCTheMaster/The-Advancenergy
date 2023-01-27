@@ -7,3 +7,4 @@ tag @a remove lthc.advancenergy.sounds.dust_generator
 tag @a remove lthc.advancenergy.sounds.potato_generator
 tag @a remove lthc.advancenergy.sounds.refinery
 tag @a remove lthc.advancenergy.sounds.mineral_extracting_machine
+tag @a remove lthc.advancenergy.sounds.carbon_extractor

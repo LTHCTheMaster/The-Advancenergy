@@ -36,7 +36,7 @@
 		]
 	},
 	"potato_generator": {
-		"subtitle":"Dust Generator Working",
+		"subtitle":"Potato Generator Working",
 		"sounds": [
 			"lthc.advancenergy:generator/potato_generator"
 		]
@@ -45,6 +45,12 @@
 		"subtitle":"Mineral Extracting Machine Working",
 		"sounds": [
 			"lthc.advancenergy:machine/mineral_extracting_machine"
+		]
+	},
+	"carbon_extractor": {
+		"subtitle":"Carbon Extractor Machine Working",
+		"sounds": [
+			"lthc.advancenergy:machine/carbon_extractor"
 		]
 	}
 }
