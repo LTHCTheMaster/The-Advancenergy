@@ -5,6 +5,6 @@
 	"lthc.advancenergy:controller/filters/refinery/input_filter",
 	"lthc.advancenergy:controller/filters/potato_generator/input_filter",
 	"lthc.advancenergy:controller/filters/alloyer/in_1/input_filter",
-	"lthc.advancenergy:controller/filters/alloyer/in_1/input_filter"
+	"lthc.advancenergy:controller/filters/alloyer/in_2/input_filter"
 	]
 }
