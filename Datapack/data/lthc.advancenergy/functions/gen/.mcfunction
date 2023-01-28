@@ -14,7 +14,7 @@
 	execute as @e[limit=4] run summon area_effect_cloud ~ 0 ~ {Tags:["lthc.advancenergy.ore_pos"],Duration:0}
 	execute as @e[tag=lthc.advancenergy.ore_pos] at @s run function lthc.advancenergy:gen/ores/2/tin/tin_natural
 # Generate Tin Ore with air adjacency
-	execute as @e[limit=2] run summon area_effect_cloud ~ 0 ~ {Tags:["lthc.advancenergy.ore_pos"],Duration:0}
+	execute as @e[limit=1] run summon area_effect_cloud ~ 0 ~ {Tags:["lthc.advancenergy.ore_pos"],Duration:0}
 	execute as @e[tag=lthc.advancenergy.ore_pos] at @s run function lthc.advancenergy:gen/ores/2/tin/tin_air
 
 ## Lead Ore Gen
@@ -40,7 +40,7 @@
 	scoreboard players set #xz_variation lthc.advancenergy.data 410
 	scoreboard players set #max_height lthc.advancenergy.data 350
 # Generate Silver Ore with "natural ("IRL")" adjacency
-	execute as @e[limit=5] run summon area_effect_cloud ~ 0 ~ {Tags:["lthc.advancenergy.ore_pos"],Duration:0}
+	execute as @e[limit=4] run summon area_effect_cloud ~ 0 ~ {Tags:["lthc.advancenergy.ore_pos"],Duration:0}
 	execute as @e[tag=lthc.advancenergy.ore_pos] at @s run function lthc.advancenergy:gen/ores/1/silver/silver_natural
 # Generate Silver Ore with air adjacency
 	execute as @e[limit=1] run summon area_effect_cloud ~ 0 ~ {Tags:["lthc.advancenergy.ore_pos"],Duration:0}
