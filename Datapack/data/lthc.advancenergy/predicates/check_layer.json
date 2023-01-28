@@ -1,10 +1,24 @@
 {
-	"condition": "minecraft:location_check",
-	"predicate": {
-	"position": {
-		"y": {
-		"max": 0
+	"condition": "alternative",
+	"terms": [
+		{
+			"condition": "minecraft:location_check",
+			"predicate": {
+			"position": {
+				"y": {
+				"max": 0
+				}
+			}
+			}
+		},
+		{
+			"condition": "minecraft:location_check",
+			"predicate": {
+			"block": {
+				"tag": "deepslate_ore_replaceables"
+			}
+			}
 		}
-	}
-	}
+			
+	]
 }
