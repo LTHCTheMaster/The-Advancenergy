@@ -2,19 +2,19 @@
 	"structures": [
 	{
 		"structure": "lthc.advancenergy:ore_rock",
-		"weight": 14
+		"weight": 13
 	},
 	{
 		"structure": "lthc.advancenergy:tin_shed",
-		"weight": 10
+		"weight": 13
 	},
 	{
 		"structure": "lthc.advancenergy:lead_house",
-		"weight": 9
+		"weight": 11
 	},
 	{
 		"structure": "lthc.advancenergy:creeper_cage",
-		"weight": 6
+		"weight": 8
 	},
 	{
 		"structure": "lthc.advancenergy:rare_tin_shed",
@@ -23,8 +23,8 @@
 	],
 	"placement": {
 	"type": "minecraft:random_spread",
-	"spacing": 35,
-	"separation": 31,
+	"spacing": 43,
+	"separation": 39,
 	"salt": 150003102
 	}
 }
