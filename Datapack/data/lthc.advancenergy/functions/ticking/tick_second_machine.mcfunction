@@ -8,3 +8,4 @@ execute if entity @s[tag=lthc.advancenergy.solar_generator] if score @s energy.s
 execute if entity @s[tag=lthc.advancenergy.potato_generator] if score @s energy.storage < @s energy.max_storage run function lthc.advancenergy:controller/has_visual/potato_generator
 execute if entity @s[tag=lthc.advancenergy.cobblestone_farmer] run function lthc.advancenergy:controller/work/cobblestone_farmer/
 execute if entity @s[tag=lthc.advancenergy.carbon_extractor] run function lthc.advancenergy:controller/has_visual/carbon_extractor
+execute if entity @s[tag=lthc.advancenergy.alloyer] run function lthc.advancenergy:controller/has_visual/alloyer
