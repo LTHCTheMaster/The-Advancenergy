@@ -129,6 +129,7 @@ cobblestone:
 	170233 - 170243 : refinery GUI
 	170244 - 170254 : potato generator GUI
 	170255 - 170265 : carbon extractor GUI
+	170266 - 170276 : alloyer GUI
 
 golden_apple:
 	170200 : ash apple

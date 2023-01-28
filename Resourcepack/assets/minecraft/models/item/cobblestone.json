@@ -196,6 +196,17 @@
 	{ "predicate": { "custom_model_data": 170262 }, "model": "lthc.advancenergy:gui/carbon_extractor_gui/gui_7" },
 	{ "predicate": { "custom_model_data": 170263 }, "model": "lthc.advancenergy:gui/carbon_extractor_gui/gui_8" },
 	{ "predicate": { "custom_model_data": 170264 }, "model": "lthc.advancenergy:gui/carbon_extractor_gui/gui_9" },
-	{ "predicate": { "custom_model_data": 170265 }, "model": "lthc.advancenergy:gui/carbon_extractor_gui/gui_10" }
+	{ "predicate": { "custom_model_data": 170265 }, "model": "lthc.advancenergy:gui/carbon_extractor_gui/gui_10" },
+	{ "predicate": { "custom_model_data": 170266 }, "model": "lthc.advancenergy:gui/alloyer_gui/gui_0" },
+	{ "predicate": { "custom_model_data": 170267 }, "model": "lthc.advancenergy:gui/alloyer_gui/gui_1" },
+	{ "predicate": { "custom_model_data": 170268 }, "model": "lthc.advancenergy:gui/alloyer_gui/gui_2" },
+	{ "predicate": { "custom_model_data": 170269 }, "model": "lthc.advancenergy:gui/alloyer_gui/gui_3" },
+	{ "predicate": { "custom_model_data": 170270 }, "model": "lthc.advancenergy:gui/alloyer_gui/gui_4" },
+	{ "predicate": { "custom_model_data": 170271 }, "model": "lthc.advancenergy:gui/alloyer_gui/gui_5" },
+	{ "predicate": { "custom_model_data": 170272 }, "model": "lthc.advancenergy:gui/alloyer_gui/gui_6" },
+	{ "predicate": { "custom_model_data": 170273 }, "model": "lthc.advancenergy:gui/alloyer_gui/gui_7" },
+	{ "predicate": { "custom_model_data": 170274 }, "model": "lthc.advancenergy:gui/alloyer_gui/gui_8" },
+	{ "predicate": { "custom_model_data": 170275 }, "model": "lthc.advancenergy:gui/alloyer_gui/gui_9" },
+	{ "predicate": { "custom_model_data": 170276 }, "model": "lthc.advancenergy:gui/alloyer_gui/gui_10" }
 	]
 }
