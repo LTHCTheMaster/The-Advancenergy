@@ -9,4 +9,4 @@ function energy:v1/api/init_machine
 
 function #itemio:calls/container/init
 
-#function lthc.advancenergy:controller/gui_manager/refinery
+function lthc.advancenergy:controller/gui_manager/alloyer
