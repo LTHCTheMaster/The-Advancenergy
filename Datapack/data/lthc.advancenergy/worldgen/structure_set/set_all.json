@@ -2,22 +2,26 @@
 	"structures": [
 		{
 			"structure": "lthc.advancenergy:ore_rock",
-			"weight": 13
+			"weight": 16
 		},
 		{
 			"structure": "lthc.advancenergy:tin_shed",
-			"weight": 13
+			"weight": 15
 		},
 		{
 			"structure": "lthc.advancenergy:lead_house",
-			"weight": 11
+			"weight": 12
 		},
 		{
 			"structure": "lthc.advancenergy:creeper_cage",
-			"weight": 8
+			"weight": 9
 		},
 		{
 			"structure": "lthc.advancenergy:rare_tin_shed",
+			"weight": 1
+		},
+		{
+			"structure": "lthc.advancenergy:luck_tower",
 			"weight": 1
 		}
 	],
