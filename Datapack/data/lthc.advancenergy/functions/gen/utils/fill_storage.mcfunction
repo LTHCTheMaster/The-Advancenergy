@@ -3,8 +3,6 @@ execute if predicate lthc.advancenergy:luck/50 run scoreboard players add #x.ran
 execute if predicate lthc.advancenergy:luck/50 run scoreboard players add #x.random lthc.advancenergy.data 2
 execute if predicate lthc.advancenergy:luck/50 run scoreboard players add #x.random lthc.advancenergy.data 4
 execute if predicate lthc.advancenergy:luck/50 run scoreboard players add #x.random lthc.advancenergy.data 8
-execute if predicate lthc.advancenergy:luck/50 run scoreboard players add #x.random lthc.advancenergy.data 16
-execute if predicate lthc.advancenergy:luck/50 run scoreboard players add #x.random lthc.advancenergy.data 32
 execute if predicate lthc.advancenergy:luck/50 run scoreboard players operation #x.random lthc.advancenergy.data *= #-1 lthc.advancenergy.data
 scoreboard players operation #x.random lthc.advancenergy.data *= #seed lthc.advancenergy.data
 
@@ -14,7 +12,6 @@ execute if predicate lthc.advancenergy:luck/50 run scoreboard players add #y lth
 execute if predicate lthc.advancenergy:luck/50 run scoreboard players add #y lthc.advancenergy.data 4
 execute if predicate lthc.advancenergy:luck/50 run scoreboard players add #y lthc.advancenergy.data 8
 execute if predicate lthc.advancenergy:luck/50 run scoreboard players add #y lthc.advancenergy.data 16
-execute if predicate lthc.advancenergy:luck/50 run scoreboard players add #y lthc.advancenergy.data 32
 execute if predicate lthc.advancenergy:luck/50 run scoreboard players operation #y lthc.advancenergy.data *= #-1 lthc.advancenergy.data
 scoreboard players operation #y lthc.advancenergy.data *= #seed lthc.advancenergy.data
 
@@ -23,7 +20,5 @@ execute if predicate lthc.advancenergy:luck/50 run scoreboard players add #z.ran
 execute if predicate lthc.advancenergy:luck/50 run scoreboard players add #z.random lthc.advancenergy.data 2
 execute if predicate lthc.advancenergy:luck/50 run scoreboard players add #z.random lthc.advancenergy.data 4
 execute if predicate lthc.advancenergy:luck/50 run scoreboard players add #z.random lthc.advancenergy.data 8
-execute if predicate lthc.advancenergy:luck/50 run scoreboard players add #z.random lthc.advancenergy.data 16
-execute if predicate lthc.advancenergy:luck/50 run scoreboard players add #z.random lthc.advancenergy.data 32
 execute if predicate lthc.advancenergy:luck/50 run scoreboard players operation #z.random lthc.advancenergy.data *= #-1 lthc.advancenergy.data
 scoreboard players operation #z.random lthc.advancenergy.data *= #seed lthc.advancenergy.data
