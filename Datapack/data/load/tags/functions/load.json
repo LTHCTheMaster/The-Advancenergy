@@ -6,6 +6,7 @@
 	"#energy:load",
 	"#furnace_nbt_recipes:load",
 	"#itemio:load",
+	"#smart_ore_generation:load",
 	"#lthc.advancenergy:load/load"
 	]
 }
