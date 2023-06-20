@@ -1,5 +1,5 @@
 {
-	"values": [
-	"itemio:v0.2.0/calls/cable/destroy"
-	]
+  "values": [
+    "itemio:v0.3.0/calls/cable/destroy"
+  ]
 }

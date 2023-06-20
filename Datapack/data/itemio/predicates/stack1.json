@@ -2,11 +2,11 @@
 	"condition": "minecraft:entity_properties",
 	"entity": "this",
 	"predicate": {
-		"equipment": {
+	  "equipment": {
 		"mainhand": {
-			"tag": "itemio:stack1"
+		  "tag": "itemio:stack1"
 		}
-		}
+	  }
 	}
-	}
-	
+  }
+  
