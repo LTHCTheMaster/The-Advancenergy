@@ -31,7 +31,7 @@
 | ✅   | / | Multiplayer     |
 | ✅   | ✅   | Vanilla         |
 | ✅   | ✅   | Optifine        |
-| ✅   | ✅/❌   | Iris-Sodium     |
+| ✅   | ✅   | Iris-Sodium     |
 | ✅   | ✅   | Fabric          |
 | ⚠   | ✅   | Forge           |
 | ❓   | ❓   | Realms          |
