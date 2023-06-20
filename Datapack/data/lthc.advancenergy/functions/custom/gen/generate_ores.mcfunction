@@ -30,3 +30,10 @@ scoreboard players operation #max_height smart_ore_generation.data += #32 lthc.a
 execute if score #dimension smart_ore_generation.data matches 0 run function lthc.advancenergy:custom/gen/ores/silver_ore
 execute if score #dimension smart_ore_generation.data matches 0 run function lthc.advancenergy:custom/gen/ores/silver_ore
 execute if score #dimension smart_ore_generation.data matches 0 run function lthc.advancenergy:custom/gen/ores/silver_ore
+
+# It's time for custom pattern :) (in the overworld only)
+scoreboard players operation #min_height smart_ore_generation.data = _OVERWORLD_BOTTOM smart_ore_generation.data
+scoreboard players operation #min_height smart_ore_generation.data += #14 lthc.advancenergy.data
+scoreboard players operation #max_height smart_ore_generation.data = #min_height smart_ore_generation.data
+scoreboard players operation #max_height smart_ore_generation.data += #32 lthc.advancenergy.data
+execute if score #dimension smart_ore_generation.data matches 0 run function lthc.advancenergy:custom/gen/ores/pattern_ore
