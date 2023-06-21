@@ -5,8 +5,6 @@
 	}
 	},
 	"rewards": {
-	"loot": [
-		"lthc.advancenergy:i/guide/guide"
-	]
+	"function": "lthc.advancenergy:_func/give/give_book"
 	}
 }

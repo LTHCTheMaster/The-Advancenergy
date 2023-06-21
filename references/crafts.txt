@@ -159,3 +159,9 @@ Alloyer:
 	- H: Heavy Workbench
 	- R: Raw Copper
 	- I: Iron Ingot
+
+####################################################################################
+
+In The Alloyer:
+
+	Redstone + Yellow Dye => Glowstone Dust
