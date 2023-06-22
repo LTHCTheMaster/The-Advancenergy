@@ -27,7 +27,7 @@
               },
               "score": "load.status"
             },
-            "range": 2
+            "range": 1
           },
           {
             "condition": "minecraft:value_check",

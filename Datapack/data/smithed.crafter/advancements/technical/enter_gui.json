@@ -3,18 +3,13 @@
     "click_paleontology_table": {
       "trigger": "minecraft:item_used_on_block",
       "conditions": {
-        "location": [
-          {
-            "condition": "minecraft:location_check",
-            "predicate": {
-              "block": {
-                "blocks": [
-                  "minecraft:barrel"
-                ]
-              }
-            }
+        "location": {
+          "block": {
+            "blocks": [
+              "minecraft:barrel"
+            ]
           }
-        ],
+        },
         "player": [
           {
             "condition": "minecraft:value_check",
@@ -38,7 +33,7 @@
               },
               "score": "load.status"
             },
-            "range": 2
+            "range": 1
           },
           {
             "condition": "minecraft:value_check",

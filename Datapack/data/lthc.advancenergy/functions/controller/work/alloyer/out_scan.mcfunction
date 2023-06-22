@@ -10,6 +10,9 @@ scoreboard players set #already lthc.advancenergy.data 0
 ## Scan and output
 # Vanilla Items
 execute if score #already lthc.advancenergy.data matches 0 store success score #already lthc.advancenergy.data if data storage lthc.advancenergy:main AlloyerCurrent.glowstone run function lthc.advancenergy:controller/work/alloyer/output/glowstone
+# Custom Items
+execute if score #already lthc.advancenergy.data matches 0 store success score #already lthc.advancenergy.data if data storage lthc.advancenergy:main AlloyerCurrent."the_advancenergy/ash_ingot" run function lthc.advancenergy:controller/work/alloyer/output/ash
+execute if score #already lthc.advancenergy.data matches 0 store success score #already lthc.advancenergy.data if data storage lthc.advancenergy:main AlloyerCurrent."the_advancenergy/bronze" run function lthc.advancenergy:controller/work/alloyer/output/bronze
 
 # Reset the entity RefineryCurrent nbt data of the entity
 data modify entity @s Item.tag.AlloyerCurrent set from storage lthc.advancenergy:main AlloyerCurrent

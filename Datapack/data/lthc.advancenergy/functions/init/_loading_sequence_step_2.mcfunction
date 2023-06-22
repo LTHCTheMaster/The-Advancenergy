@@ -29,6 +29,3 @@ schedule function lthc.advancenergy:init/_intern/sub_parts/schedule 1t replace
 scoreboard players set #lthc.advancenergy.loaded lthc.advancenergy.data 1
 
 tellraw @a[tag=convention.debug] {"text":"[Loaded The Advancenergy v1.0.0]","italic":false,"color":"green"}
-
-# 1.19.4 manipulation
-execute if score _defs.players_present lthc.advancenergy._defs matches 1 if score _defs.minecraft_version lthc.advancenergy._defs matches 3337.. run scoreboard players set #smithed.custom_block.minor load.status 1

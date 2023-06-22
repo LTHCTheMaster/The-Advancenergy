@@ -164,4 +164,6 @@ Alloyer:
 
 In The Alloyer:
 
-	Redstone + Yellow Dye => Glowstone Dust
+	Redstone     + Yellow Dye   => Glowstone Dust
+	Silver Ingot + Ash          => Ash Ingot
+	Tin Ingot    + Copper Ingot => Bronze Ingot
