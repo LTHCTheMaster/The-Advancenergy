@@ -6,8 +6,8 @@ execute if block ~1 ~ ~ fire run scoreboard players add @s lthc.advancenergy.dat
 execute if block ~ ~ ~-1 fire run scoreboard players add @s lthc.advancenergy.data_2 1
 execute if block ~ ~ ~1 fire run scoreboard players add @s lthc.advancenergy.data_2 1
 
-execute if score @s lthc.advancenergy.data_2 matches 0 run scoreboard players set @s lthc.advancenergy.working 160
-execute if score @s lthc.advancenergy.data_2 matches 1 run scoreboard players set @s lthc.advancenergy.working 140
-execute if score @s lthc.advancenergy.data_2 matches 2 run scoreboard players set @s lthc.advancenergy.working 110
-execute if score @s lthc.advancenergy.data_2 matches 3 run scoreboard players set @s lthc.advancenergy.working 90
-execute if score @s lthc.advancenergy.data_2 matches 4 run scoreboard players set @s lthc.advancenergy.working 60
+execute if score @s lthc.advancenergy.data_2 matches 0 run scoreboard players set @s lthc.advancenergy.working 200
+execute if score @s lthc.advancenergy.data_2 matches 1 run scoreboard players set @s lthc.advancenergy.working 180
+execute if score @s lthc.advancenergy.data_2 matches 2 run scoreboard players set @s lthc.advancenergy.working 140
+execute if score @s lthc.advancenergy.data_2 matches 3 run scoreboard players set @s lthc.advancenergy.working 110
+execute if score @s lthc.advancenergy.data_2 matches 4 run scoreboard players set @s lthc.advancenergy.working 90
