@@ -145,12 +145,8 @@ execute store result score @s smithed.data if entity @s[scores={smithed.data=0}]
 ## Materials
 # Bronze Machine Casing
 execute store result score @s smithed.data if entity @s[scores={smithed.data=0}] if data storage smithed.crafter:main root.temp{crafting_input:{0:[{Slot:0b,tag:{ctc:{id:"bronze_ingot"}}},{Slot:1b,tag:{ctc:{id:"bronze_ingot"}}},{Slot:2b,tag:{ctc:{id:"bronze_ingot"}}}],1:[{Slot:0b,tag:{ctc:{id:"bronze_ingot"}}},{Slot:1b,tag:{ctc:{id:"lead_machine_casing"}}},{Slot:2b,tag:{ctc:{id:"bronze_ingot"}}}],2:[{Slot:0b,tag:{ctc:{id:"bronze_ingot"}}},{Slot:1b,tag:{ctc:{id:"bronze_ingot"}}},{Slot:2b,tag:{ctc:{id:"bronze_ingot"}}}]}} run loot replace block ~ ~ ~ container.16 loot lthc.advancenergy:i/materials/bronze_machine_casing
-# Bronze Ingot
-execute store result score @s smithed.data if entity @s[scores={smithed.data=0}] if data storage smithed.crafter:main root.temp{crafting_input:{0:[{Slot:0b,id:"minecraft:copper_ingot"},{Slot:1b,tag:{ctc:{id:"tin_ingot"}}},{Slot:2b,id:"minecraft:copper_ingot"}],1:[{Slot:0b,tag:{ctc:{id:"tin_ingot"}}},{Slot:1b,id:"minecraft:copper_ingot"},{Slot:2b,tag:{ctc:{id:"tin_ingot"}}}]}} if data storage smithed.crafter:main root.temp{crafting_input:{2:[]}} run loot replace block ~ ~ ~ container.16 loot lthc.advancenergy:i/materials/bronze_ingot_x6
 
 ## Special Ash Things
-# Ash Ingot
-execute store result score @s smithed.data if entity @s[scores={smithed.data=0}] if data storage smithed.crafter:main root.temp{crafting_input:{0:[{Slot:0b,tag:{ctc:{id:"ash"}}},{Slot:1b,tag:{ctc:{id:"ash"}}},{Slot:2b,tag:{ctc:{id:"ash"}}}],1:[{Slot:0b,tag:{ctc:{id:"ash"}}},{Slot:1b,tag:{ctc:{id:"silver_ingot"}}},{Slot:2b,tag:{ctc:{id:"ash"}}}],2:[{Slot:0b,tag:{ctc:{id:"ash"}}},{Slot:1b,tag:{ctc:{id:"ash"}}},{Slot:2b,tag:{ctc:{id:"ash"}}}]}} run loot replace block ~ ~ ~ container.16 loot lthc.advancenergy:i/materials/ash_ingot
 # Ash Apple
 execute store result score @s smithed.data if entity @s[scores={smithed.data=0}] if data storage smithed.crafter:main root.temp{crafting_input:{0:[{Slot:0b,tag:{ctc:{id:"ash"}}},{Slot:1b,tag:{ctc:{id:"ash"}}},{Slot:2b,tag:{ctc:{id:"ash"}}}],1:[{Slot:0b,tag:{ctc:{id:"ash"}}},{Slot:1b,id:"minecraft:apple"},{Slot:2b,tag:{ctc:{id:"ash"}}}],2:[{Slot:0b,tag:{ctc:{id:"ash"}}},{Slot:1b,tag:{ctc:{id:"ash"}}},{Slot:2b,tag:{ctc:{id:"ash"}}}]}} run loot replace block ~ ~ ~ container.16 loot lthc.advancenergy:i/materials/ash_apple
 
