@@ -53,3 +53,5 @@ execute if score CrazyAdventure load.status matches 1000.. run function lthc.adv
 execute if score #mech.ver.major load.status matches 4 if score #mech.ver.minor load.status matches 0 if score #mech.ver.fix load.status matches 0.. run function lthc.advancenergy:init/_intern/sub_parts/parts/refinery_registry/mechanization_compatibility
 ## EnergyUtils
 execute if score energyutils.major load.status matches 1 if score energyutils.minor load.status matches 0 if score energyutils.patch load.status matches 0.. run function lthc.advancenergy:init/_intern/sub_parts/parts/refinery_registry/energyutils_compatibility
+## GalactiPack
+execute if score #galactipack load.status matches 1000..1009 run function lthc.advancenergy:init/_intern/sub_parts/parts/refinery_registry/galactipack_compatibility

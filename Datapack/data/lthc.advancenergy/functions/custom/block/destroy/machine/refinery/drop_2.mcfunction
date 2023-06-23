@@ -36,6 +36,10 @@ execute if score #already lthc.advancenergy.data matches 0 store success score #
 execute if score #already lthc.advancenergy.data matches 0 store success score #already lthc.advancenergy.data if data storage lthc.advancenergy:main RefineryCurrent."crazy_adventure/californium" run data modify entity @s Item set from storage lthc.advancenergy:main REFINERY.REGISTRY.crazy_adventure.californium.out1
 # EnergyUtils
 execute if score #already lthc.advancenergy.data matches 0 store success score #already lthc.advancenergy.data if data storage lthc.advancenergy:main RefineryCurrent."energyutils/silver" run data modify entity @s Item set from storage lthc.advancenergy:main REFINERY.REGISTRY.energyutils.silver.out1
+# GalactiPack
+execute if score #already lthc.advancenergy.data matches 0 store success score #already lthc.advancenergy.data if data storage lthc.advancenergy:main RefineryCurrent."galactipack/red_meteor" run data modify entity @s Item set from storage lthc.advancenergy:main REFINERY.REGISTRY.galactipack.red_meteor.out1
+execute if score #already lthc.advancenergy.data matches 0 store success score #already lthc.advancenergy.data if data storage lthc.advancenergy:main RefineryCurrent."galactipack/green_meteor" run data modify entity @s Item set from storage lthc.advancenergy:main REFINERY.REGISTRY.galactipack.green_meteor.out1
+execute if score #already lthc.advancenergy.data matches 0 store success score #already lthc.advancenergy.data if data storage lthc.advancenergy:main RefineryCurrent."galactipack/blue_meteor" run data modify entity @s Item set from storage lthc.advancenergy:main REFINERY.REGISTRY.galactipack.blue_meteor.out1
 
 ##########
 

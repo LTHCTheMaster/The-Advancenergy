@@ -43,6 +43,10 @@ execute if score #already lthc.advancenergy.data matches 0 store success score #
 execute if score #already lthc.advancenergy.data matches 0 store success score #already lthc.advancenergy.data if data storage lthc.advancenergy:main RefineryCurrent."crazy_adventure/californium" run function lthc.advancenergy:controller/work/refinery/output/crazy_adventure_compatibility/californium
 # EnergyUtils
 execute if score #already lthc.advancenergy.data matches 0 store success score #already lthc.advancenergy.data if data storage lthc.advancenergy:main RefineryCurrent."energyutils/silver" run function lthc.advancenergy:controller/work/refinery/output/energyutils_compatibility/silver
+# GalactiPack
+execute if score #already lthc.advancenergy.data matches 0 store success score #already lthc.advancenergy.data if data storage lthc.advancenergy:main RefineryCurrent."galactipack/red_meteor" run function lthc.advancenergy:controller/work/refinery/output/galactipack_compatibility/red_meteor
+execute if score #already lthc.advancenergy.data matches 0 store success score #already lthc.advancenergy.data if data storage lthc.advancenergy:main RefineryCurrent."galactipack/green_meteor" run function lthc.advancenergy:controller/work/refinery/output/galactipack_compatibility/green_meteor
+execute if score #already lthc.advancenergy.data matches 0 store success score #already lthc.advancenergy.data if data storage lthc.advancenergy:main RefineryCurrent."galactipack/blue_meteor" run function lthc.advancenergy:controller/work/refinery/output/galactipack_compatibility/blue_meteor
 
 function #lthc.advancenergy:calls/refinery_output_scan
 

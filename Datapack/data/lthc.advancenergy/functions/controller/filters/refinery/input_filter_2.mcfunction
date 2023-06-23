@@ -50,3 +50,6 @@ execute if score #valid_item itemio.math matches 0 store success score #valid_it
 execute if score #valid_item itemio.math matches 0 store success score #valid_item itemio.math if data storage itemio:io item.tag.ctc{from:"vgreluchon:crazy_adventure",traits:{"metal/californium":1b,"ore":1b}}
 execute if score #valid_item itemio.math matches 0 store success score #valid_item itemio.math if data storage itemio:io item.tag.ctc{from:"airdox_:energyutils",traits:{"metal/silver":1b,"ore":1b}}
 execute if score #valid_item itemio.math matches 0 store success score #valid_item itemio.math if data storage itemio:io item.tag.ctc{from:"airdox_:energyutils",id:"raw_silver"}
+execute if score #valid_item itemio.math matches 0 store success score #valid_item itemio.math if data storage itemio:io item.tag.ctc{from:"piggypig:galactipack",id:"red_meteor_iron"}
+execute if score #valid_item itemio.math matches 0 store success score #valid_item itemio.math if data storage itemio:io item.tag.ctc{from:"piggypig:galactipack",id:"green_meteor_iron"}
+execute if score #valid_item itemio.math matches 0 store success score #valid_item itemio.math if data storage itemio:io item.tag.ctc{from:"piggypig:galactipack",id:"blue_meteor_iron"}

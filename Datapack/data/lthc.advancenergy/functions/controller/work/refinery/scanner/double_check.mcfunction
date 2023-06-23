@@ -33,6 +33,8 @@ execute if score #already2 lthc.advancenergy.data matches 0 if score CrazyAdvent
 execute if score #already2 lthc.advancenergy.data matches 0 if score #mech.ver.major load.status matches 4 if score #mech.ver.minor load.status matches 0 if score #mech.ver.fix load.status matches 0.. run function lthc.advancenergy:controller/work/refinery/scanner/mechanization_compatibility/double_check
 # EnergyUtils Compatibility
 execute if score #already2 lthc.advancenergy.data matches 0 if score energyutils.major load.status matches 1 if score energyutils.minor load.status matches 0 if score energyutils.patch load.status matches 0.. run function lthc.advancenergy:controller/work/refinery/scanner/energyutils_compatibility/double_check
+# EnergyUtils Compatibility
+execute if score #already2 lthc.advancenergy.data matches 0 if score #galactipack load.status matches 1000..1009 run function lthc.advancenergy:controller/work/refinery/scanner/galactipack_compatibility/double_check
 
 # From other packs
 function #lthc.advancenergy:calls/count/ne_sob1
