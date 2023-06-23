@@ -12,7 +12,7 @@
 		}
 	},
 	{
-		"weight": 4,
+		"weight": 3,
 		"element": {
 		"element_type": "minecraft:single_pool_element",
 		"projection": "rigid",
@@ -21,11 +21,20 @@
 		}
 	},
 	{
-		"weight": 3,
+		"weight": 4,
 		"element": {
 		"element_type": "minecraft:single_pool_element",
 		"projection": "rigid",
 		"location": "lthc.advancenergy:tin_shed/tin_shed_3",
+		"processors": "minecraft:empty"
+		}
+	},
+	{
+		"weight": 5,
+		"element": {
+		"element_type": "minecraft:single_pool_element",
+		"projection": "rigid",
+		"location": "lthc.advancenergy:tin_shed/tin_shed_4",
 		"processors": "minecraft:empty"
 		}
 	},
@@ -39,7 +48,7 @@
 		}
 	},
 	{
-		"weight": 4,
+		"weight": 3,
 		"element": {
 		"element_type": "minecraft:single_pool_element",
 		"projection": "rigid",
@@ -48,7 +57,7 @@
 		}
 	},
 	{
-		"weight": 3,
+		"weight": 4,
 		"element": {
 		"element_type": "minecraft:single_pool_element",
 		"projection": "rigid",
@@ -57,11 +66,11 @@
 		}
 	},
 	{
-		"weight": 4,
+		"weight": 3,
 		"element": {
 		"element_type": "minecraft:single_pool_element",
 		"projection": "rigid",
-		"location": "lthc.advancenergy:tin_shed/tin_shed_br",
+		"location": "lthc.advancenergy:tin_shed/tin_shed_4_silv",
 		"processors": "minecraft:empty"
 		}
 	},
@@ -70,7 +79,7 @@
 		"element": {
 		"element_type": "minecraft:single_pool_element",
 		"projection": "rigid",
-		"location": "lthc.advancenergy:tin_shed/tin_shed_2_br",
+		"location": "lthc.advancenergy:tin_shed/tin_shed_br",
 		"processors": "minecraft:empty"
 		}
 	},
@@ -79,7 +88,25 @@
 		"element": {
 		"element_type": "minecraft:single_pool_element",
 		"projection": "rigid",
+		"location": "lthc.advancenergy:tin_shed/tin_shed_2_br",
+		"processors": "minecraft:empty"
+		}
+	},
+	{
+		"weight": 2,
+		"element": {
+		"element_type": "minecraft:single_pool_element",
+		"projection": "rigid",
 		"location": "lthc.advancenergy:tin_shed/tin_shed_3_br",
+		"processors": "minecraft:empty"
+		}
+	},
+	{
+		"weight": 1,
+		"element": {
+		"element_type": "minecraft:single_pool_element",
+		"projection": "rigid",
+		"location": "lthc.advancenergy:tin_shed/tin_shed_4_br",
 		"processors": "minecraft:empty"
 		}
 	}
