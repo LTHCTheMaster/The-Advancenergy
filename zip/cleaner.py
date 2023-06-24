@@ -1,38 +1,7 @@
-from datargsing import dGDM
-
-GDM = dGDM()
+import re
 
 def cleanjson(filein: str, fileout: str):
-    try:
-        tmp = GDM.get_from_json(filein, False)
-        if isinstance(tmp, dict):
-            GDM.set_to_json(fileout, tmp, False)
-        else:
-            cleanjsonarray(filein, fileout)
-    except:
-        hardcleanjson(filein, fileout)
-
-def cleanjsonarray(filein: str, fileout: str):
-    cur = open(fileout, 'w', encoding="utf-8")
-    content = eval(open(filein, 'r', encoding="utf-8").read().replace('true', 'True').replace('false', 'False').strip('\t'))
-    origin = str(content).replace('True', 'true').replace('False', 'false')
-    counter = 0
-    tmp = ""
-    for char in origin:
-        if char == '"':
-            counter += 1
-            counter %= 2
-        if char == "'" and counter == 1:
-            tmp += "'"
-        elif char == "'":
-            tmp += '"'
-        else:
-            tmp += char
-    cur.write(tmp)
-    del origin
-    del counter
-    del tmp
-    cur.close()
+    hardcleanjson(filein, fileout)
 
 def hardcleanjson(filein: str, fileout: str):
     file_in = open(filein, 'r', encoding="utf-8")
@@ -45,6 +14,23 @@ def hardcleanjson(filein: str, fileout: str):
 def cleanmcfunction(filein: str, fileout: str):
     file_in = open(filein, 'r', encoding="utf-8")
     content: str = '\n'.join(voidempty([i.strip('\t').strip(' ').strip('\n') for i in file_in.readlines() if not(i.strip('\t').strip(' ').strip('\n').startswith('#'))]))
+    file_in.close()
+    file_out = open(fileout, 'w', encoding="utf-8")
+    file_out.write(content)
+    file_out.close()
+
+def cleanvshfsh(filein: str, fileout: str):
+    file_in = open(filein, 'r', encoding="utf-8")
+    tmparray: list[str] = []
+    for i in file_in.readlines():
+        stripped_i: str = i.strip('\t').strip(' ').strip('\n')
+        if stripped_i.startswith('//') or stripped_i == '':
+            continue
+        elif stripped_i.startswith('#'):
+            tmparray.append(re.sub("\/\/[A-Za-z0-9\.=',_()\*\[\]\+\-\/ ]*", '', stripped_i)+'\n')
+        else:
+            tmparray.append(re.sub("\/\/[A-Za-z0-9\.=',_()\*\[\]\+\-\/ ]*", '', stripped_i))
+    content: str = ''.join(tmparray)
     file_in.close()
     file_out = open(fileout, 'w', encoding="utf-8")
     file_out.write(content)
@@ -64,3 +50,5 @@ def clean(filein: str, fileout: str):
         cleanjson(filein, fileout)
     elif tmp == 'mcfunction':
         cleanmcfunction(filein, fileout)
+    elif tmp in ('vsh', 'fsh'):
+        cleanvshfsh(filein, fileout)

@@ -1,10 +1,25 @@
 import zipfile
-from os import listdir, getcwd, remove, path
+from os import listdir, getcwd, remove, path as pt
 from copypaster import copypaste
 from deleter import removechain
+import threading
 
-BACKPATH = path.relpath('/'.join([i for i in getcwd().replace("\\", "/").split("/")[0:-1]])) + '/'
+BACKPATH = pt.relpath('/'.join([i for i in getcwd().replace("\\", "/").split("/")[0:-1]])) + '/'
 print(BACKPATH)
+
+class ZipppingThread (threading.Thread):
+	def __init__(self, threadID, name, path: str, zip_name: str, unwanted: list):
+		threading.Thread.__init__(self)
+		self.threadID = threadID
+		self.name = name
+		#####
+		self.path: str = path
+		self.zip_name: str = zip_name
+		self.unwanted: list = unwanted
+	def run(self):
+		copypaste(BACKPATH + self.path)
+		compress(zip_name = self.zip_name, unwanted=self.unwanted, path='zip/' + BACKPATH + self.path + '/')
+		removechain('zip/' + BACKPATH + self.path)
 
 def compress(zip_name:str = "", unwanted:list = [], path:str = "", is_first:bool = True, file:zipfile.ZipFile|None = None, init_path:str = ""):
 	if is_first:
@@ -30,9 +45,8 @@ def compress(zip_name:str = "", unwanted:list = [], path:str = "", is_first:bool
 	if is_first:
 		file.close()
 
-copypaste(BACKPATH + 'Datapack')
-copypaste(BACKPATH + 'Resourcepack')
-compress(zip_name = "TestDP", unwanted=["Resourcepack"], path='zip/' + BACKPATH + 'Datapack/')
-compress(zip_name = "TestRP", unwanted=["Datapack"], path='zip/' + BACKPATH + 'Resourcepack/')
-removechain('zip/' + BACKPATH + 'Datapack')
-removechain('zip/' + BACKPATH + 'Resourcepack')
+datapackThread = ZipppingThread(1, "Thread-Datapack", 'Datapack', 'TesDP', unwanted=["Resourcepack"])
+resourcepackThread = ZipppingThread(1, "Thread-Resourcepack", 'Resourcepack', 'TesRP', unwanted=["Datapack"])
+
+datapackThread.start()
+resourcepackThread.start()

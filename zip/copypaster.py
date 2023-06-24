@@ -20,4 +20,4 @@ def copypaste(folder: str):
 def isdir(dir: str) -> bool:
     return not (dir.split('.')[-1] in ('mcfunction', 'json', 'nbt', 'mcmeta', 'png', 'ogg', 'properties', 'fsh', 'vsh'))
 def isbin(dir: str) -> bool:
-    return dir.split('.')[-1] in ( 'nbt', 'png', 'ogg', 'properties', 'fsh', 'vsh')
+    return dir.split('.')[-1] in ( 'nbt', 'png', 'ogg', 'properties')
