@@ -17,6 +17,8 @@ class ZipppingThread (threading.Thread):
 		self.zip_name: str = zip_name
 		self.unwanted: list = unwanted
 	def run(self):
+		print(f"Start Thread {self.name} with ID {self.threadID}")
+		print("start copy")
 		copypaste(BACKPATH + self.path)
 		compress(zip_name = self.zip_name, unwanted=self.unwanted, path='zip/' + BACKPATH + self.path + '/')
 		removechain('zip/' + BACKPATH + self.path)
@@ -46,7 +48,7 @@ def compress(zip_name:str = "", unwanted:list = [], path:str = "", is_first:bool
 		file.close()
 
 datapackThread = ZipppingThread(1, "Thread-Datapack", 'Datapack', 'TesDP', unwanted=["Resourcepack"])
-resourcepackThread = ZipppingThread(1, "Thread-Resourcepack", 'Resourcepack', 'TesRP', unwanted=["Datapack"])
+resourcepackThread = ZipppingThread(2, "Thread-Resourcepack", 'Resourcepack', 'TesRP', unwanted=["Datapack"])
 
 datapackThread.start()
 resourcepackThread.start()
