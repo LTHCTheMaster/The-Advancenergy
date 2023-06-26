@@ -1,7 +1,15 @@
 from os import listdir, mkdir
 from cleaner import clean
 
-def copypaste(folder: str):
+def copypaste(folder: str) -> dict:
+    filed = open(f'zip/{folder}-dumpdir.txt', 'w')
+    filef = open(f'zip/{folder}-dumpfile.txt', 'w')
+    runcopypaste(folder, filef, filed)
+    filed.close()
+    filef.close()
+    return {"dir": [i.strip('\n') for i in open(f'zip/{folder}-dumpdir.txt', 'r').readlines() if i.strip('\n') != ''], "file": [i.strip('\n') for i in open(f'zip/{folder}-dumpfile.txt', 'r').readlines() if i.strip('\n') != '']}
+
+def runcopypaste(folder: str, filef, filed):
     if folder.split('.')[-1] == 'xcf' or '/manual.json' in folder:
         return
     if (isdir(folder)):
@@ -10,8 +18,10 @@ def copypaste(folder: str):
         except:
             pass
         for i in listdir(folder):
-            copypaste(folder + '/' + i)
+            runcopypaste(folder + '/' + i, filef, filed)
+        filed.write('zip/' + folder + '\n')
     else:
+        filef.write('zip/' + folder + '\n')
         if isbin(folder):
             open('zip/'+folder, 'wb').write(open(folder, 'rb').read())
         else:
