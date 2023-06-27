@@ -1,7 +1,7 @@
 {
 	"type": "minecraft:jigsaw",
 	"biomes": "#lthc.advancenergy:for_ore_rock",
-	"step": "surface_structures",
+	"step": "vegetal_decoration",
 	"spawn_overrides": {},
 	"terrain_adaptation": "beard_box",
 	"size": 6,
