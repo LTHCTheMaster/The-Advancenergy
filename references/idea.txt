@@ -3,11 +3,8 @@
 --- TODO
 
 --- Later
-	Aluminium :
-		Iron
-	Nickel:
-		Calcite
-		Aluminium
+	Aluminium
+	Nickel
 
 	Invar
 --- Later
