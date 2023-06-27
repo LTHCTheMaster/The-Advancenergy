@@ -1,0 +1,15 @@
+{
+	"name": "lthc.advancenergy:what",
+	"fallback": "minecraft:empty",
+	"elements": [
+	{
+		"weight": 1,
+		"element": {
+		"element_type": "minecraft:single_pool_element",
+		"projection": "terrain_matching",
+		"location": "lthc.advancenergy:what",
+		"processors": "minecraft:empty"
+		}
+	}
+	]
+}
