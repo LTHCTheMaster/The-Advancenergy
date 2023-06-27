@@ -24,11 +24,16 @@
 			"structure": "lthc.advancenergy:luck_tower",
 			"weight": 1
 		}
+		,
+		{
+			"structure": "lthc.advancenergy:not_so_many_coal",
+			"weight": 1
+		}
 	],
 	"placement": {
 		"type": "minecraft:random_spread",
 		"salt": 150003102,
-		"spacing": 82,
-		"separation": 62
+		"spacing": 83,
+		"separation": 63
 	}
 }

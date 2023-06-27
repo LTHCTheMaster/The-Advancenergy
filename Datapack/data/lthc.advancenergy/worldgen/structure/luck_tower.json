@@ -10,7 +10,7 @@
 					"type": "minecraft:goat",
 					"weight": 9,
 					"minCount": 1,
-					"maxCount": 3
+					"maxCount": 2
 				},
 				{
 					"type": "minecraft:phantom",
