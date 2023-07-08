@@ -26,6 +26,7 @@ execute if score #valid_item itemio.math matches 0 store success score #valid_it
 execute if score #valid_item itemio.math matches 0 store success score #valid_item itemio.math if data storage itemio:io item.tag.lthc_advancenergy.tin_source
 execute if score #valid_item itemio.math matches 0 store success score #valid_item itemio.math if data storage itemio:io item.tag.lthc_advancenergy.lead_source
 execute if score #valid_item itemio.math matches 0 store success score #valid_item itemio.math if data storage itemio:io item.tag.lthc_advancenergy.silver_source
+execute if score #valid_item itemio.math matches 0 store success score #valid_item itemio.math if data storage itemio:io item.tag.lthc_advancenergy.electrum_source
 execute if score #valid_item itemio.math matches 0 store success score #valid_item itemio.math if data storage itemio:io item.tag.ctc{from:"stoupy:simplenergy",traits:{"metal/simplunium":1b,"ore":1b}}
 execute if score #valid_item itemio.math matches 0 store success score #valid_item itemio.math if data storage itemio:io item.tag.mechanization{id:"raw_ender_alloy"}
 execute if score #valid_item itemio.math matches 0 store success score #valid_item itemio.math if data storage itemio:io item.tag.mechanization{id:"raw_nether_alloy"}

@@ -1,0 +1,19 @@
+{
+	"pools": [
+	{
+		"rolls": 1,
+		"entries": [
+		{
+			"type": "minecraft:loot_table",
+			"name": "lthc.advancenergy:i/materials/electrum/ingot",
+			"functions": [
+			{
+				"function": "minecraft:set_count",
+				"count": 9
+			}
+			]
+		}
+		]
+	}
+	]
+}

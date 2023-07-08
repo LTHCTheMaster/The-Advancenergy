@@ -127,5 +127,14 @@
 	"lthcthemaster.lthc.advancenergy.items.ash.sword": "Épée en Cendres",
 
 	"lthcthemaster.lthc.advancenergy.__comment.e": "Special Materials Translation",
-	"lthcthemaster.lthc.advancenergy.items.literal_dense_coal_block": "Bloc Dense Littéral de Charbon"
+	"lthcthemaster.lthc.advancenergy.items.literal_dense_coal_block": "Bloc Dense Littéral de Charbon",
+
+	"lthcthemaster.lthc.advancenergy.__comment.f": "Electrum Translation",
+	"lthcthemaster.lthc.advancenergy.items.electrum_ore": "Minerai d'Électrum",
+	"lthcthemaster.lthc.advancenergy.items.electrum_ore_deepslate": "Minerai d'Électrum des Abîmes",
+	"lthcthemaster.lthc.advancenergy.items.electrum_raw": "Électrum Brut",
+	"lthcthemaster.lthc.advancenergy.items.electrum_raw_block": "Bloc d'Électrum Brut",
+	"lthcthemaster.lthc.advancenergy.items.electrum_ingot": "Lingot d'Électrum",
+	"lthcthemaster.lthc.advancenergy.items.electrum_nugget": "Pépite d'Électrum",
+	"lthcthemaster.lthc.advancenergy.items.electrum_block": "Bloc d'Électrum"
 }

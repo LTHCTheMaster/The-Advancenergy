@@ -8,6 +8,7 @@
 	"deepslate_bricks",
 	"daylight_detector",
 	"mud_bricks",
-	"netherrack"
+	"netherrack",
+	"bone_block"
 	]
 }

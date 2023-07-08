@@ -1,5 +1,5 @@
 data modify storage energy:temp list set value []
-data modify storage energy:temp list append from entity @s Item
+data modify storage energy:temp list append from entity @s item
 execute store result storage energy:temp list[0].tag.energy.storage int 1 run scoreboard players get #storage lthc.advancenergy.data
 
 function lthc.advancenergy:custom/block/destroy/update_energy_lore

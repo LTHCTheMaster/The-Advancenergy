@@ -1,0 +1,6 @@
+{
+	"parent": "lthc.advancenergy:block_renderer",
+	"textures": {
+	"all": "lthc.advancenergy:block/materials/electrum/block"
+	}
+}

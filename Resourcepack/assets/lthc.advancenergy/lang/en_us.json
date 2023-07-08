@@ -127,5 +127,14 @@
 	"lthcthemaster.lthc.advancenergy.items.ash.sword": "Ash Sword",
 
 	"lthcthemaster.lthc.advancenergy.__comment.e": "Special Materials Translation",
-	"lthcthemaster.lthc.advancenergy.items.literal_dense_coal_block": "Literal Dense Block of Coal"
+	"lthcthemaster.lthc.advancenergy.items.literal_dense_coal_block": "Literal Dense Block of Coal",
+
+	"lthcthemaster.lthc.advancenergy.__comment.f": "Electrum Translation",
+	"lthcthemaster.lthc.advancenergy.items.electrum_ore": "Electrum Ore",
+	"lthcthemaster.lthc.advancenergy.items.electrum_ore_deepslate": "Deepslate Electrum Ore",
+	"lthcthemaster.lthc.advancenergy.items.electrum_raw": "Raw Electrum",
+	"lthcthemaster.lthc.advancenergy.items.electrum_raw_block": "Block of Raw Electrum",
+	"lthcthemaster.lthc.advancenergy.items.electrum_ingot": "Electrum Ingot",
+	"lthcthemaster.lthc.advancenergy.items.electrum_nugget": "Electrum Nugget",
+	"lthcthemaster.lthc.advancenergy.items.electrum_block": "Block of Electrum"
 }

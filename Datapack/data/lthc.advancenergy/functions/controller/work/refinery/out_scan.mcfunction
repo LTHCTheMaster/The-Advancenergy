@@ -2,7 +2,7 @@
 data modify storage lthc.advancenergy:main Items set from block ~ ~ ~ Items
 
 # Store the last saved refining recipes
-data modify storage lthc.advancenergy:main RefineryCurrent set from entity @s Item.tag.RefineryCurrent
+data modify storage lthc.advancenergy:main RefineryCurrent set from entity @s item.tag.RefineryCurrent
 
 # Use to avoid nbt test repetition
 scoreboard players set #already lthc.advancenergy.data 0
@@ -23,6 +23,7 @@ execute if score #already lthc.advancenergy.data matches 0 store success score #
 execute if score #already lthc.advancenergy.data matches 0 store success score #already lthc.advancenergy.data if data storage lthc.advancenergy:main RefineryCurrent."the_advancenergy/tin" run function lthc.advancenergy:controller/work/refinery/output/owned/tin
 execute if score #already lthc.advancenergy.data matches 0 store success score #already lthc.advancenergy.data if data storage lthc.advancenergy:main RefineryCurrent."the_advancenergy/lead" run function lthc.advancenergy:controller/work/refinery/output/owned/lead
 execute if score #already lthc.advancenergy.data matches 0 store success score #already lthc.advancenergy.data if data storage lthc.advancenergy:main RefineryCurrent."the_advancenergy/silver" run function lthc.advancenergy:controller/work/refinery/output/owned/silver
+execute if score #already lthc.advancenergy.data matches 0 store success score #already lthc.advancenergy.data if data storage lthc.advancenergy:main RefineryCurrent."the_advancenergy/electrum" run function lthc.advancenergy:controller/work/refinery/output/owned/electrum
 # SimplEnergy
 execute if score #already lthc.advancenergy.data matches 0 store success score #already lthc.advancenergy.data if data storage lthc.advancenergy:main RefineryCurrent."simplenergy/simplunium" run function lthc.advancenergy:controller/work/refinery/output/simplenergy_compatibility/simplunium
 # Mechanization
@@ -51,7 +52,7 @@ execute if score #already lthc.advancenergy.data matches 0 store success score #
 function #lthc.advancenergy:calls/refinery_output_scan
 
 # Reset the entity RefineryCurrent nbt data of the entity
-data modify entity @s Item.tag.RefineryCurrent set from storage lthc.advancenergy:main RefineryCurrent
+data modify entity @s item.tag.RefineryCurrent set from storage lthc.advancenergy:main RefineryCurrent
 
 # Clear storage for memory
 data remove storage lthc.advancenergy:main RefineryCurrent

@@ -26,6 +26,13 @@ data modify storage lthc.advancenergy:main REGISTRY.Items.170213 set value {Slot
 data modify storage lthc.advancenergy:main REGISTRY.Items.170214 set value {Slot:16b,id:"minecraft:command_block",Count:1b,tag:{ctc:{id:"silver_nugget",from:"lthc.advancenergy",traits:{"metal/silver":1b,"nugget":1b}},CustomModelData:170214,lthc_advancenergy:{silver_nugget:1b},display:{Lore:['{"translate":"lthcthemaster.lthc.advancenergy.lore.tooltip","color":"blue","italic":true}'],Name:'[{"translate":"lthcthemaster.lthc.advancenergy.items.silver_nugget","italic":false,"color":"#b3b6c0"}]'}}}
 # Silver Machine Casing
 data modify storage lthc.advancenergy:main REGISTRY.Items.170215 set value {Slot:16b,id:"minecraft:command_block",Count:1b,tag:{ctc:{id:"silver_machine_casing",from:"lthc.advancenergy",traits:{"metal/silver":1b,"casing":1b,"machine_casing":1b}},CustomModelData:170215,lthc_advancenergy:{silver_machine_casing:1b},display:{Lore:['{"translate":"lthcthemaster.lthc.advancenergy.lore.tooltip","color":"blue","italic":true}'],Name:'[{"translate":"lthcthemaster.lthc.advancenergy.items.silver_mc","italic":false,"color":"#b3b6c0"}]'}}}
+## Electrum
+# Raw Electrum
+data modify storage lthc.advancenergy:main REGISTRY.Items.170217 set value {Slot:16b,id:"minecraft:command_block",Count:1b,tag:{ctc:{id:"raw_electrum",from:"lthc.advancenergy",traits:{"metal/electrum":1b,"raw":1b}},CustomModelData:170217,lthc_advancenergy:{raw_electrum:1b, electrum_source:1b},display:{Lore:['{"translate":"lthcthemaster.lthc.advancenergy.lore.tooltip","color":"blue","italic":true}'],Name:'[{"translate":"lthcthemaster.lthc.advancenergy.items.electrum_raw","italic":false,"color":"#ebebeb"}]'}}}
+# Electrum Ingot
+data modify storage lthc.advancenergy:main REGISTRY.Items.170218 set value {Slot:16b,id:"minecraft:command_block",Count:1b,tag:{ctc:{id:"electrum_ingot",from:"lthc.advancenergy",traits:{"metal/electrum":1b,"ingot":1b}},CustomModelData:170218,lthc_advancenergy:{electrum_ingot:1b},display:{Lore:['{"translate":"lthcthemaster.lthc.advancenergy.lore.tooltip","color":"blue","italic":true}'],Name:'[{"translate":"lthcthemaster.lthc.advancenergy.items.electrum_ingot","italic":false,"color":"#ebebeb"}]'}}}
+# Electrum Nugget
+data modify storage lthc.advancenergy:main REGISTRY.Items.170219 set value {Slot:16b,id:"minecraft:command_block",Count:1b,tag:{ctc:{id:"electrum_nugget",from:"lthc.advancenergy",traits:{"metal/electrum":1b,"nugget":1b}},CustomModelData:170219,lthc_advancenergy:{electrum_nugget:1b},display:{Lore:['{"translate":"lthcthemaster.lthc.advancenergy.lore.tooltip","color":"blue","italic":true}'],Name:'[{"translate":"lthcthemaster.lthc.advancenergy.items.electrum_nugget","italic":false,"color":"#ebebeb"}]'}}}
 
 # 
 

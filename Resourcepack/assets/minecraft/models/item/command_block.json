@@ -18,6 +18,9 @@
 	{ "predicate": { "custom_model_data": 170214 }, "model": "lthc.advancenergy:ores/silver/nugget" },
 	{ "predicate": { "custom_model_data": 170215 }, "model": "lthc.advancenergy:ores/silver/machine_casing" },
 	{ "predicate": { "custom_model_data": 170216 }, "model": "lthc.advancenergy:materials/ash/ingot" },
+	{ "predicate": { "custom_model_data": 170217 }, "model": "lthc.advancenergy:materials/electrum/raw" },
+	{ "predicate": { "custom_model_data": 170218 }, "model": "lthc.advancenergy:materials/electrum/ingot" },
+	{ "predicate": { "custom_model_data": 170219 }, "model": "lthc.advancenergy:materials/electrum/nugget" },
 
 
 

@@ -36,6 +36,10 @@ barrel and glow_item_frame:
 	170234 : literal dense coal block
 	170235 : alloyer off
 	170236 : alloyer on
+	170237 : electrum ore
+	170238 : deepslate electrum ore
+	170239 : raw electrum block
+	170240 : electrum block
 
 command_block:
 	170200 : raw tin
@@ -55,6 +59,9 @@ command_block:
 	170214 : silver nugget
 	170215 : silver machine casing
 	170216 : ash ingot
+	170217 : raw electrum
+	170218 : electrum ingot
+	170219 : electrum nugget
 	179999 : The Advancenergy Icon
 
 leather_helmet:

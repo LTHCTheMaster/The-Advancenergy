@@ -4,3 +4,5 @@ execute if score #found furnace_nbt_recipes.data matches 0 store result score #f
 execute if score #found furnace_nbt_recipes.data matches 0 store result score #found furnace_nbt_recipes.data if data storage furnace_nbt_recipes:main input.tag.lthc_advancenergy{lead_source:1b} run loot replace block ~ ~ ~ container.3 loot lthc.advancenergy:i/ores/lead/ingot
 # Silver Ore, Deepslate Silver Ore, Raw Silver
 execute if score #found furnace_nbt_recipes.data matches 0 store result score #found furnace_nbt_recipes.data if data storage furnace_nbt_recipes:main input.tag.lthc_advancenergy{silver_source:1b} run loot replace block ~ ~ ~ container.3 loot lthc.advancenergy:i/ores/silver/ingot
+# Silver Ore, Deepslate Silver Ore, Raw Silver
+execute if score #found furnace_nbt_recipes.data matches 0 store result score #found furnace_nbt_recipes.data if data storage furnace_nbt_recipes:main input.tag.lthc_advancenergy{electrum_source:1b} run loot replace block ~ ~ ~ container.3 loot lthc.advancenergy:i/materials/electrum/ingot

@@ -14,3 +14,5 @@ execute if entity @s[tag=lthc.advancenergy.block.daylight_detector] unless block
 execute if entity @s[tag=lthc.advancenergy.cable] unless block ~ ~ ~ #lthc.advancenergy:player_heads run function lthc.advancenergy:custom/block/destroy/checking/check_player_head
 # Daylight Detector Based
 execute if entity @s[tag=lthc.advancenergy.block.netherrack] unless block ~ ~ ~ minecraft:netherrack run function lthc.advancenergy:custom/block/destroy/checking/check_netherrack
+# Bone Block Based
+execute if entity @s[tag=lthc.advancenergy.block.bone_block] unless block ~ ~ ~ minecraft:bone_block run function lthc.advancenergy:custom/block/destroy/checking/check_bone_block

@@ -1,0 +1,2 @@
+execute if score #ydaerla lthc.advancenergy.data matches 0 if data storage lthc.advancenergy:main Items[{Slot:16b,tag:{ctc:{id:"electrum_ingot"}}}] run function lthc.advancenergy:controller/work/alloyer/pre_work/silver_start_recipe_check/gold_combo_output_validate
+execute if score #ydaerla lthc.advancenergy.data matches 0 unless data storage lthc.advancenergy:main Items[{Slot:16b}] run function lthc.advancenergy:controller/work/alloyer/pre_work/silver_start_recipe_check/gold_combo_output_validate

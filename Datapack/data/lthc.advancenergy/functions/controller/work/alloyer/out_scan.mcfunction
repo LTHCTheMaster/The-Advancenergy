@@ -2,7 +2,7 @@
 data modify storage lthc.advancenergy:main Items set from block ~ ~ ~ Items
 
 # Store the last saved refining recipes
-data modify storage lthc.advancenergy:main AlloyerCurrent set from entity @s Item.tag.AlloyerCurrent
+data modify storage lthc.advancenergy:main AlloyerCurrent set from entity @s item.tag.AlloyerCurrent
 
 # Use to avoid nbt test repetition
 scoreboard players set #already lthc.advancenergy.data 0
@@ -13,9 +13,10 @@ execute if score #already lthc.advancenergy.data matches 0 store success score #
 # Custom Items
 execute if score #already lthc.advancenergy.data matches 0 store success score #already lthc.advancenergy.data if data storage lthc.advancenergy:main AlloyerCurrent."the_advancenergy/ash_ingot" run function lthc.advancenergy:controller/work/alloyer/output/ash
 execute if score #already lthc.advancenergy.data matches 0 store success score #already lthc.advancenergy.data if data storage lthc.advancenergy:main AlloyerCurrent."the_advancenergy/bronze" run function lthc.advancenergy:controller/work/alloyer/output/bronze
+execute if score #already lthc.advancenergy.data matches 0 store success score #already lthc.advancenergy.data if data storage lthc.advancenergy:main AlloyerCurrent."the_advancenergy/electrum" run function lthc.advancenergy:controller/work/alloyer/output/electrum
 
 # Reset the entity RefineryCurrent nbt data of the entity
-data modify entity @s Item.tag.AlloyerCurrent set from storage lthc.advancenergy:main AlloyerCurrent
+data modify entity @s item.tag.AlloyerCurrent set from storage lthc.advancenergy:main AlloyerCurrent
 
 # Clear storage for memory
 data remove storage lthc.advancenergy:main AlloyerCurrent

@@ -45,6 +45,10 @@ data modify storage lthc.advancenergy:main REFINERY.REGISTRY.the_advancenergy.le
 data modify storage lthc.advancenergy:main REFINERY.REGISTRY.the_advancenergy.silver.out1 set from storage lthc.advancenergy:main REGISTRY.Items.170213
 data modify storage lthc.advancenergy:main REFINERY.REGISTRY.the_advancenergy.silver.out1.Slot set value 14b
 data modify storage lthc.advancenergy:main REFINERY.REGISTRY.the_advancenergy.silver.out2 set from storage lthc.advancenergy:main REGISTRY.Items.170213
+# Electrum
+data modify storage lthc.advancenergy:main REFINERY.REGISTRY.the_advancenergy.electrum.out1 set from storage lthc.advancenergy:main REGISTRY.Items.170218
+data modify storage lthc.advancenergy:main REFINERY.REGISTRY.the_advancenergy.electrum.out1.Slot set value 14b
+data modify storage lthc.advancenergy:main REFINERY.REGISTRY.the_advancenergy.electrum.out2 set from storage lthc.advancenergy:main REGISTRY.Items.170218
 ## SimplEnergy
 execute if score SimplEnergy load.status matches 1090.. run function lthc.advancenergy:init/_intern/sub_parts/parts/refinery_registry/simplenergy_compatibility
 ## Crazy Adventure

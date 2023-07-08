@@ -5,4 +5,4 @@ execute if score #success lthc.advancenergy.data matches 1 store result storage 
 execute if score #success lthc.advancenergy.data matches 0 run data modify storage lthc.advancenergy:main Items append from storage lthc.advancenergy:main ALLOYER.REGISTRY.the_advancenergy.bronze.out
 
 # Reset the Storage
-data modify storage lthc.advancenergy:main RefineryCurrent set value {}
+data modify storage lthc.advancenergy:main AlloyerCurrent set value {}

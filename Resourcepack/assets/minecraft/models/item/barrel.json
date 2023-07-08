@@ -30,6 +30,10 @@
 	{ "predicate": { "custom_model_data": 170231 }, "model": "lthc.advancenergy:machine/barrel/aqueous_accumulator" },
 	{ "predicate": { "custom_model_data": 170232 }, "model": "lthc.advancenergy:machine/barrel/unleashed_carbon_generator" },
 	{ "predicate": { "custom_model_data": 170234 }, "model": "lthc.advancenergy:materials/barrel/literal_dense_coal_block" },
-	{ "predicate": { "custom_model_data": 170235 }, "model": "lthc.advancenergy:machine/barrel/alloyer" }
+	{ "predicate": { "custom_model_data": 170235 }, "model": "lthc.advancenergy:machine/barrel/alloyer" },
+	{ "predicate": { "custom_model_data": 170237 }, "model": "lthc.advancenergy:materials/barrel/electrum/ore" },
+	{ "predicate": { "custom_model_data": 170238 }, "model": "lthc.advancenergy:materials/barrel/electrum/deepslate_ore" },
+	{ "predicate": { "custom_model_data": 170239 }, "model": "lthc.advancenergy:materials/barrel/electrum/raw_block" },
+	{ "predicate": { "custom_model_data": 170240 }, "model": "lthc.advancenergy:materials/barrel/electrum/block" }
 	]
 }
