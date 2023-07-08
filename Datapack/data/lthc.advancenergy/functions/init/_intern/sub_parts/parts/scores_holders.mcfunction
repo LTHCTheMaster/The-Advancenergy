@@ -47,8 +47,10 @@ scoreboard players set #128 lthc.advancenergy.data 128
 scoreboard players set #100 lthc.advancenergy.data 100
 scoreboard players set #80 lthc.advancenergy.data 80
 scoreboard players set #64 lthc.advancenergy.data 64
+scoreboard players set #46 lthc.advancenergy.data 46
 scoreboard players set #37 lthc.advancenergy.data 37
 scoreboard players set #36 lthc.advancenergy.data 36
+scoreboard players set #18 lthc.advancenergy.data 18
 scoreboard players set #32 lthc.advancenergy.data 32
 scoreboard players set #16 lthc.advancenergy.data 16
 scoreboard players set #15 lthc.advancenergy.data 15

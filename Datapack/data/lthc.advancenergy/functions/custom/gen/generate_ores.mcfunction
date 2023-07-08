@@ -9,8 +9,9 @@ scoreboard players operation #min_height smart_ore_generation.data += #12 lthc.a
 scoreboard players operation #max_height smart_ore_generation.data = #min_height smart_ore_generation.data
 scoreboard players operation #max_height smart_ore_generation.data += #37 lthc.advancenergy.data
 execute if score #dimension smart_ore_generation.data matches 0 run function lthc.advancenergy:custom/gen/ores/tin_ore
+execute if score #dimension smart_ore_generation.data matches 0 if predicate lthc.advancenergy:luck/23_12 run scoreboard players operation #max_height smart_ore_generation.data += #18 lthc.advancenergy.data
 execute if score #dimension smart_ore_generation.data matches 0 run function lthc.advancenergy:custom/gen/ores/tin_ore
-execute if score #dimension smart_ore_generation.data matches 0 if predicate lthc.advancenergy:luck/50 run function lthc.advancenergy:custom/gen/ores/tin_ore
+execute if score #dimension smart_ore_generation.data matches 0 if predicate lthc.advancenergy:luck/50 run function lthc.advancenergy:custom/gen/ores/tin_ore_lucky
 
 # Generate Lead Ore (x2) in the overworld only
 scoreboard players operation #min_height smart_ore_generation.data = _OVERWORLD_BOTTOM smart_ore_generation.data
@@ -29,8 +30,7 @@ execute if score #dimension smart_ore_generation.data matches 0 run function lth
 execute if score #dimension smart_ore_generation.data matches 0 run function lthc.advancenergy:custom/gen/ores/silver_ore
 
 # It's time for custom pattern :) (in the overworld only)
-scoreboard players operation #min_height smart_ore_generation.data = _OVERWORLD_BOTTOM smart_ore_generation.data
-scoreboard players operation #min_height smart_ore_generation.data += #14 lthc.advancenergy.data
-scoreboard players operation #max_height smart_ore_generation.data = #min_height smart_ore_generation.data
-scoreboard players operation #max_height smart_ore_generation.data += #32 lthc.advancenergy.data
 execute if score #dimension smart_ore_generation.data matches 0 run function lthc.advancenergy:custom/gen/ores/pattern_ore
+
+# Generate silver Ore (x1) in the overworld only if you have luck
+execute if score #dimension smart_ore_generation.data matches 0 if predicate lthc.advancenergy:luck/19 run function lthc.advancenergy:custom/gen/ores/electrum
