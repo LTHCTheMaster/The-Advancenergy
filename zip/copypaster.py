@@ -10,7 +10,7 @@ def copypaste(folder: str) -> dict:
     return {"dir": [i.strip('\n') for i in open(f'zip/{folder}-dumpdir.txt', 'r').readlines() if i.strip('\n') != ''], "file": [i.strip('\n') for i in open(f'zip/{folder}-dumpfile.txt', 'r').readlines() if i.strip('\n') != '']}
 
 def runcopypaste(folder: str, filef, filed):
-    if folder.split('.')[-1] == 'xcf' or '/manual.json' in folder:
+    if isblacklisted(folder):
         return
     if (isdir(folder)):
         try:
@@ -31,3 +31,5 @@ def isdir(dir: str) -> bool:
     return not (dir.split('.')[-1] in ('mcfunction', 'json', 'nbt', 'mcmeta', 'png', 'ogg', 'properties', 'fsh', 'vsh'))
 def isbin(dir: str) -> bool:
     return dir.split('.')[-1] in ( 'nbt', 'png', 'ogg', 'properties')
+def isblacklisted(path: str) -> bool:
+    return path.split('.')[-1] == 'xcf' or '/manual.json' in path or 'update_block' in path

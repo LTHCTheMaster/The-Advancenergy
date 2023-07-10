@@ -5,7 +5,6 @@ from deleter import removechain
 import threading
 
 BACKPATH = pt.relpath('/'.join([i for i in getcwd().replace("\\", "/").split("/")[0:-1]])) + '/'
-print(BACKPATH)
 
 class ZipppingThread (threading.Thread):
 	def __init__(self, threadID, name, path: str, zip_name: str):
