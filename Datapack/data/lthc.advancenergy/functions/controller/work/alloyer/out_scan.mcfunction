@@ -10,6 +10,7 @@ scoreboard players set #already lthc.advancenergy.data 0
 ## Scan and output
 # Vanilla Items
 execute if score #already lthc.advancenergy.data matches 0 store success score #already lthc.advancenergy.data if data storage lthc.advancenergy:main AlloyerCurrent.glowstone run function lthc.advancenergy:controller/work/alloyer/output/glowstone
+execute if score #already lthc.advancenergy.data matches 0 store success score #already lthc.advancenergy.data if data storage lthc.advancenergy:main AlloyerCurrent.budding_amethyst run function lthc.advancenergy:controller/work/alloyer/output/budding_amethyst
 # Custom Items
 execute if score #already lthc.advancenergy.data matches 0 store success score #already lthc.advancenergy.data if data storage lthc.advancenergy:main AlloyerCurrent."the_advancenergy/ash_ingot" run function lthc.advancenergy:controller/work/alloyer/output/ash
 execute if score #already lthc.advancenergy.data matches 0 store success score #already lthc.advancenergy.data if data storage lthc.advancenergy:main AlloyerCurrent."the_advancenergy/bronze" run function lthc.advancenergy:controller/work/alloyer/output/bronze

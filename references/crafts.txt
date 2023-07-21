@@ -164,7 +164,8 @@ Alloyer:
 
 In The Alloyer:
 
-	Redstone     + Yellow Dye   => Glowstone Dust
-	Silver Ingot + Ash          => Ash Ingot
-	Silver Ingot + Gold Ingot   => Electrum Ingot
-	Tin Ingot    + Copper Ingot => Bronze Ingot
+	Redstone          + Yellow Dye                  => Glowstone Dust
+	Silver Ingot      + Ash                         => Ash Ingot
+	Silver Ingot      + Gold Ingot                  => Electrum Ingot
+	Tin Ingot         + Copper Ingot                => Bronze Ingot
+	Block of Electrum + Literal Dense Block of Coal => Budding Amethyst
