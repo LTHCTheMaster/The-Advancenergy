@@ -1,4 +1,4 @@
-scoreboard players set #valid_item itemio.math 0
+scoreboard players set #filter.valid_item itemio.io 0
 
-execute if score #valid_item itemio.math matches 0 store success score #valid_item itemio.math if data storage itemio:io item{id:"minecraft:coal"}
-execute if score #valid_item itemio.math matches 0 store success score #valid_item itemio.math if data storage itemio:io item{id:"minecraft:charcoal"}
+execute if score #filter.valid_item itemio.io matches 0 store success score #filter.valid_item itemio.io if data storage itemio:io item{id:"minecraft:coal"}
+execute if score #filter.valid_item itemio.io matches 0 store success score #filter.valid_item itemio.io if data storage itemio:io item{id:"minecraft:charcoal"}

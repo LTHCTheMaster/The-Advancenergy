@@ -9,7 +9,7 @@ scoreboard players set @s energy.storage 0
 scoreboard players add @s lthc.advancenergy.working 0
 scoreboard players add @s lthc.advancenergy.overheating 0
 
-data modify entity @s item set value {id:"glow_item_frame",Count:1b,tag:{CustomModelData:170209,itemio:{ioconfig:[{Slot:13b,mode:"input",allowed_side:{north:1b,south:1b,east:1b,west:1b,top:1b,bottom:1b},filter:{the_advancenergy:{dust_generator:1b}}}]}}}
+data modify entity @s item set value {id:"glow_item_frame",Count:1b,tag:{CustomModelData:170209,itemio:{ioconfig:[{Slot:13b,mode:"input",allowed_side:{north:1b,south:1b,east:1b,west:1b,top:1b,bottom:1b},filters:[{the_advancenergy:{dust_generator:1b}}]}]}}}
 
 #Call on a new machine to initialize its connections
 function energy:v1/api/init_machine
