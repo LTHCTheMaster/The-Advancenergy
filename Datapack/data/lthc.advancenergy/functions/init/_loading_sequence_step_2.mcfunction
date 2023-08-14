@@ -3,7 +3,7 @@ scoreboard objectives add lthc.advancenergy.data dummy
 
 # Check if it is the datapack first run or an update of the datapack
 execute unless score #lthc.advancenergy.first_run lthc.advancenergy.data matches 1 run function lthc.advancenergy:init/_intern/main
-execute if score #lthc.first_run lthc.advancenergy.data matches 1 unless score #lthc.advancenergy load.status matches 010000 run function lthc.advancenergy:init/_intern/update
+execute if score #lthc.advancenergy.first_run lthc.advancenergy.data matches 1 unless score #lthc.advancenergy load.status matches 010000 run function lthc.advancenergy:init/_intern/update
 
 # Summon a marker at the worldspawn for something
 execute as @e[type=marker,tag=lthc.advancenergy.loading_marker] run function lthc.advancenergy:utils/conventions/try_unload
