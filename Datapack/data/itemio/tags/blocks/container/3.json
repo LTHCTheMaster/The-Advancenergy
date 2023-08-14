@@ -1,8 +1,1 @@
-{
-	"__comment":"All 3 stack container of minecraft",
-	"values": [
-		"furnace",
-		"blast_furnace",
-		"smoker"
-	]
-}
+{"__comment":"All 3 stack container of minecraft","values":["furnace","blast_furnace","smoker"]}

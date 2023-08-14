@@ -1,11 +1,1 @@
-{
-	"values": [
-		"marker",
-		"#itemio:item_frames",
-		"armor_stand",
-		{"id":"item_display","required": false},
-		{"id":"interaction","required": false},
-		{"id":"block_display","required": false}
-		
-	]
-}
+{"values":["marker","#itemio:item_frames","armor_stand",{"id":"item_display","required":false},{"id":"interaction","required":false},{"id":"block_display","required":false}]}

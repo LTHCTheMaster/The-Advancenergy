@@ -1,5 +1,1 @@
-{
-	"values": [
-	"itemio:v0.5.4/calls/container/input/disable_servo"
-	]
-}
+{"values":["itemio:v0.7.1/calls/container/input/disable_servo"]}

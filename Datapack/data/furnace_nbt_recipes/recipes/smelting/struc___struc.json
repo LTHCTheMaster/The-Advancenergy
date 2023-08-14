@@ -1,7 +1,7 @@
 {
 	"type": "minecraft:smelting",
 	"ingredient": {
-	"item": "minecraft:structure_block"
+		"item": "minecraft:structure_block"
 	},
 	"result": "minecraft:structure_block",
 	"experience": 1.0,

@@ -1,7 +1,7 @@
 {
 	"type": "minecraft:smelting",
 	"ingredient": {
-	"tag": "furnace_nbt_recipes:tools/diamond"
+		"tag": "furnace_nbt_recipes:tools/diamond"
 	},
 	"result": "minecraft:command_block",
 	"experience": 1,
