@@ -1,27 +1,10 @@
-{'id': 'raw_tin', 'from': 'lthc.advancenergy"', 'traits': '"metal/tin":1b,"raw":1b'}
-{'id': 'tin_ingot', 'from': 'lthc.advancenergy"', 'traits': '"metal/tin":1b,"ingot":1b'}
-{'id': 'tin_nugget', 'from': 'lthc.advancenergy"', 'traits': '"metal/tin":1b,"nugget":1b'}
-{'id': 'raw_lead', 'from': 'lthc.advancenergy"', 'traits': '"metal/lead":1b,"raw":1b'}
-{'id': 'lead_ingot', 'from': 'lthc.advancenergy"', 'traits': '"metal/lead":1b,"ingot":1b'}
-{'id': 'lead_nugget', 'from': 'lthc.advancenergy"', 'traits': '"metal/lead":1b,"nugget":1b'}
-{'id': 'raw_silver', 'from': 'lthc.advancenergy"', 'traits': '"metal/silver":1b,"raw":1b'}
-{'id': 'silver_ingot', 'from': 'lthc.advancenergy"', 'traits': '"metal/silver":1b,"ingot":1b'}
-{'id': 'silver_nugget', 'from': 'lthc.advancenergy"', 'traits': '"metal/silver":1b,"nugget":1b'}
-{'id': 'raw_electrum', 'from': 'lthc.advancenergy"', 'traits': '"metal/electrum":1b,"raw":1b'}
-{'id': 'electrum_ingot', 'from': 'lthc.advancenergy"', 'traits': '"metal/electrum":1b,"ingot":1b'}
-{'id': 'electrum_nugget', 'from': 'lthc.advancenergy"', 'traits': '"metal/electrum":1b,"nugget":1b'}
-{'id': 'ash', 'from': 'lthc.advancenergy"', 'traits': '"dust":1b'}
-{'id': 'ash_ingot', 'from': 'lthc.advancenergy"', 'traits': '"metal/ash":1b,"ingot":1b'}
-{'id': 'bronze_ingot', 'from': 'lthc.advancenergy"', 'traits': '"metal/bronze":1b,"ingot":1b,"alloy":1b'}
-{'id': 'bronze_nugget', 'from': 'lthc.advancenergy"', 'traits': '"metal/bronze":1b,"nugget":1b,"alloy":1b'}
-{'id': 'raw_tin_block', 'from': 'lthc.advancenergy"', 'traits': '"metal/tin":1b,"block":1b, "packed":1b, "raw": 1b'}
-{'id': 'tin_block', 'from': 'lthc.advancenergy"', 'traits': '"metal/tin":1b,"block":1b, "packed":1b'}
-{'id': 'raw_lead_block', 'from': 'lthc.advancenergy"', 'traits': '"metal/lead":1b,"block":1b, "packed":1b, "raw": 1b'}
-{'id': 'lead_block', 'from': 'lthc.advancenergy"', 'traits': '"metal/lead":1b,"block":1b, "packed":1b'}
-{'id': 'raw_silver_block', 'from': 'lthc.advancenergy"', 'traits': '"metal/silver":1b,"block":1b, "packed":1b, "raw": 1b'}
-{'id': 'silver_block', 'from': 'lthc.advancenergy"', 'traits': '"metal/silver":1b,"block":1b, "packed":1b'}
-{'id': 'raw_electrum_block', 'from': 'lthc.advancenergy"', 'traits': '"metal/electrum":1b,"block":1b, "packed":1b, "raw": 1b'}
-{'id': 'electrum_block', 'from': 'lthc.advancenergy"', 'traits': '"metal/electrum":1b,"block":1b, "packed":1b'}
-{'id': 'ash_block', 'from': 'lthc.advancenergy"', 'traits': '"block":1b, "packed":1b'}
-{'id': 'bronze_block', 'from': 'lthc.advancenergy"', 'traits': '"metal/bronze":1b,"block":1b, "packed":1b'}
-{'id': 'literal_dense_coal_block', 'from': 'lthc.advancenergy"', 'traits': '"metal/bronze":1b,"block":1b, "packed":1b'}
+{'raw': {'id': 'raw_tin', 'from': 'lthc.advancenergy"', 'traits': '"metal/tin":1b,"raw":1b'}, 'raw_block': {'id': 'raw_tin_block', 'from': 'lthc.advancenergy"', 'traits': '"metal/tin":1b,"block":1b, "packed":1b, "raw": 1b'}}
+{'ingot': {'id': 'tin_ingot', 'from': 'lthc.advancenergy"', 'traits': '"metal/tin":1b,"ingot":1b'}, 'block': {'id': 'tin_block', 'from': 'lthc.advancenergy"', 'traits': '"metal/tin":1b,"block":1b, "packed":1b'}, 'nugget': {'id': 'tin_nugget', 'from': 'lthc.advancenergy"', 'traits': '"metal/tin":1b,"nugget":1b'}}
+{'raw': {'id': 'raw_lead', 'from': 'lthc.advancenergy"', 'traits': '"metal/lead":1b,"raw":1b'}, 'raw_block': {'id': 'raw_lead_block', 'from': 'lthc.advancenergy"', 'traits': '"metal/lead":1b,"block":1b, "packed":1b, "raw": 1b'}}
+{'ingot': {'id': 'lead_ingot', 'from': 'lthc.advancenergy"', 'traits': '"metal/lead":1b,"ingot":1b'}, 'block': {'id': 'lead_block', 'from': 'lthc.advancenergy"', 'traits': '"metal/lead":1b,"block":1b, "packed":1b'}, 'nugget': {'id': 'lead_nugget', 'from': 'lthc.advancenergy"', 'traits': '"metal/lead":1b,"nugget":1b'}}
+{'raw': {'id': 'raw_silver', 'from': 'lthc.advancenergy"', 'traits': '"metal/silver":1b,"raw":1b'}, 'raw_block': {'id': 'raw_silver_block', 'from': 'lthc.advancenergy"', 'traits': '"metal/silver":1b,"block":1b, "packed":1b, "raw": 1b'}}
+{'ingot': {'id': 'silver_ingot', 'from': 'lthc.advancenergy"', 'traits': '"metal/silver":1b,"ingot":1b'}, 'block': {'id': 'silver_block', 'from': 'lthc.advancenergy"', 'traits': '"metal/silver":1b,"block":1b, "packed":1b'}, 'nugget': {'id': 'silver_nugget', 'from': 'lthc.advancenergy"', 'traits': '"metal/silver":1b,"nugget":1b'}}
+{'raw': {'id': 'raw_electrum', 'from': 'lthc.advancenergy"', 'traits': '"metal/electrum":1b,"raw":1b'}, 'raw_block': {'id': 'raw_electrum_block', 'from': 'lthc.advancenergy"', 'traits': '"metal/electrum":1b,"block":1b, "packed":1b, "raw": 1b'}}
+{'ingot': {'id': 'electrum_ingot', 'from': 'lthc.advancenergy"', 'traits': '"metal/electrum":1b,"ingot":1b'}, 'block': {'id': 'electrum_block', 'from': 'lthc.advancenergy"', 'traits': '"metal/electrum":1b,"block":1b, "packed":1b'}, 'nugget': {'id': 'electrum_nugget', 'from': 'lthc.advancenergy"', 'traits': '"metal/electrum":1b,"nugget":1b'}}
+{'dust': {'id': 'ash', 'from': 'lthc.advancenergy"', 'traits': '"dust":1b'}, 'block': {'id': 'ash_block', 'from': 'lthc.advancenergy"', 'traits': '"block":1b, "packed":1b'}}
+{'ingot': {'id': 'bronze_ingot', 'from': 'lthc.advancenergy"', 'traits': '"metal/bronze":1b,"ingot":1b,"alloy":1b'}, 'block': {'id': 'bronze_block', 'from': 'lthc.advancenergy"', 'traits': '"metal/bronze":1b,"block":1b, "packed":1b'}, 'nugget': {'id': 'bronze_nugget', 'from': 'lthc.advancenergy"', 'traits': '"metal/bronze":1b,"nugget":1b,"alloy":1b'}}
