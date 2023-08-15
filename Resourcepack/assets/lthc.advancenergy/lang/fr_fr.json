@@ -136,5 +136,8 @@
 	"lthcthemaster.lthc.advancenergy.items.electrum_raw_block": "Bloc d'Électrum Brut",
 	"lthcthemaster.lthc.advancenergy.items.electrum_ingot": "Lingot d'Électrum",
 	"lthcthemaster.lthc.advancenergy.items.electrum_nugget": "Pépite d'Électrum",
-	"lthcthemaster.lthc.advancenergy.items.electrum_block": "Bloc d'Électrum"
+	"lthcthemaster.lthc.advancenergy.items.electrum_block": "Bloc d'Électrum",
+
+	"lthcthemaster.lthc.advancenergy.__comment.10": "Drawer Related Translation",
+	"lthcthemaster.lthc.advancenergy.drawers.tin": "Étain"
 }

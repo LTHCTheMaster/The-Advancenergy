@@ -136,5 +136,8 @@
 	"lthcthemaster.lthc.advancenergy.items.electrum_raw_block": "Block of Raw Electrum",
 	"lthcthemaster.lthc.advancenergy.items.electrum_ingot": "Electrum Ingot",
 	"lthcthemaster.lthc.advancenergy.items.electrum_nugget": "Electrum Nugget",
-	"lthcthemaster.lthc.advancenergy.items.electrum_block": "Block of Electrum"
+	"lthcthemaster.lthc.advancenergy.items.electrum_block": "Block of Electrum",
+
+	"lthcthemaster.lthc.advancenergy.__comment.10": "Drawer Related Translation",
+	"lthcthemaster.lthc.advancenergy.drawers.tin": "Tin"
 }

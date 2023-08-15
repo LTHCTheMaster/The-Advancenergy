@@ -2,6 +2,7 @@
 #define storage lthc.advancenergy:main
 #define storage smithed.crafter:main
 #define storage smithed.custom_block:main
+#define storage simpledrawer:io
 
 data remove storage lthc.advancenergy:main REGISTRY
 function #lthc.advancenergy:_intern/registry
