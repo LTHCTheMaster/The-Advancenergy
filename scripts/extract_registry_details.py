@@ -24,6 +24,8 @@ def materials(main: dict, can_correspond: list[dict]) -> dict:
     elif "dust" in main["traits"]:
         tmp["dust"] = main.copy()
         tmp["block"] = can_correspond[0].copy()
+    id_ = main["id"].replace("_ingot", "").replace("raw_", "")
+    tmp["material"] = '{material:"lthc_advancenergy.' + id_ + '",material_name:\'{"translate":"lthcthemaster.lthc.advancenergy.drawers.' + id_ + '"}\'}'
     return tmp
 
 # Define path
@@ -43,11 +45,13 @@ for i in PATHS:
                 if id_ == "ash_ingot": continue # Known skippable case
                 from_ = zeta.split('",from:"')[1].split(',traits:{')[0]
                 traits_ = zeta.split(',traits:{')[1].split('}},')[0]
+                storage_ = zeta.split('data modify storage ')[1].split(' set value {')[0]
                 if contains(("raw", "ingot", "nugget", "packed", "dust"), traits_):
                     materials_simple.append({
                         "id": id_,
                         "from": from_,
-                        "traits": traits_
+                        "traits": traits_,
+                        "storage": storage_
                     })
             except:
                 pass
@@ -79,5 +83,5 @@ for j, i in enumerate(materials_simple):
 # Save all details
 REFPATH = pt.relpath('/'.join([i for i in getcwd().replace("\\", "/").split("/")[0:-1]])) + '/references/material_list.txt'
 file = open(REFPATH, 'w')
-file.write('\n'.join(str(i) for i in materials_links))
+file.write('\n'.join(str(i).replace('\\','') for i in materials_links))
 file.close()
