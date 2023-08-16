@@ -23,7 +23,7 @@ for i in PATHS:
     with open(i, 'r') as register:
         for zeta in register.readlines():
             try:
-                id = zeta.split('tag:{ctc:{id:"')[1].split('",from:"')[0] + '\n'
+                id = zeta.split('tag:{ctc:{id:"')[1].split('",from:"')[0]
                 if 'bomb' in id: continue
                 file.write(id)
             except:
@@ -36,5 +36,5 @@ contents = file.readlines()
 file.close()
 contents.sort()
 file = open(REFPATH, 'w')
-file.write(''.join(contents))
+file.write('\n'.join(contents))
 file.close()
