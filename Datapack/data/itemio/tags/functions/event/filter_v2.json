@@ -1,6 +1,6 @@
 {
 	"values": [
-		"itemio:v0.7.1/calls/filters/repart",
+		"itemio:v0.7.2/calls/filters/repart",
 		"#lthc.advancenergy:libs/itemio/filters"
 	]
 }
