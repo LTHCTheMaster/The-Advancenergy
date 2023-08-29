@@ -12,4 +12,4 @@ data modify entity @s item set value {id:"glow_item_frame",Count:1b,tag:{CustomM
 #Call on a new machine to initialize its connections
 function #itemio:calls/container/init
 
-function lthc.advancenergy:controller/gui_manager/carbon_extractor
+function lthc.advancenergy:controller/gui/manager/carbon_extractor

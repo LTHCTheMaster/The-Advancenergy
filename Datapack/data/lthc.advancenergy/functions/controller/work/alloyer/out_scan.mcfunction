@@ -32,4 +32,4 @@ data remove storage lthc.advancenergy:main Items
 tag @s add lthc.advancenergy.just_end_process
 # Update the interface
 scoreboard players remove @s lthc.advancenergy.working 1
-function lthc.advancenergy:controller/gui_manager/alloyer
+function lthc.advancenergy:controller/gui/manager/alloyer
