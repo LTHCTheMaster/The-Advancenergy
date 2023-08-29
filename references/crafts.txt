@@ -76,7 +76,7 @@ Mineral Extracting Machine:
 	STD
 	III
 	- S: Sugar
-	- D: Sand/Red Sand/Soul Sand
+	- D: Sand/Red Sand/Soul Sand/Suspicious Sand
 	- T: Tin Machine Casing
 	- I: Iron Nugget
 
