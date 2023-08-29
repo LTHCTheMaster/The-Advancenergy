@@ -15,6 +15,6 @@ data modify entity @s item set value {id:"glow_item_frame",Count:1b,tag:{CustomM
 function energy:v1/api/init_machine
 function #itemio:calls/container/init
 
-function lthc.advancenergy:controller/gui_manager/dust_generator
+function lthc.advancenergy:controller/gui/manager/dust_generator
 
 execute positioned ~ ~1 ~ if entity @e[tag=lthc.advancenergy.is_ash_as_waste_generator,distance=..1] run advancement grant @p[tag=lthc.advancenergy.placer] only lthc.advancenergy:hidden_progress/be_logical
