@@ -1,1 +1,1 @@
-execute as @e[type=glow_item_frame,tag=lthc.advancenergy.destroyer] at @s run function lthc.advancenergy:_func/update_block/
+execute as @e[type=#lthc.advancenergy:updatable,tag=lthc.advancenergy.destroyer] at @s run function lthc.advancenergy:_func/update_block/
