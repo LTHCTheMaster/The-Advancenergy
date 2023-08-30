@@ -2,19 +2,19 @@
 	"structures": [
 		{
 			"structure": "lthc.advancenergy:ore_rock",
-			"weight": 170
+			"weight": 176
 		},
 		{
 			"structure": "lthc.advancenergy:tin_shed",
-			"weight": 160
+			"weight": 165
 		},
 		{
 			"structure": "lthc.advancenergy:lead_house",
-			"weight": 130
+			"weight": 133
 		},
 		{
 			"structure": "lthc.advancenergy:creeper_cage",
-			"weight": 90
+			"weight": 93
 		},
 		{
 			"structure": "lthc.advancenergy:rare_tin_shed",
@@ -22,11 +22,11 @@
 		},
 		{
 			"structure": "lthc.advancenergy:luck_tower",
-			"weight": 10
+			"weight": 11
 		},
 		{
 			"structure": "lthc.advancenergy:not_so_many_coal",
-			"weight": 10
+			"weight": 11
 		},
 		{
 			"structure": "lthc.advancenergy:what",
@@ -36,7 +36,7 @@
 	"placement": {
 		"type": "minecraft:random_spread",
 		"salt": 150003102,
-		"spacing": 83,
+		"spacing": 86,
 		"separation": 63
 	}
 }
