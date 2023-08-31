@@ -43,7 +43,7 @@
 		"shade": false
 	},
 	{
-		"from": [4, -4, 4],
+		"from": [4, 0, 4],
 		"to": [12, 16, 12],
 		"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
 		"faces": {
