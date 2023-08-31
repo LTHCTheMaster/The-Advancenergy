@@ -1,78 +1,78 @@
 {
-    "type": "chest",
-    "pools": [
-    {
-    "rolls": {
-    "type": "uniform",
-    "min": {
-        "type": "uniform",
-        "min": 5,
-        "max": 7
-    },
-    "max": 13
-    },
-    "entries": [
-    {
-    "type": "loot_table",
-    "name": "lthc.advancenergy:i/cables/primitive_cable",
-    "weight": 18
-    },
-    {
-    "type": "loot_table",
-    "name": "lthc.advancenergy:i/ores/tin/deepslate_ore",
-    "weight": 256,
-    "functions": [
-    {
-    "function": "set_count",
-    "count": {
-    "type": "binomial",
-    "n": 5,
-    "p": 0.625
-    }
-    }
-    ]
-    },
-    {
-    "type": "loot_table",
-    "name": "lthc.advancenergy:i/cables/advanced_cable",
-    "weight": 1
-    },
-    {
-    "type": "loot_table",
-    "name": "lthc.advancenergy:i/ores/lead/block",
-    "weight": 3
-    },
-    {
-    "type": "loot_table",
-    "name": "lthc.advancenergy:i/ores/silver/ingot",
-    "weight": 63,
-    "functions": [
-    {
-    "function": "set_count",
-    "count": {
-    "type": "uniform",
-    "min": 7,
-    "max": 14
-    }
-    }
-    ]
-    },
-    {
-    "type": "loot_table",
-    "name": "lthc.advancenergy:i/ores/tin/nugget",
-    "weight": 1024,
-    "functions": [
-    {
-    "function": "set_count",
-    "count": {
-    "type": "uniform",
-    "min": 11,
-    "max": 23
-    }
-    }
-    ]
-    }
-    ]
-    }
-    ]
-    }
+	"type": "chest",
+	"pools": [
+	{
+	"rolls": {
+	"type": "uniform",
+	"min": {
+		"type": "uniform",
+		"min": 5,
+		"max": 7
+	},
+	"max": 13
+	},
+	"entries": [
+	{
+	"type": "loot_table",
+	"name": "lthc.advancenergy:i/cables/primitive_cable",
+	"weight": 18
+	},
+	{
+	"type": "loot_table",
+	"name": "lthc.advancenergy:i/ores/tin/deepslate_ore",
+	"weight": 256,
+	"functions": [
+	{
+	"function": "set_count",
+	"count": {
+	"type": "binomial",
+	"n": 5,
+	"p": 0.625
+	}
+	}
+	]
+	},
+	{
+	"type": "loot_table",
+	"name": "lthc.advancenergy:i/cables/advanced_cable",
+	"weight": 1
+	},
+	{
+	"type": "loot_table",
+	"name": "lthc.advancenergy:i/ores/lead/block",
+	"weight": 3
+	},
+	{
+	"type": "loot_table",
+	"name": "lthc.advancenergy:i/ores/silver/ingot",
+	"weight": 63,
+	"functions": [
+	{
+	"function": "set_count",
+	"count": {
+	"type": "uniform",
+	"min": 7,
+	"max": 14
+	}
+	}
+	]
+	},
+	{
+	"type": "loot_table",
+	"name": "lthc.advancenergy:i/ores/tin/nugget",
+	"weight": 1024,
+	"functions": [
+	{
+	"function": "set_count",
+	"count": {
+	"type": "uniform",
+	"min": 11,
+	"max": 23
+	}
+	}
+	]
+	}
+	]
+	}
+	]
+	}

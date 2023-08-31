@@ -3,7 +3,7 @@
 #
 # @input	score : #max smart_ore_generation.data
 #
-# @output   score : #random smart_ore_generation.data
+# @output	score : #random smart_ore_generation.data
 #
 # Generate a random number between 0 and input (excluded)
 

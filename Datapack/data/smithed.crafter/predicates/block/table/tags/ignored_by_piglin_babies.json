@@ -1,11 +1,11 @@
 {
-    "condition": "minecraft:entity_properties",
-    "entity": "this",
-    "predicate": {
-        "equipment": {
-            "mainhand": {
-                "tag": "minecraft:ignored_by_piglin_babies"
-            }
-        }
-    }
+	"condition": "minecraft:entity_properties",
+	"entity": "this",
+	"predicate": {
+		"equipment": {
+			"mainhand": {
+				"tag": "minecraft:ignored_by_piglin_babies"
+			}
+		}
+	}
 }
