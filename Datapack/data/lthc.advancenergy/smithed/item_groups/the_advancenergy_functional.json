@@ -28,6 +28,54 @@
     {
       "type": "smithed:datapack_item_entry",
       "id": "lthc.advancenergy:cables/advanced_cable"
+    },
+    {
+      "type": "smithed:datapack_item_entry",
+      "id": "lthc.advancenergy:machine/carbon_generator"
+    },
+    {
+      "type": "smithed:datapack_item_entry",
+      "id": "lthc.advancenergy:machine/advanced_carbon_generator"
+    },
+    {
+      "type": "smithed:datapack_item_entry",
+      "id": "lthc.advancenergy:machine/unleashed_carbon_generator"
+    },
+    {
+      "type": "smithed:datapack_item_entry",
+      "id": "lthc.advancenergy:machine/dust_generator"
+    },
+    {
+      "type": "smithed:datapack_item_entry",
+      "id": "lthc.advancenergy:machine/potato_generator"
+    },
+    {
+      "type": "smithed:datapack_item_entry",
+      "id": "lthc.advancenergy:machine/solar_generator"
+    },
+    {
+      "type": "smithed:datapack_item_entry",
+      "id": "lthc.advancenergy:machine/mineral_extracting_machine"
+    },
+    {
+      "type": "smithed:datapack_item_entry",
+      "id": "lthc.advancenergy:machine/refinery"
+    },
+    {
+      "type": "smithed:datapack_item_entry",
+      "id": "lthc.advancenergy:machine/alloyer"
+    },
+    {
+      "type": "smithed:datapack_item_entry",
+      "id": "lthc.advancenergy:machine/cobblestone_farmer"
+    },
+    {
+      "type": "smithed:datapack_item_entry",
+      "id": "lthc.advancenergy:machine/aqueous_accumulator"
+    },
+    {
+      "type": "smithed:datapack_item_entry",
+      "id": "lthc.advancenergy:machine/carbon_extractor"
     }
   ]
 }
