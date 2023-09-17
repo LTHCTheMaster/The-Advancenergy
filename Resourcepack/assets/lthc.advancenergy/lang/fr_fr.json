@@ -139,5 +139,16 @@
 	"lthcthemaster.lthc.advancenergy.items.electrum_block": "Bloc d'Électrum",
 
 	"lthcthemaster.lthc.advancenergy.__comment.10": "Drawer Related Translation",
-	"lthcthemaster.lthc.advancenergy.drawers.tin": "Étain"
+	"lthcthemaster.lthc.advancenergy.drawers.tin": "Étain",
+
+	"lthcthemaster.lthc.advancenergy.__comment.11": "Origins (mod) Related Translation",
+	"origin.lthc.advancenergy.energy_mage.name": "Mage d'Énergie",
+	"origin.lthc.advancenergy.energy_mage.description": "Cette origine a été conçue pour ceux qui aiment utilitaires et challenge",
+	"layer.lthc.advancenergy.origin.name": "\"Origine Avancée\"",
+	"power.lthc.advancenergy.challenge/life.name": "La Vie Vient de la Mort",
+	"power.lthc.advancenergy.challenge/life.description": "Perd de la vie max quand tu es hors du Nether ou de l'End",
+	"power.lthc.advancenergy.challenge/speed.name": "Ne Cours Pas",
+	"power.lthc.advancenergy.challenge/speed.description": "Pourquoi veux-tu courrir ?",
+	"power.lthc.advancenergy.utilities/master_tin_smelter.name": "Master Tin Smelter",
+	"power.lthc.advancenergy.utilities/master_tin_smelter.description": "Utilise un charbon sur un étain brut dans ton inventaire pour obtenir 10 pépites d'étain sans perdre de temps et sans perdre ton charbon"
 }

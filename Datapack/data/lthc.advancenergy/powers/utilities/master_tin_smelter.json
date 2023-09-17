@@ -1,0 +1,34 @@
+{
+    "type": "origins:item_on_item",
+    "on_item_condition": {
+        "type": "origins:and",
+        "conditions": [
+            {
+                "type": "origins:nbt",
+                "nbt": "{ctc:{id:\"raw_tin\",from:\"lthc.advancenergy\"}}"
+            },
+            {
+                "type": "origins:ingredient",
+                "ingredient": {
+                    "item": "minecraft:command_block"
+                }
+            }
+        ]
+    },
+    "using_item_condition": {
+        "type": "origins:ingredient",
+        "ingredient": {
+            "item": "minecraft:coal"
+        }
+    },
+    "result_from_on_stack": 1,
+    "on_item_action": {
+        "type": "origins:consume",
+        "amount": 1
+    },
+    "result": {
+        "item": "minecraft:command_block",
+        "tag": "{ctc:{id:\"tin_nugget\",from:\"lthc.advancenergy\",traits:{\"metal/tin\":1b,\"nugget\":1b}},CustomModelData:170202,lthc_advancenergy:{tin_nugget:1b},display:{Lore:['{\"translate\":\"lthcthemaster.lthc.advancenergy.lore.tooltip\",\"color\":\"blue\",\"italic\":true}'],Name:'[{\"translate\":\"lthcthemaster.lthc.advancenergy.items.tin_nugget\",\"italic\":false,\"color\":\"#ebebeb\"}]'}}",
+        "amount": 10
+    }
+}

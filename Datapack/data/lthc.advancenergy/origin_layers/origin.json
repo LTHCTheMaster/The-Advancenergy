@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "origins": [
+        "lthc.advancenergy:energy_mage",
+        "origins:human"
+    ]
+}

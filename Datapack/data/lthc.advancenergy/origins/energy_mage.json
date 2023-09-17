@@ -1,0 +1,10 @@
+{
+    "powers": [
+        "lthc.advancenergy:challenge/life",
+        "lthc.advancenergy:challenge/speed",
+        "lthc.advancenergy:utilities/master_tin_smelter"
+    ],
+    "icon": "minecraft:lightning_rod",
+    "order": 4,
+    "impact": 1
+}

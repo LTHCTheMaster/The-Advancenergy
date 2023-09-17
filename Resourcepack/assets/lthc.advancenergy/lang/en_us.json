@@ -139,5 +139,16 @@
 	"lthcthemaster.lthc.advancenergy.items.electrum_block": "Block of Electrum",
 
 	"lthcthemaster.lthc.advancenergy.__comment.10": "Drawer Related Translation",
-	"lthcthemaster.lthc.advancenergy.drawers.tin": "Tin"
+	"lthcthemaster.lthc.advancenergy.drawers.tin": "Tin",
+
+	"lthcthemaster.lthc.advancenergy.__comment.11": "Origins (mod) Related Translation",
+	"origin.lthc.advancenergy.energy_mage.name": "Energy Mage",
+	"origin.lthc.advancenergy.energy_mage.description": "This origin was designed for people who love utilities and challenge",
+	"layer.lthc.advancenergy.origin.name": "\"Advanced Origin\"",
+	"power.lthc.advancenergy.challenge/life.name": "Life From Death",
+	"power.lthc.advancenergy.challenge/life.description": "Lose some max health when you are outside of the Nether or the End",
+	"power.lthc.advancenergy.challenge/speed.name": "Don't Sprint",
+	"power.lthc.advancenergy.challenge/speed.description": "Why do you want to sprint ?",
+	"power.lthc.advancenergy.utilities/master_tin_smelter.name": "Master Tin Smelter",
+	"power.lthc.advancenergy.utilities/master_tin_smelter.description": "Use a coal on a raw tin in your inventory and get 10 tin nugget without losing your time and your coal"
 }

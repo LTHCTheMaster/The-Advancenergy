@@ -1,0 +1,25 @@
+{
+    "type": "origins:conditioned_attribute",
+    "modifier": {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "addition",
+        "value": -4,
+        "name": "Decrease max health"
+    },
+    "tick_rate": 20,
+    "condition": {
+        "type": "origins:and",
+        "conditions": [
+            {
+                "type": "origins:dimension",
+                "dimension": "minecraft:the_nether",
+                "inverted": true
+            },
+            {
+                "type": "origins:dimension",
+                "dimension": "minecraft:the_end",
+                "inverted": true
+            }
+        ]
+    }
+}
