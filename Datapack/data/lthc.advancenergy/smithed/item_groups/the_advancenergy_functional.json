@@ -1,0 +1,33 @@
+{
+  "operation": "smithed:create",
+  "id": "lthc.advancenergy.functional",
+  "icon" : {
+    "type" : "smithed:item_entry",
+    "item" : {
+      "id" : "minecraft:command_block",
+      "tag": {
+        "CustomModelData": 179999
+      },
+      "Count": 1
+    }
+  },
+  "display_name" : {
+    "text" : "The Advancenergy: Functional",
+    "color" : "white"
+  },
+  "texture" :  "",
+  "entries" : [
+    {
+      "type": "smithed:datapack_item_entry",
+      "id": "lthc.advancenergy:cables/primitive_cable"
+    },
+    {
+      "type": "smithed:datapack_item_entry",
+      "id": "lthc.advancenergy:capacitors/primitive_capacitor"
+    },
+    {
+      "type": "smithed:datapack_item_entry",
+      "id": "lthc.advancenergy:cables/advanced_cable"
+    }
+  ]
+}

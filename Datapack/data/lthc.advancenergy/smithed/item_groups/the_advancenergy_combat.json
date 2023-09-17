@@ -1,0 +1,141 @@
+{
+  "operation": "smithed:create",
+  "id": "lthc.advancenergy.combat",
+  "icon" : {
+    "type" : "smithed:item_entry",
+    "item" : {
+      "id" : "minecraft:command_block",
+      "tag": {
+        "CustomModelData": 179999
+      },
+      "Count": 1
+    }
+  },
+  "display_name" : {
+    "text" : "The Advancenergy: Combat",
+    "color" : "white"
+  },
+  "texture" :  "",
+  "entries" : [
+    {
+      "type": "smithed:datapack_item_entry",
+      "id": "lthc.advancenergy:equipments/ash/sword"
+    },
+    {
+      "type": "smithed:datapack_item_entry",
+      "id": "lthc.advancenergy:equipments/bronze/sword"
+    },
+    {
+      "type": "smithed:datapack_item_entry",
+      "id": "lthc.advancenergy:equipments/lead/sword"
+    },
+    {
+      "type": "smithed:datapack_item_entry",
+      "id": "lthc.advancenergy:equipments/silver/sword"
+    },
+    {
+      "type": "smithed:datapack_item_entry",
+      "id": "lthc.advancenergy:equipments/tin/sword"
+    },
+    {
+      "type": "smithed:datapack_item_entry",
+      "id": "lthc.advancenergy:equipments/ash/axe"
+    },
+    {
+      "type": "smithed:datapack_item_entry",
+      "id": "lthc.advancenergy:equipments/bronze/axe"
+    },
+    {
+      "type": "smithed:datapack_item_entry",
+      "id": "lthc.advancenergy:equipments/lead/axe"
+    },
+    {
+      "type": "smithed:datapack_item_entry",
+      "id": "lthc.advancenergy:equipments/silver/axe"
+    },
+    {
+      "type": "smithed:datapack_item_entry",
+      "id": "lthc.advancenergy:equipments/tin/axe"
+    },
+    {
+      "type": "smithed:datapack_item_entry",
+      "id": "lthc.advancenergy:equipments/ash/helmet"
+    },
+    {
+      "type": "smithed:datapack_item_entry",
+      "id": "lthc.advancenergy:equipments/ash/chestplate"
+    },
+    {
+      "type": "smithed:datapack_item_entry",
+      "id": "lthc.advancenergy:equipments/ash/leggings"
+    },
+    {
+      "type": "smithed:datapack_item_entry",
+      "id": "lthc.advancenergy:equipments/ash/boots"
+    },
+    {
+      "type": "smithed:datapack_item_entry",
+      "id": "lthc.advancenergy:equipments/bronze/helmet"
+    },
+    {
+      "type": "smithed:datapack_item_entry",
+      "id": "lthc.advancenergy:equipments/bronze/chestplate"
+    },
+    {
+      "type": "smithed:datapack_item_entry",
+      "id": "lthc.advancenergy:equipments/bronze/leggings"
+    },
+    {
+      "type": "smithed:datapack_item_entry",
+      "id": "lthc.advancenergy:equipments/bronze/boots"
+    },
+    {
+      "type": "smithed:datapack_item_entry",
+      "id": "lthc.advancenergy:equipments/lead/helmet"
+    },
+    {
+      "type": "smithed:datapack_item_entry",
+      "id": "lthc.advancenergy:equipments/lead/chestplate"
+    },
+    {
+      "type": "smithed:datapack_item_entry",
+      "id": "lthc.advancenergy:equipments/lead/leggings"
+    },
+    {
+      "type": "smithed:datapack_item_entry",
+      "id": "lthc.advancenergy:equipments/lead/boots"
+    },
+    {
+      "type": "smithed:datapack_item_entry",
+      "id": "lthc.advancenergy:equipments/silver/helmet"
+    },
+    {
+      "type": "smithed:datapack_item_entry",
+      "id": "lthc.advancenergy:equipments/silver/chestplate"
+    },
+    {
+      "type": "smithed:datapack_item_entry",
+      "id": "lthc.advancenergy:equipments/silver/leggings"
+    },
+    {
+      "type": "smithed:datapack_item_entry",
+      "id": "lthc.advancenergy:equipments/silver/boots"
+    },
+    {
+      "type": "smithed:datapack_item_entry",
+      "id": "lthc.advancenergy:equipments/tin/helmet"
+    },
+    {
+      "type": "smithed:datapack_item_entry",
+      "id": "lthc.advancenergy:equipments/tin/chestplate"
+    },
+    {
+      "type": "smithed:datapack_item_entry",
+      "id": "lthc.advancenergy:equipments/tin/leggings"
+    },
+    {
+      "type": "smithed:datapack_item_entry",
+      "id": "lthc.advancenergy:equipments/tin/boots"
+    }
+  ]
+}

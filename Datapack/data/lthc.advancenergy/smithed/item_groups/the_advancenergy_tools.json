@@ -1,0 +1,101 @@
+{
+  "operation": "smithed:create",
+  "id": "lthc.advancenergy.tools",
+  "icon" : {
+    "type" : "smithed:item_entry",
+    "item" : {
+      "id" : "minecraft:command_block",
+      "tag": {
+        "CustomModelData": 179999
+      },
+      "Count": 1
+    }
+  },
+  "display_name" : {
+    "text" : "The Advancenergy: Tools",
+    "color" : "white"
+  },
+  "texture" :  "",
+  "entries" : [
+    {
+      "type": "smithed:datapack_item_entry",
+      "id": "lthc.advancenergy:equipments/ash/shovel"
+    },
+    {
+      "type": "smithed:datapack_item_entry",
+      "id": "lthc.advancenergy:equipments/ash/pickaxe"
+    },
+    {
+      "type": "smithed:datapack_item_entry",
+      "id": "lthc.advancenergy:equipments/ash/axe"
+    },
+    {
+      "type": "smithed:datapack_item_entry",
+      "id": "lthc.advancenergy:equipments/ash/hoe"
+    },
+    {
+      "type": "smithed:datapack_item_entry",
+      "id": "lthc.advancenergy:equipments/bronze/shovel"
+    },
+    {
+      "type": "smithed:datapack_item_entry",
+      "id": "lthc.advancenergy:equipments/bronze/pickaxe"
+    },
+    {
+      "type": "smithed:datapack_item_entry",
+      "id": "lthc.advancenergy:equipments/bronze/axe"
+    },
+    {
+      "type": "smithed:datapack_item_entry",
+      "id": "lthc.advancenergy:equipments/bronze/hoe"
+    },
+    {
+      "type": "smithed:datapack_item_entry",
+      "id": "lthc.advancenergy:equipments/lead/shovel"
+    },
+    {
+      "type": "smithed:datapack_item_entry",
+      "id": "lthc.advancenergy:equipments/lead/pickaxe"
+    },
+    {
+      "type": "smithed:datapack_item_entry",
+      "id": "lthc.advancenergy:equipments/lead/axe"
+    },
+    {
+      "type": "smithed:datapack_item_entry",
+      "id": "lthc.advancenergy:equipments/lead/hoe"
+    },
+    {
+      "type": "smithed:datapack_item_entry",
+      "id": "lthc.advancenergy:equipments/silver/shovel"
+    },
+    {
+      "type": "smithed:datapack_item_entry",
+      "id": "lthc.advancenergy:equipments/silver/pickaxe"
+    },
+    {
+      "type": "smithed:datapack_item_entry",
+      "id": "lthc.advancenergy:equipments/silver/axe"
+    },
+    {
+      "type": "smithed:datapack_item_entry",
+      "id": "lthc.advancenergy:equipments/silver/hoe"
+    },
+    {
+      "type": "smithed:datapack_item_entry",
+      "id": "lthc.advancenergy:equipments/tin/shovel"
+    },
+    {
+      "type": "smithed:datapack_item_entry",
+      "id": "lthc.advancenergy:equipments/tin/pickaxe"
+    },
+    {
+      "type": "smithed:datapack_item_entry",
+      "id": "lthc.advancenergy:equipments/tin/axe"
+    },
+    {
+      "type": "smithed:datapack_item_entry",
+      "id": "lthc.advancenergy:equipments/tin/hoe"
+    }
+  ]
+}
